@@ -24,6 +24,12 @@ The annotation file in `data/annotations/` is formatted as follows:
   "entity_list":[{"text":, "ideology":, "id":, "events":[]}...]
 }
 ```
+`source` is the media outlet of the article.
+
+`media_ieology` is the ideology of the media outlet.
+
+`remove` is the field that indicates whether the event is removed by annotators.
+
 The data JSON file in `data` is formatted as follows:
 ```
 {
