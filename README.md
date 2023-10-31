@@ -33,3 +33,19 @@ The data JSON file in `data` is formatted as follows:
 ## Updates ##
 - **(10/31)**: Initial Data Release
 - **In Progress**: Release individual annotations and merge entity annotations
+
+## Citation
+Please cite our paper if you find our dataset useful:
+```
+@inproceedings{zou-etal-2023-crossing,
+    title = "Crossing the Aisle: Unveiling Partisan and Counter-Partisan Events in News Reporting",
+    author = "Zou, Kaijian
+      Zhang, Xinliang Frederick and
+      Wu, Winston and
+      Beauchamp, Nicholas  and
+      Wang, Lu",
+    booktitle = "Findings of the 2023 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2023",
+    year = "2023",
+    publisher = "Association for Computational Linguistics",
+}
+```
