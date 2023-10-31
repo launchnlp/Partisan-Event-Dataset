@@ -30,6 +30,6 @@ The data JSON file in `data` is formatted as follows:
   "story_id": [article_1, article_2],...
 }
 ```
-##Updates##
+## Updates ##
 - **(10/31)**: Initial Data Release
 - **In Progress**: Release individual annotations and merge entity annotations
