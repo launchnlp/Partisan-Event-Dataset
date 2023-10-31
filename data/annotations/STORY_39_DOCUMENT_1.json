@@ -1,0 +1,608 @@
+{
+    "title": "Will the Supreme Court Let Trump Hide His Tax Returns? - The New York Times",
+    "date": "2020-05-13",
+    "topic": "tax",
+    "source": "New York Times (Opinion)",
+    "media_ideology": "Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "On Tuesday, lawyers for President Trump appeared before the Supreme Court (hearing arguments again by telephone conference) to assert the claim that the nation\u2019s chief executive is unaccountable to Congress or law enforcement authorities \u2014 that he is, in short, above the law."
+        },
+        {
+            "id": 1,
+            "text": "The lawyers were trying to block three congressional committees and the Manhattan district attorney from getting access to years of Mr. Trump\u2019s tax returns and other financial records, as well as those of his family members and companies."
+        },
+        {
+            "id": 2,
+            "text": "The House committees said they subpoenaed those records to help them address concerns over Mr. Trump\u2019s possible conflicts of interest and to consider legislation relating to government ethics, banking and foreign interference in elections."
+        },
+        {
+            "id": 3,
+            "text": "The Manhattan district attorney, Cyrus R. Vance Jr., issued his own subpoena as part of what appears to be an investigation into possible campaign-finance violations by Mr. Trump and his aides both before and after he became president."
+        },
+        {
+            "id": 4,
+            "text": "It\u2019s useful to remember that these cases might not have been necessary if Mr. Trump hadn\u2019t broken one of his first promises to the American people four years ago."
+        },
+        {
+            "id": 5,
+            "text": "Back in 2016, candidate Trump said he would be happy to share his tax returns with the public, as every major candidate for president had done without hesitation for four decades."
+        },
+        {
+            "id": 6,
+            "text": "The only problem, Mr. Trump claimed, was that he was under audit \u2014 remember the audit? \u2014 and so he couldn\u2019t share his returns at the moment."
+        },
+        {
+            "id": 7,
+            "text": "But soon, he promised."
+        }
+    ],
+    "id": "STORY_39_DOCUMENT_1",
+    "old_id": "4545_2",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "appeared",
+            "sentence_id": 0,
+            "start": 40,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "hearing",
+            "sentence_id": 0,
+            "start": 75,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "arguments",
+            "sentence_id": 0,
+            "start": 83,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "conference",
+            "sentence_id": 0,
+            "start": 112,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "assert",
+            "sentence_id": 0,
+            "start": 127,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "the nation\u2019s chief executive is unaccountable to Congress",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "lawyers for President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 5,
+            "token": "trying",
+            "sentence_id": 1,
+            "start": 17,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "block",
+            "sentence_id": 1,
+            "start": 27,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "lawyers for President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "getting",
+            "sentence_id": 1,
+            "start": 105,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 21,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "subpoenaed",
+            "sentence_id": 2,
+            "start": 31,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "help",
+            "sentence_id": 2,
+            "start": 59,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "address",
+            "sentence_id": 2,
+            "start": 69,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "House Committee on Oversight and Reform",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "conflicts of interest",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "consider",
+            "sentence_id": 2,
+            "start": 141,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "House Committee on Oversight and Reform",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "legislation",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "issued",
+            "sentence_id": 3,
+            "start": 53,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "appears",
+            "sentence_id": 3,
+            "start": 93,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "investigation",
+            "sentence_id": 3,
+            "start": 110,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "violations",
+            "sentence_id": 3,
+            "start": 155,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "campaign-finance",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "Mr. Trump and his aides",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 17,
+            "token": "became",
+            "sentence_id": 3,
+            "start": 218,
+            "end": 224,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "remember",
+            "sentence_id": 4,
+            "start": 15,
+            "end": 23,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "necessary",
+            "sentence_id": 4,
+            "start": 61,
+            "end": 70,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "broken",
+            "sentence_id": 4,
+            "start": 91,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "promises to the American people",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 21,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "happy",
+            "sentence_id": 5,
+            "start": 47,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "share",
+            "sentence_id": 5,
+            "start": 56,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "tax returns",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 24,
+            "token": "done",
+            "sentence_id": 5,
+            "start": 138,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "every major candidate for president",
+                    "ideology": "Uncertain",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "claimed",
+            "sentence_id": 6,
+            "start": 28,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "share",
+            "sentence_id": 6,
+            "start": 108,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "promised",
+            "sentence_id": 7,
+            "start": 13,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "tax returns",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Donald Trump",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                4,
+                16,
+                20,
+                23,
+                27
+            ]
+        },
+        {
+            "text": "the nation\u2019s chief executive is unaccountable to Congress",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "House Committee on Oversight and Reform",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                11,
+                12
+            ]
+        },
+        {
+            "text": "conflicts of interest",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "legislation",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                12
+            ]
+        },
+        {
+            "text": "campaign-finance",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                16
+            ]
+        },
+        {
+            "text": "promises to the American people",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                20
+            ]
+        },
+        {
+            "text": "tax returns",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                23,
+                27
+            ]
+        },
+        {
+            "text": "lawyers for President Trump",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                4,
+                6
+            ]
+        },
+        {
+            "text": "President Trump",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                4,
+                20,
+                24,
+                26
+            ]
+        },
+        {
+            "text": "Mr. Trump and his aides",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                16
+            ]
+        },
+        {
+            "text": "every major candidate for president",
+            "ideology": "Uncertain",
+            "id": 11,
+            "events": [
+                24
+            ]
+        }
+    ]
+}

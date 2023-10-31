@@ -1,0 +1,1423 @@
+{
+    "title": "No, Delta doesn\u2019t mean the vaccinated \u2014 or children \u2014 need to mask up again",
+    "date": "2021-07-21",
+    "topic": "coronavirus",
+    "source": "New York Post (Opinion)",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "With COVID cases in the country rising as the Delta variant spreads , the best thing political and public - health leaders can do is encourage the hesitant to get vaccinated ."
+        },
+        {
+            "id": 1,
+            "text": "Yet many are instead undermining confidence in the shots , which have proven overwhelmingly effective against the new strain ."
+        },
+        {
+            "id": 2,
+            "text": "That \u2019s the message sent by calling for \u2014 and in some cases instituting \u2014 a return to mask mandates , even for the vaxxed ."
+        },
+        {
+            "id": 3,
+            "text": "\u201c Indoor mask use in NYC is falling \u2014 in delis , stores , subways , movie theaters etc ."
+        },
+        {
+            "id": 4,
+            "text": "We need to reverse this trend , \u201d tweeted Mark Levine ( D - Manhattan ) , who chairs the City Council Health Committee ."
+        },
+        {
+            "id": 5,
+            "text": "\u201c It \u2019s time to renew the indoor mask mandate , including for those who are vax \u2019d . \u201d"
+        },
+        {
+            "id": 6,
+            "text": "He told The Post this week that he \u2019ll lobby the state Health Department to do so ."
+        },
+        {
+            "id": 7,
+            "text": "Los Angeles County , the country \u2019s most populous , is already back to requiring masks indoors ."
+        },
+        {
+            "id": 8,
+            "text": "The American Academy of Pediatrics just called for universal masking in classrooms for anyone over 2 \u2014 including the vaccinated \u2014 and Anthony Fauci , President Joe Biden \u2019s top medical adviser , quickly agreed , calling masking children and vaccinated teens and teachers \u201c a reasonable thing to do . \u201d"
+        },
+        {
+            "id": 9,
+            "text": "But it \u2019s not reasonable \u2014 and neither is needlessly stoking fear and uncertainty , which undermines the economy \u2019s recovery and the livelihoods that depend on it ."
+        },
+        {
+            "id": 10,
+            "text": "The official gloom boosts vaccine hesitancy , too ."
+        },
+        {
+            "id": 11,
+            "text": "Why get jabbed if life is going back into lockdown \u2014 and if you \u2019d still have to worry about every new strain , as politicians and public - health officials imply when they insist even the vaccinated must re-mask ?"
+        },
+        {
+            "id": 12,
+            "text": "The panic is completely unwarranted ."
+        },
+        {
+            "id": 13,
+            "text": "Yes , Delta is about 50 percent more transmissible than the Alpha variant , and it now accounts for more than 80 percent of cases here ."
+        },
+        {
+            "id": 14,
+            "text": "But as White House spokeswoman Jen Psaki noted Monday , 99.5 percent of those being hospitalized for or dying from COVID are unvaccinated ."
+        },
+        {
+            "id": 15,
+            "text": "The vaccines almost eliminate the risk of severe illness and death from all variants ."
+        },
+        {
+            "id": 16,
+            "text": "Public Health England found that Pfizer \u2019s vaccine is 96 percent effective at preventing hospitalization due to the Delta variant ."
+        },
+        {
+            "id": 17,
+            "text": "And the United Kingdom , where Delta surged after being first identified in India , has seen new cases dramatically drop in the last few days , from 54,674 on Saturday to 39,950 on Monday ."
+        },
+        {
+            "id": 18,
+            "text": "In Israel , where about 60 percent of people are vaccinated , only 1.6 percent of COVID cases have become critically ill ; it was 4 percent before vaccines were available ."
+        },
+        {
+            "id": 19,
+            "text": "Indeed , the data on Delta are \u201c reassuring , \u201d Drs ."
+        },
+        {
+            "id": 20,
+            "text": "Leslie Bienen and Monica Gandhi wrote in The Wall Street Journal ."
+        },
+        {
+            "id": 21,
+            "text": "Delta cases actually correlated with lower COVID hospitalization rates ."
+        },
+        {
+            "id": 22,
+            "text": "And calling for kids to mask up is ridiculous , Delta or no ."
+        },
+        {
+            "id": 23,
+            "text": "Johns Hopkins School of Medicine prof Marty Makary and his research team analyzed childhood COVID cases and found \u201c a mortality rate of zero among children without a pre-existing medical condition such as leukemia . \u201d"
+        },
+        {
+            "id": 24,
+            "text": "He notes that an \u201c asymptomatic child who tests positive after being injured in a bicycle accident would be counted \u201d as a COVID hospitalization ."
+        },
+        {
+            "id": 25,
+            "text": "As Biden rightly notes , \u201c The only pandemic we have is among the unvaccinated . \u201d"
+        },
+        {
+            "id": 26,
+            "text": "He should rein in Fauci and his other allies undermining vaccine confidence : 90 million eligible Americans still have n\u2019t gotten a jab , and their lives may depend on it ."
+        }
+    ],
+    "id": "STORY_11_DOCUMENT_0",
+    "old_id": "TRIPLET_1056_DOCUMENT_2",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "rising",
+            "sentence_id": 0,
+            "start": 32,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "spreads",
+            "sentence_id": 0,
+            "start": 60,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "do",
+            "sentence_id": 0,
+            "start": 127,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "encourage",
+            "sentence_id": 0,
+            "start": 133,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "get",
+            "sentence_id": 0,
+            "start": 159,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the unvaccinated",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "indoor mask mandate",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "undermining",
+            "sentence_id": 1,
+            "start": 21,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "proven",
+            "sentence_id": 1,
+            "start": 70,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "get vaccinated",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 7,
+            "token": "sent",
+            "sentence_id": 2,
+            "start": 20,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "calling",
+            "sentence_id": 2,
+            "start": 28,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "instituting",
+            "sentence_id": 2,
+            "start": 60,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "return",
+            "sentence_id": 2,
+            "start": 76,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "indoor mask mandates",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 11,
+            "token": "falling",
+            "sentence_id": 3,
+            "start": 28,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "indoor mask use",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "need",
+            "sentence_id": 4,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "reverse",
+            "sentence_id": 4,
+            "start": 11,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "trend",
+            "sentence_id": 4,
+            "start": 24,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "tweeted",
+            "sentence_id": 4,
+            "start": 34,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "chairs",
+            "sentence_id": 4,
+            "start": 78,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "renew",
+            "sentence_id": 5,
+            "start": 16,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "indoor mask mandate",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "indoor mask mandates",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "mark levine",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 18,
+            "token": "told",
+            "sentence_id": 6,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "lobby",
+            "sentence_id": 6,
+            "start": 39,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "mark levine",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "indoor mask mandate",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "state health department",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 20,
+            "token": "do",
+            "sentence_id": 6,
+            "start": 76,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "requiring",
+            "sentence_id": 7,
+            "start": 71,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "los angeles county",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "indoor mask mandate",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "indoor mask mandates",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 22,
+            "token": "called",
+            "sentence_id": 8,
+            "start": 40,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "the american academy of pediatrics",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "indoor mask mandate",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "merican academy of pediatrics",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "indoor mask mandates",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 23,
+            "token": "agreed",
+            "sentence_id": 8,
+            "start": 203,
+            "end": 209,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "anthony fauci",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "indoor mask mandate",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 24,
+            "token": "calling",
+            "sentence_id": 8,
+            "start": 212,
+            "end": 219,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "anthony fauci",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "indoor mask mandate",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "president joe biden",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "indoor mask mandates",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 25,
+            "token": "masking",
+            "sentence_id": 8,
+            "start": 220,
+            "end": 227,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "do",
+            "sentence_id": 8,
+            "start": 295,
+            "end": 297,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "stoking",
+            "sentence_id": 9,
+            "start": 53,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "indoor mask mandate",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "fear",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "uncertainty",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "indoor mask mandates",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 28,
+            "token": "undermines",
+            "sentence_id": 9,
+            "start": 90,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "indoor mask mandate",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "the economy \u2019s recovery",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 29,
+            "token": "boosts",
+            "sentence_id": 10,
+            "start": 19,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "indoor mask mandates",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 30,
+            "token": "get",
+            "sentence_id": 11,
+            "start": 4,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "indoor mask mandate",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "going",
+            "sentence_id": 11,
+            "start": 26,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 25,
+                    "text": "lockdown",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "worry",
+            "sentence_id": 11,
+            "start": 81,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "imply",
+            "sentence_id": 11,
+            "start": 157,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "insist",
+            "sentence_id": 11,
+            "start": 173,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "re-mask",
+            "sentence_id": 11,
+            "start": 205,
+            "end": 212,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "indoor mask mandates",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 36,
+            "token": "panic",
+            "sentence_id": 12,
+            "start": 4,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "indoor mask mandate",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 37,
+            "token": "accounts",
+            "sentence_id": 13,
+            "start": 87,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "noted",
+            "sentence_id": 14,
+            "start": 41,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "hospitalized",
+            "sentence_id": 14,
+            "start": 84,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "dying",
+            "sentence_id": 14,
+            "start": 104,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "eliminate",
+            "sentence_id": 15,
+            "start": 20,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "found",
+            "sentence_id": 16,
+            "start": 22,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "preventing",
+            "sentence_id": 16,
+            "start": 78,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "surged",
+            "sentence_id": 17,
+            "start": 37,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "identified",
+            "sentence_id": 17,
+            "start": 62,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "seen",
+            "sentence_id": 17,
+            "start": 88,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "drop",
+            "sentence_id": 17,
+            "start": 116,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "become",
+            "sentence_id": 18,
+            "start": 99,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "available",
+            "sentence_id": 18,
+            "start": 161,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "wrote",
+            "sentence_id": 20,
+            "start": 32,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "correlated",
+            "sentence_id": 21,
+            "start": 21,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "delta cases",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "lower covid hospitalization rates",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "indoor mask mandate",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "calling",
+            "sentence_id": 22,
+            "start": 4,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "indoor mask mandate",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "indoor mask mandates",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 53,
+            "token": "mask",
+            "sentence_id": 22,
+            "start": 24,
+            "end": 28,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "analyzed",
+            "sentence_id": 23,
+            "start": 73,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "found",
+            "sentence_id": 23,
+            "start": 108,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "indoor mask mandate",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "johns hopkins school of medicine prof marty makary",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 56,
+            "token": "notes",
+            "sentence_id": 24,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "tests",
+            "sentence_id": 24,
+            "start": 42,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "injured",
+            "sentence_id": 24,
+            "start": 69,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "accident",
+            "sentence_id": 24,
+            "start": 90,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "counted",
+            "sentence_id": 24,
+            "start": 108,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "notes",
+            "sentence_id": 25,
+            "start": 17,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "rein",
+            "sentence_id": 26,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "president joe biden",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "anthony fauci",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "president joe biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 63,
+            "token": "undermining",
+            "sentence_id": 26,
+            "start": 45,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "anthony fauci",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "vaccine confidence",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 64,
+            "token": "gotten",
+            "sentence_id": 26,
+            "start": 123,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "depend",
+            "sentence_id": 26,
+            "start": 158,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "jabbed",
+            "sentence_id": 11,
+            "start": 8,
+            "end": 14,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "unwarranted",
+            "sentence_id": 12,
+            "start": 24,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "indoor mask mandates",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "public - health leaders",
+            "ideology": "N/A",
+            "id": 0,
+            "events": [
+                3
+            ]
+        },
+        {
+            "text": "political leaders",
+            "ideology": "Uncertain",
+            "id": 1,
+            "events": [
+                3
+            ]
+        },
+        {
+            "text": "the unvaccinated",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                3,
+                4
+            ]
+        },
+        {
+            "text": "indoor mask mandate",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                3,
+                4,
+                13,
+                17,
+                19,
+                21,
+                22,
+                23,
+                24,
+                27,
+                28,
+                30,
+                36,
+                41,
+                51,
+                52,
+                55
+            ]
+        },
+        {
+            "text": "indoor mask use",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "mark levine",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                17,
+                19,
+                13
+            ]
+        },
+        {
+            "text": "trend",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                13
+            ]
+        },
+        {
+            "text": "los angeles county",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                21
+            ]
+        },
+        {
+            "text": "the american academy of pediatrics",
+            "ideology": "Uncertain",
+            "id": 8,
+            "events": [
+                22
+            ]
+        },
+        {
+            "text": "anthony fauci",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                24,
+                63,
+                62,
+                23
+            ]
+        },
+        {
+            "text": "fear",
+            "ideology": "N/A",
+            "id": 10,
+            "events": [
+                27
+            ]
+        },
+        {
+            "text": "uncertainty",
+            "ideology": "N/A",
+            "id": 11,
+            "events": [
+                27
+            ]
+        },
+        {
+            "text": "the economy \u2019s recovery",
+            "ideology": "N/A",
+            "id": 12,
+            "events": [
+                28
+            ]
+        },
+        {
+            "text": "vaccines",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                41
+            ]
+        },
+        {
+            "text": "the risk of severe illness and death",
+            "ideology": "N/A",
+            "id": 14,
+            "events": [
+                41
+            ]
+        },
+        {
+            "text": "delta cases",
+            "ideology": "N/A",
+            "id": 15,
+            "events": [
+                51
+            ]
+        },
+        {
+            "text": "lower covid hospitalization rates",
+            "ideology": "N/A",
+            "id": 16,
+            "events": [
+                51
+            ]
+        },
+        {
+            "text": "johns hopkins school of medicine prof marty makary",
+            "ideology": "N/A",
+            "id": 17,
+            "events": [
+                55
+            ]
+        },
+        {
+            "text": "president joe biden",
+            "ideology": "Left",
+            "id": 18,
+            "events": [
+                24,
+                62
+            ]
+        },
+        {
+            "text": "vaccine confidence",
+            "ideology": "N/A",
+            "id": 19,
+            "events": [
+                63
+            ]
+        },
+        {
+            "text": "political and public - health leaders",
+            "ideology": "Neutral",
+            "id": 20,
+            "events": [
+                3
+            ]
+        },
+        {
+            "text": "get vaccinated",
+            "ideology": "Left",
+            "id": 21,
+            "events": [
+                3,
+                6
+            ]
+        },
+        {
+            "text": "indoor mask mandates",
+            "ideology": "Left",
+            "id": 22,
+            "events": [
+                10,
+                17,
+                13,
+                21,
+                22,
+                24,
+                27,
+                29,
+                35,
+                67,
+                52
+            ]
+        },
+        {
+            "text": "state health department",
+            "ideology": "Neutral",
+            "id": 23,
+            "events": [
+                19
+            ]
+        },
+        {
+            "text": "merican academy of pediatrics",
+            "ideology": "Left",
+            "id": 24,
+            "events": [
+                22
+            ]
+        },
+        {
+            "text": "lockdown",
+            "ideology": "Left",
+            "id": 25,
+            "events": [
+                31
+            ]
+        }
+    ]
+}

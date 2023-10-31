@@ -1,0 +1,877 @@
+{
+    "title": "CNN Lost Their Mind (Again): Guess How Long Their Climate Change Town Hall Is",
+    "date": "2019-09-04",
+    "topic": "energy",
+    "source": "Townhall",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Just when we thought CNN couldn't get any more pathetic, they prove us wrong...again."
+        },
+        {
+            "id": 1,
+            "text": "The network on Tuesday announced their climate change town hall."
+        },
+        {
+            "id": 2,
+            "text": "The debate, scheduled for Sept. 4th will be seven hours long."
+        },
+        {
+            "id": 3,
+            "text": "Yes, seven hours."
+        },
+        {
+            "id": 4,
+            "text": "The reason?"
+        },
+        {
+            "id": 5,
+            "text": "The network wants to give each of the 10 candidates ample time to respond to questions during this \"unprecedented prime-time event.\""
+        },
+        {
+            "id": 6,
+            "text": "Each of the 10 candidates will be given 40 minutes to discuss their plans to address climate change."
+        },
+        {
+            "id": 7,
+            "text": "Hosts Wolf Blitzer, Erin Burnett, Anderson Cooper, Chris Cuomo and Don Lemon will act as moderators."
+        },
+        {
+            "id": 8,
+            "text": "Here's the schedule of events:"
+        },
+        {
+            "id": 9,
+            "text": "Former Housing and Urban Development Secretary Juli\u00e1n Castro will be interviewed by CNN's Wolf Blitzer at 5 p.m. ET"
+        },
+        {
+            "id": 10,
+            "text": "Businessman Andrew Yang, who will also be interviewed by Blitzer, will come on at 5:40 p.m."
+        },
+        {
+            "id": 11,
+            "text": "California Sen. Kamala Harris will be interviewed by CNN's Erin Burnett at 6:20 p.m."
+        },
+        {
+            "id": 12,
+            "text": "Minnesota Sen."
+        },
+        {
+            "id": 13,
+            "text": "Amy Klobuchar, who will also be interviewed by Burnett, will appear at 7 p.m."
+        },
+        {
+            "id": 14,
+            "text": "Former Vice President Joe Biden will be interviewed by CNN's Anderson Cooper at 8 p.m."
+        },
+        {
+            "id": 15,
+            "text": "Vermont Sen. Bernie Sanders, who will also be interviewed by Cooper, will be on at 8:40 p.m."
+        },
+        {
+            "id": 16,
+            "text": "Massachusetts Sen. Elizabeth Warren will be interviewed by CNN's Chris Cuomo at 9:20 p.m."
+        },
+        {
+            "id": 17,
+            "text": "South Bend, Indiana, Mayor Pete Buttigieg, who will also be interviewed by Cuomo at 10 p.m."
+        },
+        {
+            "id": 18,
+            "text": "Former Rep. Beto O'Rourke will appear with CNN's Don Lemon at 10:40 p.m."
+        },
+        {
+            "id": 19,
+            "text": "New Jersey Sen. Cory Booker will also be interviewed by Lemon and will come on at 11:20 p.m."
+        },
+        {
+            "id": 20,
+            "text": "According to previous CNN polls, 96 percent of Democratic voters want \"aggressive\" action taken to address climate change."
+        },
+        {
+            "id": 21,
+            "text": "CNN announced the town hall after the Democratic National Committee voted overwhelmingly last week not to host a debate focused on the issue."
+        },
+        {
+            "id": 22,
+            "text": "Let's be clear about this: CNN is delusional if they think people are going to watch a seven hour town hall."
+        },
+        {
+            "id": 23,
+            "text": "People can barely handle three hour long debates."
+        },
+        {
+            "id": 24,
+            "text": "But you know what they say... desperate times call for desperate measures."
+        },
+        {
+            "id": 25,
+            "text": "Their ratings are down the toilet and they need something to help revive them."
+        }
+    ],
+    "id": "STORY_29_DOCUMENT_1",
+    "old_id": "3951_2",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "thought",
+            "sentence_id": 0,
+            "start": 13,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "CNN",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 1,
+            "token": "get",
+            "sentence_id": 0,
+            "start": 34,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "CNN",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "climate change",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "prove",
+            "sentence_id": 0,
+            "start": 62,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "CNN",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "climate change",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "announced",
+            "sentence_id": 1,
+            "start": 23,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "debate",
+            "sentence_id": 2,
+            "start": 4,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "scheduled",
+            "sentence_id": 2,
+            "start": 12,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "wants",
+            "sentence_id": 5,
+            "start": 12,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "give",
+            "sentence_id": 5,
+            "start": 21,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "CNN",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Democratic candidates",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "respond",
+            "sentence_id": 5,
+            "start": 66,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "event",
+            "sentence_id": 5,
+            "start": 125,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "given",
+            "sentence_id": 6,
+            "start": 34,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Democratic candidates",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "CNN",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "discuss",
+            "sentence_id": 6,
+            "start": 54,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "address",
+            "sentence_id": 6,
+            "start": 77,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "act",
+            "sentence_id": 7,
+            "start": 82,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "interviewed",
+            "sentence_id": 9,
+            "start": 69,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "interviewed",
+            "sentence_id": 10,
+            "start": 42,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "come",
+            "sentence_id": 10,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "interviewed",
+            "sentence_id": 11,
+            "start": 38,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "interviewed",
+            "sentence_id": 13,
+            "start": 32,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "appear",
+            "sentence_id": 13,
+            "start": 61,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "interviewed",
+            "sentence_id": 14,
+            "start": 40,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "interviewed",
+            "sentence_id": 15,
+            "start": 46,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "interviewed",
+            "sentence_id": 16,
+            "start": 44,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "interviewed",
+            "sentence_id": 17,
+            "start": 60,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "appear",
+            "sentence_id": 18,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "interviewed",
+            "sentence_id": 19,
+            "start": 41,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "come",
+            "sentence_id": 19,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "want",
+            "sentence_id": 20,
+            "start": 65,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Democratic voters",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "climate change",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "action",
+            "sentence_id": 20,
+            "start": 83,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "taken",
+            "sentence_id": 20,
+            "start": 90,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "address",
+            "sentence_id": 20,
+            "start": 99,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "announced",
+            "sentence_id": 21,
+            "start": 4,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "CNN",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "seven hour town hall",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "voted",
+            "sentence_id": 21,
+            "start": 68,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "host",
+            "sentence_id": 21,
+            "start": 106,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "debate",
+            "sentence_id": 21,
+            "start": 113,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "think",
+            "sentence_id": 22,
+            "start": 53,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "CNN",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "CNN viewers",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "seven hour town hall",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 36,
+            "token": "watch",
+            "sentence_id": 22,
+            "start": 79,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "CNN",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "seven hour town hall",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "handle",
+            "sentence_id": 23,
+            "start": 18,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "People",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "CNN",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "debates",
+            "sentence_id": 23,
+            "start": 41,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "say",
+            "sentence_id": 24,
+            "start": 23,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "call",
+            "sentence_id": 24,
+            "start": 46,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "need",
+            "sentence_id": 25,
+            "start": 43,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "CNN",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "ratings",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "seven hour town hall",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 42,
+            "token": "help",
+            "sentence_id": 25,
+            "start": 61,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "revive",
+            "sentence_id": 25,
+            "start": 66,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "seven hour town hall",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "CNN",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "be",
+            "sentence_id": 2,
+            "start": 41,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "seven hour town hall",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "seven hours",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "CNN",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                0,
+                1,
+                2,
+                35,
+                36,
+                37,
+                7,
+                41,
+                10,
+                43,
+                31
+            ]
+        },
+        {
+            "text": "CNN viewers",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                35
+            ]
+        },
+        {
+            "text": "ratings",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                41
+            ]
+        },
+        {
+            "text": "climate change",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                2,
+                27,
+                1
+            ]
+        },
+        {
+            "text": "Democratic voters",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                27
+            ]
+        },
+        {
+            "text": "seven hour town hall",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                35,
+                36,
+                43,
+                41,
+                44,
+                31
+            ]
+        },
+        {
+            "text": "People",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                37
+            ]
+        },
+        {
+            "text": "seven hours",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                44
+            ]
+        },
+        {
+            "text": "Democratic candidates",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                7,
+                10
+            ]
+        }
+    ]
+}

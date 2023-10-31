@@ -1,0 +1,745 @@
+{
+    "title": "Minnesota Public Schools Changes Rules To Lay Off White Teachers Before Minorities",
+    "date": "2022-08-16",
+    "topic": "race-and-racism",
+    "source": "Washington Free Beacon",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Policy 'openly discriminates against white teachers based only on the color of their skin,' lawyer says"
+        },
+        {
+            "id": 1,
+            "text": "Minnesota Public Schools reached an agreement with its teachers' union to institute a policy that will discriminate against white teachers during layoffs, according to a report from Alpha News."
+        },
+        {
+            "id": 2,
+            "text": "The agreement, which the union reached in March following a two-week strike, upends the seniority-based layoff system under which teachers who have been employed the least amount of time are the first to be fired."
+        },
+        {
+            "id": 3,
+            "text": "Under the new rules, if a minority teacher is set to be laid off, the district will instead fire the next least senior teacher who is white."
+        },
+        {
+            "id": 4,
+            "text": "\"If [laying off] a teacher who is a member of a population underrepresented among licensed teachers in the site, the district shall excess the next least senior teacher, who is not a member of an underrepresented population,\" reads the agreement, which goes into effect next spring."
+        },
+        {
+            "id": 5,
+            "text": "The justification for the racial discrimination is to \"remedy the continuing effects of past discrimination,\" according to the school district."
+        },
+        {
+            "id": 6,
+            "text": "Minnesota Public Schools' policy is the latest example of teachers' efforts to institute policies favoring minority teachers in hiring and compensation in order to achieve racial equity."
+        },
+        {
+            "id": 7,
+            "text": "Staff at New York City's elite Dalton School in 2020 demanded the administration pay off black faculty's student debt, the Washington Free Beacon reported."
+        },
+        {
+            "id": 8,
+            "text": "The Minnesota policy also favors minorities when the district reinstates teachers."
+        },
+        {
+            "id": 9,
+            "text": "\"The District shall deprioritize the more senior teacher, who is not a member of an underrepresented population, in order to recall a teacher who is a member of a population underrepresented among licensed teachers,\" the agreement reads."
+        },
+        {
+            "id": 10,
+            "text": "James Dickey, senior trial counsel at the Upper Midwest Law Center, told Alpha News the policy is racially discriminatory and unconstitutional."
+        },
+        {
+            "id": 11,
+            "text": "\"The [collective bargaining agreement] \u2026 openly discriminates against white teachers based only on the color of their skin, and not their seniority or merit,\" Dickey said."
+        },
+        {
+            "id": 12,
+            "text": "\"Minneapolis teachers and taxpayers who oppose government-sponsored racism like this should stand up against it.\""
+        }
+    ],
+    "id": "STORY_126_DOCUMENT_1",
+    "old_id": "6971_0",
+    "split": "test",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "discriminates",
+            "sentence_id": 0,
+            "start": 15,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Minnesota Public Schools' policy",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "white teachers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 1,
+            "token": "says",
+            "sentence_id": 0,
+            "start": 99,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "reached",
+            "sentence_id": 1,
+            "start": 25,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "agreement",
+            "sentence_id": 1,
+            "start": 36,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "institute",
+            "sentence_id": 1,
+            "start": 74,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "discriminate",
+            "sentence_id": 1,
+            "start": 103,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Minnesota Public Schools' policy",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "white teachers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 6,
+            "token": "layoffs",
+            "sentence_id": 1,
+            "start": 146,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "according",
+            "sentence_id": 1,
+            "start": 155,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "report",
+            "sentence_id": 1,
+            "start": 170,
+            "end": 176,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "agreement",
+            "sentence_id": 2,
+            "start": 4,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "reached",
+            "sentence_id": 2,
+            "start": 31,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "strike",
+            "sentence_id": 2,
+            "start": 69,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "upends",
+            "sentence_id": 2,
+            "start": 77,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Minnesota Public Schools' Policy",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "employed",
+            "sentence_id": 2,
+            "start": 153,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "fired",
+            "sentence_id": 2,
+            "start": 207,
+            "end": 212,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "set",
+            "sentence_id": 3,
+            "start": 46,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "laid",
+            "sentence_id": 3,
+            "start": 56,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "fire",
+            "sentence_id": 3,
+            "start": 92,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Minnesota Public Schools' policy",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "white teachers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 18,
+            "token": "laying",
+            "sentence_id": 4,
+            "start": 5,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "excess",
+            "sentence_id": 4,
+            "start": 132,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "reads",
+            "sentence_id": 4,
+            "start": 226,
+            "end": 231,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "goes",
+            "sentence_id": 4,
+            "start": 253,
+            "end": 257,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "remedy",
+            "sentence_id": 5,
+            "start": 55,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Minnesota Public Schools' policy",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 23,
+            "token": "according",
+            "sentence_id": 5,
+            "start": 110,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "efforts",
+            "sentence_id": 6,
+            "start": 68,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "institute",
+            "sentence_id": 6,
+            "start": 79,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "favoring",
+            "sentence_id": 6,
+            "start": 98,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Minnesota Public Schools' Policy",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "minority teachers",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "achieve",
+            "sentence_id": 6,
+            "start": 164,
+            "end": 171,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Minnesota Public Schools' Policy",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "racial equity",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "demanded",
+            "sentence_id": 7,
+            "start": 53,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "Dalton School",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "pay",
+            "sentence_id": 7,
+            "start": 81,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "reported",
+            "sentence_id": 7,
+            "start": 146,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "favors",
+            "sentence_id": 8,
+            "start": 26,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Minnesota Public Schools' policy",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "minority teachers",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "reinstates",
+            "sentence_id": 8,
+            "start": 62,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "deprioritize",
+            "sentence_id": 9,
+            "start": 20,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "recall",
+            "sentence_id": 9,
+            "start": 125,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "reads",
+            "sentence_id": 9,
+            "start": 231,
+            "end": 236,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "told",
+            "sentence_id": 10,
+            "start": 68,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "James Dickey, senior trial counsel at the Upper Midwest Law Center",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Minnesota Public Schools' policy",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 37,
+            "token": "discriminates",
+            "sentence_id": 11,
+            "start": 48,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Minnesota Public Schools' policy",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "white teachers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "said",
+            "sentence_id": 11,
+            "start": 166,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "oppose",
+            "sentence_id": 12,
+            "start": 40,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Minneapolis teachers and taxpayers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Minnesota Public Schools' policy",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 40,
+            "token": "stand",
+            "sentence_id": 12,
+            "start": 92,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Minneapolis teachers and taxpayers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Minnesota Public Schools' policy",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Minnesota Public Schools' policy",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                0,
+                5,
+                17,
+                22,
+                31,
+                36,
+                37,
+                39,
+                40
+            ]
+        },
+        {
+            "text": "white teachers",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                17,
+                37,
+                5,
+                0
+            ]
+        },
+        {
+            "text": "James Dickey, senior trial counsel at the Upper Midwest Law Center",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                36
+            ]
+        },
+        {
+            "text": "Minneapolis teachers and taxpayers",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                40,
+                39
+            ]
+        },
+        {
+            "text": "Minnesota Public Schools' Policy",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                12,
+                26,
+                27
+            ]
+        },
+        {
+            "text": "minority teachers",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                26,
+                31
+            ]
+        },
+        {
+            "text": "racial equity",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                27
+            ]
+        },
+        {
+            "text": "Dalton School",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                28
+            ]
+        }
+    ]
+}

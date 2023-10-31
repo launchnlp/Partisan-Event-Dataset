@@ -1,0 +1,1355 @@
+{
+    "title": "Texas abortion law Supreme Court ruling Dec. 10, 2021",
+    "date": "2021-12-10",
+    "topic": "abortion",
+    "source": "CNN (Online News)",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Supreme Court ruled Friday that a Texas abortion law , that bars the procedure after the first six weeks of pregnancy , can remain in place , but the justices said that abortion providers had the right to challenge the law in federal court ."
+        },
+        {
+            "id": 1,
+            "text": "The law , known as SB 8 , bars abortions after the detection of a fetal heartbeat at around six weeks \u2014 often before a woman knows she is pregnant ."
+        },
+        {
+            "id": 2,
+            "text": "It is in stark contrast to Roe v. Wade , the 1973 landmark decision legalizing abortion nationwide prior to viability , which can occur at around 24 weeks of pregnancy ."
+        },
+        {
+            "id": 3,
+            "text": "The law has no exception for rape or incest ."
+        },
+        {
+            "id": 4,
+            "text": "After the justices allowed the law to go into effect on Sept. 1 , with Chief Justice John Roberts joining the liberal justices in dissent , women in the state scrambled across state borders and lower - income women were left with few options ."
+        },
+        {
+            "id": 5,
+            "text": "Supporters and critics of the law weighed in with \" friend of the court \" legal briefs , attempting to illustrate the broad impact of a potential ruling ."
+        },
+        {
+            "id": 6,
+            "text": "Massachusetts Attorney General Maura Healey , a Democrat , leads a coalition of 24 attorneys general siding with the abortion providers in the state ."
+        },
+        {
+            "id": 7,
+            "text": "In their brief , Healey detailed how clinics in neighboring states are overwhelmed with patients from Texas ."
+        },
+        {
+            "id": 8,
+            "text": "Healey warned the justices that if they were to greenlight the Texas law , other states could draft similar laws in areas such as gun rights , marriage equality and voting rights ."
+        },
+        {
+            "id": 9,
+            "text": "Healey told the court that the states recognize the \" vital role \" that judicial review plays in resolving tensions between a state 's policy preference and a constitutional right ."
+        },
+        {
+            "id": 10,
+            "text": "\" Where longstanding precedent clearly and unambiguously forecloses a particular policy as unconstitutional , a State cannot be permitted to disregard that precedent by passing an unconstitutional law and shielding it from judicial review , \" Healey argued ."
+        },
+        {
+            "id": 11,
+            "text": "Indiana and 19 other Republican - led states filed a brief in support of Texas , arguing that the district court that ruled in favor of the Department of Justice \" threatens to expose every State in the Union to a suit by the federal Executive Branch whenever the U.S. Attorney General deems a state law to violate some constitutional right of someone , somewhere . \""
+        }
+    ],
+    "id": "STORY_21_DOCUMENT_0",
+    "old_id": "TRIPLET_1069_DOCUMENT_2",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "ruled",
+            "sentence_id": 0,
+            "start": 18,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "bars",
+            "sentence_id": 0,
+            "start": 64,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "remain",
+            "sentence_id": 0,
+            "start": 128,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "said",
+            "sentence_id": 0,
+            "start": 163,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "challenge",
+            "sentence_id": 0,
+            "start": 209,
+            "end": 218,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "bars",
+            "sentence_id": 1,
+            "start": 26,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "SB 8",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "abortions",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "detection",
+            "sentence_id": 1,
+            "start": 51,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "knows",
+            "sentence_id": 1,
+            "start": 125,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "a woman",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "sb 8",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "decision",
+            "sentence_id": 2,
+            "start": 59,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "legalizing",
+            "sentence_id": 2,
+            "start": 68,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "occur",
+            "sentence_id": 2,
+            "start": 130,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "allowed",
+            "sentence_id": 4,
+            "start": 19,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "justices",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "SB 8",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "go",
+            "sentence_id": 4,
+            "start": 38,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "joining",
+            "sentence_id": 4,
+            "start": 98,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "chief justice john roberts",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "liberal justices",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "scrambled",
+            "sentence_id": 4,
+            "start": 159,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "women in the state",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "sb 8",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "left",
+            "sentence_id": 4,
+            "start": 220,
+            "end": 224,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "lower - income women",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "sb 8",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "weighed",
+            "sentence_id": 5,
+            "start": 34,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "attempting",
+            "sentence_id": 5,
+            "start": 89,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "illustrate",
+            "sentence_id": 5,
+            "start": 103,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "supporters and critics of the law",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "sb 8",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "ruling",
+            "sentence_id": 5,
+            "start": 146,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "leads",
+            "sentence_id": 6,
+            "start": 59,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "massachusetts attorney general maura healey",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "a coalition of 24 attorneys general",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "abortion providers in the state",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "the supreme court",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "siding",
+            "sentence_id": 6,
+            "start": 101,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "massachusetts attorney general maura healey",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "a coalition of 24 attorneys general",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "abortion providers in the state",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "the supreme court",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "detailed",
+            "sentence_id": 7,
+            "start": 24,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "overwhelmed",
+            "sentence_id": 7,
+            "start": 71,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "massachusetts attorney general maura healey",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "clinics in neighboring states",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "sb 8",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "abortion providers in the state",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "warned",
+            "sentence_id": 8,
+            "start": 7,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Massachusetts Attorney General Maura Healey",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "justices",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "massachusetts attorney general maura healey",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "the supreme court",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "sb 8",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 25,
+            "token": "greenlight",
+            "sentence_id": 8,
+            "start": 48,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 20,
+                    "text": "the supreme court",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "sb 8",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "draft",
+            "sentence_id": 8,
+            "start": 94,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "other states",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 25,
+                    "text": "gun rights , marriage equality and voting rights",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "sb 8",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "the supreme court",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "told",
+            "sentence_id": 9,
+            "start": 7,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "recognize",
+            "sentence_id": 9,
+            "start": 38,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "other states",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "the supreme court",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "constitutional right",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "plays",
+            "sentence_id": 9,
+            "start": 88,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "resolving",
+            "sentence_id": 9,
+            "start": 97,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 24,
+                    "text": "a state",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "constitutional right",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "the supreme court",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "forecloses",
+            "sentence_id": 10,
+            "start": 57,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "roe v. wade",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "sb 8",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 26,
+                    "text": "texas",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "permitted",
+            "sentence_id": 10,
+            "start": 128,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "disregard",
+            "sentence_id": 10,
+            "start": 141,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Supreme Court",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "longstanding precedent",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 26,
+                    "text": "texas",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "roe v. wade",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "sb 8",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 34,
+            "token": "passing",
+            "sentence_id": 10,
+            "start": 169,
+            "end": 176,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Supreme Court",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "unconstitutional law",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 26,
+                    "text": "texas",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "sb 8",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "shielding",
+            "sentence_id": 10,
+            "start": 205,
+            "end": 214,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 26,
+                    "text": "texas",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "sb 8",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "the supreme court",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 36,
+            "token": "argued",
+            "sentence_id": 10,
+            "start": 250,
+            "end": 256,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "filed",
+            "sentence_id": 11,
+            "start": 45,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "arguing",
+            "sentence_id": 11,
+            "start": 81,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 27,
+                    "text": "indiana and 19 other republican - led states",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 28,
+                    "text": "district court that ruled in favor of the department of justice",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "ruled",
+            "sentence_id": 11,
+            "start": 118,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "threatens",
+            "sentence_id": 11,
+            "start": 164,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "district court",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "every State in the Union",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 28,
+                    "text": "district court that ruled in favor of the department of justice",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 29,
+                    "text": "every state in the union",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "sb 8",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 41,
+            "token": "expose",
+            "sentence_id": 11,
+            "start": 177,
+            "end": 183,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 28,
+                    "text": "district court that ruled in favor of the department of justice",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 29,
+                    "text": "every state in the union",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "sb 8",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 42,
+            "token": "deems",
+            "sentence_id": 11,
+            "start": 286,
+            "end": 291,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "violate",
+            "sentence_id": 11,
+            "start": 307,
+            "end": 314,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 24,
+                    "text": "a state",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "constitutional right",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 28,
+                    "text": "district court that ruled in favor of the department of justice",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 44,
+            "token": "contrast",
+            "sentence_id": 2,
+            "start": 15,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "sb 8",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "roe v. wade",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "SB 8",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                5,
+                11
+            ]
+        },
+        {
+            "text": "abortions",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                5
+            ]
+        },
+        {
+            "text": "justices",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                11,
+                24
+            ]
+        },
+        {
+            "text": "Massachusetts Attorney General Maura Healey",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                24
+            ]
+        },
+        {
+            "text": "Supreme Court",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                34,
+                33
+            ]
+        },
+        {
+            "text": "unconstitutional law",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                34
+            ]
+        },
+        {
+            "text": "longstanding precedent",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                33
+            ]
+        },
+        {
+            "text": "district court",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                40
+            ]
+        },
+        {
+            "text": "every State in the Union",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                40
+            ]
+        },
+        {
+            "text": "a woman",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                7
+            ]
+        },
+        {
+            "text": "sb 8",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                7,
+                44,
+                14,
+                15,
+                18,
+                23,
+                24,
+                25,
+                26,
+                31,
+                33,
+                34,
+                35,
+                40,
+                41
+            ]
+        },
+        {
+            "text": "roe v. wade",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                44,
+                31,
+                33
+            ]
+        },
+        {
+            "text": "chief justice john roberts",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                13
+            ]
+        },
+        {
+            "text": "liberal justices",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                13
+            ]
+        },
+        {
+            "text": "women in the state",
+            "ideology": "Neutral",
+            "id": 14,
+            "events": [
+                14
+            ]
+        },
+        {
+            "text": "lower - income women",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                15
+            ]
+        },
+        {
+            "text": "supporters and critics of the law",
+            "ideology": "Neutral",
+            "id": 16,
+            "events": [
+                18
+            ]
+        },
+        {
+            "text": "massachusetts attorney general maura healey",
+            "ideology": "Left",
+            "id": 17,
+            "events": [
+                20,
+                21,
+                23,
+                24
+            ]
+        },
+        {
+            "text": "a coalition of 24 attorneys general",
+            "ideology": "Left",
+            "id": 18,
+            "events": [
+                20,
+                21
+            ]
+        },
+        {
+            "text": "abortion providers in the state",
+            "ideology": "Left",
+            "id": 19,
+            "events": [
+                20,
+                21,
+                23
+            ]
+        },
+        {
+            "text": "the supreme court",
+            "ideology": "Right",
+            "id": 20,
+            "events": [
+                20,
+                21,
+                24,
+                25,
+                28,
+                30,
+                26,
+                35
+            ]
+        },
+        {
+            "text": "clinics in neighboring states",
+            "ideology": "N/A",
+            "id": 21,
+            "events": [
+                23
+            ]
+        },
+        {
+            "text": "other states",
+            "ideology": "Uncertain",
+            "id": 22,
+            "events": [
+                28,
+                26
+            ]
+        },
+        {
+            "text": "constitutional right",
+            "ideology": "Neutral",
+            "id": 23,
+            "events": [
+                28,
+                30,
+                43
+            ]
+        },
+        {
+            "text": "a state",
+            "ideology": "Uncertain",
+            "id": 24,
+            "events": [
+                30,
+                43
+            ]
+        },
+        {
+            "text": "gun rights , marriage equality and voting rights",
+            "ideology": "Left",
+            "id": 25,
+            "events": [
+                26
+            ]
+        },
+        {
+            "text": "texas",
+            "ideology": "Right",
+            "id": 26,
+            "events": [
+                31,
+                33,
+                34,
+                35
+            ]
+        },
+        {
+            "text": "indiana and 19 other republican - led states",
+            "ideology": "Right",
+            "id": 27,
+            "events": [
+                38
+            ]
+        },
+        {
+            "text": "district court that ruled in favor of the department of justice",
+            "ideology": "Left",
+            "id": 28,
+            "events": [
+                38,
+                40,
+                41,
+                43
+            ]
+        },
+        {
+            "text": "every state in the union",
+            "ideology": "Neutral",
+            "id": 29,
+            "events": [
+                40,
+                41
+            ]
+        }
+    ]
+}

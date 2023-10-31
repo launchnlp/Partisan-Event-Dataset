@@ -1,0 +1,2047 @@
+{
+    "title": "Trump Administration Finalizes Rollback of Obama Gas Mileage Standards",
+    "date": "2020-03-31",
+    "topic": "climate-change",
+    "source": "Breitbart News",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Trump administration on Tuesday announced its rule to replace the \u201cunachievable\u201d Obama gas mileage and emissions standards."
+        },
+        {
+            "id": 1,
+            "text": "The Department of Transportation\u2019s (DOT) National Highway Traffic Safety Administration (NHTSA) and the Environmental Protection Agency (EPA) finalized the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule."
+        },
+        {
+            "id": 2,
+            "text": "The rule sets corporate average fuel economy (CAFE) and carbon dioxide (CO2) emissions standards for the model years of 2021 to 2026 passenger cars and light trucks."
+        },
+        {
+            "id": 3,
+            "text": "\u201cThis rule is the largest deregulatory initiative of this administration,\u201d the EPA noted in its press release on Tuesday."
+        },
+        {
+            "id": 4,
+            "text": "EPA Administrator Andrew Wheeler said in a statement on Tuesday:"
+        },
+        {
+            "id": 5,
+            "text": "We are delivering on President Trump\u2019s promise to correct the current fuel economy and greenhouse gas emissions standards."
+        },
+        {
+            "id": 6,
+            "text": "Our final rule puts in place a sensible one national program that strikes the right regulatory balance that protects our environment, and sets reasonable targets for the auto industry."
+        },
+        {
+            "id": 7,
+            "text": "This rule supports our economy, and the safety of American families."
+        },
+        {
+            "id": 8,
+            "text": "DOT Secretary Elaine Chao said in a statement:"
+        },
+        {
+            "id": 9,
+            "text": "This rule reflects the Department\u2019s #1 priority\u2014safety\u2014by making newer, safer, cleaner vehicles more accessible for Americans who are, on average, driving 12-year old cars."
+        },
+        {
+            "id": 10,
+            "text": "By making newer, safer, and cleaner vehicles more accessible for American families, more lives will be saved and more jobs will be created."
+        },
+        {
+            "id": 11,
+            "text": "Today, President Trump is keeping his promise to autoworkers made three years ago that he would reinvigorate American auto manufacturing by updating costly, increasingly unachievable fuel economy and vehicle CO2 emissions standards, and that is what the Safer Affordable Fuel-Efficient Vehicles Rule accomplishes."
+        },
+        {
+            "id": 12,
+            "text": "Chao said during a press conference on Tuesday that the SAFE rule will \u201creinvigorate American manufacturing.\u201d"
+        },
+        {
+            "id": 13,
+            "text": "She said that auto manufacturers could comply with the SAFE regulation, unlike the \u201cunachievable\u201d Obama fuel emissions standards."
+        },
+        {
+            "id": 14,
+            "text": "The Trump SAFE rule would increase the CAFE and CO2 emissions standards by 1.5 percent each year through 2026, which runs in stark contrast to the Obama rule of five percent annual increases."
+        },
+        {
+            "id": 15,
+            "text": "The EPA noted in its press release that, under the SAFE rule, the projected overall industry average fuel economy between 2021 and 2026 would amount to 40.4 miles per gallon, compared to the 46.7 miles per gallon projected in 2025 under the 2012 Obama standard."
+        },
+        {
+            "id": 16,
+            "text": "The EPA noted that the Obama 2012 rule was so strong that the majority of automakers could not meet the high standards without resorting to using credits to offset their vehicle emissions standards."
+        },
+        {
+            "id": 17,
+            "text": "Wheeler said that the SAFE rule will \u201cremove and replace\u201d the \u201cundue regulatory\u201d Obama emissions standards into one simple national program."
+        },
+        {
+            "id": 18,
+            "text": "The Trump rule runs counter to the Obama fuel emissions program, which allowed California to set its own, more stringent fuel standards."
+        },
+        {
+            "id": 19,
+            "text": "The Trump rule reflects a modern American market that has substantially lower oil prices compared to the 2012 Obama projections, as well as growing demand for SUVs and light trucks."
+        },
+        {
+            "id": 20,
+            "text": "The EPA projects that the SAFE rule would reduce regulatory costs by as much as $100 billion through 2029 and increase vehicle sales by up to 2.7 million."
+        },
+        {
+            "id": 21,
+            "text": "Chao noted that the SAFE rule would reduce the price of the average car by $1,000 alone."
+        },
+        {
+            "id": 22,
+            "text": "Chao emphasized that, under the SAFE rule, the reduced cost of future vehicles will allow Americans to purchase newer, safer vehicles, which will reduce American car-related fatalities and injuries."
+        },
+        {
+            "id": 23,
+            "text": "Chao said that the average age of a car is roughly 12 years old, which is the oldest in American history."
+        },
+        {
+            "id": 24,
+            "text": "The NHTSA estimated that the Trump administration would save thousands of American lives, including 3,300 fewer crash fatalities, 397,000 fewer injuries, and more than 1.8 million fewer vehicles damaged in crashes over the lifetimes of vehicles built according to the SAFE standards."
+        }
+    ],
+    "id": "STORY_82_DOCUMENT_0",
+    "old_id": "4436_0",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "announced",
+            "sentence_id": 0,
+            "start": 36,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "replace",
+            "sentence_id": 0,
+            "start": 58,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "finalized",
+            "sentence_id": 1,
+            "start": 142,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "sets",
+            "sentence_id": 2,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "initiative",
+            "sentence_id": 3,
+            "start": 39,
+            "end": 49,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "noted",
+            "sentence_id": 3,
+            "start": 83,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 33,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "delivering",
+            "sentence_id": 5,
+            "start": 7,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "Environmental Protection Agency",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "promise",
+            "sentence_id": 5,
+            "start": 39,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 9,
+            "token": "correct",
+            "sentence_id": 5,
+            "start": 50,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Obama gas mileage and emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 10,
+            "token": "puts",
+            "sentence_id": 6,
+            "start": 15,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "Environmental Protection Agency",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "right regulatory balance that protects our environment",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 11,
+            "token": "strikes",
+            "sentence_id": 6,
+            "start": 66,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 12,
+            "token": "sets",
+            "sentence_id": 6,
+            "start": 138,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "American auto manufacturing",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "Environmental Protection Agency",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "reasonable targets for the auto industry",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 13,
+            "token": "supports",
+            "sentence_id": 7,
+            "start": 10,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "right regulatory balance that protects our environment",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "reasonable targets for the auto industry",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "economy",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "safety of American families",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 14,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 26,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "reflects",
+            "sentence_id": 9,
+            "start": 10,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "reasonable targets for the auto industry",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "right regulatory balance that protects our environment",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "safety of American families",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 16,
+            "token": "making",
+            "sentence_id": 9,
+            "start": 58,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 17,
+            "token": "driving",
+            "sentence_id": 9,
+            "start": 147,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "12-year old cars",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 18,
+            "token": "making",
+            "sentence_id": 10,
+            "start": 3,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "newer, safer, and cleaner vehicles",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "safety of American families",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "more jobs will be created",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 19,
+            "token": "saved",
+            "sentence_id": 10,
+            "start": 103,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 20,
+            "token": "created",
+            "sentence_id": 10,
+            "start": 131,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 21,
+            "token": "keeping",
+            "sentence_id": 11,
+            "start": 26,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "promise",
+            "sentence_id": 11,
+            "start": 38,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 23,
+            "token": "made",
+            "sentence_id": 11,
+            "start": 61,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "reinvigorate",
+            "sentence_id": 11,
+            "start": 96,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "American auto manufacturing",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "American auto manufacturing",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 25,
+            "token": "updating",
+            "sentence_id": 11,
+            "start": 140,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Obama gas mileage and emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "costly, increasingly unachievable fuel economy",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "vehicle CO2 emissions standards",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 26,
+            "token": "accomplishes",
+            "sentence_id": 11,
+            "start": 300,
+            "end": 312,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Obama gas mileage and emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 27,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "conference",
+            "sentence_id": 12,
+            "start": 25,
+            "end": 35,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "reinvigorate",
+            "sentence_id": 12,
+            "start": 72,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "American auto manufacturing",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "American auto manufacturing",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 30,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "comply",
+            "sentence_id": 13,
+            "start": 39,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Obama gas mileage and emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "auto manufacturers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "American auto manufacturing",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "Obama fuel emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 32,
+            "token": "increase",
+            "sentence_id": 14,
+            "start": 26,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "increases",
+            "sentence_id": 14,
+            "start": 181,
+            "end": 190,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "noted",
+            "sentence_id": 15,
+            "start": 8,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "amount",
+            "sentence_id": 15,
+            "start": 142,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "projected",
+            "sentence_id": 15,
+            "start": 213,
+            "end": 222,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "noted",
+            "sentence_id": 16,
+            "start": 8,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "meet",
+            "sentence_id": 16,
+            "start": 95,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "auto manufacturers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Obama gas mileage and emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "American auto manufacturing",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "Obama fuel emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 39,
+            "token": "resorting",
+            "sentence_id": 16,
+            "start": 127,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "auto manufacturers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Obama gas mileage and emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "using",
+            "sentence_id": 16,
+            "start": 140,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "auto manufacturers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Obama gas mileage and emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "offset",
+            "sentence_id": 16,
+            "start": 157,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "auto manufacturers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Obama gas mileage and emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "remove",
+            "sentence_id": 17,
+            "start": 38,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Obama gas mileage and emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "Obama fuel emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "replace",
+            "sentence_id": 17,
+            "start": 49,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Obama gas mileage and emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "Obama fuel emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "runs",
+            "sentence_id": 18,
+            "start": 15,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Obama gas mileage and emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "allowed",
+            "sentence_id": 18,
+            "start": 71,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Obama gas mileage and emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "California",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "set",
+            "sentence_id": 18,
+            "start": 93,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "California",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Obama gas mileage and emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 48,
+            "token": "reflects",
+            "sentence_id": 19,
+            "start": 15,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Obama gas mileage and emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "modern American market",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "Obama fuel emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 49,
+            "token": "projects",
+            "sentence_id": 20,
+            "start": 8,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "reduce",
+            "sentence_id": 20,
+            "start": 42,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "regulatory costs",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 51,
+            "token": "increase",
+            "sentence_id": 20,
+            "start": 110,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "American auto manufacturing",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "vehicle sales",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 52,
+            "token": "noted",
+            "sentence_id": 21,
+            "start": 5,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "reduce",
+            "sentence_id": 21,
+            "start": 36,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "American auto manufacturing",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 25,
+                    "text": "price of the average car",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 54,
+            "token": "emphasized",
+            "sentence_id": 22,
+            "start": 5,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "allow",
+            "sentence_id": 22,
+            "start": 84,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 26,
+                    "text": "newer, safer vehicles",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "safety of American families",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 56,
+            "token": "purchase",
+            "sentence_id": 22,
+            "start": 103,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 57,
+            "token": "reduce",
+            "sentence_id": 22,
+            "start": 146,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "SAFE rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 27,
+                    "text": "American car-related fatalities and injuries",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 58,
+            "token": "fatalities",
+            "sentence_id": 22,
+            "start": 174,
+            "end": 184,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "said",
+            "sentence_id": 23,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "estimated",
+            "sentence_id": 24,
+            "start": 10,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "save",
+            "sentence_id": 24,
+            "start": 56,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 28,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 27,
+                    "text": "American car-related fatalities and injuries",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 62,
+            "token": "fatalities",
+            "sentence_id": 24,
+            "start": 118,
+            "end": 128,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "damaged",
+            "sentence_id": 24,
+            "start": 195,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "vehicles",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 64,
+            "token": "crashes",
+            "sentence_id": 24,
+            "start": 206,
+            "end": 213,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "protects",
+            "sentence_id": 6,
+            "start": 108,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 66,
+            "token": "runs",
+            "sentence_id": 14,
+            "start": 117,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "growing",
+            "sentence_id": 19,
+            "start": 140,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "demand for SUVs and light trucks",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "President Trump",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                8,
+                21,
+                22,
+                24,
+                25
+            ]
+        },
+        {
+            "text": "The Trump administration",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                8,
+                9,
+                61
+            ]
+        },
+        {
+            "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                8,
+                9,
+                10,
+                11,
+                65,
+                12,
+                13,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                26,
+                29,
+                31,
+                43,
+                44,
+                45,
+                48,
+                67,
+                50,
+                51,
+                53,
+                55,
+                56,
+                57,
+                61,
+                63
+            ]
+        },
+        {
+            "text": "Obama gas mileage and emissions standards",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                9,
+                25,
+                26,
+                31,
+                38,
+                39,
+                40,
+                41,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48
+            ]
+        },
+        {
+            "text": "12-year old cars",
+            "ideology": "N/A",
+            "id": 4,
+            "events": [
+                17
+            ]
+        },
+        {
+            "text": "American auto manufacturing",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                38,
+                12,
+                51,
+                53,
+                24,
+                29,
+                31
+            ]
+        },
+        {
+            "text": "auto manufacturers",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                31,
+                38,
+                39,
+                40,
+                41
+            ]
+        },
+        {
+            "text": "California",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                46,
+                47
+            ]
+        },
+        {
+            "text": "demand for SUVs and light trucks",
+            "ideology": "N/A",
+            "id": 8,
+            "events": [
+                67
+            ]
+        },
+        {
+            "text": "Americans",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                56
+            ]
+        },
+        {
+            "text": "vehicles",
+            "ideology": "N/A",
+            "id": 10,
+            "events": [
+                63
+            ]
+        },
+        {
+            "text": "Environmental Protection Agency",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                7,
+                10,
+                12
+            ]
+        },
+        {
+            "text": "SAFE rule",
+            "ideology": "Right",
+            "id": 12,
+            "events": [
+                7,
+                10,
+                12,
+                13,
+                15,
+                18,
+                21,
+                24,
+                25,
+                29,
+                31,
+                43,
+                44,
+                48,
+                50,
+                51,
+                53,
+                55,
+                57
+            ]
+        },
+        {
+            "text": "right regulatory balance that protects our environment",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": [
+                10,
+                13,
+                15
+            ]
+        },
+        {
+            "text": "reasonable targets for the auto industry",
+            "ideology": "Neutral",
+            "id": 14,
+            "events": [
+                12,
+                13,
+                15
+            ]
+        },
+        {
+            "text": "economy",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                13
+            ]
+        },
+        {
+            "text": "safety of American families",
+            "ideology": "Neutral",
+            "id": 16,
+            "events": [
+                13,
+                15,
+                18,
+                55
+            ]
+        },
+        {
+            "text": "newer, safer, and cleaner vehicles",
+            "ideology": "Neutral",
+            "id": 17,
+            "events": [
+                18
+            ]
+        },
+        {
+            "text": "more jobs will be created",
+            "ideology": "Neutral",
+            "id": 18,
+            "events": [
+                18
+            ]
+        },
+        {
+            "text": "costly, increasingly unachievable fuel economy",
+            "ideology": "Neutral",
+            "id": 19,
+            "events": [
+                25
+            ]
+        },
+        {
+            "text": "vehicle CO2 emissions standards",
+            "ideology": "Neutral",
+            "id": 20,
+            "events": [
+                25
+            ]
+        },
+        {
+            "text": "Obama fuel emissions standards",
+            "ideology": "Left",
+            "id": 21,
+            "events": [
+                31,
+                38,
+                43,
+                44,
+                48
+            ]
+        },
+        {
+            "text": "modern American market",
+            "ideology": "Neutral",
+            "id": 22,
+            "events": [
+                48
+            ]
+        },
+        {
+            "text": "regulatory costs",
+            "ideology": "Neutral",
+            "id": 23,
+            "events": [
+                50
+            ]
+        },
+        {
+            "text": "vehicle sales",
+            "ideology": "Neutral",
+            "id": 24,
+            "events": [
+                51
+            ]
+        },
+        {
+            "text": "price of the average car",
+            "ideology": "Neutral",
+            "id": 25,
+            "events": [
+                53
+            ]
+        },
+        {
+            "text": "newer, safer vehicles",
+            "ideology": "Neutral",
+            "id": 26,
+            "events": [
+                55
+            ]
+        },
+        {
+            "text": "American car-related fatalities and injuries",
+            "ideology": "Neutral",
+            "id": 27,
+            "events": [
+                57,
+                61
+            ]
+        },
+        {
+            "text": "Trump administration",
+            "ideology": "Right",
+            "id": 28,
+            "events": [
+                61
+            ]
+        }
+    ]
+}

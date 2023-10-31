@@ -1,0 +1,1271 @@
+{
+    "title": "Huckabee: Planned Parenthood shooting is 'domestic terrorism'",
+    "date": "2015-11-29",
+    "topic": "violence_in_america",
+    "source": "CNN (Online News)",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Republican presidential candidate and former governor of Arkansas Mike Huckabee speaks during the Iowa Faith and Freedom Coalition annual banquet and presidential forum Monday June 22 , 2015 in Des Moines , Iowa ."
+        },
+        {
+            "id": 1,
+            "text": "Republican presidential candidate former Arkansas Governor Mike Huckabee speaks during the Sunshine Summit conference being held at the Rosen Shingle Creek on November 13 , 2015 in Orlando , Florida ."
+        },
+        {
+            "id": 2,
+            "text": "Republican Presidential candidate Mike Huckabee gestures during the under card Republican Presidential debate sponsored by Fox Business and the Republican National Committee at the North Charleston Coliseum and Performing Arts Center in Charleston , South Carolina on January 14 , 2016 ."
+        },
+        {
+            "id": 3,
+            "text": "TIMOTHY A. CLARY / AFP /"
+        },
+        {
+            "id": 4,
+            "text": "TIMOTHY A. CLARY"
+        },
+        {
+            "id": 5,
+            "text": "Story highlights Mike Huckabee called Friday 's shootings at a Planned Parenthood clinic ' domestic terrorism ' Huckabee also blasted President Barack Obama for the tone of his remarks about ISIS Washington CNN \u2014 Mike Huckabee called the Friday shootings at a Planned Parenthood clinic in Colorado an act of \u201c domestic terrorism . \u201d"
+        },
+        {
+            "id": 6,
+            "text": "The former Arkansas governor and Republican presidential contender who \u2019s known for his social conservatism admonished the alleged shooter in an interview with CNN \u2019s Brianna Keilar Sunday on \u201c State of the Union ."
+        },
+        {
+            "id": 7,
+            "text": "Today \u2019s most - wanted domestic terrorists"
+        },
+        {
+            "id": 8,
+            "text": "\u201c What he did is domestic terrorism , and what he did is absolutely abominable , especially to us in the pro-life movement , because there \u2019s nothing about any of us that would condone or in any way look the other way on something like this , \u201d Huckabee said ."
+        },
+        {
+            "id": 9,
+            "text": "He contrasted anti-abortion activists \u2019 response to the shooting with Secretary of State John Kerry \u2019s comment that the Charlie Hebdo attacks in Paris had a \u201c rationale \u201d that could be understood , while the recent killings there do not ."
+        },
+        {
+            "id": 10,
+            "text": "\u201c We \u2019re not going to have the kind of language that you heard from John Kerry where he talked about legitimizing or rationalizing terrorist actions , \u201d Huckabee said ."
+        },
+        {
+            "id": 11,
+            "text": "\u201c There \u2019s no legitimizing , there \u2019s no rationalizing ."
+        },
+        {
+            "id": 12,
+            "text": "It was mass murder ."
+        },
+        {
+            "id": 13,
+            "text": "It was absolutely unfathomable ."
+        },
+        {
+            "id": 14,
+            "text": "And there \u2019s no excuse for killing other people , whether it \u2019s happening inside the Planned Parenthood headquarters , inside their clinics where many millions of babies die , or whether it \u2019s people attacking Planned Parenthood . \u201d"
+        },
+        {
+            "id": 15,
+            "text": "In the interview , Huckabee also took shots at President Barack Obama over the tone of his remarks about ISIS and the acceptance of Syrian refugees into the United States in the wake of the Paris attacks ."
+        },
+        {
+            "id": 16,
+            "text": "Republicans to Obama :"
+        },
+        {
+            "id": 17,
+            "text": "Keep Syrian refugees out \u201c This President has shown considerable more intensity of anger toward Republicans than he has toward ISIS , \u201d Huckabee said ."
+        },
+        {
+            "id": 18,
+            "text": "\u201c I mean I remember those press conferences \u2013 the one in Manila and the one in Turkey prior to that \u2013 where you could see the visible , visceral anger this President had as he spoke about Republicans ."
+        },
+        {
+            "id": 19,
+            "text": "And he was so frustrated that there was not just a universal acceptance of his point of view about relocation of refugees , calling people who disagreed with him as un-American , \u201d Huckabee said ."
+        },
+        {
+            "id": 20,
+            "text": "\u201c It was harsh ."
+        },
+        {
+            "id": 21,
+            "text": "And I just want him to show the same kind of anger directed toward the ISIS terrorists , and frankly , all the radical Islamists , that we saw from the French President ( Francois )"
+        },
+        {
+            "id": 22,
+            "text": "Hollande , \u201d he said ."
+        },
+        {
+            "id": 23,
+            "text": "\u201c That \u2019s what we all need to do \u2013 the family of civilized nations needs to get together and we need to destroy them once and for all . \u201d"
+        }
+    ],
+    "id": "STORY_79_DOCUMENT_1",
+    "old_id": "TRIPLET_012_DOCUMENT_0",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "speaks",
+            "sentence_id": 0,
+            "start": 80,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "banquet",
+            "sentence_id": 0,
+            "start": 138,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "forum",
+            "sentence_id": 0,
+            "start": 163,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "speaks",
+            "sentence_id": 1,
+            "start": 73,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "held",
+            "sentence_id": 1,
+            "start": 124,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "gestures",
+            "sentence_id": 2,
+            "start": 48,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "debate",
+            "sentence_id": 2,
+            "start": 103,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "sponsored",
+            "sentence_id": 2,
+            "start": 110,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "called",
+            "sentence_id": 5,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Mike Huckabee",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "shootings at a Planned Parenthood clinic",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "shootings",
+            "sentence_id": 5,
+            "start": 48,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "blasted",
+            "sentence_id": 5,
+            "start": 126,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Mike Huckabee",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "President Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "remarks",
+            "sentence_id": 5,
+            "start": 177,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "called",
+            "sentence_id": 5,
+            "start": 227,
+            "end": 233,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Mike Huckabee",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "shootings at a Planned Parenthood clinic",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "shootings",
+            "sentence_id": 5,
+            "start": 245,
+            "end": 254,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "act",
+            "sentence_id": 5,
+            "start": 301,
+            "end": 304,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "admonished",
+            "sentence_id": 6,
+            "start": 108,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Mike Huckabee",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "alleged shooter",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "interview",
+            "sentence_id": 6,
+            "start": 145,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "did",
+            "sentence_id": 8,
+            "start": 10,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "did",
+            "sentence_id": 8,
+            "start": 50,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "condone",
+            "sentence_id": 8,
+            "start": 177,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "us in the pro-life movement",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "shootings at a Planned Parenthood clinic",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "look",
+            "sentence_id": 8,
+            "start": 199,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "us in the pro-life movement",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "shootings at a Planned Parenthood clinic",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 254,
+            "end": 258,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "contrasted",
+            "sentence_id": 9,
+            "start": 3,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Mike Huckabee",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "anti-abortion activists",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "response",
+            "sentence_id": 9,
+            "start": 40,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "shooting",
+            "sentence_id": 9,
+            "start": 56,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "comment",
+            "sentence_id": 9,
+            "start": 103,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "John Kerry",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Charlie Hebdo attacks",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "attacks",
+            "sentence_id": 9,
+            "start": 134,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "understood",
+            "sentence_id": 9,
+            "start": 185,
+            "end": 195,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "John Kerry",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Charlie Hebdo attacks",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "killings",
+            "sentence_id": 9,
+            "start": 215,
+            "end": 223,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "heard",
+            "sentence_id": 10,
+            "start": 57,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "talked",
+            "sentence_id": 10,
+            "start": 88,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "John Kerry",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "legitimizing or rationalizing terrorist actions",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "legitimizing",
+            "sentence_id": 10,
+            "start": 101,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "John Kerry",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "terrorist actions",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 32,
+            "token": "said",
+            "sentence_id": 10,
+            "start": 162,
+            "end": 166,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "legitimizing",
+            "sentence_id": 11,
+            "start": 14,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "John Kerry",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "terrorist actions",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 34,
+            "token": "killing",
+            "sentence_id": 14,
+            "start": 27,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "happening",
+            "sentence_id": 14,
+            "start": 64,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "die",
+            "sentence_id": 14,
+            "start": 170,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Planned Parenthood",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "babies",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 37,
+            "token": "attacking",
+            "sentence_id": 14,
+            "start": 200,
+            "end": 209,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "interview",
+            "sentence_id": 15,
+            "start": 7,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "took",
+            "sentence_id": 15,
+            "start": 33,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "remarks",
+            "sentence_id": 15,
+            "start": 91,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "ISIS",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "acceptance",
+            "sentence_id": 15,
+            "start": 118,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Syrian refugees",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "attacks",
+            "sentence_id": 15,
+            "start": 196,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "Keep",
+            "sentence_id": 17,
+            "start": 0,
+            "end": 4,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Syrian refugees",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "shown",
+            "sentence_id": 17,
+            "start": 46,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 45,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 145,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "remember",
+            "sentence_id": 18,
+            "start": 11,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "conferences",
+            "sentence_id": 18,
+            "start": 32,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "see",
+            "sentence_id": 18,
+            "start": 118,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "spoke",
+            "sentence_id": 18,
+            "start": 176,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 50,
+            "token": "frustrated",
+            "sentence_id": 19,
+            "start": 14,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "acceptance",
+            "sentence_id": 19,
+            "start": 61,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "relocation",
+            "sentence_id": 19,
+            "start": 99,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "calling",
+            "sentence_id": 19,
+            "start": 124,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "un-American",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 54,
+            "token": "disagreed",
+            "sentence_id": 19,
+            "start": 143,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "said",
+            "sentence_id": 19,
+            "start": 190,
+            "end": 194,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "want",
+            "sentence_id": 21,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "show",
+            "sentence_id": 21,
+            "start": 23,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "ISIS",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "directed",
+            "sentence_id": 21,
+            "start": 51,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "saw",
+            "sentence_id": 21,
+            "start": 139,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "said",
+            "sentence_id": 22,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "need",
+            "sentence_id": 23,
+            "start": 22,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "do",
+            "sentence_id": 23,
+            "start": 30,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "needs",
+            "sentence_id": 23,
+            "start": 67,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "get",
+            "sentence_id": 23,
+            "start": 76,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "need",
+            "sentence_id": 23,
+            "start": 96,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "destroy",
+            "sentence_id": 23,
+            "start": 104,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Mike Huckabee",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                8,
+                10,
+                12,
+                15,
+                22
+            ]
+        },
+        {
+            "text": "shootings at a Planned Parenthood clinic",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                12,
+                19,
+                20
+            ]
+        },
+        {
+            "text": "President Barack Obama",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                10,
+                40,
+                41,
+                43,
+                44,
+                49,
+                50,
+                53,
+                57
+            ]
+        },
+        {
+            "text": "alleged shooter",
+            "ideology": "Right",
+            "id": 3,
+            "events": []
+        },
+        {
+            "text": "us in the pro-life movement",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                19,
+                20
+            ]
+        },
+        {
+            "text": "anti-abortion activists",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                22
+            ]
+        },
+        {
+            "text": "John Kerry",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                25,
+                27,
+                30,
+                31,
+                33
+            ]
+        },
+        {
+            "text": "Charlie Hebdo attacks",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                25,
+                27
+            ]
+        },
+        {
+            "text": "legitimizing or rationalizing terrorist actions",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                30
+            ]
+        },
+        {
+            "text": "terrorist actions",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                31,
+                33
+            ]
+        },
+        {
+            "text": "Planned Parenthood",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                36
+            ]
+        },
+        {
+            "text": "babies",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                36
+            ]
+        },
+        {
+            "text": "ISIS",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                40,
+                57
+            ]
+        },
+        {
+            "text": "Syrian refugees",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": [
+                41,
+                43
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                44,
+                49,
+                50
+            ]
+        },
+        {
+            "text": "un-American",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                53
+            ]
+        }
+    ]
+}

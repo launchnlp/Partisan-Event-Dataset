@@ -1,0 +1,1666 @@
+{
+    "title": "\u2018Can Feel Excruciating Pain\u2019: Sen. Lindsey Graham Defends 15-Week Abortion Limit",
+    "date": "2022-09-13",
+    "topic": "abortion",
+    "source": "The Daily Caller",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "\u2018 Can Feel Excruciating Pain \u2019 : Sen. Lindsey Graham Defends 15 - Week Abortion Limit . Republican South Carolina Sen. Lindsey Graham unveiled amended legislation that would limit abortion past the fifteenth week of a woman \u2019s pregnancy ."
+        },
+        {
+            "id": 1,
+            "text": "The newest version of the Pain - Capable Unborn Child Protection"
+        },
+        {
+            "id": 2,
+            "text": "Act would ban abortions after 15 weeks , with exceptions for rape , incest , and the life of the mother ."
+        },
+        {
+            "id": 3,
+            "text": "Republicans have introduced similar versions of the bill that would limit abortion after 20 weeks ."
+        },
+        {
+            "id": 4,
+            "text": "The legislation will \u201c get America in a position on the federal level that we think is fairly consistent with the rest of the world , \u201d Graham said at a Tuesday press conference in which he was flanked by pro-life activists ."
+        },
+        {
+            "id": 5,
+            "text": "Federally - elected Republicans have started to coalesce around a national 15 week abortion limit ."
+        },
+        {
+            "id": 6,
+            "text": "Thirteen states fully ban abortion , while two others have heartbeat bills that prohibit it after six weeks ."
+        },
+        {
+            "id": 7,
+            "text": "\u201c We should have a law at the federal level that would say after 15 weeks , no abortion on demand , except for rape , incest , or to save the life of the mother ."
+        },
+        {
+            "id": 8,
+            "text": "And that should be where America is at , \u201d Graham explained , noting research suggesting nerve endings become fully developed at around fifteen weeks of pregnancy ."
+        },
+        {
+            "id": 9,
+            "text": "\u201c If you \u2019re going to operate on the baby , which happens , to save the child \u2019s life , to provide it medical treatment , the standard practice in medicine is to provide anesthesia ."
+        },
+        {
+            "id": 10,
+            "text": "Now why would you do that ?"
+        },
+        {
+            "id": 11,
+            "text": "You provide anesthesia because the science tells us at the 15 - week period , the nerve endings of the baby are pretty well - developed and the child feels pain ."
+        },
+        {
+            "id": 12,
+            "text": "So here \u2019s our point ."
+        },
+        {
+            "id": 13,
+            "text": "You have to provide anesthesia to keep the baby from feeling pain to help save its life ."
+        },
+        {
+            "id": 14,
+            "text": "So should we as a nation be aborting babies that can feel excruciating pain from an abortion ? \u201d he asked ."
+        },
+        {
+            "id": 15,
+            "text": "Graham emphasized worldwide limits on abortion , claiming that his bill would put the U.S. in the \u201c mainstream of most everybody else in the world . \u201d"
+        },
+        {
+            "id": 16,
+            "text": "Only three European countries allow elective abortions after 15 weeks , according to the Charlotte Lozier Institute ."
+        },
+        {
+            "id": 17,
+            "text": "\u201c I feel comfortable at 15 weeks because the science tells us that the nerve endings are developed to the point that the unborn child feels pain , \u201d he explained ."
+        },
+        {
+            "id": 18,
+            "text": "Graham also noted the Women \u2019s Health Protection Act , passed by Democrats in the House of Representatives but voted down by all 50 Republicans and West Virginia Democrat Joe Manchin in the Senate ."
+        },
+        {
+            "id": 19,
+            "text": "In addition to legalizing abortion up to the moment of birth , the Women \u2019s Health Protection"
+        },
+        {
+            "id": 20,
+            "text": "Act would eliminate conscience protections for doctors , nurses , and hospitals who do not wish to perform the procedure ."
+        },
+        {
+            "id": 21,
+            "text": "It would also end ultrasound requirements and waiting periods ."
+        },
+        {
+            "id": 22,
+            "text": "\u201c They chose a bill that would not put is in the mainstream of the world , but put us in a group of seven nations that allow abortion on - demand pretty much up to the point of birth , like North Korea , Iran , and a few others ."
+        },
+        {
+            "id": 23,
+            "text": "About 10 % of Americans support late - term abortion like the Democratic bill ."
+        },
+        {
+            "id": 24,
+            "text": "My legislation is a counter to their proposal , \u201d Graham said ."
+        }
+    ],
+    "id": "STORY_123_DOCUMENT_0",
+    "old_id": "abortion_11_1",
+    "split": "test",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "Feel",
+            "sentence_id": 0,
+            "start": 6,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "Unborn Child",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "Excruciating Pain",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "abortions after 15 weeks",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "Defends",
+            "sentence_id": 0,
+            "start": 53,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Lindsey Graham",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "15 - Week Abortion Limit",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "unveiled",
+            "sentence_id": 0,
+            "start": 134,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "limit",
+            "sentence_id": 0,
+            "start": 174,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "ban",
+            "sentence_id": 2,
+            "start": 10,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the pain - capable unborn child protection act",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "abortions",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "introduced",
+            "sentence_id": 3,
+            "start": 17,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "limit",
+            "sentence_id": 3,
+            "start": 68,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "get",
+            "sentence_id": 4,
+            "start": 23,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the pain - capable unborn child protection act",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "America",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "think",
+            "sentence_id": 4,
+            "start": 78,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 143,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "conference",
+            "sentence_id": 4,
+            "start": 167,
+            "end": 177,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "flanked",
+            "sentence_id": 4,
+            "start": 194,
+            "end": 201,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Lindsey Graham",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "pro-life activists",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "started",
+            "sentence_id": 5,
+            "start": 37,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "coalesce",
+            "sentence_id": 5,
+            "start": 48,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "15 - Week Abortion Limit",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "ban",
+            "sentence_id": 6,
+            "start": 22,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "thirteen states",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "abortions",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "prohibit",
+            "sentence_id": 6,
+            "start": 80,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "heartbeat bills",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "abortions",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "have",
+            "sentence_id": 7,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 23,
+                    "text": "America",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the pain - capable unborn child protection act",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "say",
+            "sentence_id": 7,
+            "start": 55,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "save",
+            "sentence_id": 7,
+            "start": 133,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "explained",
+            "sentence_id": 8,
+            "start": 50,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "15 - Week Abortion Limit",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Lindsey Graham",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "noting",
+            "sentence_id": 8,
+            "start": 62,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "suggesting",
+            "sentence_id": 8,
+            "start": 78,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "become",
+            "sentence_id": 8,
+            "start": 103,
+            "end": 109,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "operate",
+            "sentence_id": 9,
+            "start": 22,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "happens",
+            "sentence_id": 9,
+            "start": 50,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "save",
+            "sentence_id": 9,
+            "start": 63,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "provide",
+            "sentence_id": 9,
+            "start": 91,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "provide",
+            "sentence_id": 9,
+            "start": 162,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "do",
+            "sentence_id": 10,
+            "start": 18,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "Unborn Child",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "Excruciating Pain",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "abortions after 15 weeks",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "provide",
+            "sentence_id": 11,
+            "start": 4,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "tells",
+            "sentence_id": 11,
+            "start": 43,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "feels",
+            "sentence_id": 11,
+            "start": 150,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "15 - Week Abortion Limit",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "Unborn Child",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "Excruciating Pain",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "abortions after 15 weeks",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "provide",
+            "sentence_id": 13,
+            "start": 12,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "keep",
+            "sentence_id": 13,
+            "start": 34,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 28,
+                    "text": "anesthesia",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "Unborn Child",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "Excruciating Pain",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "abortions after 15 weeks",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 34,
+            "token": "feeling",
+            "sentence_id": 13,
+            "start": 53,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "help",
+            "sentence_id": 13,
+            "start": 69,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "save",
+            "sentence_id": 13,
+            "start": 74,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "aborting",
+            "sentence_id": 14,
+            "start": 28,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 23,
+                    "text": "America",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "15 - Week Abortion Limit",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "abortions after 15 weeks",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 38,
+            "token": "feel",
+            "sentence_id": 14,
+            "start": 53,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "asked",
+            "sentence_id": 14,
+            "start": 100,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "emphasized",
+            "sentence_id": 15,
+            "start": 7,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Lindsey Graham",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "abortions",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "claiming",
+            "sentence_id": 15,
+            "start": 49,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "put",
+            "sentence_id": 15,
+            "start": 78,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the pain - capable unborn child protection act",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "America",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 43,
+            "token": "allow",
+            "sentence_id": 16,
+            "start": 30,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "three european countries",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "abortions",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "15 - Week Abortion Limit",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "according",
+            "sentence_id": 16,
+            "start": 72,
+            "end": 81,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "feel",
+            "sentence_id": 17,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "tells",
+            "sentence_id": 17,
+            "start": 53,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "developed",
+            "sentence_id": 17,
+            "start": 89,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "the nerve endings of the baby",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "15 - Week Abortion Limit",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "Unborn Child",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "abortions after 15 weeks",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 48,
+            "token": "feels",
+            "sentence_id": 17,
+            "start": 134,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "Unborn Child",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "Excruciating Pain",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "abortions after 15 weeks",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "explained",
+            "sentence_id": 17,
+            "start": 152,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "noted",
+            "sentence_id": 18,
+            "start": 12,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "passed",
+            "sentence_id": 18,
+            "start": 55,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "democrats",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 29,
+                    "text": "Women \u2019s Health Protection Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 52,
+            "token": "voted",
+            "sentence_id": 18,
+            "start": 111,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 29,
+                    "text": "Women \u2019s Health Protection Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "Joe Manchin",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 30,
+                    "text": "50 Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 53,
+            "token": "legalizing",
+            "sentence_id": 19,
+            "start": 15,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 29,
+                    "text": "Women \u2019s Health Protection Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "abortions",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 54,
+            "token": "eliminate",
+            "sentence_id": 20,
+            "start": 10,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 29,
+                    "text": "Women \u2019s Health Protection Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 33,
+                    "text": "conscience protections for doctors , nurses , and hospitals",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "wish",
+            "sentence_id": 20,
+            "start": 91,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "perform",
+            "sentence_id": 20,
+            "start": 99,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "end",
+            "sentence_id": 21,
+            "start": 14,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 29,
+                    "text": "Women \u2019s Health Protection Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 34,
+                    "text": "ultrasound requirements",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 35,
+                    "text": "waiting periods",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "chose",
+            "sentence_id": 22,
+            "start": 7,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "put",
+            "sentence_id": 22,
+            "start": 35,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 29,
+                    "text": "Women \u2019s Health Protection Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "America",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 60,
+            "token": "put",
+            "sentence_id": 22,
+            "start": 79,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 29,
+                    "text": "Women \u2019s Health Protection Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "America",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 36,
+                    "text": "abortion on - demand",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 61,
+            "token": "allow",
+            "sentence_id": 22,
+            "start": 119,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "support",
+            "sentence_id": 23,
+            "start": 24,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "10 % of americans",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "late - term abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 29,
+                    "text": "Women \u2019s Health Protection Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 63,
+            "token": "said",
+            "sentence_id": 24,
+            "start": 57,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "developed",
+            "sentence_id": 8,
+            "start": 116,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "15 - Week Abortion Limit",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "the nerve endings of the baby",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 65,
+            "token": "developed",
+            "sentence_id": 11,
+            "start": 126,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "the nerve endings of the baby",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "15 - Week Abortion Limit",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 66,
+            "token": "pain",
+            "sentence_id": 11,
+            "start": 156,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "15 - Week Abortion Limit",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "Unborn Child",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 67,
+            "token": "pain",
+            "sentence_id": 14,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "abortions",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "Unborn Child",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 68,
+            "token": "pain",
+            "sentence_id": 17,
+            "start": 140,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "15 - Week Abortion Limit",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "Unborn Child",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Lindsey Graham",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                19,
+                40,
+                1,
+                11
+            ]
+        },
+        {
+            "text": "the pain - capable unborn child protection act",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                4,
+                7,
+                16,
+                42
+            ]
+        },
+        {
+            "text": "abortions",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                4,
+                14,
+                15,
+                67,
+                40,
+                43,
+                53
+            ]
+        },
+        {
+            "text": "republicans",
+            "ideology": "Right",
+            "id": 5,
+            "events": []
+        },
+        {
+            "text": "thirteen states",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                14
+            ]
+        },
+        {
+            "text": "heartbeat bills",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                15
+            ]
+        },
+        {
+            "text": "the nerve endings of the baby",
+            "ideology": "N/A",
+            "id": 8,
+            "events": [
+                65,
+                64,
+                47
+            ]
+        },
+        {
+            "text": "three european countries",
+            "ideology": "N/A",
+            "id": 11,
+            "events": [
+                43
+            ]
+        },
+        {
+            "text": "Joe Manchin",
+            "ideology": "Left",
+            "id": 14,
+            "events": []
+        },
+        {
+            "text": "democrats",
+            "ideology": "Right",
+            "id": 15,
+            "events": [
+                51
+            ]
+        },
+        {
+            "text": "10 % of americans",
+            "ideology": "Left",
+            "id": 16,
+            "events": [
+                62
+            ]
+        },
+        {
+            "text": "late - term abortion",
+            "ideology": "Left",
+            "id": 17,
+            "events": [
+                62
+            ]
+        },
+        {
+            "text": "Unborn Child",
+            "ideology": "N/A",
+            "id": 18,
+            "events": [
+                0,
+                28,
+                33,
+                47,
+                48,
+                66,
+                67,
+                68
+            ]
+        },
+        {
+            "text": "Excruciating Pain",
+            "ideology": "Neutral",
+            "id": 19,
+            "events": [
+                0,
+                28,
+                31,
+                33,
+                48
+            ]
+        },
+        {
+            "text": "abortions after 15 weeks",
+            "ideology": "Left",
+            "id": 20,
+            "events": [
+                0,
+                28,
+                31,
+                33,
+                37,
+                47,
+                48
+            ]
+        },
+        {
+            "text": "15 - Week Abortion Limit",
+            "ideology": "Right",
+            "id": 22,
+            "events": [
+                1,
+                64,
+                19,
+                65,
+                31,
+                37,
+                66,
+                43,
+                47,
+                68
+            ]
+        },
+        {
+            "text": "America",
+            "ideology": "Neutral",
+            "id": 23,
+            "events": [
+                60,
+                59
+            ]
+        },
+        {
+            "text": "pro-life activists",
+            "ideology": "Right",
+            "id": 24,
+            "events": [
+                11,
+                11
+            ]
+        },
+        {
+            "text": "anesthesia",
+            "ideology": "Neutral",
+            "id": 28,
+            "events": [
+                33
+            ]
+        },
+        {
+            "text": "Women \u2019s Health Protection Act",
+            "ideology": "Left",
+            "id": 29,
+            "events": [
+                53,
+                54,
+                57,
+                51,
+                59,
+                62
+            ]
+        },
+        {
+            "text": "50 Republicans",
+            "ideology": "Right",
+            "id": 30,
+            "events": []
+        },
+        {
+            "text": "conscience protections for doctors , nurses , and hospitals",
+            "ideology": "Neutral",
+            "id": 33,
+            "events": [
+                54
+            ]
+        },
+        {
+            "text": "ultrasound requirements",
+            "ideology": "Neutral",
+            "id": 34,
+            "events": [
+                57
+            ]
+        },
+        {
+            "text": "waiting periods",
+            "ideology": "Neutral",
+            "id": 35,
+            "events": [
+                57
+            ]
+        },
+        {
+            "text": "abortion on - demand",
+            "ideology": "Left",
+            "id": 36,
+            "events": [
+                60
+            ]
+        }
+    ]
+}

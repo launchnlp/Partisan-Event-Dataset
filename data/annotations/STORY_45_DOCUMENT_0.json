@@ -1,0 +1,820 @@
+{
+    "title": "In U.K., Christie advocates for \u2018balance\u2019 in vaccination debate",
+    "date": "2015-02-02",
+    "topic": "politics",
+    "source": "Washington Times",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "New Jersey Gov. Chris Christie , on an overseas trip to the United Kingdom , said there needs to be a balance in considering parental concerns over vaccinations as the U.S. deals with a recent spread of measles ."
+        },
+        {
+            "id": 1,
+            "text": "Asked if he would urge Americans to vaccinate their children , Mr. Christie said that \u201c we vaccinate ours , and so , you know that \u2019s the best expression I can give you of my opinion . \u201d"
+        },
+        {
+            "id": 2,
+            "text": "\u201c You know it \u2019s much more important what you think as a parent than what you think as a public official , \u201d he said , according to NBC News ."
+        },
+        {
+            "id": 3,
+            "text": "\u201c And that \u2019s what we do ."
+        },
+        {
+            "id": 4,
+            "text": "But I also understand that parents need to have some measure of choice in things as well , so that \u2019s the balance that the government has to decide . \u201d"
+        },
+        {
+            "id": 5,
+            "text": "Asked if he thinks some vaccines are dangerous , Mr. Christie said he did n\u2019t say that ."
+        },
+        {
+            "id": 6,
+            "text": "\u201c I said different disease types can be more lethal so that the concern would be measuring whatever the perceived danger is by vaccine and we \u2019ve had plenty of that over a period of time versus what the risk to public health is and you have to have that balance and that \u2019s exactly what I mean by what I said , \u201d he said ."
+        },
+        {
+            "id": 7,
+            "text": "His office later sent out a clarification on the remarks , saying that Mr. Christie believes vaccines are an important public health protection and with a disease like measles there is \u201c no question \u201d kids should be vaccinated ."
+        },
+        {
+            "id": 8,
+            "text": "At the same time , his office said , different states have different requirements on vaccinations , which is why he called for a balance in which ones should be mandated by the government ."
+        },
+        {
+            "id": 9,
+            "text": "In an interview with NBC \u2019s Savannah Guthrie , President Obama advised parents to get their kids vaccinated , saying that measles is \u201c preventable \u201d and that the science is \u201c pretty indisputable . \u201d"
+        }
+    ],
+    "id": "STORY_45_DOCUMENT_0",
+    "old_id": "TRIPLET_041_DOCUMENT_0",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "trip",
+            "sentence_id": 0,
+            "start": 48,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "said",
+            "sentence_id": 0,
+            "start": 77,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "needs",
+            "sentence_id": 0,
+            "start": 88,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "balance in considering parental concerns over vaccinations",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "considering",
+            "sentence_id": 0,
+            "start": 113,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "deals",
+            "sentence_id": 0,
+            "start": 173,
+            "end": 178,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "balance in considering parental concerns over vaccinations",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "spread",
+            "sentence_id": 0,
+            "start": 193,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "Asked",
+            "sentence_id": 1,
+            "start": 0,
+            "end": 5,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "urge",
+            "sentence_id": 1,
+            "start": 18,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 76,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "vaccinate",
+            "sentence_id": 1,
+            "start": 91,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "give",
+            "sentence_id": 1,
+            "start": 160,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "think",
+            "sentence_id": 2,
+            "start": 46,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "children",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "think",
+            "sentence_id": 2,
+            "start": 78,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 112,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "balance in considering parental concerns over vaccinations",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "according",
+            "sentence_id": 2,
+            "start": 119,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "do",
+            "sentence_id": 3,
+            "start": 22,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "understand",
+            "sentence_id": 4,
+            "start": 11,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "measure of choice",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "need",
+            "sentence_id": 4,
+            "start": 35,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "balance in considering parental concerns over vaccinations",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 18,
+            "token": "decide",
+            "sentence_id": 4,
+            "start": 141,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "Asked",
+            "sentence_id": 5,
+            "start": 0,
+            "end": 5,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "thinks",
+            "sentence_id": 5,
+            "start": 12,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 62,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "vaccination",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "say",
+            "sentence_id": 5,
+            "start": 78,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "vaccines are dangerous",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "measuring",
+            "sentence_id": 6,
+            "start": 81,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "balance in considering parental concerns over vaccinations",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "vaccines are dangerous",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "had",
+            "sentence_id": 6,
+            "start": 146,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "mean",
+            "sentence_id": 6,
+            "start": 289,
+            "end": 293,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "balance in considering parental concerns over vaccinations",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 304,
+            "end": 308,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 316,
+            "end": 320,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "sent",
+            "sentence_id": 7,
+            "start": 17,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "saying",
+            "sentence_id": 7,
+            "start": 59,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "believes",
+            "sentence_id": 7,
+            "start": 84,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "vaccinated",
+            "sentence_id": 7,
+            "start": 216,
+            "end": 226,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "children",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "have",
+            "sentence_id": 8,
+            "start": 54,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "called",
+            "sentence_id": 8,
+            "start": 116,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "balance in considering parental concerns over vaccinations",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "balance in which ones should be mandated by the government",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 36,
+            "token": "mandated",
+            "sentence_id": 8,
+            "start": 161,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "interview",
+            "sentence_id": 9,
+            "start": 6,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "advised",
+            "sentence_id": 9,
+            "start": 63,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Obama",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "vaccination",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "vaccines are an important public health protection",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 39,
+            "token": "get",
+            "sentence_id": 9,
+            "start": 82,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "saying",
+            "sentence_id": 9,
+            "start": 110,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Chris Christie",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "balance in considering parental concerns over vaccinations",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                2,
+                26,
+                4
+            ]
+        },
+        {
+            "text": "vaccination",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                9
+            ]
+        },
+        {
+            "text": "Obama",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                38
+            ]
+        },
+        {
+            "text": "New Jersey Gov. Chris Christie",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                2,
+                9,
+                11,
+                16,
+                22,
+                24,
+                26,
+                31,
+                32,
+                35
+            ]
+        },
+        {
+            "text": "children",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                9,
+                11,
+                32
+            ]
+        },
+        {
+            "text": "measure of choice",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                16
+            ]
+        },
+        {
+            "text": "vaccines are dangerous",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                22,
+                24
+            ]
+        },
+        {
+            "text": "vaccines are an important public health protection",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                31,
+                38
+            ]
+        },
+        {
+            "text": "balance in which ones should be mandated by the government",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                35
+            ]
+        },
+        {
+            "text": "President Obama",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                38
+            ]
+        }
+    ]
+}

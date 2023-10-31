@@ -1,0 +1,1351 @@
+{
+    "title": "Pope Francis Said He Supports Civil Unions For Same-Sex Couples",
+    "date": "2020-10-21",
+    "topic": "LGBT",
+    "source": "BuzzFeed News",
+    "media_ideology": "Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "After decades of attempts by the Catholic Church to crush marriage equality, Pope Francis has called for civil unions for same-sex couples."
+        },
+        {
+            "id": 1,
+            "text": "\u201cWhat we have to create is a civil union law."
+        },
+        {
+            "id": 2,
+            "text": "That way they are legally covered,\u201d said Pope Francis, in a new documentary when speaking about how to support LGBTQ people, according to the Catholic News Agency."
+        },
+        {
+            "id": 3,
+            "text": "\u201cI stood up for that.\""
+        },
+        {
+            "id": 4,
+            "text": "\"Homosexuals have a right to be a part of the family,\" said the pope."
+        },
+        {
+            "id": 5,
+            "text": "\"They\u2019re children of God and have a right to a family."
+        },
+        {
+            "id": 6,
+            "text": "Nobody should be thrown out or be made miserable because of it.\""
+        },
+        {
+            "id": 7,
+            "text": "The new documentary by Evgeny Afineevsky, Francesco, premiered at the Rome Film Festival on Wednesday and focuses on how the pope cares and helps for disadvantaged communities."
+        },
+        {
+            "id": 8,
+            "text": "His comments in the film are the first time Francis has openly called for legal protections for same-sex relationships as pontiff."
+        },
+        {
+            "id": 9,
+            "text": "In 2003, the Vatican\u2019s Congregation for the Doctrine of the Faith \u2014 then under the leadership of Cardinal Joseph Ratzinger, who later became Pope Benedict XVI \u2014 declared that \"Legal recognition of homosexual unions or placing them on the same level as marriage would mean not only the approval of deviant behavior, with the consequence of making it a model in present-day society, but would also obscure basic values which belong to the common inheritance of humanity.\""
+        },
+        {
+            "id": 10,
+            "text": "There were reports in the past that Francis privately supported civil unions in 2010, when he was the archbishop of Buenos Aires and the country was passing marriage equality laws, but they have been disputed."
+        },
+        {
+            "id": 11,
+            "text": "The pope has never supported marriage for same-sex couples or official recognition by the church of same-sex relationships."
+        },
+        {
+            "id": 12,
+            "text": "After Wednesday's news, Catholic LGBTQ activists spoke excitedly but hesitantly about the news."
+        },
+        {
+            "id": 13,
+            "text": "\"If this a public recognition that same-sex couples deserve \u2014 and the church will no longer block \u2014 legal recognition of committed relationships, clearly that is an international game changer,\" Marianne Duddy-Burke, executive director of DignityUSA, a Catholic LGBTQ organization, told BuzzFeed News."
+        },
+        {
+            "id": 14,
+            "text": "But although Duddy-Burke called the pope's comments \"very significant,\" she wanted further clarification on exactly what the pope meant."
+        },
+        {
+            "id": 15,
+            "text": "\"I think it\u2019s going to spike a range of emotions from jubilation to skepticism across the queer Catholic community,\" she said."
+        },
+        {
+            "id": 16,
+            "text": "\"Is this going to something that is going to be 'clarified' by the Vatican in the days ahead?\""
+        },
+        {
+            "id": 17,
+            "text": "The Vatican did not respond to a request for comment."
+        },
+        {
+            "id": 18,
+            "text": "Francis DeBernardo, executive director of Catholic LGBTQ advocacy group New Ways Ministry, said he \"gratefully welcomes\" the pope's comments, although he also hopes the pope recognizes those relationships inside the church as well."
+        },
+        {
+            "id": 19,
+            "text": "\"It is an historic moment when the leader of the Roman Catholic Church, long seen as a persecutor of LGBTQ people, moves in such a supportive direction for lesbian/gay couples and their families,\" said DeBernardo."
+        },
+        {
+            "id": 20,
+            "text": "\"It is no overstatement to say that with this statement not only has the pope protected LGBTQ couples and families, but he also will save many LGBTQ lives,\" said De Bernardo."
+        },
+        {
+            "id": 21,
+            "text": "Francesco makes its US premiere on Sunday at the Savannah Film Festival."
+        }
+    ],
+    "id": "STORY_83_DOCUMENT_1",
+    "old_id": "5016_0",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "attempts",
+            "sentence_id": 0,
+            "start": 17,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "crush",
+            "sentence_id": 0,
+            "start": 52,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the Catholic Church",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "marriage equality",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "called",
+            "sentence_id": 0,
+            "start": 94,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "civil unions for same-sex couples",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "civil union law",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "create",
+            "sentence_id": 1,
+            "start": 17,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the Catholic Church",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "civil union law",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "covered",
+            "sentence_id": 2,
+            "start": 26,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "same-sex couples",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "civil union law",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 36,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "speaking",
+            "sentence_id": 2,
+            "start": 81,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "support",
+            "sentence_id": 2,
+            "start": 103,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "LGBTQ people",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "civil unions for same-sex couples",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "LGBTQ people",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "the Catholic Church",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 8,
+            "token": "according",
+            "sentence_id": 2,
+            "start": 125,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "stood",
+            "sentence_id": 3,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "civil union law",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 55,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "thrown",
+            "sentence_id": 6,
+            "start": 17,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "same-sex couples",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "civil union law",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "made",
+            "sentence_id": 6,
+            "start": 34,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "same-sex couples",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "civil union law",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "premiered",
+            "sentence_id": 7,
+            "start": 53,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "focuses",
+            "sentence_id": 7,
+            "start": 106,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "cares",
+            "sentence_id": 7,
+            "start": 130,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "LGBTQ people",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "helps",
+            "sentence_id": 7,
+            "start": 140,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "LGBTQ people",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "comments",
+            "sentence_id": 8,
+            "start": 4,
+            "end": 12,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "called",
+            "sentence_id": 8,
+            "start": 63,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "civil unions for same-sex couples",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "civil union law",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "became",
+            "sentence_id": 9,
+            "start": 134,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "declared",
+            "sentence_id": 9,
+            "start": 161,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "placing",
+            "sentence_id": 9,
+            "start": 218,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "mean",
+            "sentence_id": 9,
+            "start": 267,
+            "end": 271,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "civil union law",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 23,
+            "token": "approval",
+            "sentence_id": 9,
+            "start": 285,
+            "end": 293,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "civil unions for same-sex couples",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "deviant behavior",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "the Catholic Church",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "civil union law",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 24,
+            "token": "making",
+            "sentence_id": 9,
+            "start": 339,
+            "end": 345,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "obscure",
+            "sentence_id": 9,
+            "start": 396,
+            "end": 403,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "civil unions for same-sex couples",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "basic values",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "the Catholic Church",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "civil union law",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 26,
+            "token": "belong",
+            "sentence_id": 9,
+            "start": 423,
+            "end": 429,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "supported",
+            "sentence_id": 10,
+            "start": 54,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "civil union law",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "was",
+            "sentence_id": 10,
+            "start": 94,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "passing",
+            "sentence_id": 10,
+            "start": 149,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "disputed",
+            "sentence_id": 10,
+            "start": 200,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "supported",
+            "sentence_id": 11,
+            "start": 19,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "marriage equality",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 32,
+            "token": "spoke",
+            "sentence_id": 12,
+            "start": 49,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "recognition",
+            "sentence_id": 13,
+            "start": 18,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "civil unions for same-sex couples",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "same-sex couples",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "civil union law",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 34,
+            "token": "deserve",
+            "sentence_id": 13,
+            "start": 52,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "block",
+            "sentence_id": 13,
+            "start": 92,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the Catholic Church",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "civil union law",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 36,
+            "token": "told",
+            "sentence_id": 13,
+            "start": 281,
+            "end": 285,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "called",
+            "sentence_id": 14,
+            "start": 25,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "comments",
+            "sentence_id": 14,
+            "start": 43,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "wanted",
+            "sentence_id": 14,
+            "start": 76,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "meant",
+            "sentence_id": 14,
+            "start": 130,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "think",
+            "sentence_id": 15,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "spike",
+            "sentence_id": 15,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "said",
+            "sentence_id": 15,
+            "start": 121,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "clarified",
+            "sentence_id": 16,
+            "start": 49,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the Catholic Church",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "respond",
+            "sentence_id": 17,
+            "start": 20,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "request",
+            "sentence_id": 17,
+            "start": 33,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "said",
+            "sentence_id": 18,
+            "start": 91,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "welcomes",
+            "sentence_id": 18,
+            "start": 111,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Francis DeBernardo",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "civil unions for same-sex couples",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "civil union law",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 49,
+            "token": "comments",
+            "sentence_id": 18,
+            "start": 132,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "hopes",
+            "sentence_id": 18,
+            "start": 159,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "recognizes",
+            "sentence_id": 18,
+            "start": 174,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "seen",
+            "sentence_id": 19,
+            "start": 77,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "moves",
+            "sentence_id": 19,
+            "start": 115,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "civil union law",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 54,
+            "token": "said",
+            "sentence_id": 19,
+            "start": 197,
+            "end": 201,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "civil unions for same-sex couples",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Francis DeBernardo",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "say",
+            "sentence_id": 20,
+            "start": 27,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "statement",
+            "sentence_id": 20,
+            "start": 46,
+            "end": 55,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "protected",
+            "sentence_id": 20,
+            "start": 78,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "civil unions for same-sex couples",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "LGBTQ people",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "civil union law",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 58,
+            "token": "save",
+            "sentence_id": 20,
+            "start": 133,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "civil unions for same-sex couples",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "LGBTQ people",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "civil union law",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 59,
+            "token": "said",
+            "sentence_id": 20,
+            "start": 157,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "makes",
+            "sentence_id": 21,
+            "start": 10,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "premiere",
+            "sentence_id": 21,
+            "start": 23,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Pope Francis",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                33,
+                2,
+                7,
+                9,
+                15,
+                48,
+                16,
+                18,
+                53,
+                54,
+                57,
+                58,
+                27,
+                31
+            ]
+        },
+        {
+            "text": "civil unions for same-sex couples",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                2,
+                7,
+                18,
+                23,
+                25,
+                33,
+                48,
+                54,
+                57,
+                58
+            ]
+        },
+        {
+            "text": "LGBTQ people",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                7,
+                15,
+                16,
+                57,
+                58
+            ]
+        },
+        {
+            "text": "deviant behavior",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                23
+            ]
+        },
+        {
+            "text": "basic values",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                25
+            ]
+        },
+        {
+            "text": "same-sex couples",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                33,
+                11,
+                4,
+                12
+            ]
+        },
+        {
+            "text": "Francis DeBernardo",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                48,
+                54
+            ]
+        },
+        {
+            "text": "the Catholic Church",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                1,
+                3,
+                7,
+                23,
+                25,
+                35,
+                44
+            ]
+        },
+        {
+            "text": "marriage equality",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                1,
+                31
+            ]
+        },
+        {
+            "text": "civil union law",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                2,
+                3,
+                4,
+                9,
+                11,
+                12,
+                18,
+                22,
+                23,
+                25,
+                27,
+                33,
+                35,
+                48,
+                53,
+                57,
+                58
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1534 @@
+{
+    "title": "Democrats and Republicans frustrated by debt deal",
+    "date": "2021-10-08",
+    "topic": "federal-budget",
+    "source": "Axios",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Center",
+    "news": [
+        {
+            "id": 0,
+            "text": "The leaders of the Senate were happy Thursday with their deal to avoid a debt default."
+        },
+        {
+            "id": 1,
+            "text": "They were about the only ones."
+        },
+        {
+            "id": 2,
+            "text": "Why it matters: The Band-Aid does nothing to solve the debt ceiling problem long term for Americans."
+        },
+        {
+            "id": 3,
+            "text": "Democrats fear it only kicks the can down the road to a very busy December."
+        },
+        {
+            "id": 4,
+            "text": "Republicans, meanwhile, are mad their party blinked."
+        },
+        {
+            "id": 5,
+            "text": "\u201cWhy the hell would I make it easier for them to raise the debt ceiling through regular order?"
+        },
+        {
+            "id": 6,
+            "text": "We had a strategy and we abandoned it,\" Sen."
+        },
+        {
+            "id": 7,
+            "text": "Lindsey Graham (R-S.C.) told CNN's Manu Raju."
+        },
+        {
+            "id": 8,
+            "text": "Multiple Senate Republicans are so frustrated by the compromise between Senate Minority Leader Mitch McConnell (R-Ky.) and Senate Majority Leader Chuck Schumer (D-N.Y.), they not only refused to support the vote but threatened to prevent it from happening via a simple majority."
+        },
+        {
+            "id": 9,
+            "text": "That left McConnell and his team scrambling, hunting for at least 10 members to help push the deal past the 60-vote threshold for major legislation."
+        },
+        {
+            "id": 10,
+            "text": "Those Republicans would be forced to attach their names to an increase in the debt ceiling, even a temporary one \u2014 something McConnell had been trying to avoid."
+        },
+        {
+            "id": 11,
+            "text": "In the end, McConnell helped get 61 senators to invoke cloture and bring the deal to a final vote."
+        },
+        {
+            "id": 12,
+            "text": "And then it passed 50-48."
+        },
+        {
+            "id": 13,
+            "text": "The measure moves to the House, where there is a clear Democratic majority to pass it."
+        },
+        {
+            "id": 14,
+            "text": "Senate Republicans met for 90 minutes Thursday evening."
+        },
+        {
+            "id": 15,
+            "text": "Several expressed their concerns McConnell gave away important leverage as Democrats try to pass President Biden's $3.5 trillion social spending package and $1.2 trillion infrastructure bill before the next debt-limit fight."
+        },
+        {
+            "id": 16,
+            "text": "\u201cI believe it was a mistake to offer this deal,\" Sen."
+        },
+        {
+            "id": 17,
+            "text": "Ted Cruz (R-Texas) told reporters."
+        },
+        {
+            "id": 18,
+            "text": "\"Schumer was on the verge of surrender."
+        },
+        {
+            "id": 19,
+            "text": "And, unfortunately, the deal that was put on the table was a lifeline for Schumer."
+        },
+        {
+            "id": 20,
+            "text": "And I disagree with that decision.\u201d"
+        },
+        {
+            "id": 21,
+            "text": "Meanwhile, many Democrats are frustrated they didn't take advantage of party unity to more permanently deal with the debt ceiling on their own \u2014 especially since pressure to alter the filibuster was picking up steam."
+        },
+        {
+            "id": 22,
+            "text": "\"I think the short-term options are not the ideal situation,\" Sen. Mark Kelly (D-Ariz.) told Axios."
+        },
+        {
+            "id": 23,
+            "text": "\"I think if Senator McConnell tries to run the same play, where he insists that we do it through reconciliation and we insist we won't ..."
+        },
+        {
+            "id": 24,
+            "text": "I think we'll come right up against a rule change all over again,\" Sen. Chris Coons (D-Del.)."
+        },
+        {
+            "id": 25,
+            "text": "White House press secretary Jen Psaki also had panned the idea of a deal, before it was announced."
+        },
+        {
+            "id": 26,
+            "text": "\"If we\u2019re looking at the best options, why kick the can down the road a couple of more weeks?\""
+        },
+        {
+            "id": 27,
+            "text": "Psaki told reporters on Wednesday."
+        },
+        {
+            "id": 28,
+            "text": "\"Why create an additional layer of uncertainty?"
+        },
+        {
+            "id": 29,
+            "text": "Why not just get it done now?"
+        },
+        {
+            "id": 30,
+            "text": "That\u2019s what we\u2019re continuing to press for, and that\u2019s our first choice.\""
+        },
+        {
+            "id": 31,
+            "text": "The delay has also prompted fresh calls from progressive members to abolish the debt ceiling altogether."
+        },
+        {
+            "id": 32,
+            "text": "\"The debt ceiling is not doing anything except giving Mitch McConnell a chance to play politics."
+        },
+        {
+            "id": 33,
+            "text": "We need to get rid of it altogether,\" said Sen. Elizabeth Warren (D-Mass.)."
+        }
+    ],
+    "id": "STORY_68_DOCUMENT_1",
+    "old_id": "6037_1",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "happy",
+            "sentence_id": 0,
+            "start": 31,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "deal",
+            "sentence_id": 0,
+            "start": 57,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "avoid",
+            "sentence_id": 0,
+            "start": 65,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "default",
+            "sentence_id": 0,
+            "start": 78,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "solve",
+            "sentence_id": 2,
+            "start": 45,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "leaders of the Senate",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "debt ceiling problem",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "fear",
+            "sentence_id": 3,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "kicks",
+            "sentence_id": 3,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "mad",
+            "sentence_id": 4,
+            "start": 28,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 8,
+            "token": "blinked",
+            "sentence_id": 4,
+            "start": 44,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "make",
+            "sentence_id": 5,
+            "start": 22,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "raise",
+            "sentence_id": 5,
+            "start": 49,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "debt ceiling problem",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "abandoned",
+            "sentence_id": 6,
+            "start": 25,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "strategy",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 12,
+            "token": "told",
+            "sentence_id": 7,
+            "start": 24,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "frustrated",
+            "sentence_id": 8,
+            "start": 35,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "compromise",
+            "sentence_id": 8,
+            "start": 53,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "refused",
+            "sentence_id": 8,
+            "start": 184,
+            "end": 191,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Senate Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "the vote",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 16,
+            "token": "support",
+            "sentence_id": 8,
+            "start": 195,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "vote",
+            "sentence_id": 8,
+            "start": 207,
+            "end": 211,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "threatened",
+            "sentence_id": 8,
+            "start": 216,
+            "end": 226,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "prevent",
+            "sentence_id": 8,
+            "start": 230,
+            "end": 237,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Senate Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "the vote",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 20,
+            "token": "happening",
+            "sentence_id": 8,
+            "start": 246,
+            "end": 255,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "left",
+            "sentence_id": 9,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "scrambling",
+            "sentence_id": 9,
+            "start": 33,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "debt ceiling problem",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "hunting",
+            "sentence_id": 9,
+            "start": 45,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "debt ceiling problem",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "help",
+            "sentence_id": 9,
+            "start": 80,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "push",
+            "sentence_id": 9,
+            "start": 85,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "forced",
+            "sentence_id": 10,
+            "start": 27,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "attach",
+            "sentence_id": 10,
+            "start": 37,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "increase",
+            "sentence_id": 10,
+            "start": 62,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "debt ceiling problem",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "trying",
+            "sentence_id": 10,
+            "start": 144,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "avoid",
+            "sentence_id": 10,
+            "start": 154,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Senate Minority Leader Mitch McConnell",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "increase in the debt ceiling",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "helped",
+            "sentence_id": 11,
+            "start": 22,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Senator McConnell",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "debt ceiling problem",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "get",
+            "sentence_id": 11,
+            "start": 29,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "invoke",
+            "sentence_id": 11,
+            "start": 48,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "bring",
+            "sentence_id": 11,
+            "start": 67,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "vote",
+            "sentence_id": 11,
+            "start": 93,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "passed",
+            "sentence_id": 12,
+            "start": 12,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "moves",
+            "sentence_id": 13,
+            "start": 12,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "pass",
+            "sentence_id": 13,
+            "start": 78,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "met",
+            "sentence_id": 14,
+            "start": 19,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "expressed",
+            "sentence_id": 15,
+            "start": 8,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "gave",
+            "sentence_id": 15,
+            "start": 43,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "try",
+            "sentence_id": 15,
+            "start": 85,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "$3.5 trillion social spending package",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 43,
+            "token": "pass",
+            "sentence_id": 15,
+            "start": 92,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "$3.5 trillion social spending package",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "$1.2 trillion infrastructure bill",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "fight",
+            "sentence_id": 15,
+            "start": 218,
+            "end": 223,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "believe",
+            "sentence_id": 16,
+            "start": 3,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "mistake",
+            "sentence_id": 16,
+            "start": 20,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Senate Minority Leader Mitch McConnell",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "compromise",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "Senator McConnell",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "debt ceiling problem",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 47,
+            "token": "offer",
+            "sentence_id": 16,
+            "start": 31,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "deal",
+            "sentence_id": 16,
+            "start": 42,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "told",
+            "sentence_id": 17,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "surrender",
+            "sentence_id": 18,
+            "start": 29,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "put",
+            "sentence_id": 19,
+            "start": 38,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "disagree",
+            "sentence_id": 20,
+            "start": 6,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "decision",
+            "sentence_id": 20,
+            "start": 25,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "frustrated",
+            "sentence_id": 21,
+            "start": 30,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "take",
+            "sentence_id": 21,
+            "start": 53,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "debt ceiling problem",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 56,
+            "token": "deal",
+            "sentence_id": 21,
+            "start": 103,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "alter",
+            "sentence_id": 21,
+            "start": 174,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "picking",
+            "sentence_id": 21,
+            "start": 199,
+            "end": 206,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "think",
+            "sentence_id": 22,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "told",
+            "sentence_id": 22,
+            "start": 88,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "think",
+            "sentence_id": 23,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "tries",
+            "sentence_id": 23,
+            "start": 30,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "run",
+            "sentence_id": 23,
+            "start": 39,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "insists",
+            "sentence_id": 23,
+            "start": 67,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Senator McConnell",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "debt ceiling problem",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 65,
+            "token": "do",
+            "sentence_id": 23,
+            "start": 83,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "insist",
+            "sentence_id": 23,
+            "start": 119,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "think",
+            "sentence_id": 24,
+            "start": 2,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "come",
+            "sentence_id": 24,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "change",
+            "sentence_id": 24,
+            "start": 43,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "panned",
+            "sentence_id": 25,
+            "start": 47,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "deal",
+            "sentence_id": 25,
+            "start": 68,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "announced",
+            "sentence_id": 25,
+            "start": 88,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "looking",
+            "sentence_id": 26,
+            "start": 10,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "kick",
+            "sentence_id": 26,
+            "start": 43,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "told",
+            "sentence_id": 27,
+            "start": 6,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "create",
+            "sentence_id": 28,
+            "start": 5,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "get",
+            "sentence_id": 29,
+            "start": 13,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "done",
+            "sentence_id": 29,
+            "start": 20,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "continuing",
+            "sentence_id": 30,
+            "start": 18,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "press",
+            "sentence_id": 30,
+            "start": 32,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "delay",
+            "sentence_id": 31,
+            "start": 4,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "prompted",
+            "sentence_id": 31,
+            "start": 19,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "calls",
+            "sentence_id": 31,
+            "start": 34,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 84,
+            "token": "abolish",
+            "sentence_id": 31,
+            "start": 68,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "doing",
+            "sentence_id": 32,
+            "start": 25,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "giving",
+            "sentence_id": 32,
+            "start": 47,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "debt ceiling problem",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "Senator McConnell",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 87,
+            "token": "play",
+            "sentence_id": 32,
+            "start": 82,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Senate Minority Leader Mitch McConnell",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "politics",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 88,
+            "token": "need",
+            "sentence_id": 33,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "get",
+            "sentence_id": 33,
+            "start": 11,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 90,
+            "token": "said",
+            "sentence_id": 33,
+            "start": 38,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                26,
+                11,
+                7
+            ]
+        },
+        {
+            "text": "strategy",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "Senate Republicans",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                15,
+                19
+            ]
+        },
+        {
+            "text": "the vote",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                15,
+                19
+            ]
+        },
+        {
+            "text": "Senate Minority Leader Mitch McConnell",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                30,
+                46,
+                87
+            ]
+        },
+        {
+            "text": "increase in the debt ceiling",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                30
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                10,
+                43,
+                42,
+                55,
+                22,
+                23,
+                26,
+                28
+            ]
+        },
+        {
+            "text": "President Biden",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                43
+            ]
+        },
+        {
+            "text": "$3.5 trillion social spending package",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                42,
+                43
+            ]
+        },
+        {
+            "text": "$1.2 trillion infrastructure bill",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                43
+            ]
+        },
+        {
+            "text": "compromise",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                46
+            ]
+        },
+        {
+            "text": "politics",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                87
+            ]
+        },
+        {
+            "text": "leaders of the Senate",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "debt ceiling problem",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": [
+                4,
+                10,
+                22,
+                23,
+                28,
+                31,
+                46,
+                55,
+                64,
+                86
+            ]
+        },
+        {
+            "text": "Senator McConnell",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                31,
+                46,
+                64,
+                86
+            ]
+        }
+    ]
+}

@@ -1,0 +1,765 @@
+{
+    "title": "Trump Organization sentenced to pay $1.6M for felony convictions",
+    "date": "2023-01-13",
+    "topic": "tax",
+    "source": "Fox Business",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Center",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Trump Organization received its sentencing Friday at the New York Supreme Court after being found guilty of a slew of tax fraud-related felonies last year."
+        },
+        {
+            "id": 1,
+            "text": "The organization has been ordered to pay $1.6 million in fines, $800,000 for each of the two entities found guilty in the case."
+        },
+        {
+            "id": 2,
+            "text": "The company has 14 days to pay the financial penalties."
+        },
+        {
+            "id": 3,
+            "text": "Two companies within the Trump Organization were found guilty on a range of financial crime charges last month."
+        },
+        {
+            "id": 4,
+            "text": "Manhattan district attorney prosecutors proved in court that the company dodged significant tax obligations by compensating high-level associates with expensive perks."
+        },
+        {
+            "id": 5,
+            "text": "Luxury cars, apartments, private school tuition, and other \"off the books\" gifts were distributed throughout the approximately 15-year scheme."
+        },
+        {
+            "id": 6,
+            "text": "A New York jury took approximately 10 hours to find Trump Corporation guilty of nine felonies and Trump Payroll Corporation guilty of eight felonies related to the scheme."
+        },
+        {
+            "id": 7,
+            "text": "Former President Trump himself, while found by the court to have sanctioned illegal activities as the company's chief executive, was not involved in the case and is not facing legal penalty."
+        },
+        {
+            "id": 8,
+            "text": "The case against the company was built largely around testimony from the Trump Organization's former finance chief, Allen Weisselberg, who previously pleaded guilty to charges that he manipulated the company's books and his own compensation package to illegally reduce his taxes."
+        },
+        {
+            "id": 9,
+            "text": "He testified in exchange for a promised five-month jail sentence."
+        },
+        {
+            "id": 10,
+            "text": "Weisselberg pleaded guilty last year to dodging taxes on $1.7 million in job perks \u2013 including a free Manhattan apartment, luxury cars and his grandchildren\u2019s private school tuition."
+        },
+        {
+            "id": 11,
+            "text": "He was sentenced Tuesday to five months in prison and five years of probation."
+        },
+        {
+            "id": 12,
+            "text": "New York Supreme Court Justice Juan Merchan handed the sentence to the longtime Trump executive less than two months after his testimony helped convict the former president\u2019s company of tax fraud."
+        },
+        {
+            "id": 13,
+            "text": "According to his attorney, Weisselberg has begun his sentence at New York City\u2019s notorious Rikers Island jail complex."
+        },
+        {
+            "id": 14,
+            "text": "He will be eligible for release after little more than three months if he behaves behind bars."
+        },
+        {
+            "id": 15,
+            "text": "A spokesperson for the Trump Organization told FOX Business that the case was \"unprecedented and legally incorrect\" and said the Trump Organization would appeal the verdict."
+        }
+    ],
+    "id": "STORY_134_DOCUMENT_0",
+    "old_id": "7556_2",
+    "split": "test",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "received",
+            "sentence_id": 0,
+            "start": 23,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "sentencing",
+            "sentence_id": 0,
+            "start": 36,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "found",
+            "sentence_id": 0,
+            "start": 96,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "guilty",
+            "sentence_id": 0,
+            "start": 102,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Trump Organization",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "tax fraud",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "ordered",
+            "sentence_id": 1,
+            "start": 26,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "pay",
+            "sentence_id": 1,
+            "start": 37,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "found",
+            "sentence_id": 1,
+            "start": 102,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "pay",
+            "sentence_id": 2,
+            "start": 27,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "found",
+            "sentence_id": 3,
+            "start": 49,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Trump Organization",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Manhattan district attorney prosecutors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "proved",
+            "sentence_id": 4,
+            "start": 40,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "dodged",
+            "sentence_id": 4,
+            "start": 73,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Trump Organization",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "tax obligations",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "compensating",
+            "sentence_id": 4,
+            "start": 111,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "distributed",
+            "sentence_id": 5,
+            "start": 86,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "scheme",
+            "sentence_id": 5,
+            "start": 135,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Trump Organization",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "tax fraud",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "took",
+            "sentence_id": 6,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "find",
+            "sentence_id": 6,
+            "start": 47,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "scheme",
+            "sentence_id": 6,
+            "start": 164,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Trump Organization",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "tax fraud",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "found",
+            "sentence_id": 7,
+            "start": 38,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "sanctioned",
+            "sentence_id": 7,
+            "start": 65,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "tax fraud",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "activities",
+            "sentence_id": 7,
+            "start": 84,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "involved",
+            "sentence_id": 7,
+            "start": 137,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "tax fraud",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "facing",
+            "sentence_id": 7,
+            "start": 169,
+            "end": 175,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "built",
+            "sentence_id": 8,
+            "start": 33,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "testimony",
+            "sentence_id": 8,
+            "start": 54,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "pleaded",
+            "sentence_id": 8,
+            "start": 150,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "charges",
+            "sentence_id": 8,
+            "start": 168,
+            "end": 175,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "manipulated",
+            "sentence_id": 8,
+            "start": 184,
+            "end": 195,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "reduce",
+            "sentence_id": 8,
+            "start": 262,
+            "end": 268,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "testified",
+            "sentence_id": 9,
+            "start": 3,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "pleaded",
+            "sentence_id": 10,
+            "start": 12,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "dodging",
+            "sentence_id": 10,
+            "start": 40,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "sentenced",
+            "sentence_id": 11,
+            "start": 7,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "handed",
+            "sentence_id": 12,
+            "start": 44,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "sentence",
+            "sentence_id": 12,
+            "start": 55,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "testimony",
+            "sentence_id": 12,
+            "start": 127,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "helped",
+            "sentence_id": 12,
+            "start": 137,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "convict",
+            "sentence_id": 12,
+            "start": 144,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Trump Organization",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Manhattan district attorney prosecutors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "fraud",
+            "sentence_id": 12,
+            "start": 190,
+            "end": 195,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "According",
+            "sentence_id": 13,
+            "start": 0,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "begun",
+            "sentence_id": 13,
+            "start": 43,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "sentence",
+            "sentence_id": 13,
+            "start": 53,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "eligible",
+            "sentence_id": 14,
+            "start": 11,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "release",
+            "sentence_id": 14,
+            "start": 24,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "behaves",
+            "sentence_id": 14,
+            "start": 74,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "told",
+            "sentence_id": 15,
+            "start": 42,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "said",
+            "sentence_id": 15,
+            "start": 120,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "appeal",
+            "sentence_id": 15,
+            "start": 154,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Trump Organization",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "verdict",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 47,
+            "token": "verdict",
+            "sentence_id": 15,
+            "start": 165,
+            "end": 172,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Trump Organization",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                3,
+                8,
+                10,
+                13,
+                16,
+                36,
+                46
+            ]
+        },
+        {
+            "text": "tax fraud",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                3,
+                13,
+                16,
+                18,
+                20
+            ]
+        },
+        {
+            "text": "tax obligations",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                10
+            ]
+        },
+        {
+            "text": "Donald Trump",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                18,
+                20
+            ]
+        },
+        {
+            "text": "Manhattan district attorney prosecutors",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                8,
+                36
+            ]
+        },
+        {
+            "text": "verdict",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                46
+            ]
+        }
+    ]
+}

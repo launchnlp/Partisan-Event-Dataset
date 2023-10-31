@@ -1,0 +1,1552 @@
+{
+    "title": "Bipartisan Senate Coalition Floats Expanded Background Checks, Red Flag Laws for Guns",
+    "date": "2022-05-27",
+    "topic": "gun",
+    "source": "National Review",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Bipartisan Senate Coalition Floats Expanded Background Checks , Red Flag Laws for Guns ."
+        },
+        {
+            "id": 1,
+            "text": "A bipartisan group of ten senators has agreed to come to the negotiating table to attempt to pass legislation aimed at curbing gun violence in the United States after a series of recent mass shootings shocked the nation ."
+        },
+        {
+            "id": 2,
+            "text": "On Tuesday , an 18 - year - old gunman entered an elementary school fourth - grade classroom in Uvalde , Texas and opened fire with a legally purchased AR - 15 , killing 19 children and 2 teachers ."
+        },
+        {
+            "id": 3,
+            "text": "The shooter was later killed in an exchange of gunfire with law enforcement ."
+        },
+        {
+            "id": 4,
+            "text": "A little over a week prior , a gunman stormed a supermarket in a black neighborhood in Buffalo , N.Y. and starting open firing both in the parking lot and in the store , killing thirteen people and wounding two ."
+        },
+        {
+            "id": 5,
+            "text": "Senator Chris Murphy ( D. , Conn. ) is spearheading the talks , which have featured a number of different gun-control proposals such as expanded backgrounded checks , enhanced school security , and red flag laws that allow the confiscation of firearms from those deemed dangerous , the Associated Press reported ."
+        },
+        {
+            "id": 6,
+            "text": "The coalition intends to work on the legislation through the Senate \u2019s recess and introduce it for a vote in early June ."
+        },
+        {
+            "id": 7,
+            "text": "To advance gun control legislation in the Senate , which most Republicans reject , claiming that it does n\u2019t target the root cause of shootings while eroding the civil liberties of law - abiding Americans , Democrats would need the support of ten Republicans in order to meet the 60 - vote filibuster threshold ."
+        },
+        {
+            "id": 8,
+            "text": "One proposal being discussed would possibly incentivize states to enact red flag laws on an individual , rather than national , basis ."
+        },
+        {
+            "id": 9,
+            "text": "But for some Republicans , red flag laws are already too invasive of a regulation ."
+        },
+        {
+            "id": 10,
+            "text": "Senator Lindsey Graham ( R. , S.C. ) , a member of the bipartisan group , told <mask> that such an idea would likely be dead - on - arrival for most of his party , \u201c whatever the color . \u201d"
+        },
+        {
+            "id": 11,
+            "text": "The lawmakers are considering encouraging states to adopt such laws through federal grants ."
+        },
+        {
+            "id": 12,
+            "text": "Senator Richard Blumenthal ( D. , Conn. ) , also in the group , is working on the idea but acknowledged that the \u201c complicated and challenging part \u201d will be determining the criteria for taking a gun from a potentially threatening person ."
+        },
+        {
+            "id": 13,
+            "text": "\u201c There is a powerful emotional element to the red flag statute that gives it momentum , especially after Uvalde and Buffalo , where the shooter indicated very strong signs that he was dangerous , \u201d he told <mask> ."
+        },
+        {
+            "id": 14,
+            "text": "Expanded background checks have also been pitched , but Republicans have pushed back on the idea , especially a more aggressive long - standing initiative driven by Senators Joe Manchin ( D. , W.Va . ) and Pat Toomey ( R. , Pa. ) , both members of the group , to target more commercial gun sales ."
+        },
+        {
+            "id": 15,
+            "text": "Legislation to that effect has failed in the Senate repeatedly in previous years following mass shootings ."
+        },
+        {
+            "id": 16,
+            "text": "Manchin , however , had voiced his skepticism over a bill passed in the House last year that would apply background checks to all sales , including private ones , which he felt crossed a line ."
+        },
+        {
+            "id": 17,
+            "text": "While investigators try to figure out how the Uvalde school shooter breached security , and why police at the scene seemed to be late to intervene , Republicans have proposed ramped - up security at schools ."
+        },
+        {
+            "id": 18,
+            "text": "Republican Senator Mike Rounds told <mask> that he wants to see Congress \u201c promote direct funding for local units , to be able to have the resources available to add additional protections to offer a deterrence for these individuals . \u201d"
+        },
+        {
+            "id": 19,
+            "text": "While Republicans have resisted sweeping gun control measures , Democrats have historically opposed arming teachers , although Murphy , for instance , seemed amenable to improving school security systems on Thursday ."
+        },
+        {
+            "id": 20,
+            "text": "\u201c There is a common denominator we can find , \u201d Murphy said in the chamber Tuesday just hours after the Uvalde tragedy ."
+        },
+        {
+            "id": 21,
+            "text": "\u201c There is a place where we can achieve agreement . \u201d"
+        },
+        {
+            "id": 22,
+            "text": "On Wednesday , Senate Majority Leader Chuck Schumer abandoned his push to hold an immediate vote on legislation to strengthen background checks for gun purchasers , instead urging Americans to make gun control a priority at the voting booth in the 2022 midterms ."
+        }
+    ],
+    "id": "STORY_115_DOCUMENT_0",
+    "old_id": "gun_8_2",
+    "split": "dev",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "Floats",
+            "sentence_id": 0,
+            "start": 28,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "expanded backgrounded checks",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "Bipartisan Senate Coalition",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 1,
+            "token": "agreed",
+            "sentence_id": 1,
+            "start": 39,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "come",
+            "sentence_id": 1,
+            "start": 49,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "attempt",
+            "sentence_id": 1,
+            "start": 82,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "pass",
+            "sentence_id": 1,
+            "start": 93,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bipartisan group",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "legislation aimed at curbing gun violence",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 5,
+            "token": "curbing",
+            "sentence_id": 1,
+            "start": 119,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "shootings",
+            "sentence_id": 1,
+            "start": 191,
+            "end": 200,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "shocked",
+            "sentence_id": 1,
+            "start": 201,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "entered",
+            "sentence_id": 2,
+            "start": 39,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "opened",
+            "sentence_id": 2,
+            "start": 115,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "killing",
+            "sentence_id": 2,
+            "start": 162,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "killed",
+            "sentence_id": 3,
+            "start": 22,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "exchange",
+            "sentence_id": 3,
+            "start": 35,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "stormed",
+            "sentence_id": 4,
+            "start": 38,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "starting",
+            "sentence_id": 4,
+            "start": 106,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "firing",
+            "sentence_id": 4,
+            "start": 120,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "killing",
+            "sentence_id": 4,
+            "start": 170,
+            "end": 177,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "wounding",
+            "sentence_id": 4,
+            "start": 198,
+            "end": 206,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "spearheading",
+            "sentence_id": 5,
+            "start": 39,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Chris Murphy",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 19,
+            "token": "talks",
+            "sentence_id": 5,
+            "start": 56,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "featured",
+            "sentence_id": 5,
+            "start": 75,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": "3",
+                    "text": "Chris Murphy",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "gun-control proposals",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "expanded backgrounded checks",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "enhanced school security",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "red flag laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 21,
+            "token": "allow",
+            "sentence_id": 5,
+            "start": 217,
+            "end": 222,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "confiscation",
+            "sentence_id": 5,
+            "start": 227,
+            "end": 239,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "deemed",
+            "sentence_id": 5,
+            "start": 263,
+            "end": 269,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "reported",
+            "sentence_id": 5,
+            "start": 303,
+            "end": 311,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "intends",
+            "sentence_id": 6,
+            "start": 14,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "work",
+            "sentence_id": 6,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "recess",
+            "sentence_id": 6,
+            "start": 71,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "introduce",
+            "sentence_id": 6,
+            "start": 82,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "vote",
+            "sentence_id": 6,
+            "start": 101,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "advance",
+            "sentence_id": 7,
+            "start": 3,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "reject",
+            "sentence_id": 7,
+            "start": 74,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "gun control legislation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 32,
+            "token": "claiming",
+            "sentence_id": 7,
+            "start": 83,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "target",
+            "sentence_id": 7,
+            "start": 109,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": "9",
+                    "text": "gun control legislation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 34,
+            "token": "shootings",
+            "sentence_id": 7,
+            "start": 134,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "eroding",
+            "sentence_id": 7,
+            "start": 150,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": "9",
+                    "text": "gun control legislation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "civil liberties of law",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 36,
+            "token": "need",
+            "sentence_id": 7,
+            "start": 223,
+            "end": 227,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "meet",
+            "sentence_id": 7,
+            "start": 271,
+            "end": 275,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "discussed",
+            "sentence_id": 8,
+            "start": 19,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "incentivize",
+            "sentence_id": 8,
+            "start": 44,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "enact",
+            "sentence_id": 8,
+            "start": 66,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": "7",
+                    "text": "red flag laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "told",
+            "sentence_id": 10,
+            "start": 74,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "Lindsey Graham",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "7",
+                    "text": "red flag laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "considering",
+            "sentence_id": 11,
+            "start": 18,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "encouraging",
+            "sentence_id": 11,
+            "start": 30,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "lawmakers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "7",
+                    "text": "red flag laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 44,
+            "token": "adopt",
+            "sentence_id": 11,
+            "start": 52,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "working",
+            "sentence_id": 12,
+            "start": 67,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "Richard Blumenthal",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "9",
+                    "text": "gun control legislation",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 46,
+            "token": "acknowledged",
+            "sentence_id": 12,
+            "start": 91,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "determining",
+            "sentence_id": 12,
+            "start": 158,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 48,
+            "token": "taking",
+            "sentence_id": 12,
+            "start": 187,
+            "end": 193,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "gives",
+            "sentence_id": 13,
+            "start": 69,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "red flag laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 50,
+            "token": "indicated",
+            "sentence_id": 13,
+            "start": 145,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "told",
+            "sentence_id": 13,
+            "start": 202,
+            "end": 206,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "pitched",
+            "sentence_id": 14,
+            "start": 42,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": "13",
+                    "text": "Richard Blumenthal",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "5",
+                    "text": "expanded backgrounded checks",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 53,
+            "token": "pushed",
+            "sentence_id": 14,
+            "start": 73,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": "8",
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "5",
+                    "text": "expanded backgrounded checks",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 54,
+            "token": "initiative",
+            "sentence_id": 14,
+            "start": 144,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "driven",
+            "sentence_id": 14,
+            "start": 155,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "target",
+            "sentence_id": 14,
+            "start": 263,
+            "end": 269,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "Joe Manchin",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "Pat Toomey",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "commercial gun sales",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 57,
+            "token": "failed",
+            "sentence_id": 15,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "the Senate",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "9",
+                    "text": "gun control legislation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "shootings",
+            "sentence_id": 15,
+            "start": 96,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "voiced",
+            "sentence_id": 16,
+            "start": 24,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": "15",
+                    "text": "Joe Manchin",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "5",
+                    "text": "expanded backgrounded checks",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 60,
+            "token": "passed",
+            "sentence_id": 16,
+            "start": 58,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "apply",
+            "sentence_id": 16,
+            "start": 99,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "felt",
+            "sentence_id": 16,
+            "start": 172,
+            "end": 176,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": "15",
+                    "text": "Joe Manchin",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "5",
+                    "text": "expanded backgrounded checks",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 63,
+            "token": "crossed",
+            "sentence_id": 16,
+            "start": 177,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "try",
+            "sentence_id": 17,
+            "start": 20,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "figure",
+            "sentence_id": 17,
+            "start": 27,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "breached",
+            "sentence_id": 17,
+            "start": 68,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "seemed",
+            "sentence_id": 17,
+            "start": 116,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "intervene",
+            "sentence_id": 17,
+            "start": 137,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "proposed",
+            "sentence_id": 17,
+            "start": 166,
+            "end": 174,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": "8",
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "6",
+                    "text": "enhanced school security",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 70,
+            "token": "told",
+            "sentence_id": 18,
+            "start": 31,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "wants",
+            "sentence_id": 18,
+            "start": 51,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "see",
+            "sentence_id": 18,
+            "start": 60,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "promote",
+            "sentence_id": 18,
+            "start": 75,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "add",
+            "sentence_id": 18,
+            "start": 162,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "offer",
+            "sentence_id": 18,
+            "start": 192,
+            "end": 197,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "resisted",
+            "sentence_id": 19,
+            "start": 23,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "opposed",
+            "sentence_id": 19,
+            "start": 92,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 78,
+            "token": "arming",
+            "sentence_id": 19,
+            "start": 100,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "seemed",
+            "sentence_id": 19,
+            "start": 151,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "amenable",
+            "sentence_id": 19,
+            "start": 158,
+            "end": 166,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "improving",
+            "sentence_id": 19,
+            "start": 170,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "find",
+            "sentence_id": 20,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "said",
+            "sentence_id": 20,
+            "start": 55,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 84,
+            "token": "tragedy",
+            "sentence_id": 20,
+            "start": 111,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "achieve",
+            "sentence_id": 21,
+            "start": 32,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "abandoned",
+            "sentence_id": 22,
+            "start": 52,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 19,
+                    "text": "Chuck Schumer",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "9",
+                    "text": "gun control legislation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 87,
+            "token": "push",
+            "sentence_id": 22,
+            "start": 66,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 88,
+            "token": "hold",
+            "sentence_id": 22,
+            "start": 74,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "vote",
+            "sentence_id": 22,
+            "start": 92,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 90,
+            "token": "strengthen",
+            "sentence_id": 22,
+            "start": 115,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 91,
+            "token": "urging",
+            "sentence_id": 22,
+            "start": 173,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 92,
+            "token": "make",
+            "sentence_id": 22,
+            "start": 193,
+            "end": 197,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "gun control legislation",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "Chuck Schumer",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 93,
+            "token": "invasive",
+            "sentence_id": 9,
+            "start": 57,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": "8",
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "7",
+                    "text": "red flag laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "bipartisan group",
+            "ideology": "Neutral",
+            "id": 0,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "legislation aimed at curbing gun violence",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "Chris Murphy",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                18
+            ]
+        },
+        {
+            "text": "gun-control proposals",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                20
+            ]
+        },
+        {
+            "text": "expanded backgrounded checks",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                20,
+                0
+            ]
+        },
+        {
+            "text": "enhanced school security",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                20
+            ]
+        },
+        {
+            "text": "red flag laws",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                20,
+                49
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                31
+            ]
+        },
+        {
+            "text": "gun control legislation",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                31,
+                92
+            ]
+        },
+        {
+            "text": "civil liberties of law",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                35
+            ]
+        },
+        {
+            "text": "Lindsey Graham",
+            "ideology": "Right",
+            "id": 11,
+            "events": [
+                41
+            ]
+        },
+        {
+            "text": "lawmakers",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                43
+            ]
+        },
+        {
+            "text": "Richard Blumenthal",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                45
+            ]
+        },
+        {
+            "text": "Joe Manchin",
+            "ideology": "Left",
+            "id": 15,
+            "events": [
+                56
+            ]
+        },
+        {
+            "text": "Pat Toomey",
+            "ideology": "Right",
+            "id": 16,
+            "events": [
+                56
+            ]
+        },
+        {
+            "text": "commercial gun sales",
+            "ideology": "Right",
+            "id": 17,
+            "events": [
+                56
+            ]
+        },
+        {
+            "text": "the Senate",
+            "ideology": "Right",
+            "id": 18,
+            "events": [
+                57
+            ]
+        },
+        {
+            "text": "Chuck Schumer",
+            "ideology": "Left",
+            "id": 19,
+            "events": [
+                86,
+                92
+            ]
+        },
+        {
+            "text": "Bipartisan Senate Coalition",
+            "ideology": "Neutral",
+            "id": 20,
+            "events": [
+                0
+            ]
+        }
+    ]
+}

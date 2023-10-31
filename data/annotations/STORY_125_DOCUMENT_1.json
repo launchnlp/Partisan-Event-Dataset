@@ -1,0 +1,1030 @@
+{
+    "title": "Teacher Who Showed LGBT-Themed Disney Film In Classroom Accuses Concerned Parents Of Not Loving Their Children",
+    "date": "2023-05-16",
+    "topic": "LGBT",
+    "source": "The Daily Caller",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "A teacher under investigation for showing a movie with LGBT themes to 10-year-olds said at a school board meeting that concerned parents may not love their children."
+        },
+        {
+            "id": 1,
+            "text": "Teacher Jenna Barbee of the Hernando County, Florida School District is under investigation by the Florida Department of Education after showing \u201cStrange World,\u201d which features a gay character who has a crush on another man, in her classroom."
+        },
+        {
+            "id": 2,
+            "text": "The teacher posted about the controversy on TikTok, accusing critics of trying to \u201cget rid of every form of representation out of our schools.\u201d"
+        },
+        {
+            "id": 3,
+            "text": "Barbee said that she had signed permission slips from parents to show PG rated movies."
+        },
+        {
+            "id": 4,
+            "text": "(RELATED: Starbucks Blasted For Exporting Transgenderism To India In New Ad Campaign)"
+        },
+        {
+            "id": 5,
+            "text": "Barbee accused school board member Shannon Rodriguez of holding \u201coutdated beliefs\u201d during a May 9 school board meeting."
+        },
+        {
+            "id": 6,
+            "text": "She said Rodriquez was doing \u201cher best to get me removed from the classroom for showing a Disney movie.\u201d"
+        },
+        {
+            "id": 7,
+            "text": "\u201cI tell my students every day that I love them cuz they don\u2019t hear it at home."
+        },
+        {
+            "id": 8,
+            "text": "I pray Shannon\u2019s child doesn\u2019t end up being gay, because then she won\u2019t hear it at home either."
+        },
+        {
+            "id": 9,
+            "text": "People like her are the problem.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "Rodriguez responded later in the meeting."
+        },
+        {
+            "id": 11,
+            "text": "\u201cMs. Barbee chose to show a PG movie without approval,\u201d Rodriguez said, adding that when she brought the showing of the movie to the attention of the school principal, she informed her the movie had not been approved."
+        },
+        {
+            "id": 12,
+            "text": "\u201cWhile Ms. Barbee is busy taking the light off herself and playing the victim, the real victims are our children,\u201d she said."
+        },
+        {
+            "id": 13,
+            "text": "The incident occurred in a school district that allegedly failed to inform parents after a transgender-identified teacher threatened to shoot up her classroom in late March."
+        },
+        {
+            "id": 14,
+            "text": "Parents told the Daily Caller the teacher was back in the classroom the next day, and they were not aware of the incident until reading a local news story."
+        },
+        {
+            "id": 15,
+            "text": "The school vowed to investigate how the incident was handled weeks after it occurred, once the Florida Department of Education reached out about the matter."
+        }
+    ],
+    "id": "STORY_125_DOCUMENT_1",
+    "old_id": "8027_1",
+    "split": "test",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "showing",
+            "sentence_id": 0,
+            "start": 34,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "said",
+            "sentence_id": 0,
+            "start": 83,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "meeting",
+            "sentence_id": 0,
+            "start": 106,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "love",
+            "sentence_id": 0,
+            "start": 145,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "concerned parents",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Teacher Jenna Barbee",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "showing",
+            "sentence_id": 1,
+            "start": 137,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "posted",
+            "sentence_id": 2,
+            "start": 12,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "accusing",
+            "sentence_id": 2,
+            "start": 52,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "trying",
+            "sentence_id": 2,
+            "start": 72,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "get",
+            "sentence_id": 2,
+            "start": 83,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 7,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "signed",
+            "sentence_id": 3,
+            "start": 25,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "parents",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Teacher Jenna Barbee",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 11,
+            "token": "show",
+            "sentence_id": 3,
+            "start": 65,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "Blasted",
+            "sentence_id": 4,
+            "start": 20,
+            "end": 27,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "Exporting",
+            "sentence_id": 4,
+            "start": 32,
+            "end": 41,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "accused",
+            "sentence_id": 5,
+            "start": 7,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "holding",
+            "sentence_id": 5,
+            "start": 56,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "meeting",
+            "sentence_id": 5,
+            "start": 111,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "doing",
+            "sentence_id": 6,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Shannon Rodriguez",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 19,
+            "token": "get",
+            "sentence_id": 6,
+            "start": 42,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "removed",
+            "sentence_id": 6,
+            "start": 49,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Shannon Rodriguez",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Teacher Jenna Barbee",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 21,
+            "token": "showing",
+            "sentence_id": 6,
+            "start": 80,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "tell",
+            "sentence_id": 7,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "love",
+            "sentence_id": 7,
+            "start": 37,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Teacher Jenna Barbee",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "students",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "concerned parents",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 24,
+            "token": "hear",
+            "sentence_id": 7,
+            "start": 62,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "students",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "concerned parents",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 25,
+            "token": "pray",
+            "sentence_id": 8,
+            "start": 2,
+            "end": 6,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "end",
+            "sentence_id": 8,
+            "start": 31,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Shannon\u2019s child",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Shannon Rodriguez",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 27,
+            "token": "hear",
+            "sentence_id": 8,
+            "start": 72,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Shannon\u2019s child",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Shannon Rodriguez",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 28,
+            "token": "responded",
+            "sentence_id": 10,
+            "start": 10,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "meeting",
+            "sentence_id": 10,
+            "start": 33,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "chose",
+            "sentence_id": 11,
+            "start": 12,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "show",
+            "sentence_id": 11,
+            "start": 21,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "approval",
+            "sentence_id": 11,
+            "start": 45,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "said",
+            "sentence_id": 11,
+            "start": 66,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "adding",
+            "sentence_id": 11,
+            "start": 72,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "brought",
+            "sentence_id": 11,
+            "start": 93,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "showing",
+            "sentence_id": 11,
+            "start": 105,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "informed",
+            "sentence_id": 11,
+            "start": 172,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "approved",
+            "sentence_id": 11,
+            "start": 208,
+            "end": 216,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "LGBT-Themed Disney Film",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Teacher Jenna Barbee",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "busy",
+            "sentence_id": 12,
+            "start": 21,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "taking",
+            "sentence_id": 12,
+            "start": 26,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Teacher Jenna Barbee",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "playing",
+            "sentence_id": 12,
+            "start": 59,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Teacher Jenna Barbee",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 119,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Shannon Rodriguez",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Jenna Barbee",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "investigation by the Florida Department of Education",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 43,
+            "token": "incident",
+            "sentence_id": 13,
+            "start": 4,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "occurred",
+            "sentence_id": 13,
+            "start": 13,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "failed",
+            "sentence_id": 13,
+            "start": 58,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Florida School District",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "investigation by the Florida Department of Education",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "parents",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "inform",
+            "sentence_id": 13,
+            "start": 68,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "threatened",
+            "sentence_id": 13,
+            "start": 122,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "a transgender-identified teacher",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 48,
+            "token": "shoot",
+            "sentence_id": 13,
+            "start": 136,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "a transgender-identified teacher",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "told",
+            "sentence_id": 14,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "aware",
+            "sentence_id": 14,
+            "start": 100,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "incident",
+            "sentence_id": 14,
+            "start": 113,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "reading",
+            "sentence_id": 14,
+            "start": 128,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "vowed",
+            "sentence_id": 15,
+            "start": 11,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "investigate",
+            "sentence_id": 15,
+            "start": 20,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "incident",
+            "sentence_id": 15,
+            "start": 40,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "handled",
+            "sentence_id": 15,
+            "start": 53,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "occurred",
+            "sentence_id": 15,
+            "start": 76,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "reached",
+            "sentence_id": 15,
+            "start": 127,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "back",
+            "sentence_id": 14,
+            "start": 46,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "a transgender-identified teacher",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Jenna Barbee",
+            "ideology": "Neutral",
+            "id": 0,
+            "events": [
+                6,
+                14,
+                42
+            ]
+        },
+        {
+            "text": "critics",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                6
+            ]
+        },
+        {
+            "text": "Shannon Rodriguez",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                42,
+                14,
+                18,
+                20,
+                26,
+                27
+            ]
+        },
+        {
+            "text": "investigation by the Florida Department of Education",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                14,
+                42,
+                45
+            ]
+        },
+        {
+            "text": "Florida School District",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                45
+            ]
+        },
+        {
+            "text": "parents",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                10,
+                45
+            ]
+        },
+        {
+            "text": "concerned parents",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                3,
+                23,
+                24
+            ]
+        },
+        {
+            "text": "Teacher Jenna Barbee",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                3,
+                6,
+                10,
+                14,
+                20,
+                23,
+                38,
+                40,
+                41
+            ]
+        },
+        {
+            "text": "students",
+            "ideology": "Uncertain",
+            "id": 8,
+            "events": [
+                23,
+                24
+            ]
+        },
+        {
+            "text": "Shannon\u2019s child",
+            "ideology": "Uncertain",
+            "id": 9,
+            "events": [
+                26,
+                27
+            ]
+        },
+        {
+            "text": "LGBT-Themed Disney Film",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                38
+            ]
+        },
+        {
+            "text": "a transgender-identified teacher",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                47,
+                48,
+                59
+            ]
+        }
+    ]
+}

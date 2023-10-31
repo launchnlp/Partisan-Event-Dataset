@@ -1,0 +1,1782 @@
+{
+    "title": "Trump punts on health care until after the 2020 election",
+    "date": "2019-04-02",
+    "topic": "healthcare",
+    "source": "CNN (Online News)",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Donald Trump on Monday night backed away from his push for a vote on an Obamacare replacement until after the 2020 elections, bowing to the political reality that major health care legislation cannot pass in the current Congress."
+        },
+        {
+            "id": 1,
+            "text": "Trump\u2019s statements come a week after his administration announced that it now agreed with a judge\u2019s ruling that the entire Affordable Care Act should be scrapped."
+        },
+        {
+            "id": 2,
+            "text": "The opinion was a dramatic reversal from the administration\u2019s previous stance that only portions of the act could not be defended."
+        },
+        {
+            "id": 3,
+            "text": "Trump\u2019s latest move allows him to wait on the issue as legal challenges against the health care law, also known as Obamacare, make their way through the federal court system."
+        },
+        {
+            "id": 4,
+            "text": "If it\u2019s ultimately overturned, Trump can claim he made good on a campaign promise in time for his 2020 re-election campaign \u2013 though he would then face the prospect of an estimated 20 million Americans losing their health insurance on his watch, with no Republican replacement in the legislative pipeline."
+        },
+        {
+            "id": 5,
+            "text": "If it\u2019s upheld \u2013 as it has been in previous Supreme Court challenges \u2013 he can rail against a \u201cliberal\u201d court system."
+        },
+        {
+            "id": 6,
+            "text": "\u201cThe Republicans are developing a really great HealthCare Plan with far lower premiums (cost) & deductibles than ObamaCare."
+        },
+        {
+            "id": 7,
+            "text": "In other words it will be far less expensive & much more usable than ObamaCare."
+        },
+        {
+            "id": 8,
+            "text": "Vote will be taken right after the Election when Republicans hold the Senate & win back the House."
+        },
+        {
+            "id": 9,
+            "text": "It will be truly great HealthCare that will work for America,\u201d Trump declared in a series of tweets."
+        },
+        {
+            "id": 10,
+            "text": "\u201cAlso, Republicans will always support Pre-Existing Conditions."
+        },
+        {
+            "id": 11,
+            "text": "The Republican Party will be known as the Party of Great HealtCare."
+        },
+        {
+            "id": 12,
+            "text": "Meantime, the USA is doing better than ever & is respected again!\u201d"
+        },
+        {
+            "id": 13,
+            "text": "Trump unsettled Republican lawmakers last week by putting the spotlight back on the thorny issue of repealing and replacing Obamacare, vowing that his party would turn to replacing the health care law as his administration backed a federal court ruling striking down the law in its entirety."
+        },
+        {
+            "id": 14,
+            "text": "Republican congressional leaders quickly sought to distance themselves from Trump\u2019s latest drive, mindful that passing such a proposal would be virtually impossible in a divided Congress."
+        },
+        {
+            "id": 15,
+            "text": "Trump\u2019s tweets dialed back expectations that Republicans would be able to pass major health care legislation before the 2020 election, but his promise of a vote that would hinge on a Republican takeback of the House ensures nonetheless that health care will figure prominently in 2020."
+        },
+        {
+            "id": 16,
+            "text": "That is a fight Republicans are wary to have after they suffered huge losses in 2018 congressional races in large part over the issue of health care."
+        },
+        {
+            "id": 17,
+            "text": "That trepidation did not stop Trump last week from reversing his administration\u2019s previous legal position that only certain parts of Obamacare should be struck down, instead arguing that the entire law should be scrapped."
+        },
+        {
+            "id": 18,
+            "text": "The appeals process will likely stretch into next year."
+        },
+        {
+            "id": 19,
+            "text": "Long-sought campaign promise"
+        },
+        {
+            "id": 20,
+            "text": "Trump has been stymied on one of his primary campaign promises \u2013 to repeal the signature law of his predecessor \u2013 despite multiple attempts in Congress."
+        },
+        {
+            "id": 21,
+            "text": "Trump attempted on multiple occasions to repeal Obamacare during 2017, when his party was in control of both chambers of Congress, but failed to do so due to a lack of support within his own party."
+        },
+        {
+            "id": 22,
+            "text": "The failed attempts proved to be a galvanizing force for Democrats in the 2018 midterms."
+        },
+        {
+            "id": 23,
+            "text": "Health care was the top issue for Democratic and independent voters, and focusing on the issue helped Democrats take over the House in January."
+        },
+        {
+            "id": 24,
+            "text": "The President has insisted in recent days that, despite his administration\u2019s position that all of the ACA should be struck down, the GOP will be the party of health care."
+        },
+        {
+            "id": 25,
+            "text": "He\u2019s also repeatedly promised to protect people with pre-existing conditions, a provision that would be eliminated if the federal district judge\u2019s ruling in a Texas case is upheld on appeal."
+        },
+        {
+            "id": 26,
+            "text": "Trump said Thursday he\u2019s asked Republican senators to work on a replacement to the Affordable Care Act, but no such group appears to exist."
+        },
+        {
+            "id": 27,
+            "text": "Multiple Republican senators who Trump name-checked said they were not a part of a working group, but had spoken with the President about health care recently."
+        },
+        {
+            "id": 28,
+            "text": "And on Wednesday, Marc Short, Vice President Mike Pence\u2019s chief of staff and the former White House legislative affairs director, claimed on CNN that \u201cthe President will be putting forward plans this year\u201d to replace Obamacare through Congress."
+        },
+        {
+            "id": 29,
+            "text": "White House officials were quick to tell CNN that Short had gotten ahead of White House deliberations."
+        },
+        {
+            "id": 30,
+            "text": "The White House has yet to decide whether it will take the lead on crafting an Obamacare replacement, they said, or whether the President will punt to Republican lawmakers."
+        }
+    ],
+    "id": "STORY_19_DOCUMENT_0",
+    "old_id": "3674_1",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "backed",
+            "sentence_id": 0,
+            "start": 39,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Obamacare replacement",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "push",
+            "sentence_id": 0,
+            "start": 60,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "vote",
+            "sentence_id": 0,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "elections",
+            "sentence_id": 0,
+            "start": 125,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "bowing",
+            "sentence_id": 0,
+            "start": 136,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "pass",
+            "sentence_id": 0,
+            "start": 210,
+            "end": 214,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "statements",
+            "sentence_id": 1,
+            "start": 8,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "come",
+            "sentence_id": 1,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "announced",
+            "sentence_id": 1,
+            "start": 56,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "agreed",
+            "sentence_id": 1,
+            "start": 78,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "ruling",
+            "sentence_id": 1,
+            "start": 100,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "scrapped",
+            "sentence_id": 1,
+            "start": 153,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Obamacare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 12,
+            "token": "opinion",
+            "sentence_id": 2,
+            "start": 4,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "reversal",
+            "sentence_id": 2,
+            "start": 27,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "Obamacare",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "defended",
+            "sentence_id": 2,
+            "start": 121,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "move",
+            "sentence_id": 3,
+            "start": 15,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "allows",
+            "sentence_id": 3,
+            "start": 20,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "wait",
+            "sentence_id": 3,
+            "start": 34,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "challenges",
+            "sentence_id": 3,
+            "start": 61,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "make",
+            "sentence_id": 3,
+            "start": 126,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "overturned",
+            "sentence_id": 4,
+            "start": 19,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "claim",
+            "sentence_id": 4,
+            "start": 41,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "made",
+            "sentence_id": 4,
+            "start": 50,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "promise",
+            "sentence_id": 4,
+            "start": 74,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "face",
+            "sentence_id": 4,
+            "start": 147,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "losing",
+            "sentence_id": 4,
+            "start": 202,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "20 million Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "health insurance",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 26,
+            "token": "upheld",
+            "sentence_id": 5,
+            "start": 8,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "challenges",
+            "sentence_id": 5,
+            "start": 58,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "rail",
+            "sentence_id": 5,
+            "start": 78,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "\u201cliberal\u201d court system",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "developing",
+            "sentence_id": 6,
+            "start": 21,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Obamacare replacement",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 30,
+            "token": "Vote",
+            "sentence_id": 8,
+            "start": 0,
+            "end": 4,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "taken",
+            "sentence_id": 8,
+            "start": 13,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "hold",
+            "sentence_id": 8,
+            "start": 61,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "win",
+            "sentence_id": 8,
+            "start": 79,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "work",
+            "sentence_id": 9,
+            "start": 44,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Obamacare replacement",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "America",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 35,
+            "token": "declared",
+            "sentence_id": 9,
+            "start": 69,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "support",
+            "sentence_id": 10,
+            "start": 31,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "known",
+            "sentence_id": 11,
+            "start": 29,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "America",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 38,
+            "token": "doing",
+            "sentence_id": 12,
+            "start": 21,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "respected",
+            "sentence_id": 12,
+            "start": 49,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "unsettled",
+            "sentence_id": 13,
+            "start": 6,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Republican lawmakers",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "putting",
+            "sentence_id": 13,
+            "start": 50,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "repealing",
+            "sentence_id": 13,
+            "start": 100,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "replacing",
+            "sentence_id": 13,
+            "start": 114,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "vowing",
+            "sentence_id": 13,
+            "start": 135,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "turn",
+            "sentence_id": 13,
+            "start": 163,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "replacing",
+            "sentence_id": 13,
+            "start": 171,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "backed",
+            "sentence_id": 13,
+            "start": 223,
+            "end": 229,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "ruling",
+            "sentence_id": 13,
+            "start": 246,
+            "end": 252,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "striking",
+            "sentence_id": 13,
+            "start": 253,
+            "end": 261,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "sought",
+            "sentence_id": 14,
+            "start": 41,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "distance",
+            "sentence_id": 14,
+            "start": 51,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Republican congressional leaders",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "drive",
+            "sentence_id": 14,
+            "start": 91,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "passing",
+            "sentence_id": 14,
+            "start": 111,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "dialed",
+            "sentence_id": 15,
+            "start": 15,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "able",
+            "sentence_id": 15,
+            "start": 66,
+            "end": 70,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "pass",
+            "sentence_id": 15,
+            "start": 74,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "election",
+            "sentence_id": 15,
+            "start": 125,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "promise",
+            "sentence_id": 15,
+            "start": 143,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "vote",
+            "sentence_id": 15,
+            "start": 156,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "hinge",
+            "sentence_id": 15,
+            "start": 172,
+            "end": 177,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "takeback",
+            "sentence_id": 15,
+            "start": 194,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "ensures",
+            "sentence_id": 15,
+            "start": 216,
+            "end": 223,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "figure",
+            "sentence_id": 15,
+            "start": 258,
+            "end": 264,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "fight",
+            "sentence_id": 16,
+            "start": 10,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "wary",
+            "sentence_id": 16,
+            "start": 32,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Obamacare replacement",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 66,
+            "token": "suffered",
+            "sentence_id": 16,
+            "start": 56,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "losses",
+            "sentence_id": 16,
+            "start": 70,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "races",
+            "sentence_id": 16,
+            "start": 99,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "stop",
+            "sentence_id": 17,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "reversing",
+            "sentence_id": 17,
+            "start": 51,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "struck",
+            "sentence_id": 17,
+            "start": 153,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "arguing",
+            "sentence_id": 17,
+            "start": 174,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "scrapped",
+            "sentence_id": 17,
+            "start": 212,
+            "end": 220,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "Obamacare",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 74,
+            "token": "stretch",
+            "sentence_id": 18,
+            "start": 32,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "stymied",
+            "sentence_id": 20,
+            "start": 15,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Obamacare replacement",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 76,
+            "token": "repeal",
+            "sentence_id": 20,
+            "start": 68,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "attempts",
+            "sentence_id": 20,
+            "start": 131,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "attempted",
+            "sentence_id": 21,
+            "start": 6,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "repeal",
+            "sentence_id": 21,
+            "start": 41,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "failed",
+            "sentence_id": 21,
+            "start": 135,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "Obamacare",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 81,
+            "token": "do",
+            "sentence_id": 21,
+            "start": 145,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "failed",
+            "sentence_id": 22,
+            "start": 4,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "Obamacare",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 83,
+            "token": "attempts",
+            "sentence_id": 22,
+            "start": 11,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 84,
+            "token": "proved",
+            "sentence_id": 22,
+            "start": 20,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "galvanizing",
+            "sentence_id": 22,
+            "start": 35,
+            "end": 46,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "was",
+            "sentence_id": 23,
+            "start": 12,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 87,
+            "token": "focusing",
+            "sentence_id": 23,
+            "start": 73,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Health care",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 88,
+            "token": "helped",
+            "sentence_id": 23,
+            "start": 95,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "take",
+            "sentence_id": 23,
+            "start": 112,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 90,
+            "token": "insisted",
+            "sentence_id": 24,
+            "start": 18,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Obamacare replacement",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 91,
+            "token": "struck",
+            "sentence_id": 24,
+            "start": 116,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 92,
+            "token": "promised",
+            "sentence_id": 25,
+            "start": 21,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 93,
+            "token": "protect",
+            "sentence_id": 25,
+            "start": 33,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "people with pre-existing conditions",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 94,
+            "token": "eliminated",
+            "sentence_id": 25,
+            "start": 104,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 95,
+            "token": "ruling",
+            "sentence_id": 25,
+            "start": 147,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 96,
+            "token": "upheld",
+            "sentence_id": 25,
+            "start": 173,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 97,
+            "token": "said",
+            "sentence_id": 26,
+            "start": 6,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 98,
+            "token": "asked",
+            "sentence_id": 26,
+            "start": 25,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 99,
+            "token": "work",
+            "sentence_id": 26,
+            "start": 54,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 100,
+            "token": "appears",
+            "sentence_id": 26,
+            "start": 122,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 101,
+            "token": "exist",
+            "sentence_id": 26,
+            "start": 133,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Republican senators",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 102,
+            "token": "checked",
+            "sentence_id": 27,
+            "start": 44,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 103,
+            "token": "said",
+            "sentence_id": 27,
+            "start": 52,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 104,
+            "token": "spoken",
+            "sentence_id": 27,
+            "start": 106,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 105,
+            "token": "claimed",
+            "sentence_id": 28,
+            "start": 130,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 106,
+            "token": "putting",
+            "sentence_id": 28,
+            "start": 173,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Obamacare replacement",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 107,
+            "token": "replace",
+            "sentence_id": 28,
+            "start": 209,
+            "end": 216,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 108,
+            "token": "tell",
+            "sentence_id": 29,
+            "start": 36,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 109,
+            "token": "gotten",
+            "sentence_id": 29,
+            "start": 60,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 110,
+            "token": "deliberations",
+            "sentence_id": 29,
+            "start": 88,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 111,
+            "token": "decide",
+            "sentence_id": 30,
+            "start": 27,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 112,
+            "token": "take",
+            "sentence_id": 30,
+            "start": 50,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 113,
+            "token": "crafting",
+            "sentence_id": 30,
+            "start": 67,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 114,
+            "token": "said",
+            "sentence_id": 30,
+            "start": 107,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 115,
+            "token": "punt",
+            "sentence_id": 30,
+            "start": 143,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Republican lawmakers",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "20 million Americans",
+            "ideology": "Neutral",
+            "id": 0,
+            "events": [
+                25
+            ]
+        },
+        {
+            "text": "health insurance",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                25
+            ]
+        },
+        {
+            "text": "President Donald Trump",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                25,
+                0,
+                28,
+                40,
+                51,
+                73,
+                75,
+                80,
+                82,
+                90,
+                93,
+                101,
+                4,
+                13,
+                106,
+                115
+            ]
+        },
+        {
+            "text": "Obamacare replacement",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                0,
+                29,
+                34,
+                65,
+                75,
+                90,
+                106
+            ]
+        },
+        {
+            "text": "\u201cliberal\u201d court system",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                28
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                29,
+                37,
+                65
+            ]
+        },
+        {
+            "text": "America",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                34,
+                37
+            ]
+        },
+        {
+            "text": "Republican lawmakers",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                40,
+                115
+            ]
+        },
+        {
+            "text": "Republican congressional leaders",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                51
+            ]
+        },
+        {
+            "text": "Obamacare",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                73,
+                80,
+                82,
+                11,
+                13
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                87
+            ]
+        },
+        {
+            "text": "Health care",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                87
+            ]
+        },
+        {
+            "text": "people with pre-existing conditions",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": [
+                93
+            ]
+        },
+        {
+            "text": "Republican senators",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                101
+            ]
+        }
+    ]
+}

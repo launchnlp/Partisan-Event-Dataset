@@ -1,0 +1,807 @@
+{
+    "title": "Man Indicted In Rape Of 10-Year-Old Ohio Girl Who Traveled To Indiana For An Abortion",
+    "date": "2022-07-22",
+    "topic": "abortion",
+    "source": "The Daily Caller",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "A grand jury indicted Gerson Fuentes , who recently confessed to raping and impregnating a 10 - year - old girl , Thursday ."
+        },
+        {
+            "id": 1,
+            "text": "Authorities charged the 27 - year - old illegal immigrant on two counts of rape , the Columbus Dispatch reported ."
+        },
+        {
+            "id": 2,
+            "text": "The indictment said the victim was 9 years old at the time of the rape ."
+        },
+        {
+            "id": 3,
+            "text": "Reports of a 10 - year - old child traveling across state lines to Indiana circulated in early July when Dr. Caitlin Bernard , an obstetrician - gynecologist , reported the events to the Indianapolis Star ."
+        },
+        {
+            "id": 4,
+            "text": "Media outlets and prominent political leaders , including Republican Ohio Attorney General Dave Yost , cast doubt on the story until Fuentes confessed to authorities ."
+        },
+        {
+            "id": 5,
+            "text": "Police arrested Fuentes on July 12 after confessing that he raped the child on at least two occasions ."
+        },
+        {
+            "id": 6,
+            "text": "Franklin County Child Services referred the case to police June 22 , where the suspect is being tested for paternity ."
+        },
+        {
+            "id": 7,
+            "text": "The mother of the victim told Telemundo that the media is lying about Fuentes ."
+        },
+        {
+            "id": 8,
+            "text": "She did not file criminal charges against the alleged suspect ."
+        },
+        {
+            "id": 9,
+            "text": "\u201c Yes , but she \u2019s fine , \u201d she said about her daughter ."
+        },
+        {
+            "id": 10,
+            "text": "\u201c Everything that they \u2019re saying against him is a lie . \u201d"
+        },
+        {
+            "id": 11,
+            "text": "Republican Indiana Attorney General Todd Rokita called for an investigation into the rape and vowed that Dr. Bernard would be investigated for allegedly failing to report the incident to the proper authorities ."
+        },
+        {
+            "id": 12,
+            "text": "He threatened to revoke her medical license if she failed to report the procedure to the state , Fox 59 reported ."
+        },
+        {
+            "id": 13,
+            "text": "\u201c This is a child , and there \u2019s a strong public interest in understanding if someone under the age of 16 or under the age of 18 or really any woman is having an abortion in our state ."
+        },
+        {
+            "id": 14,
+            "text": "And then if a child is being sexually abused , of course parents need to know ."
+        },
+        {
+            "id": 15,
+            "text": "Authorities need to know ."
+        },
+        {
+            "id": 16,
+            "text": "Public policy experts need to know . \u201d"
+        },
+        {
+            "id": 17,
+            "text": "Bernard was disciplined by her employer for a HIPAA violation , sources said ."
+        },
+        {
+            "id": 18,
+            "text": "She also incorrectly reported that the suspect was 17 year old ."
+        }
+    ],
+    "id": "STORY_151_DOCUMENT_0",
+    "old_id": "TRIPLET_1063_DOCUMENT_1",
+    "split": "test",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "indicted",
+            "sentence_id": 0,
+            "start": 13,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "confessed",
+            "sentence_id": 0,
+            "start": 52,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "raping",
+            "sentence_id": 0,
+            "start": 65,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "impregnating",
+            "sentence_id": 0,
+            "start": 76,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "charged",
+            "sentence_id": 1,
+            "start": 12,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "reported",
+            "sentence_id": 1,
+            "start": 104,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 15,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "rape",
+            "sentence_id": 2,
+            "start": 66,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "traveling",
+            "sentence_id": 3,
+            "start": 35,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "circulated",
+            "sentence_id": 3,
+            "start": 75,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "reported",
+            "sentence_id": 3,
+            "start": 160,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "events",
+            "sentence_id": 3,
+            "start": 173,
+            "end": 179,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "cast",
+            "sentence_id": 4,
+            "start": 103,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "confessed",
+            "sentence_id": 4,
+            "start": 141,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "arrested",
+            "sentence_id": 5,
+            "start": 7,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "confessing",
+            "sentence_id": 5,
+            "start": 41,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "raped",
+            "sentence_id": 5,
+            "start": 60,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "referred",
+            "sentence_id": 6,
+            "start": 31,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "tested",
+            "sentence_id": 6,
+            "start": 96,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "told",
+            "sentence_id": 7,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "lying",
+            "sentence_id": 7,
+            "start": 58,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "file",
+            "sentence_id": 8,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 32,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "saying",
+            "sentence_id": 10,
+            "start": 27,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "called",
+            "sentence_id": 11,
+            "start": 48,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "investigation",
+            "sentence_id": 11,
+            "start": 62,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "republican indiana attorney general todd rokita",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "the rape",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "rape",
+            "sentence_id": 11,
+            "start": 85,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "vowed",
+            "sentence_id": 11,
+            "start": 94,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "republican indiana attorney general todd rokita",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "investigated",
+            "sentence_id": 11,
+            "start": 126,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "dr. caitlin bernard",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "proper authorities",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "failing",
+            "sentence_id": 11,
+            "start": 153,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "dr. caitlin bernard",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "the rape",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "proper authorities",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 30,
+            "token": "report",
+            "sentence_id": 11,
+            "start": 164,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "incident",
+            "sentence_id": 11,
+            "start": 175,
+            "end": 183,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "threatened",
+            "sentence_id": 12,
+            "start": 3,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "republican indiana attorney general todd rokita",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "dr. caitlin bernard",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 33,
+            "token": "revoke",
+            "sentence_id": 12,
+            "start": 17,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "failed",
+            "sentence_id": 12,
+            "start": 51,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "dr. caitlin bernard",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "proper authorities",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "report",
+            "sentence_id": 12,
+            "start": 61,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "procedure",
+            "sentence_id": 12,
+            "start": 72,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "reported",
+            "sentence_id": 12,
+            "start": 104,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "understanding",
+            "sentence_id": 13,
+            "start": 61,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "having",
+            "sentence_id": 13,
+            "start": 152,
+            "end": 158,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "abused",
+            "sentence_id": 14,
+            "start": 38,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "need",
+            "sentence_id": 14,
+            "start": 65,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "know",
+            "sentence_id": 14,
+            "start": 73,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "need",
+            "sentence_id": 15,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "know",
+            "sentence_id": 15,
+            "start": 20,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "need",
+            "sentence_id": 16,
+            "start": 22,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "know",
+            "sentence_id": 16,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "disciplined",
+            "sentence_id": 17,
+            "start": 12,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "dr. caitlin bernard",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "her employer",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 48,
+            "token": "violation",
+            "sentence_id": 17,
+            "start": 52,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "dr. caitlin bernard",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "hipaa",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 72,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "reported",
+            "sentence_id": 18,
+            "start": 21,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "dr. caitlin bernard",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "proper authorities",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "republican indiana attorney general todd rokita",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                25,
+                27,
+                32
+            ]
+        },
+        {
+            "text": "the rape",
+            "ideology": "N/A",
+            "id": 1,
+            "events": [
+                25,
+                29
+            ]
+        },
+        {
+            "text": "dr. caitlin bernard",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                28,
+                29,
+                32,
+                34,
+                47,
+                48,
+                50
+            ]
+        },
+        {
+            "text": "proper authorities",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                28,
+                29,
+                34,
+                50
+            ]
+        },
+        {
+            "text": "her employer",
+            "ideology": "Uncertain",
+            "id": 4,
+            "events": [
+                47
+            ]
+        },
+        {
+            "text": "hipaa",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                48
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1089 @@
+{
+    "title": "'My intention is ... to run,' Biden tells ABC's Muir on reelection decision",
+    "date": "2023-02-27",
+    "topic": "2024-election",
+    "source": "ABC News (Online)",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "\"It's legitimate for people to raise questions about my age,\" he said."
+        },
+        {
+            "id": 1,
+            "text": "President Joe Biden on Friday reiterated his intention to seek a second term in an exclusive interview with ABC News anchor David Muir, and while he said it is \"legitimate\" for people to raise questions about his age, he said it is not part of his calculation on whether to seek reelection."
+        },
+        {
+            "id": 2,
+            "text": "While Biden once again said he intends to run, he also hinted that the announcement could be a ways off."
+        },
+        {
+            "id": 3,
+            "text": "\"[M]y intention is -- from-- has -- intention has been from the beginning to run."
+        },
+        {
+            "id": 4,
+            "text": "But there's too many other things we have to finish in the near term before I start a campaign,\" he told Muir at the White House."
+        },
+        {
+            "id": 5,
+            "text": "At age 80, Biden is the oldest serving president in U.S. history and questions about his age that followed him during his 2020 campaign have continued throughout his presidency."
+        },
+        {
+            "id": 6,
+            "text": "President Joe Biden speaks to ABC News \"World News Tonight\" anchor David Muir in an exclusive interview on Feb. 24, 2023."
+        },
+        {
+            "id": 7,
+            "text": "\"Let me ask you about a conversation that people are having -- at home, both your supporters, and your critics."
+        },
+        {
+            "id": 8,
+            "text": "They know that if you're reelected, you would be 82 when you're sworn in."
+        },
+        {
+            "id": 9,
+            "text": "You'd be -- 86 at the end of your term."
+        },
+        {
+            "id": 10,
+            "text": "Is your age part of your own calculation into whether to run again?\""
+        },
+        {
+            "id": 11,
+            "text": "Muir pressed Biden."
+        },
+        {
+            "id": 12,
+            "text": "But it's legitimate for people to raise issues about my age."
+        },
+        {
+            "id": 13,
+            "text": "It's totally legitimate to do that."
+        },
+        {
+            "id": 14,
+            "text": "And the only thing I can say is watch me,\" Biden answered."
+        },
+        {
+            "id": 15,
+            "text": "President Joe Biden speaks to ABC News \"World News Tonight\" anchor David Muir in an exclusive interview on Feb. 24, 2023."
+        },
+        {
+            "id": 16,
+            "text": "Biden's comments come after first lady Jill Biden weighed in on a possible reelection campaign in an interview Friday with the Associated Press during a trip to Africa."
+        },
+        {
+            "id": 17,
+            "text": "\"She was asked just today, 'Is all that's left at this point simply setting a time and a place for the announcement?'"
+        },
+        {
+            "id": 18,
+            "text": "And she said, 'Pretty much.'"
+        },
+        {
+            "id": 19,
+            "text": "Do you agree with your wife's assessment?\""
+        },
+        {
+            "id": 20,
+            "text": "Muir asked Biden."
+        },
+        {
+            "id": 21,
+            "text": "\"As my mother would say, \"God love her.\""
+        },
+        {
+            "id": 22,
+            "text": "Look, I-- I s-- I meant what I said."
+        },
+        {
+            "id": 23,
+            "text": "I've got other things to finish before I get into a full-blown campaign.\""
+        },
+        {
+            "id": 24,
+            "text": "Biden replied."
+        },
+        {
+            "id": 25,
+            "text": "While the president did not commit to a reelection bid outright, it appears there is growing support among his family, who Biden has said would play a big role in his deliberations over seeking a second term."
+        },
+        {
+            "id": 26,
+            "text": "Biden's eldest granddaughter, Naomi Biden also responded to her grandmother's comments on Twitter, saying \"Preach nana.\""
+        }
+    ],
+    "id": "STORY_143_DOCUMENT_0",
+    "old_id": "7717_2",
+    "split": "test",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "raise",
+            "sentence_id": 0,
+            "start": 31,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "people",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Joe Biden's age",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 1,
+            "token": "said",
+            "sentence_id": 0,
+            "start": 65,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "reiterated",
+            "sentence_id": 1,
+            "start": 30,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "intention",
+            "sentence_id": 1,
+            "start": 45,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "seek",
+            "sentence_id": 1,
+            "start": 58,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "interview",
+            "sentence_id": 1,
+            "start": 93,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 149,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "raise",
+            "sentence_id": 1,
+            "start": 187,
+            "end": 192,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "people",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Joe Biden's age",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 8,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 221,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "seek",
+            "sentence_id": 1,
+            "start": 274,
+            "end": 278,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Joe Biden's age",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "reelection",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 23,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "intends",
+            "sentence_id": 2,
+            "start": 31,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "run",
+            "sentence_id": 2,
+            "start": 42,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "hinted",
+            "sentence_id": 2,
+            "start": 55,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "announcement",
+            "sentence_id": 2,
+            "start": 71,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "run",
+            "sentence_id": 3,
+            "start": 77,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "finish",
+            "sentence_id": 4,
+            "start": 45,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "start",
+            "sentence_id": 4,
+            "start": 78,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "told",
+            "sentence_id": 4,
+            "start": 100,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "followed",
+            "sentence_id": 5,
+            "start": 98,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "questions about Biden's age",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 20,
+            "token": "campaign",
+            "sentence_id": 5,
+            "start": 127,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "continued",
+            "sentence_id": 5,
+            "start": 141,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "speaks",
+            "sentence_id": 6,
+            "start": 20,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "interview",
+            "sentence_id": 6,
+            "start": 94,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "ask",
+            "sentence_id": 7,
+            "start": 8,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "conversation",
+            "sentence_id": 7,
+            "start": 24,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "having",
+            "sentence_id": 7,
+            "start": 53,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "know",
+            "sentence_id": 8,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "reelected",
+            "sentence_id": 8,
+            "start": 25,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "sworn",
+            "sentence_id": 8,
+            "start": 64,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "calculation",
+            "sentence_id": 10,
+            "start": 29,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "run",
+            "sentence_id": 10,
+            "start": 57,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "pressed",
+            "sentence_id": 11,
+            "start": 5,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "raise",
+            "sentence_id": 12,
+            "start": 34,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "people",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Joe Biden's age",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 34,
+            "token": "do",
+            "sentence_id": 13,
+            "start": 27,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "people",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Joe Biden's age",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 35,
+            "token": "say",
+            "sentence_id": 14,
+            "start": 25,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "watch",
+            "sentence_id": 14,
+            "start": 32,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "people",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "answered",
+            "sentence_id": 14,
+            "start": 49,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "questions about Biden's age",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "speaks",
+            "sentence_id": 15,
+            "start": 20,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "interview",
+            "sentence_id": 15,
+            "start": 94,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "comments",
+            "sentence_id": 16,
+            "start": 8,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "come",
+            "sentence_id": 16,
+            "start": 17,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "weighed",
+            "sentence_id": 16,
+            "start": 50,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "campaign",
+            "sentence_id": 16,
+            "start": 86,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "interview",
+            "sentence_id": 16,
+            "start": 101,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "trip",
+            "sentence_id": 16,
+            "start": 153,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "asked",
+            "sentence_id": 17,
+            "start": 9,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "setting",
+            "sentence_id": 17,
+            "start": 68,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "announcement",
+            "sentence_id": 17,
+            "start": 103,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "said",
+            "sentence_id": 18,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "agree",
+            "sentence_id": 19,
+            "start": 7,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "asked",
+            "sentence_id": 20,
+            "start": 5,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "say",
+            "sentence_id": 21,
+            "start": 20,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "love",
+            "sentence_id": 21,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "meant",
+            "sentence_id": 22,
+            "start": 18,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "reelection",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "said",
+            "sentence_id": 22,
+            "start": 31,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "finish",
+            "sentence_id": 23,
+            "start": 25,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "reelection",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 57,
+            "token": "get",
+            "sentence_id": 23,
+            "start": 41,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "campaign",
+            "sentence_id": 23,
+            "start": 63,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "replied",
+            "sentence_id": 24,
+            "start": 6,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "commit",
+            "sentence_id": 25,
+            "start": 28,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "bid",
+            "sentence_id": 25,
+            "start": 51,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "appears",
+            "sentence_id": 25,
+            "start": 68,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "growing",
+            "sentence_id": 25,
+            "start": 85,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Biden's family",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 64,
+            "token": "said",
+            "sentence_id": 25,
+            "start": 133,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "play",
+            "sentence_id": 25,
+            "start": 144,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "deliberations",
+            "sentence_id": 25,
+            "start": 167,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "seeking",
+            "sentence_id": 25,
+            "start": 186,
+            "end": 193,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "responded",
+            "sentence_id": 26,
+            "start": 47,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "comments",
+            "sentence_id": 26,
+            "start": 78,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "saying",
+            "sentence_id": 26,
+            "start": 99,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "Preach",
+            "sentence_id": 26,
+            "start": 107,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "questions about Biden's age",
+            "ideology": "Neutral",
+            "id": 0,
+            "events": [
+                19,
+                37
+            ]
+        },
+        {
+            "text": "Joe Biden",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                19,
+                37
+            ]
+        },
+        {
+            "text": "people",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                0,
+                7,
+                33,
+                34,
+                36
+            ]
+        },
+        {
+            "text": "Joe Biden's age",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                0,
+                7,
+                9,
+                33,
+                34
+            ]
+        },
+        {
+            "text": "reelection",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                9,
+                54,
+                54,
+                56
+            ]
+        },
+        {
+            "text": "President Joe Biden",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                36,
+                54,
+                56,
+                63
+            ]
+        },
+        {
+            "text": "Biden's family",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                63
+            ]
+        }
+    ]
+}

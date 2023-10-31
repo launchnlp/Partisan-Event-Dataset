@@ -1,0 +1,1793 @@
+{
+    "title": "U.S. Proposes Cuts to Rates in Medicare Payments",
+    "date": "",
+    "topic": "",
+    "source": "New York Times (News)",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "WASHINGTON \u2014 The Obama administration on Friday proposed cuts in Medicare payment rates for managed - care plans serving more than one - fourth of all beneficiaries , and Republicans immediately pounced on the proposal , which appears likely to become a significant issue in this year \u2019s midterm elections ."
+        },
+        {
+            "id": 1,
+            "text": "The proposed reductions were larger than the administration had indicated in guidance given to the insurance industry in December ."
+        },
+        {
+            "id": 2,
+            "text": "Jonathan Blum , a top Medicare official , cited the \u201c historically low growth in Medicare per capita spending \u201d as a reason for the proposal ."
+        },
+        {
+            "id": 3,
+            "text": "But Republicans said beneficiaries would suffer as a result of the cuts , which they traced to the Affordable Care Act ."
+        },
+        {
+            "id": 4,
+            "text": "\u201c America \u2019s seniors are feeling the brunt of Obamacare \u2019s tax increases and cuts to Medicare , \u201d said Senator Mitch McConnell of Kentucky , the Republican leader ."
+        },
+        {
+            "id": 5,
+            "text": "Representative Dave Camp , Republican of Michigan and chairman of the Ways and Means Committee , said , \u201c Millions of seniors who rely on the Medicare Advantage program will lose the plans , benefits , doctors and financial protection they currently have . \u201d"
+        },
+        {
+            "id": 6,
+            "text": "Federal payments to managed - care organizations , known as Medicare Advantage plans , are based on a complicated formula that reflects how much it costs to care for Medicare beneficiaries , and those costs have been growing much more slowly than in the past ."
+        },
+        {
+            "id": 7,
+            "text": "Experts often focus on the benchmarks used to calculate changes in Medicare payments to private plans ."
+        },
+        {
+            "id": 8,
+            "text": "The administration proposed to reduce these benchmarks by 1.9 percent in 2015 ."
+        },
+        {
+            "id": 9,
+            "text": "Other factors in the formula will deepen the cuts ."
+        },
+        {
+            "id": 10,
+            "text": "Lawmakers from both parties had urged the White House to avoid any cuts , even though the reductions in payment were explicitly authorized by the 2010 health care law ."
+        },
+        {
+            "id": 11,
+            "text": "The announcement late Friday is likely to reverberate on Wall Street and on Capitol Hill , where insurers , employers and beneficiaries plan to lobby against the cuts ."
+        },
+        {
+            "id": 12,
+            "text": "That effort was so intense last year that the Obama administration reversed itself , scrapped plans for a cut and increased rates instead ."
+        },
+        {
+            "id": 13,
+            "text": "Karen M. Ignagni , the president of America \u2019s Health Insurance Plans , a trade group , said , \u201c The proposed Medicare Advantage cuts would cause seniors in the program to lose benefits and choices \u201d and could lead to higher premiums and out - of - pocket costs for beneficiaries \u2014 arguments rejected by the administration ."
+        },
+        {
+            "id": 14,
+            "text": "Enrollment in private Medicare Advantage plans , offered by companies like UnitedHealth , Humana and Kaiser Permanente , has more than doubled since 2006 ."
+        },
+        {
+            "id": 15,
+            "text": "About 15 million people \u2014 29 percent of the 52 million Medicare beneficiaries \u2014 are now in such plans ."
+        },
+        {
+            "id": 16,
+            "text": "A bipartisan group of 19 Democrats and 21 Republicans in the Senate sent a letter last week urging the administration to keep payments at current levels ."
+        },
+        {
+            "id": 17,
+            "text": "People in the private plans \u201c enjoy better health outcomes and receive higher quality care than their counterparts \u201d in traditional Medicare , said the letter , drafted by Senators Charles E. Schumer of New York , the No. 3 Senate Democrat , and Michael D. Crapo , Republican of Idaho ."
+        },
+        {
+            "id": 18,
+            "text": "The campaign committee for House Republicans unleashed an attack on Friday that is likely to be echoed in many of this year \u2019s congressional races ."
+        },
+        {
+            "id": 19,
+            "text": "Older Americans , it said , will feel the pain because President Obama and his allies in Congress are \u201c raiding Medicare Advantage to pay for Obamacare . \u201d"
+        },
+        {
+            "id": 20,
+            "text": "Before Congress passed the health care law , independent experts said the government was spending more for patients in the Medicare Advantage program than it was for similar patients enrolled in traditional Medicare ."
+        },
+        {
+            "id": 21,
+            "text": "Mr. Obama said private insurers were \u201c overcharging massively \u201d for the care they provided to Medicare beneficiaries ."
+        },
+        {
+            "id": 22,
+            "text": "In issuing its proposal on Friday , the administration said it was continuing its effort to \u201c reduce overpayments to Medicare Advantage plans . \u201d"
+        },
+        {
+            "id": 23,
+            "text": "The federal health care law squeezed substantial savings out of Medicare , according to the Congressional Budget Office , and the money will help offset the cost of subsidizing coverage for people who were uninsured ."
+        },
+        {
+            "id": 24,
+            "text": "Democrats say the Republican attacks are potentially powerful , but disingenuous ."
+        },
+        {
+            "id": 25,
+            "text": "\u201c Republicans \u2019 false attacks on Medicare are n\u2019t surprising , since they have sought from Day 1 to dismantle it , \u201d said Representative Steve Israel of New York , the chairman of the Democratic Congressional Campaign Committee ."
+        },
+        {
+            "id": 26,
+            "text": "Budget blueprints developed in recent years by House Republicans , including Representative Paul D. Ryan of Wisconsin , retained Medicare savings enacted as part of the health care law ."
+        },
+        {
+            "id": 27,
+            "text": "In addition , Democrats say , Republicans have proposed changes in Medicare that could put older Americans at even greater risk , giving each beneficiary a fixed amount of federal money to spend on either private insurance or traditional Medicare ."
+        }
+    ],
+    "id": "STORY_6_DOCUMENT_1",
+    "old_id": "TRIPLET_189_DOCUMENT_0",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "proposed",
+            "sentence_id": 0,
+            "start": 48,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "cuts",
+            "sentence_id": 0,
+            "start": 57,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "pounced",
+            "sentence_id": 0,
+            "start": 195,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "proposal",
+            "sentence_id": 0,
+            "start": 210,
+            "end": 218,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "appears",
+            "sentence_id": 0,
+            "start": 227,
+            "end": 234,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "become",
+            "sentence_id": 0,
+            "start": 245,
+            "end": 251,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "elections",
+            "sentence_id": 0,
+            "start": 296,
+            "end": 305,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "reductions",
+            "sentence_id": 1,
+            "start": 13,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "indicated",
+            "sentence_id": 1,
+            "start": 64,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "given",
+            "sentence_id": 1,
+            "start": 86,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "cited",
+            "sentence_id": 2,
+            "start": 42,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Jonathan Blum",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "historically low growth in Medicare per capita spending",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "growth",
+            "sentence_id": 2,
+            "start": 71,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "proposal",
+            "sentence_id": 2,
+            "start": 132,
+            "end": 140,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "suffer",
+            "sentence_id": 3,
+            "start": 41,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "America \u2019s seniors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 15,
+            "token": "cuts",
+            "sentence_id": 3,
+            "start": 67,
+            "end": 71,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "traced",
+            "sentence_id": 3,
+            "start": 85,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 17,
+            "token": "feeling",
+            "sentence_id": 4,
+            "start": 25,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "America \u2019s seniors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 18,
+            "token": "increases",
+            "sentence_id": 4,
+            "start": 63,
+            "end": 72,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "cuts",
+            "sentence_id": 4,
+            "start": 77,
+            "end": 81,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 98,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 97,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "lose",
+            "sentence_id": 5,
+            "start": 174,
+            "end": 178,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "America \u2019s seniors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "the Medicare Advantage program",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 23,
+            "token": "care",
+            "sentence_id": 6,
+            "start": 157,
+            "end": 161,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "growing",
+            "sentence_id": 6,
+            "start": 217,
+            "end": 224,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "focus",
+            "sentence_id": 7,
+            "start": 14,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "calculate",
+            "sentence_id": 7,
+            "start": 46,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "changes",
+            "sentence_id": 7,
+            "start": 56,
+            "end": 63,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "proposed",
+            "sentence_id": 8,
+            "start": 19,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "reduce",
+            "sentence_id": 8,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "deepen",
+            "sentence_id": 9,
+            "start": 34,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "cuts",
+            "sentence_id": 9,
+            "start": 45,
+            "end": 49,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "urged",
+            "sentence_id": 10,
+            "start": 32,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "avoid",
+            "sentence_id": 10,
+            "start": 57,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 34,
+            "token": "cuts",
+            "sentence_id": 10,
+            "start": 67,
+            "end": 71,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "reductions",
+            "sentence_id": 10,
+            "start": 90,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "authorized",
+            "sentence_id": 10,
+            "start": 128,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "the 2010 health care law",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "announcement",
+            "sentence_id": 11,
+            "start": 4,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "reverberate",
+            "sentence_id": 11,
+            "start": 42,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "plan",
+            "sentence_id": 11,
+            "start": 136,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "lobby",
+            "sentence_id": 11,
+            "start": 144,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "insurers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "employers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "America \u2019s seniors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 41,
+            "token": "cuts",
+            "sentence_id": 11,
+            "start": 162,
+            "end": 166,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "effort",
+            "sentence_id": 12,
+            "start": 5,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "reversed",
+            "sentence_id": 12,
+            "start": 67,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 44,
+            "token": "scrapped",
+            "sentence_id": 12,
+            "start": 85,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "cut",
+            "sentence_id": 12,
+            "start": 106,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "increased",
+            "sentence_id": 12,
+            "start": 114,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 88,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "cuts",
+            "sentence_id": 13,
+            "start": 129,
+            "end": 133,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "cause",
+            "sentence_id": 13,
+            "start": 140,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "America \u2019s seniors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 50,
+            "token": "lose",
+            "sentence_id": 13,
+            "start": 172,
+            "end": 176,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "lead",
+            "sentence_id": 13,
+            "start": 210,
+            "end": 214,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "higher premiums",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "out - of - pocket costs",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 52,
+            "token": "rejected",
+            "sentence_id": 13,
+            "start": 292,
+            "end": 300,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "doubled",
+            "sentence_id": 14,
+            "start": 135,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "sent",
+            "sentence_id": 16,
+            "start": 68,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "urging",
+            "sentence_id": 16,
+            "start": 92,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "16 A bipartisan group of 19 Democrats and 21 Republicans in the Senate",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "the Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 56,
+            "token": "keep",
+            "sentence_id": 16,
+            "start": 121,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "enjoy",
+            "sentence_id": 17,
+            "start": 30,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "receive",
+            "sentence_id": 17,
+            "start": 63,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 143,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "drafted",
+            "sentence_id": 17,
+            "start": 161,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "unleashed",
+            "sentence_id": 18,
+            "start": 45,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "The campaign committee for House Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 62,
+            "token": "attack",
+            "sentence_id": 18,
+            "start": 58,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "The campaign committee for House Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 63,
+            "token": "echoed",
+            "sentence_id": 18,
+            "start": 96,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "said",
+            "sentence_id": 19,
+            "start": 21,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "feel",
+            "sentence_id": 19,
+            "start": 33,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "America \u2019s seniors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 66,
+            "token": "raiding",
+            "sentence_id": 19,
+            "start": 104,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "the Medicare Advantage program",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 67,
+            "token": "pay",
+            "sentence_id": 19,
+            "start": 134,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "passed",
+            "sentence_id": 20,
+            "start": 16,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "said",
+            "sentence_id": 20,
+            "start": 65,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "spending",
+            "sentence_id": 20,
+            "start": 89,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "the government",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "the Medicare Advantage program",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 71,
+            "token": "said",
+            "sentence_id": 21,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "overcharging",
+            "sentence_id": 21,
+            "start": 39,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "private insurers",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 73,
+            "token": "provided",
+            "sentence_id": 21,
+            "start": 82,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "issuing",
+            "sentence_id": 22,
+            "start": 3,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "said",
+            "sentence_id": 22,
+            "start": 55,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "continuing",
+            "sentence_id": 22,
+            "start": 67,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 77,
+            "token": "effort",
+            "sentence_id": 22,
+            "start": 82,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "reduce",
+            "sentence_id": 22,
+            "start": 94,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "squeezed",
+            "sentence_id": 23,
+            "start": 28,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "according",
+            "sentence_id": 23,
+            "start": 75,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "help",
+            "sentence_id": 23,
+            "start": 141,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "offset",
+            "sentence_id": 23,
+            "start": 146,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The proposed Medicare Advantage cuts",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "the cost of subsidizing coverage for people who were uninsured",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 83,
+            "token": "subsidizing",
+            "sentence_id": 23,
+            "start": 165,
+            "end": 176,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 84,
+            "token": "say",
+            "sentence_id": 24,
+            "start": 10,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 19,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "the Republican attacks",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 85,
+            "token": "attacks",
+            "sentence_id": 24,
+            "start": 29,
+            "end": 36,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "attacks",
+            "sentence_id": 25,
+            "start": 22,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "Medicare",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 87,
+            "token": "sought",
+            "sentence_id": 25,
+            "start": 79,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 88,
+            "token": "dismantle",
+            "sentence_id": 25,
+            "start": 100,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "Medicare",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 89,
+            "token": "said",
+            "sentence_id": 25,
+            "start": 117,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 90,
+            "token": "developed",
+            "sentence_id": 26,
+            "start": 18,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 91,
+            "token": "retained",
+            "sentence_id": 26,
+            "start": 120,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 92,
+            "token": "enacted",
+            "sentence_id": 26,
+            "start": 146,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 93,
+            "token": "say",
+            "sentence_id": 27,
+            "start": 24,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 94,
+            "token": "proposed",
+            "sentence_id": 27,
+            "start": 47,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 95,
+            "token": "changes",
+            "sentence_id": 27,
+            "start": 56,
+            "end": 63,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 96,
+            "token": "put",
+            "sentence_id": 27,
+            "start": 87,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "America \u2019s seniors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 97,
+            "token": "giving",
+            "sentence_id": 27,
+            "start": 130,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 98,
+            "token": "spend",
+            "sentence_id": 27,
+            "start": 189,
+            "end": 194,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                2,
+                16,
+                86,
+                88,
+                96
+            ]
+        },
+        {
+            "text": "The proposed Medicare Advantage cuts",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                2,
+                10,
+                14,
+                17,
+                22,
+                33,
+                36,
+                40,
+                43,
+                49,
+                51,
+                55,
+                70,
+                72,
+                76,
+                61,
+                62,
+                65,
+                82
+            ]
+        },
+        {
+            "text": "Jonathan Blum",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                10
+            ]
+        },
+        {
+            "text": "historically low growth in Medicare per capita spending",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                10
+            ]
+        },
+        {
+            "text": "America \u2019s seniors",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                14,
+                17,
+                22,
+                40,
+                49,
+                96,
+                65
+            ]
+        },
+        {
+            "text": "the Affordable Care Act",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                16,
+                17,
+                66
+            ]
+        },
+        {
+            "text": "the Medicare Advantage program",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                22,
+                66,
+                70
+            ]
+        },
+        {
+            "text": "the Obama administration",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                33,
+                43,
+                55,
+                76
+            ]
+        },
+        {
+            "text": "the 2010 health care law",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                36
+            ]
+        },
+        {
+            "text": "insurers",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                40
+            ]
+        },
+        {
+            "text": "employers",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                40
+            ]
+        },
+        {
+            "text": "higher premiums",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                51
+            ]
+        },
+        {
+            "text": "out - of - pocket costs",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                51
+            ]
+        },
+        {
+            "text": "16 A bipartisan group of 19 Democrats and 21 Republicans in the Senate",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": [
+                55
+            ]
+        },
+        {
+            "text": "The campaign committee for House Republicans",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                61,
+                62
+            ]
+        },
+        {
+            "text": "President Obama",
+            "ideology": "Left",
+            "id": 16,
+            "events": [
+                66,
+                65
+            ]
+        },
+        {
+            "text": "the government",
+            "ideology": "Neutral",
+            "id": 17,
+            "events": [
+                70
+            ]
+        },
+        {
+            "text": "private insurers",
+            "ideology": "Neutral",
+            "id": 18,
+            "events": [
+                72
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 19,
+            "events": [
+                84
+            ]
+        },
+        {
+            "text": "the Republican attacks",
+            "ideology": "Right",
+            "id": 20,
+            "events": [
+                84
+            ]
+        },
+        {
+            "text": "Medicare",
+            "ideology": "Left",
+            "id": 21,
+            "events": [
+                86,
+                88
+            ]
+        },
+        {
+            "text": "the cost of subsidizing coverage for people who were uninsured",
+            "ideology": "Neutral",
+            "id": 22,
+            "events": [
+                82
+            ]
+        }
+    ]
+}

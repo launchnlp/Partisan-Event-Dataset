@@ -1,0 +1,1079 @@
+{
+    "title": "Will Breyer Side With Trump in Congressional Subpoena Fight?",
+    "date": "2020-05-13",
+    "topic": "tax",
+    "source": "Reason",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "The U.S. Supreme Court heard oral arguments yesterday in Trump v. Mazars, a case which asks whether the House Committee on Oversight and Reform overstepped its legal authority in 2019 when it subpoenaed Mazars USA, Donald Trump's longtime accounting firm, demanding eight years of financial records pertaining to Trump and several of his business entities."
+        },
+        {
+            "id": 1,
+            "text": "In Barenblatt v. United States (1959), the Supreme Court held that \"Congress may only investigate into those areas in which it may potentially legislate or appropriate.\""
+        },
+        {
+            "id": 2,
+            "text": "In Eastland v. U.S. Servicemen's Fund (1975), the Court said that the congressional subpoena power may only be used for a \"legitimate legislative purpose.\""
+        },
+        {
+            "id": 3,
+            "text": "The House Committee on Oversight and Reform told the Supreme Court that its efforts to acquire Trump's tax records easily satisfied the \"legitimate legislative purpose\" test."
+        },
+        {
+            "id": 4,
+            "text": "\"The election of a President who has decided to maintain his ties to a broad array of business ventures raises questions about the adequacy of existing legislation concerning financial disclosures, government contracts with federal officeholders, and government ethics, more generally,\" the committee argued."
+        },
+        {
+            "id": 5,
+            "text": "\"Whether new legislation on these subjects is needed is a natural subject of Congressional inquiry.\""
+        },
+        {
+            "id": 6,
+            "text": "Trump and his lawyers told the Court that if the committee prevailed in this case, future congressional committees would be empowered to go on countless fishing expeditions into the private records of future presidents."
+        },
+        {
+            "id": 7,
+            "text": "\"A congressional committee merely needs to say that it is considering legislation requiring presidents to disclose [financial] information of this type,\" Trump's legal team argued."
+        },
+        {
+            "id": 8,
+            "text": "\"Given the temptation to investigate the personal lives of political rivals, legislative subpoenas targeting the private affairs of presidents will become routine in times of divided government.\""
+        },
+        {
+            "id": 9,
+            "text": "The Trump team's warning seemed to resonate with several members of the Court during the oral arguments."
+        },
+        {
+            "id": 10,
+            "text": "Perhaps most worrisome for the Democratic-controlled House Committee on Oversight and Reform, the warning seemed to find a particularly receptive audience in Justice Stephen Breyer, a Democratic appointee and senior figure on the Court's so-called liberal wing."
+        },
+        {
+            "id": 11,
+            "text": "\"The subpoenas that I've seen,\" Breyer told Douglas Letter, the general counsel for the House of Representatives, \"apply to 15 Trump-affiliated entities."
+        },
+        {
+            "id": 12,
+            "text": "They ask for all documents related to opening of accounts, due diligence, closing, requests for information by other parties, et cetera."
+        },
+        {
+            "id": 13,
+            "text": "Now that's a lot of information, and some of it's pretty vague.\""
+        },
+        {
+            "id": 14,
+            "text": "And \"my problem\" with all of that, Breyer continued, is \"the fact that what I hold today [in this case] will also apply to a future Senator McCarthy asking a future Franklin Roosevelt or Harry Truman exactly the same questions.\""
+        },
+        {
+            "id": 15,
+            "text": "That, Breyer told the House's lawyer, \"bothers me.\""
+        },
+        {
+            "id": 16,
+            "text": "These statements do not necessarily mean that Breyer is going to rule in favor of Trump in this case."
+        },
+        {
+            "id": 17,
+            "text": "But they do suggest that the liberal justice is at least weighing the idea that Trump should win this round in order to protect the office of the presidency the next time around."
+        },
+        {
+            "id": 18,
+            "text": "A decision in Trump v. Mazars is expected by June."
+        }
+    ],
+    "id": "STORY_39_DOCUMENT_0",
+    "old_id": "4545_1",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "heard",
+            "sentence_id": 0,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "arguments",
+            "sentence_id": 0,
+            "start": 34,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "asks",
+            "sentence_id": 0,
+            "start": 87,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "overstepped",
+            "sentence_id": 0,
+            "start": 144,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "House Committee on Oversight",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "legal authority",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "subpoenaed",
+            "sentence_id": 0,
+            "start": 192,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "demanding",
+            "sentence_id": 0,
+            "start": 256,
+            "end": 265,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "held",
+            "sentence_id": 1,
+            "start": 57,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "investigate",
+            "sentence_id": 1,
+            "start": 86,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "legislate",
+            "sentence_id": 1,
+            "start": 143,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "appropriate",
+            "sentence_id": 1,
+            "start": 156,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 56,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "used",
+            "sentence_id": 2,
+            "start": 111,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "told",
+            "sentence_id": 3,
+            "start": 44,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "efforts",
+            "sentence_id": 3,
+            "start": 76,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "acquire",
+            "sentence_id": 3,
+            "start": 87,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "satisfied",
+            "sentence_id": 3,
+            "start": 122,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "House Committee on Oversight",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "legitimate legislative purpose",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 16,
+            "token": "election",
+            "sentence_id": 4,
+            "start": 5,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "decided",
+            "sentence_id": 4,
+            "start": 37,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "maintain",
+            "sentence_id": 4,
+            "start": 48,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "business ventures",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 19,
+            "token": "raises",
+            "sentence_id": 4,
+            "start": 104,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "argued",
+            "sentence_id": 4,
+            "start": 301,
+            "end": 307,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "needed",
+            "sentence_id": 5,
+            "start": 46,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "told",
+            "sentence_id": 6,
+            "start": 22,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "prevailed",
+            "sentence_id": 6,
+            "start": 59,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "House Committee on Oversight",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "empowered",
+            "sentence_id": 6,
+            "start": 124,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "future congressional committees",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "the House Committee on Oversight and Reform",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "go",
+            "sentence_id": 6,
+            "start": 137,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "expeditions",
+            "sentence_id": 6,
+            "start": 161,
+            "end": 172,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "say",
+            "sentence_id": 7,
+            "start": 43,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "considering",
+            "sentence_id": 7,
+            "start": 58,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "requiring",
+            "sentence_id": 7,
+            "start": 82,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "disclose",
+            "sentence_id": 7,
+            "start": 106,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "argued",
+            "sentence_id": 7,
+            "start": 173,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "investigate",
+            "sentence_id": 8,
+            "start": 25,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "targeting",
+            "sentence_id": 8,
+            "start": 99,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "legislative subpoenas",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "private affairs of presidents",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "the House Committee on Oversight and Reform",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 34,
+            "token": "become",
+            "sentence_id": 8,
+            "start": 148,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "warning",
+            "sentence_id": 9,
+            "start": 17,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "seemed",
+            "sentence_id": 9,
+            "start": 25,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "resonate",
+            "sentence_id": 9,
+            "start": 35,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "members of the Court",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "The Trump team's warning",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "arguments",
+            "sentence_id": 9,
+            "start": 94,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "warning",
+            "sentence_id": 10,
+            "start": 98,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "seemed",
+            "sentence_id": 10,
+            "start": 106,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "find",
+            "sentence_id": 10,
+            "start": 116,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "The Trump team's warning",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "Justice Stephen Breyer",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "seen",
+            "sentence_id": 11,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "told",
+            "sentence_id": 11,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "apply",
+            "sentence_id": 11,
+            "start": 115,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "ask",
+            "sentence_id": 12,
+            "start": 5,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "opening",
+            "sentence_id": 12,
+            "start": 38,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "requests",
+            "sentence_id": 12,
+            "start": 83,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "continued",
+            "sentence_id": 14,
+            "start": 42,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "hold",
+            "sentence_id": 14,
+            "start": 78,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "apply",
+            "sentence_id": 14,
+            "start": 114,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "asking",
+            "sentence_id": 14,
+            "start": 149,
+            "end": 155,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "told",
+            "sentence_id": 15,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "bothers",
+            "sentence_id": 15,
+            "start": 39,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "House Committee on Oversight",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Stephen Breyer",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "Justice Stephen Breyer",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "The Trump team's warning",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 54,
+            "token": "mean",
+            "sentence_id": 16,
+            "start": 36,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "rule",
+            "sentence_id": 16,
+            "start": 65,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "suggest",
+            "sentence_id": 17,
+            "start": 12,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "weighing",
+            "sentence_id": 17,
+            "start": 57,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "win",
+            "sentence_id": 17,
+            "start": 93,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "private affairs of presidents",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "The Trump team's warning",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 59,
+            "token": "protect",
+            "sentence_id": 17,
+            "start": 120,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "office of the presidency",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "the office of the presidency",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "private affairs of presidents",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "The Trump team's warning",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 60,
+            "token": "decision",
+            "sentence_id": 18,
+            "start": 2,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "expected",
+            "sentence_id": 18,
+            "start": 33,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "House Committee on Oversight",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                15,
+                3,
+                23,
+                53
+            ]
+        },
+        {
+            "text": "legitimate legislative purpose",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                15
+            ]
+        },
+        {
+            "text": "legal authority",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                3
+            ]
+        },
+        {
+            "text": "Donald Trump",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                37,
+                18,
+                23,
+                58,
+                59
+            ]
+        },
+        {
+            "text": "business ventures",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                18
+            ]
+        },
+        {
+            "text": "members of the Court",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                37
+            ]
+        },
+        {
+            "text": "Stephen Breyer",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                53
+            ]
+        },
+        {
+            "text": "office of the presidency",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                59
+            ]
+        },
+        {
+            "text": "future congressional committees",
+            "ideology": "Uncertain",
+            "id": 8,
+            "events": [
+                24
+            ]
+        },
+        {
+            "text": "the House Committee on Oversight and Reform",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                24,
+                33
+            ]
+        },
+        {
+            "text": "legislative subpoenas",
+            "ideology": "Uncertain",
+            "id": 10,
+            "events": [
+                33
+            ]
+        },
+        {
+            "text": "private affairs of presidents",
+            "ideology": "N/A",
+            "id": 11,
+            "events": [
+                33,
+                58,
+                59
+            ]
+        },
+        {
+            "text": "the office of the presidency",
+            "ideology": "N/A",
+            "id": 12,
+            "events": [
+                59
+            ]
+        },
+        {
+            "text": "The Trump team's warning",
+            "ideology": "Right",
+            "id": 13,
+            "events": [
+                37,
+                41,
+                53,
+                58,
+                59
+            ]
+        },
+        {
+            "text": "Justice Stephen Breyer",
+            "ideology": "Left",
+            "id": 14,
+            "events": [
+                41,
+                53
+            ]
+        }
+    ]
+}

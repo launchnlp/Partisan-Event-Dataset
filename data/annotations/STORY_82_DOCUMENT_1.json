@@ -1,0 +1,2743 @@
+{
+    "title": "Trump Moves Forward On Biggest Environmental Rollback To Date Amid Pandemic Chaos",
+    "date": "2020-03-31",
+    "topic": "climate-change",
+    "source": "HuffPost",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "The White House released the final version of its rules to roll back Obama-era auto emissions standards, taking a critical step toward completing what would be President Donald Trump\u2019s most substantial environmental change since taking office as the novel coronavirus pandemic rages."
+        },
+        {
+            "id": 1,
+            "text": "The rule, called the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule and written by the Environmental Protection Agency and the Department of Transportation, would lower fuel economy standards for vehicles sold in the United States from 54 miles per gallon by 2025 to 40 miles per gallon."
+        },
+        {
+            "id": 2,
+            "text": "\u201cBy reducing regulatory burdens, thereby reducing regulatory costs, we will get more Americans into new, safer, cleaner vehicles,\u201d EPA Administrator Andrew Wheeler said in a call with reporters Tuesday."
+        },
+        {
+            "id": 3,
+            "text": "The two-digit change carries 10-digit implications for climate change."
+        },
+        {
+            "id": 4,
+            "text": "Under the new standard, which could be implemented as soon as this spring, the U.S. auto fleet would emit nearly additional 1 billion metric tons of carbon dioxide over their lifespans on the road than they would under the existing rule."
+        },
+        {
+            "id": 5,
+            "text": "That\u2019s nearly the annual emissions of Japan, the world\u2019s fifth-largest source of planet-heating carbon dioxide."
+        },
+        {
+            "id": 6,
+            "text": "President Donald Trump pats down his hair as he speaks during the Coronavirus Task Force daily briefing on COVID-19 in the Rose Garden."
+        },
+        {
+            "id": 7,
+            "text": "The Trump administration insisted it was acting on behalf of American car buyers who prefer gas-guzzling sport utility vehicles and pickup trucks to fuel-efficient cars and electric vehicles."
+        },
+        {
+            "id": 8,
+            "text": "The administration argued repeatedly since first proposing the rollback two years ago that the health benefits of decreasing air pollution from the U.S. auto fleet were dwarfed by the harm caused by discouraging the purchase of newer, safer vehicles."
+        },
+        {
+            "id": 9,
+            "text": "\u201cThe benefits of the final SAFE rule outweigh the costs and will result in thousands of lives saved,\u201d Wheeler said Tuesday."
+        },
+        {
+            "id": 10,
+            "text": "That math did not bear out when the White House first proposed its replacement to the 2012 fuel mileage rule."
+        },
+        {
+            "id": 11,
+            "text": "Yet the administration fought on anyway, dividing the auto industry between a handful of manufacturers who sided with California regulators, who supported keeping the stronger existing standards, and another group that publicly backed federal authorities in their quest to weaken the rules."
+        },
+        {
+            "id": 12,
+            "text": "In October, the fight took an abrupt turn when the administration backed down, and the Department of Justice abandoned an investigation into the companies that sided with California."
+        },
+        {
+            "id": 13,
+            "text": "But as the United States became the epicenter of the global pandemic of COVID-19, the respiratory disease caused by the new virus, the White House ramped up its environmental agenda, halting virtually all the EPA\u2019s enforcement of anti-pollution laws and approving new pipelines and mining projects."
+        },
+        {
+            "id": 14,
+            "text": "\u201cThe Trump administration is facing one of the biggest crises in modern history, so while this new rule might offer a bit of regulatory certainty it\u2019s coming at a time of complete economic uncertainty, and seems to be more of an ideological power move than anything else,\u201d said Jessica Caldwell, an analyst at the auto industry consultancy Edmunds."
+        },
+        {
+            "id": 15,
+            "text": "Environmental groups on Tuesday condemned the administration for continuing to push its pro-polluter agenda as Americans are focused on a rapidly worsening public health crisis."
+        },
+        {
+            "id": 16,
+            "text": "\u201cEven in the midst of a global pandemic, the Trump Administration continues to jeopardize the health of millions of Americans by weakening air pollution protections,\u201d Heather McTeer Toney, the national field director of Moms Clean Air Force, said in a statement."
+        },
+        {
+            "id": 17,
+            "text": "\u201cThese rollbacks are dangerous, and further reveal the true priority of Trump\u2019s EPA: protect polluters at all costs, even if it sacrifices the health of Americans.\u201d"
+        },
+        {
+            "id": 18,
+            "text": "Gina McCarthy, the former EPA administrator during President Barack Obama\u2019s second term and current president of the Natural Resources Defense Council, said the Trump rollback simply \u201cmakes no sense.\u201d"
+        },
+        {
+            "id": 19,
+            "text": "\u201cIt will harm the air we breathe, stall progress in fighting the climate crisis and increase the cost of driving,\u201d McCarthy said in a statement."
+        },
+        {
+            "id": 20,
+            "text": "\u201cThe only winner from this action is the oil industry, which wants us stuck driving dirty gas guzzlers as long as possible.\u201d"
+        },
+        {
+            "id": 21,
+            "text": "Even Obama, who has so far remained mum on his successor\u2019s assault on his regulatory legacy, made a rare public comment on the rollback."
+        },
+        {
+            "id": 22,
+            "text": "\u201cWe\u2019ve seen all too terribly the consequences of those who denied warnings of a pandemic."
+        },
+        {
+            "id": 23,
+            "text": "We can\u2019t afford any more consequences of climate denial,\u201d he tweeted Tuesday morning with a link to a Los Angeles Times news article on the finalized rule."
+        },
+        {
+            "id": 24,
+            "text": "\u201cAll of us, especially young people, have to demand better of our government at every level and vote this fall.\u201d"
+        }
+    ],
+    "id": "STORY_82_DOCUMENT_1",
+    "old_id": "4436_2",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "released",
+            "sentence_id": 0,
+            "start": 16,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "roll",
+            "sentence_id": 0,
+            "start": 59,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "taking",
+            "sentence_id": 0,
+            "start": 105,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "completing",
+            "sentence_id": 0,
+            "start": 135,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "rules to roll back Obama-era auto emissions standards",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "President Donald Trump\u2019s most substantial environmental change",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "novel coronavirus pandemic rages",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "change",
+            "sentence_id": 0,
+            "start": 216,
+            "end": 222,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "taking",
+            "sentence_id": 0,
+            "start": 229,
+            "end": 235,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "rages",
+            "sentence_id": 0,
+            "start": 277,
+            "end": 282,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "the novel coronavirus pandemic",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 7,
+            "token": "written",
+            "sentence_id": 1,
+            "start": 78,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "lower",
+            "sentence_id": 1,
+            "start": 169,
+            "end": 174,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "reducing",
+            "sentence_id": 2,
+            "start": 4,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 10,
+            "token": "reducing",
+            "sentence_id": 2,
+            "start": 41,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 11,
+            "token": "get",
+            "sentence_id": 2,
+            "start": 76,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "new, safer, cleaner vehicles",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 12,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 164,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "call",
+            "sentence_id": 2,
+            "start": 174,
+            "end": 178,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "change",
+            "sentence_id": 3,
+            "start": 14,
+            "end": 20,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "carries",
+            "sentence_id": 3,
+            "start": 21,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "climate change",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 16,
+            "token": "implemented",
+            "sentence_id": 4,
+            "start": 39,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "emit",
+            "sentence_id": 4,
+            "start": 101,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "the U.S. auto fleet",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "the U.S. auto fleet",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "additional 1 billion metric tons of carbon dioxide",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 18,
+            "token": "pats",
+            "sentence_id": 6,
+            "start": 23,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "novel coronavirus pandemic rages",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 19,
+            "token": "speaks",
+            "sentence_id": 6,
+            "start": 48,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "briefing",
+            "sentence_id": 6,
+            "start": 95,
+            "end": 103,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "insisted",
+            "sentence_id": 7,
+            "start": 25,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "new, safer, cleaner vehicles",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "acting",
+            "sentence_id": 7,
+            "start": 41,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "prefer",
+            "sentence_id": 7,
+            "start": 85,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "gas-guzzling sport utility vehicles and pickup trucks",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 24,
+            "token": "argued",
+            "sentence_id": 8,
+            "start": 19,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "proposing",
+            "sentence_id": 8,
+            "start": 49,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "rollback",
+            "sentence_id": 8,
+            "start": 63,
+            "end": 71,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "decreasing",
+            "sentence_id": 8,
+            "start": 114,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "dwarfed",
+            "sentence_id": 8,
+            "start": 169,
+            "end": 176,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "climate change",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "the auto industry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 29,
+            "token": "caused",
+            "sentence_id": 8,
+            "start": 189,
+            "end": 195,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "discouraging",
+            "sentence_id": 8,
+            "start": 199,
+            "end": 211,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the auto industry",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 31,
+            "token": "purchase",
+            "sentence_id": 8,
+            "start": 216,
+            "end": 224,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "outweigh",
+            "sentence_id": 9,
+            "start": 37,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "climate change",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "decreasing air pollution",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 33,
+            "token": "result",
+            "sentence_id": 9,
+            "start": 65,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "new, safer, cleaner vehicles",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 34,
+            "token": "saved",
+            "sentence_id": 9,
+            "start": 94,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 35,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 110,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "bear",
+            "sentence_id": 10,
+            "start": 18,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "decreasing air pollution",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "new, safer, cleaner vehicles",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 37,
+            "token": "proposed",
+            "sentence_id": 10,
+            "start": 54,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "replacement",
+            "sentence_id": 10,
+            "start": 67,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Obama-era auto emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "fought",
+            "sentence_id": 11,
+            "start": 23,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 40,
+            "token": "dividing",
+            "sentence_id": 11,
+            "start": 41,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 25,
+                    "text": "auto industry",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 41,
+            "token": "sided",
+            "sentence_id": 11,
+            "start": 107,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "California regulators",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Obama-era auto emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "supported",
+            "sentence_id": 11,
+            "start": 145,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "California regulators",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Obama-era auto emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 43,
+            "token": "keeping",
+            "sentence_id": 11,
+            "start": 155,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "backed",
+            "sentence_id": 11,
+            "start": 228,
+            "end": 234,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "gas-guzzling sport utility vehicles and pickup trucks",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "quest",
+            "sentence_id": 11,
+            "start": 264,
+            "end": 269,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "weaken",
+            "sentence_id": 11,
+            "start": 273,
+            "end": 279,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Obama-era auto emissions standards",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "fight",
+            "sentence_id": 12,
+            "start": 16,
+            "end": 21,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "took",
+            "sentence_id": 12,
+            "start": 22,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "backed",
+            "sentence_id": 12,
+            "start": 66,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 50,
+            "token": "abandoned",
+            "sentence_id": 12,
+            "start": 109,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "California regulators",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "investigation",
+            "sentence_id": 12,
+            "start": 122,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "sided",
+            "sentence_id": 12,
+            "start": 160,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "became",
+            "sentence_id": 13,
+            "start": 25,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "ramped",
+            "sentence_id": 13,
+            "start": 147,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 26,
+                    "text": "environmental agenda",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 55,
+            "token": "halting",
+            "sentence_id": 13,
+            "start": 183,
+            "end": 190,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "anti-pollution laws",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "anti-pollution laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 56,
+            "token": "enforcement",
+            "sentence_id": 13,
+            "start": 215,
+            "end": 226,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "approving",
+            "sentence_id": 13,
+            "start": 254,
+            "end": 263,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 27,
+                    "text": "new pipelines and mining projects",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "facing",
+            "sentence_id": 14,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 29,
+                    "text": "global pandemic of COVID-19",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 59,
+            "token": "crises",
+            "sentence_id": 14,
+            "start": 55,
+            "end": 61,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "offer",
+            "sentence_id": 14,
+            "start": 110,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 61,
+            "token": "coming",
+            "sentence_id": 14,
+            "start": 151,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 62,
+            "token": "seems",
+            "sentence_id": 14,
+            "start": 206,
+            "end": 211,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 28,
+                    "text": "ideological power move",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 63,
+            "token": "move",
+            "sentence_id": 14,
+            "start": 247,
+            "end": 251,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "said",
+            "sentence_id": 14,
+            "start": 273,
+            "end": 277,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "condemned",
+            "sentence_id": 15,
+            "start": 32,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "Environmental groups",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 66,
+            "token": "continuing",
+            "sentence_id": 15,
+            "start": 65,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "push",
+            "sentence_id": 15,
+            "start": 79,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 68,
+            "token": "focused",
+            "sentence_id": 15,
+            "start": 125,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 29,
+                    "text": "global pandemic of COVID-19",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 69,
+            "token": "crisis",
+            "sentence_id": 15,
+            "start": 170,
+            "end": 176,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "continues",
+            "sentence_id": 16,
+            "start": 66,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 71,
+            "token": "jeopardize",
+            "sentence_id": 16,
+            "start": 79,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 30,
+                    "text": "health of millions of Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 72,
+            "token": "weakening",
+            "sentence_id": 16,
+            "start": 129,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 31,
+                    "text": "air pollution protections",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 73,
+            "token": "said",
+            "sentence_id": 16,
+            "start": 242,
+            "end": 246,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "rollbacks",
+            "sentence_id": 17,
+            "start": 7,
+            "end": 16,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "reveal",
+            "sentence_id": 17,
+            "start": 44,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 76,
+            "token": "protect",
+            "sentence_id": 17,
+            "start": 85,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Trump\u2019s EPA",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 32,
+                    "text": "polluters",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 77,
+            "token": "sacrifices",
+            "sentence_id": 17,
+            "start": 128,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Trump\u2019s EPA",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 78,
+            "token": "said",
+            "sentence_id": 18,
+            "start": 152,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "rollback",
+            "sentence_id": 18,
+            "start": 167,
+            "end": 175,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "makes",
+            "sentence_id": 18,
+            "start": 184,
+            "end": 189,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 26,
+                    "text": "environmental agenda",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 81,
+            "token": "harm",
+            "sentence_id": 19,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 30,
+                    "text": "health of millions of Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 82,
+            "token": "breathe",
+            "sentence_id": 19,
+            "start": 25,
+            "end": 32,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "stall",
+            "sentence_id": 19,
+            "start": 34,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 26,
+                    "text": "environmental agenda",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 84,
+            "token": "fighting",
+            "sentence_id": 19,
+            "start": 52,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "climate crisis",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 85,
+            "token": "increase",
+            "sentence_id": 19,
+            "start": 84,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 33,
+                    "text": "cost of driving",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 86,
+            "token": "said",
+            "sentence_id": 19,
+            "start": 124,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 87,
+            "token": "action",
+            "sentence_id": 20,
+            "start": 27,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 20,
+                    "text": "Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 34,
+                    "text": "oil industry",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 88,
+            "token": "wants",
+            "sentence_id": 20,
+            "start": 61,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "the oil industry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 89,
+            "token": "stuck",
+            "sentence_id": 20,
+            "start": 70,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "gas-guzzling sport utility vehicles and pickup trucks",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "the oil industry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 90,
+            "token": "driving",
+            "sentence_id": 20,
+            "start": 76,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "gas-guzzling sport utility vehicles and pickup trucks",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 91,
+            "token": "remained",
+            "sentence_id": 21,
+            "start": 27,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 92,
+            "token": "assault",
+            "sentence_id": 21,
+            "start": 59,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "Obama",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 93,
+            "token": "made",
+            "sentence_id": 21,
+            "start": 93,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "Obama",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 94,
+            "token": "comment",
+            "sentence_id": 21,
+            "start": 112,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "Obama",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 95,
+            "token": "rollback",
+            "sentence_id": 21,
+            "start": 127,
+            "end": 135,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 96,
+            "token": "seen",
+            "sentence_id": 22,
+            "start": 7,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "the novel coronavirus pandemic",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 97,
+            "token": "denied",
+            "sentence_id": 22,
+            "start": 59,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "the novel coronavirus pandemic",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 98,
+            "token": "afford",
+            "sentence_id": 23,
+            "start": 9,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "climate crisis",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 99,
+            "token": "denial",
+            "sentence_id": 23,
+            "start": 49,
+            "end": 55,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 100,
+            "token": "tweeted",
+            "sentence_id": 23,
+            "start": 61,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 101,
+            "token": "demand",
+            "sentence_id": 24,
+            "start": 45,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 102,
+            "token": "vote",
+            "sentence_id": 24,
+            "start": 96,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 103,
+            "token": "caused",
+            "sentence_id": 13,
+            "start": 106,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "the novel coronavirus pandemic",
+            "ideology": "N/A",
+            "id": 0,
+            "events": [
+                6,
+                96,
+                97
+            ]
+        },
+        {
+            "text": "Trump",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                6,
+                18,
+                92,
+                94,
+                96,
+                97,
+                101,
+                102
+            ]
+        },
+        {
+            "text": "the Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                9,
+                10,
+                11,
+                15,
+                17,
+                22,
+                23,
+                28,
+                30,
+                32,
+                33,
+                34,
+                36,
+                38,
+                40,
+                41,
+                60,
+                61,
+                62,
+                72,
+                75,
+                77,
+                80,
+                81,
+                83,
+                84,
+                85,
+                88,
+                89,
+                90,
+                98
+            ]
+        },
+        {
+            "text": "the U.S. auto fleet",
+            "ideology": "N/A",
+            "id": 3,
+            "events": [
+                17
+            ]
+        },
+        {
+            "text": "The Trump administration",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                21,
+                22,
+                23,
+                39,
+                40,
+                44,
+                46,
+                48,
+                49,
+                50,
+                54,
+                55,
+                57,
+                58,
+                62,
+                65,
+                67,
+                70,
+                71,
+                72
+            ]
+        },
+        {
+            "text": "gas-guzzling sport utility vehicles and pickup trucks",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                23,
+                44,
+                89,
+                90
+            ]
+        },
+        {
+            "text": "climate change",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                32,
+                28,
+                15
+            ]
+        },
+        {
+            "text": "the auto industry",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                28,
+                30
+            ]
+        },
+        {
+            "text": "Obama-era auto emissions standards",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                38,
+                41,
+                42,
+                46
+            ]
+        },
+        {
+            "text": "California regulators",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                41,
+                42,
+                50
+            ]
+        },
+        {
+            "text": "anti-pollution laws",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                55
+            ]
+        },
+        {
+            "text": "Environmental groups",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                65
+            ]
+        },
+        {
+            "text": "Trump\u2019s EPA",
+            "ideology": "Right",
+            "id": 12,
+            "events": [
+                76,
+                77
+            ]
+        },
+        {
+            "text": "climate crisis",
+            "ideology": "N/A",
+            "id": 13,
+            "events": [
+                84,
+                98
+            ]
+        },
+        {
+            "text": "the oil industry",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                88,
+                89
+            ]
+        },
+        {
+            "text": "Americans",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                96,
+                98,
+                68,
+                101,
+                102,
+                89
+            ]
+        },
+        {
+            "text": "Obama",
+            "ideology": "Left",
+            "id": 16,
+            "events": [
+                92,
+                93,
+                94
+            ]
+        },
+        {
+            "text": "rules to roll back Obama-era auto emissions standards",
+            "ideology": "Right",
+            "id": 17,
+            "events": [
+                3
+            ]
+        },
+        {
+            "text": "President Donald Trump\u2019s most substantial environmental change",
+            "ideology": "Right",
+            "id": 18,
+            "events": [
+                3
+            ]
+        },
+        {
+            "text": "novel coronavirus pandemic rages",
+            "ideology": "Neutral",
+            "id": 19,
+            "events": [
+                3,
+                18
+            ]
+        },
+        {
+            "text": "Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule",
+            "ideology": "Right",
+            "id": 20,
+            "events": [
+                11,
+                15,
+                17,
+                32,
+                33,
+                39,
+                62,
+                67,
+                80,
+                81,
+                83,
+                85,
+                87,
+                93,
+                101
+            ]
+        },
+        {
+            "text": "new, safer, cleaner vehicles",
+            "ideology": "Neutral",
+            "id": 21,
+            "events": [
+                11,
+                21,
+                33,
+                36
+            ]
+        },
+        {
+            "text": "additional 1 billion metric tons of carbon dioxide",
+            "ideology": "Neutral",
+            "id": 22,
+            "events": [
+                17
+            ]
+        },
+        {
+            "text": "President Donald Trump",
+            "ideology": "Right",
+            "id": 23,
+            "events": [
+                18,
+                21,
+                36,
+                39,
+                40,
+                54,
+                55,
+                57,
+                58,
+                67,
+                68,
+                71,
+                72,
+                76,
+                101
+            ]
+        },
+        {
+            "text": "decreasing air pollution",
+            "ideology": "Neutral",
+            "id": 24,
+            "events": [
+                32,
+                36
+            ]
+        },
+        {
+            "text": "auto industry",
+            "ideology": "Neutral",
+            "id": 25,
+            "events": [
+                40
+            ]
+        },
+        {
+            "text": "environmental agenda",
+            "ideology": "Neutral",
+            "id": 26,
+            "events": [
+                54,
+                80,
+                83
+            ]
+        },
+        {
+            "text": "new pipelines and mining projects",
+            "ideology": "Right",
+            "id": 27,
+            "events": [
+                57
+            ]
+        },
+        {
+            "text": "ideological power move",
+            "ideology": "Right",
+            "id": 28,
+            "events": [
+                62
+            ]
+        },
+        {
+            "text": "global pandemic of COVID-19",
+            "ideology": "Neutral",
+            "id": 29,
+            "events": [
+                58,
+                68
+            ]
+        },
+        {
+            "text": "health of millions of Americans",
+            "ideology": "Neutral",
+            "id": 30,
+            "events": [
+                71,
+                81
+            ]
+        },
+        {
+            "text": "air pollution protections",
+            "ideology": "Neutral",
+            "id": 31,
+            "events": [
+                72
+            ]
+        },
+        {
+            "text": "polluters",
+            "ideology": "Neutral",
+            "id": 32,
+            "events": [
+                76
+            ]
+        },
+        {
+            "text": "cost of driving",
+            "ideology": "Neutral",
+            "id": 33,
+            "events": [
+                85
+            ]
+        },
+        {
+            "text": "oil industry",
+            "ideology": "Neutral",
+            "id": 34,
+            "events": [
+                87
+            ]
+        }
+    ]
+}

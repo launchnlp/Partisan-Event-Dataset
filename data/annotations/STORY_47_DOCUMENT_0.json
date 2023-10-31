@@ -1,0 +1,1206 @@
+{
+    "title": "Republican senators warn Iran in open letter",
+    "date": "2015-03-09",
+    "topic": "us_senate",
+    "source": "Politico",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Republican senators want to give Iranian leaders \u2014 and the president \u2014 a refresher on the constitutional balance of power ."
+        },
+        {
+            "id": 1,
+            "text": "In a highly unusual move , a group of 47 Republicans in the upper chamber has written to Iran \u2019s top leaders to let them know that any nuclear deal they reach with the United States would be \u201c nothing more than an executive agreement . \u201d"
+        },
+        {
+            "id": 2,
+            "text": "Freshman Sen. Tom Cotton ( R - Ark. ) organized the letter , which features signatures from top Republican Senate leadership and potential presidential candidates such as Sens. Marco Rubio of Florida , Ted Cruz of Texas and Rand Paul of Kentucky ."
+        },
+        {
+            "id": 3,
+            "text": "The following Republican senators did not sign the bill : Lamar Alexander of Tennessee , Dan Coats of Indiana , Thad Cochran of Mississippi , Susan Collins of Maine , Bob Corker of Tennessee , Jeff Flake of Arizona and Lisa Murkowski of Alaska ."
+        },
+        {
+            "id": 4,
+            "text": "Democrats blasted the letter , with Minority Whip Dick Durbin calling it a \u201c cynical effort \u201d that lays bare partisan rancor for the world to see ."
+        },
+        {
+            "id": 5,
+            "text": "\u201c Understand that if these negotiations fail , a military response to Iran developing their nuclear capability becomes more likely , \u201d Durbin ( D - Ill . ) said in a written statement ."
+        },
+        {
+            "id": 6,
+            "text": "\u201c These Republican Senators should think twice about whether their political stunt is worth the threat of another war in the Middle East . \u201d"
+        },
+        {
+            "id": 7,
+            "text": "Responding to the missive on Monday , White House press secretary Josh Earnest told reporters that \u201c writing a letter like this that appeals to the hardliners in Iran is frankly just the latest in an ongoing [ Republican ] strategy \u2013 a partisan strategy \u2013 to interfere \u201d in foreign policy ."
+        },
+        {
+            "id": 8,
+            "text": "And California Rep. Adam Schiff , the ranking Democrat on the House Intelligence Committee , called the letter is \u201c deeply irresponsible . \u201d"
+        },
+        {
+            "id": 9,
+            "text": "\u201c We are so far beyond politics ending at the water \u2019s edge , \u201d Schiff said on MSNBC \u2019s \u201c Andrea Mitchell Reports . \u201d"
+        },
+        {
+            "id": 10,
+            "text": "\u201c And on an issue of this seminal importance while sensitive negotiations are going forward , for these senators to interfere in this way , it \u2019s really unthinkable ."
+        },
+        {
+            "id": 11,
+            "text": "And it just shows how the political process has degenerated that these senators would take such a step . \u201d"
+        },
+        {
+            "id": 12,
+            "text": "In an appearance on \u201c Fox and Friends \u201d earlier Monday morning , Cotton said Iran is a greater threat to the United States than the Islamic State of Iraq and the Levant and welcomed any Democrats or potential presidential candidates to sign the letter ."
+        },
+        {
+            "id": 13,
+            "text": "\u201c I \u2019d encourage Hillary Clinton to join us , \u201d he said ."
+        },
+        {
+            "id": 14,
+            "text": "The letter , first reported by Bloomberg View columnist Josh Rogin , is meant to turn up the heat on President Barack Obama to give Congress some power over the nuclear negotiations ."
+        },
+        {
+            "id": 15,
+            "text": "\u201c It has come to our attention while observing your nuclear negotiations with our government that you may not fully understand our constitutional system ."
+        },
+        {
+            "id": 16,
+            "text": "Thus , we are writing to bring to your attention two features of our Constitution \u2014 the power to make binding international agreements and the different character of federal offices \u2014 which you should seriously consider as negotiations progress , \u201d the senators wrote ."
+        },
+        {
+            "id": 17,
+            "text": "\u201c Anything not approved by Congress is a mere executive agreement . \u201d"
+        },
+        {
+            "id": 18,
+            "text": "Negotiators could soon reach a framework agreement , but not before the March 24 congressional deadline , POLITICO has reported ."
+        },
+        {
+            "id": 19,
+            "text": "The senators also wrote to inform the Iranian regime that Obama will be in office only until 2017 , at which time any nuclear agreement could change ."
+        },
+        {
+            "id": 20,
+            "text": "\u201c The next president could revoke such an executive agreement with the stroke of a pen and future Congresses could modify the terms of the agreement at any time , \u201d they wrote ."
+        }
+    ],
+    "id": "STORY_47_DOCUMENT_0",
+    "old_id": "TRIPLET_023_DOCUMENT_0",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "want",
+            "sentence_id": 0,
+            "start": 20,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "republican senators",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "iranian leaders",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "president barack obama",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "give",
+            "sentence_id": 0,
+            "start": 28,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "move",
+            "sentence_id": 1,
+            "start": 20,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "written",
+            "sentence_id": 1,
+            "start": 78,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "let",
+            "sentence_id": 1,
+            "start": 112,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "republican senators",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "nuclear negotiations with our government",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "know",
+            "sentence_id": 1,
+            "start": 121,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "reach",
+            "sentence_id": 1,
+            "start": 153,
+            "end": 158,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "organized",
+            "sentence_id": 2,
+            "start": 38,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "features",
+            "sentence_id": 2,
+            "start": 67,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "sign",
+            "sentence_id": 3,
+            "start": 42,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "blasted",
+            "sentence_id": 4,
+            "start": 10,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "open letter",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "calling",
+            "sentence_id": 4,
+            "start": 62,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "minority whip dick durbin",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "open letter",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 12,
+            "token": "lays",
+            "sentence_id": 4,
+            "start": 99,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "open letter",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "republican senators",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 13,
+            "token": "see",
+            "sentence_id": 4,
+            "start": 142,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "Understand",
+            "sentence_id": 5,
+            "start": 2,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "negotiations",
+            "sentence_id": 5,
+            "start": 27,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "fail",
+            "sentence_id": 5,
+            "start": 40,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "response",
+            "sentence_id": 5,
+            "start": 58,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "developing",
+            "sentence_id": 5,
+            "start": 75,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "becomes",
+            "sentence_id": 5,
+            "start": 111,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 156,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "republican senators",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "think",
+            "sentence_id": 6,
+            "start": 35,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "republican senators",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "stunt",
+            "sentence_id": 6,
+            "start": 77,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "war",
+            "sentence_id": 6,
+            "start": 114,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "Responding",
+            "sentence_id": 7,
+            "start": 0,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "told",
+            "sentence_id": 7,
+            "start": 79,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 20,
+                    "text": "White House press secretary Josh Earnest",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 26,
+            "token": "writing",
+            "sentence_id": 7,
+            "start": 101,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "appeals",
+            "sentence_id": 7,
+            "start": 133,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "strategy",
+            "sentence_id": 7,
+            "start": 223,
+            "end": 231,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "interfere",
+            "sentence_id": 7,
+            "start": 259,
+            "end": 268,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "republican senators",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 30,
+            "token": "called",
+            "sentence_id": 8,
+            "start": 93,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "california rep. adam schiff",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "open letter",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 31,
+            "token": "ending",
+            "sentence_id": 9,
+            "start": 32,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "negotiations",
+            "sentence_id": 10,
+            "start": 61,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "going",
+            "sentence_id": 10,
+            "start": 78,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "interfere",
+            "sentence_id": 10,
+            "start": 116,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "republican senators",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 36,
+            "token": "shows",
+            "sentence_id": 11,
+            "start": 12,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "open letter",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 37,
+            "token": "degenerated",
+            "sentence_id": 11,
+            "start": 48,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "republican senators",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "open letter",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 38,
+            "token": "take",
+            "sentence_id": 11,
+            "start": 86,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "appearance",
+            "sentence_id": 12,
+            "start": 6,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 72,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "welcomed",
+            "sentence_id": 12,
+            "start": 173,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "sign",
+            "sentence_id": 12,
+            "start": 236,
+            "end": 240,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "encourage",
+            "sentence_id": 13,
+            "start": 7,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "join",
+            "sentence_id": 13,
+            "start": 36,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 51,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "reported",
+            "sentence_id": 14,
+            "start": 19,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "meant",
+            "sentence_id": 14,
+            "start": 72,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "open letter",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 48,
+            "token": "turn",
+            "sentence_id": 14,
+            "start": 81,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "republican senators",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "open letter",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "give",
+            "sentence_id": 14,
+            "start": 127,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "negotiations",
+            "sentence_id": 14,
+            "start": 169,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "come",
+            "sentence_id": 15,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "observing",
+            "sentence_id": 15,
+            "start": 37,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "negotiations",
+            "sentence_id": 15,
+            "start": 60,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "understand",
+            "sentence_id": 15,
+            "start": 116,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "our constitutional system",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "iranian leaders",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "nuclear negotiations with our government",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "writing",
+            "sentence_id": 16,
+            "start": 14,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "bring",
+            "sentence_id": 16,
+            "start": 25,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "make",
+            "sentence_id": 16,
+            "start": 97,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "consider",
+            "sentence_id": 16,
+            "start": 211,
+            "end": 219,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "negotiations",
+            "sentence_id": 16,
+            "start": 223,
+            "end": 235,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "progress",
+            "sentence_id": 16,
+            "start": 236,
+            "end": 244,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "wrote",
+            "sentence_id": 16,
+            "start": 262,
+            "end": 267,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "approved",
+            "sentence_id": 17,
+            "start": 15,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "nuclear negotiations with our government",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 63,
+            "token": "reach",
+            "sentence_id": 18,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "reported",
+            "sentence_id": 18,
+            "start": 119,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "wrote",
+            "sentence_id": 19,
+            "start": 18,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "inform",
+            "sentence_id": 19,
+            "start": 27,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "president barack obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "republican senators",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 67,
+            "token": "change",
+            "sentence_id": 19,
+            "start": 142,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "revoke",
+            "sentence_id": 20,
+            "start": 27,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "the next president",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "nuclear negotiations with our government",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 69,
+            "token": "stroke",
+            "sentence_id": 20,
+            "start": 71,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "modify",
+            "sentence_id": 20,
+            "start": 115,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "nuclear negotiations with our government",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 71,
+            "token": "wrote",
+            "sentence_id": 20,
+            "start": 170,
+            "end": 175,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "open letter",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                10,
+                11,
+                12,
+                30,
+                21,
+                25,
+                36,
+                37,
+                47,
+                48
+            ]
+        },
+        {
+            "text": "democrats",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                10
+            ]
+        },
+        {
+            "text": "minority whip dick durbin",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                11,
+                20
+            ]
+        },
+        {
+            "text": "california rep. adam schiff",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                30
+            ]
+        },
+        {
+            "text": "president barack obama",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                66,
+                0
+            ]
+        },
+        {
+            "text": "our constitutional system",
+            "ideology": "N/A",
+            "id": 9,
+            "events": [
+                54
+            ]
+        },
+        {
+            "text": "the next president",
+            "ideology": "Uncertain",
+            "id": 11,
+            "events": [
+                68
+            ]
+        },
+        {
+            "text": "republican senators",
+            "ideology": "Right",
+            "id": 15,
+            "events": [
+                0,
+                12,
+                20,
+                21,
+                29,
+                35,
+                48,
+                4,
+                37,
+                66
+            ]
+        },
+        {
+            "text": "iranian leaders",
+            "ideology": "Neutral",
+            "id": 17,
+            "events": [
+                0,
+                4,
+                54
+            ]
+        },
+        {
+            "text": "White House press secretary Josh Earnest",
+            "ideology": "Left",
+            "id": 20,
+            "events": [
+                25
+            ]
+        },
+        {
+            "text": "nuclear negotiations with our government",
+            "ideology": "Left",
+            "id": 21,
+            "events": [
+                54,
+                62,
+                68,
+                70,
+                4
+            ]
+        }
+    ]
+}

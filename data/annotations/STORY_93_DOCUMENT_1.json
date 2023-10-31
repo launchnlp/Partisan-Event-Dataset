@@ -1,0 +1,1487 @@
+{
+    "title": "Rep. Cori Bush scorched for referring to women as \u2018birthing people:' She's reducing mothers 'to a function'",
+    "date": "2021-05-10",
+    "topic": "race-and-racism",
+    "source": "Fox News (Online News)",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Democratic Missouri Rep. Cori Bush riled up her online critics on Thursday when she referred to women as \"birthing people\" during a congressional hearing."
+        },
+        {
+            "id": 1,
+            "text": "The \"squad\" member was heavily ridiculed after she publicly refrained from using the word \"women\" during a Democratic oversight committee hearing where she recounted her personal experience with difficult pregnancies to raise awareness of the rising maternal death rate among Black expectant mothers."
+        },
+        {
+            "id": 2,
+            "text": "Bush shared a video of the hearing to her Twitter page with the caption, \"Every day, Black birthing people and our babies die because our doctors don\u2019t believe our pain."
+        },
+        {
+            "id": 3,
+            "text": "My children almost became a statistic."
+        },
+        {
+            "id": 4,
+            "text": "I almost became a statistic."
+        },
+        {
+            "id": 5,
+            "text": "I testified about my experience @OversightDems today."
+        },
+        {
+            "id": 6,
+            "text": "Hear us."
+        },
+        {
+            "id": 7,
+            "text": "Believe us."
+        },
+        {
+            "id": 8,
+            "text": "Because for so long, nobody has.\""
+        },
+        {
+            "id": 9,
+            "text": "The remark set off a fierce reaction on social media."
+        },
+        {
+            "id": 10,
+            "text": "Critics chastised Bush for reducing women to a \"function\" with her use of the term."
+        },
+        {
+            "id": 11,
+            "text": "\"This is s---,\" Washington Examiner columnist Tim Carney wrote."
+        },
+        {
+            "id": 12,
+            "text": "\"They're called mothers."
+        },
+        {
+            "id": 13,
+            "text": "Calling them \"birthing people\" is reducing them to a function--making them not human."
+        },
+        {
+            "id": 14,
+            "text": "That's what's at the heart of this whole gender ideology."
+        },
+        {
+            "id": 15,
+            "text": "Reduce us to atomized autonomous individuals without a role or connection.\""
+        },
+        {
+            "id": 16,
+            "text": "Daily Wire writer Emily Zanotti called the term \"absolutely insulting\" and \"almost unimaginable.\""
+        },
+        {
+            "id": 17,
+            "text": "\"Eff off with that nonsense,\" she wrote."
+        },
+        {
+            "id": 18,
+            "text": "Washington Examiner writer Becket Adams said \"referring to Black mothers collectively as \"black birthing people\" undermines their inherent dignity and humanity, which is the opposite of the congresswoman\u2019s stated goal.\""
+        },
+        {
+            "id": 19,
+            "text": "\"Birthing people\" - you mean women or moms? \" South Carolina Republican Rep. Nancy"
+        },
+        {
+            "id": 20,
+            "text": "Mace wrote."
+        },
+        {
+            "id": 21,
+            "text": "\"The left is so woke they're stripping from women the one thing that only we can do."
+        },
+        {
+            "id": 22,
+            "text": "Leave it to libs to botch highlighting an important issue ppl in both parties can agree on by catering to the fringes...\""
+        },
+        {
+            "id": 23,
+            "text": "Former Trump adviser Steve Cortes questioned whether Mother's Day will get a new title."
+        },
+        {
+            "id": 24,
+            "text": "\"Birthing people.\""
+        },
+        {
+            "id": 25,
+            "text": "This upcoming Sunday is no longer Mothers Day, it\u2019s Birthing Peoples\u2019 Day,\" he mocked."
+        },
+        {
+            "id": 26,
+            "text": "Journalist Chad Felix Greene called the term \"possibly the most degrading, humiliating, misogynistic phrase to dehumanize women ever invented.\""
+        },
+        {
+            "id": 27,
+            "text": "\"Susan B. Anthony was arrested for voting in 1872 just so women in 2021 could demote themselves to \"birthing people,\" Daily Caller report Greg Price agreed."
+        },
+        {
+            "id": 28,
+            "text": "NARAL, a prominent Pro-Choice nonprofit, defended the term late Thursday, writing alongside Bush's tweet, \"When we talk about birthing people, we're being inclusive."
+        },
+        {
+            "id": 29,
+            "text": "It's that simple."
+        },
+        {
+            "id": 30,
+            "text": "We use gender neutral language when talking about pregnancy, because it's not just cis-gender women that can get pregnant and give birth."
+        },
+        {
+            "id": 31,
+            "text": "Reproductive freedom is for *every* body.\""
+        }
+    ],
+    "id": "STORY_93_DOCUMENT_1",
+    "old_id": "5606_0",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "riled",
+            "sentence_id": 0,
+            "start": 35,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic Missouri Rep. Cori Bush",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "referred",
+            "sentence_id": 0,
+            "start": 84,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic Missouri Rep. Cori Bush",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "women",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "hearing",
+            "sentence_id": 0,
+            "start": 146,
+            "end": 153,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "ridiculed",
+            "sentence_id": 1,
+            "start": 31,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic Missouri Rep. Cori Bush",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "refrained",
+            "sentence_id": 1,
+            "start": 60,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "using",
+            "sentence_id": 1,
+            "start": 75,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "hearing",
+            "sentence_id": 1,
+            "start": 138,
+            "end": 145,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "recounted",
+            "sentence_id": 1,
+            "start": 156,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "raise",
+            "sentence_id": 1,
+            "start": 220,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic Missouri Rep. Cori Bush",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "rising maternal death rate among Black expectant mothers",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 9,
+            "token": "shared",
+            "sentence_id": 2,
+            "start": 5,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "hearing",
+            "sentence_id": 2,
+            "start": 27,
+            "end": 34,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "die",
+            "sentence_id": 2,
+            "start": 122,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "awareness of the rising maternal death rate among Black expectant mothers",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Black birthing people and our babies",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 12,
+            "token": "believe",
+            "sentence_id": 2,
+            "start": 152,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Black birthing people and our babies",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "awareness of the rising maternal death rate among Black expectant mothers",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 13,
+            "token": "became",
+            "sentence_id": 3,
+            "start": 19,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Black birthing people and our babies",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "awareness of the rising maternal death rate among Black expectant mothers",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 14,
+            "token": "became",
+            "sentence_id": 4,
+            "start": 9,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic Missouri Rep. Cori Bush",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "awareness of the rising maternal death rate among Black expectant mothers",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 15,
+            "token": "testified",
+            "sentence_id": 5,
+            "start": 2,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic Missouri Rep. Cori Bush",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "awareness of the rising maternal death rate among Black expectant mothers",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 16,
+            "token": "experience",
+            "sentence_id": 5,
+            "start": 21,
+            "end": 31,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "Hear",
+            "sentence_id": 6,
+            "start": 0,
+            "end": 4,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Black birthing people and our babies",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "awareness of the rising maternal death rate among Black expectant mothers",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 18,
+            "token": "remark",
+            "sentence_id": 9,
+            "start": 4,
+            "end": 10,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "set",
+            "sentence_id": 9,
+            "start": 11,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "referring to women as \u2018birthing people'",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "reaction",
+            "sentence_id": 9,
+            "start": 28,
+            "end": 36,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "chastised",
+            "sentence_id": 10,
+            "start": 8,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic Missouri Rep. Cori Bush",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "reducing",
+            "sentence_id": 10,
+            "start": 27,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic Missouri Rep. Cori Bush",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "women",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 23,
+            "token": "use",
+            "sentence_id": 10,
+            "start": 67,
+            "end": 70,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "wrote",
+            "sentence_id": 11,
+            "start": 57,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "Calling",
+            "sentence_id": 13,
+            "start": 0,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic Missouri Rep. Cori Bush",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "women",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "reducing",
+            "sentence_id": 13,
+            "start": 34,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic Missouri Rep. Cori Bush",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "women",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "referring to women as \u2018birthing people'",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 27,
+            "token": "making",
+            "sentence_id": 13,
+            "start": 63,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "women",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "referring to women as \u2018birthing people'",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "called",
+            "sentence_id": 16,
+            "start": 32,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Daily Wire writer Emily Zanotti",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Democratic Missouri Rep. Cori Bush",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "wrote",
+            "sentence_id": 17,
+            "start": 34,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "said",
+            "sentence_id": 18,
+            "start": 40,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "referring",
+            "sentence_id": 18,
+            "start": 46,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "undermines",
+            "sentence_id": 18,
+            "start": 113,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic Missouri Rep. Cori Bush",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Black mothers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "referring to women as \u2018birthing people'",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 33,
+            "token": "wrote",
+            "sentence_id": 20,
+            "start": 5,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "stripping",
+            "sentence_id": 21,
+            "start": 29,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "The left",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "women",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 35,
+            "token": "botch",
+            "sentence_id": 22,
+            "start": 20,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "The left",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "important issue",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "awareness of the rising maternal death rate among Black expectant mothers",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 36,
+            "token": "highlighting",
+            "sentence_id": 22,
+            "start": 26,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "agree",
+            "sentence_id": 22,
+            "start": 82,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "catering",
+            "sentence_id": 22,
+            "start": 94,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "The left",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "the fringes",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "referring to women as \u2018birthing people'",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 39,
+            "token": "questioned",
+            "sentence_id": 23,
+            "start": 34,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "get",
+            "sentence_id": 23,
+            "start": 71,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "Mother's Day",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "\"Birthing people\"",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "mocked",
+            "sentence_id": 25,
+            "start": 79,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Former Trump adviser Steve Cortes",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Democratic Missouri Rep. Cori Bush",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "The left",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "\"Birthing people\"",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 42,
+            "token": "called",
+            "sentence_id": 26,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Journalist Chad Felix Greene",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Democratic Missouri Rep. Cori Bush",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 43,
+            "token": "invented",
+            "sentence_id": 26,
+            "start": 133,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic Missouri Rep. Cori Bush",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "\"Birthing people\"",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "arrested",
+            "sentence_id": 27,
+            "start": 22,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "voting",
+            "sentence_id": 27,
+            "start": 35,
+            "end": 41,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "demote",
+            "sentence_id": 27,
+            "start": 78,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic Missouri Rep. Cori Bush",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "women",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "women",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "\"Birthing people\"",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 47,
+            "token": "agreed",
+            "sentence_id": 27,
+            "start": 149,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "defended",
+            "sentence_id": 28,
+            "start": 41,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "NARAL",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Democratic Missouri Rep. Cori Bush",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "NARAL, a prominent Pro-Choice nonprofit",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "\"Birthing people\"",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 49,
+            "token": "writing",
+            "sentence_id": 28,
+            "start": 74,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "talk",
+            "sentence_id": 28,
+            "start": 115,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "\"Birthing people\"",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 51,
+            "token": "use",
+            "sentence_id": 30,
+            "start": 3,
+            "end": 6,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "The left",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "\"Birthing people\"",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 52,
+            "token": "talking",
+            "sentence_id": 30,
+            "start": 36,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "The left",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "\"Birthing people\"",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 53,
+            "token": "get",
+            "sentence_id": 30,
+            "start": 109,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "cis-gender women",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "\"Birthing people\"",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 54,
+            "token": "give",
+            "sentence_id": 30,
+            "start": 126,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "cis-gender women",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "\"Birthing people\"",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 55,
+            "token": "Believe",
+            "sentence_id": 7,
+            "start": 0,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Black birthing people and our babies",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "awareness of the rising maternal death rate among Black expectant mothers",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 56,
+            "token": "Reduce",
+            "sentence_id": 15,
+            "start": 0,
+            "end": 6,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "this whole gender ideology",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "referring to women as \u2018birthing people'",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Democratic Missouri Rep. Cori Bush",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                32,
+                1,
+                0,
+                3,
+                8,
+                41,
+                42,
+                43,
+                46,
+                14,
+                48,
+                15,
+                21,
+                22,
+                25,
+                26,
+                28
+            ]
+        },
+        {
+            "text": "women",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                1,
+                34,
+                46,
+                22,
+                25,
+                26,
+                27
+            ]
+        },
+        {
+            "text": "rising maternal death rate among Black expectant mothers",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                8
+            ]
+        },
+        {
+            "text": "Daily Wire writer Emily Zanotti",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                28
+            ]
+        },
+        {
+            "text": "Black mothers",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                32
+            ]
+        },
+        {
+            "text": "The left",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                34,
+                35,
+                38,
+                41,
+                51,
+                52
+            ]
+        },
+        {
+            "text": "important issue",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                35
+            ]
+        },
+        {
+            "text": "the fringes",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                38
+            ]
+        },
+        {
+            "text": "Former Trump adviser Steve Cortes",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                41
+            ]
+        },
+        {
+            "text": "Journalist Chad Felix Greene",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                42
+            ]
+        },
+        {
+            "text": "NARAL",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                48
+            ]
+        },
+        {
+            "text": "awareness of the rising maternal death rate among Black expectant mothers",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                17,
+                55,
+                35
+            ]
+        },
+        {
+            "text": "Black birthing people and our babies",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                11,
+                12,
+                13,
+                17,
+                55
+            ]
+        },
+        {
+            "text": "referring to women as \u2018birthing people'",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                19,
+                26,
+                27,
+                56,
+                32,
+                38
+            ]
+        },
+        {
+            "text": "this whole gender ideology",
+            "ideology": "Left",
+            "id": 14,
+            "events": [
+                56
+            ]
+        },
+        {
+            "text": "Mother's Day",
+            "ideology": "N/A",
+            "id": 15,
+            "events": [
+                40
+            ]
+        },
+        {
+            "text": "NARAL, a prominent Pro-Choice nonprofit",
+            "ideology": "Left",
+            "id": 16,
+            "events": [
+                48
+            ]
+        },
+        {
+            "text": "\"Birthing people\"",
+            "ideology": "Left",
+            "id": 17,
+            "events": [
+                40,
+                41,
+                43,
+                46,
+                48,
+                50,
+                51,
+                52,
+                53,
+                54
+            ]
+        },
+        {
+            "text": "cis-gender women",
+            "ideology": "Neutral",
+            "id": 18,
+            "events": [
+                53,
+                54
+            ]
+        }
+    ]
+}

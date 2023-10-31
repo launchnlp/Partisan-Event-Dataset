@@ -1,0 +1,1503 @@
+{
+    "title": "Pelosi says House Democrats are looking at legislation to protect personal data in reproductive apps and other actions post-Roe v. Wade",
+    "date": "2022-06-27",
+    "topic": "abortion",
+    "source": "Insider",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Pelosi says House Democrats are looking at legislation to protect personal data in reproductive apps and other actions post - Roe v. Wade ."
+        },
+        {
+            "id": 1,
+            "text": "House Speaker Nancy Pelosi on Monday outlined House Democrats ' legislative response to Roe v."
+        },
+        {
+            "id": 2,
+            "text": "Wade being overturned , saying her party is looking at codifying a federal right to an abortion ."
+        },
+        {
+            "id": 3,
+            "text": "Pelosi outlined three areas that House Democrats are examining just days after the Supreme Court gutted federal abortion rights , overturning nearly over a half - century of precedent ."
+        },
+        {
+            "id": 4,
+            "text": "These are : protecting sensitive data on reproductive health apps , making it clear that states cannot stop people from traveling to seek an abortion , and once again trying to pass a federal law guaranteeing a right to an abortion ."
+        },
+        {
+            "id": 5,
+            "text": "\" While this extremist Supreme Court works to punish and control the American people , Democrats must continue our fight to expand freedom in America , \" Pelosi wrote in a letter to her Democratic colleagues ."
+        },
+        {
+            "id": 6,
+            "text": "\" Doing so is foundational to our oath of office and our fidelity to the Constitution . \""
+        },
+        {
+            "id": 7,
+            "text": "Pelosi does not outline the specific legislation under consideration , but some lawmakers already introduced bills on the topic ."
+        },
+        {
+            "id": 8,
+            "text": "Rep. Sara Jacobs , a Democrat from California , introduced the \" My Body , My Data Act \" on June 2 , which would task the Federal Trade Commission with enforcing a national privacy standard for period - tracking apps ."
+        },
+        {
+            "id": 9,
+            "text": "A companion Senate bill has 11 lawmakers lined up behind it , but crucially , there are not yet any Senate Republicans that support it ."
+        },
+        {
+            "id": 10,
+            "text": "The lack of Republican support is vitally critical to any legislative action passing ."
+        },
+        {
+            "id": 11,
+            "text": "The Senate filibuster effectively requires almost all legislation , including abortion rights , to have 60 votes ."
+        },
+        {
+            "id": 12,
+            "text": "This means that Senate Democrats need to unanimously support any measure in addition to attracting 10 GOP senators into the fold ."
+        },
+        {
+            "id": 13,
+            "text": "It 's not a given that Democrats will unanimously line up behind abortion rights either ."
+        },
+        {
+            "id": 14,
+            "text": "Sen ."
+        },
+        {
+            "id": 15,
+            "text": "Joe Manchin , a central from West Virginia , thought that the party 's bill to guarantee federal abortion rights , The Women 's Health Protection Act , went too far ."
+        },
+        {
+            "id": 16,
+            "text": "He joined almost all Senate Republicans in opposing it in May ."
+        },
+        {
+            "id": 17,
+            "text": "Last week 's Supreme Court decision does n't make abortion illegal nationwide ."
+        },
+        {
+            "id": 18,
+            "text": "Rather , the court ruled that states can now step in to determine what restrictions to impose , with at least eight states now having abortion bans three days after the ruling ."
+        },
+        {
+            "id": 19,
+            "text": "Some Republican state lawmakers have made clear that they are not content with just effectively banning the procedure within their own borders ."
+        },
+        {
+            "id": 20,
+            "text": "In Missouri , state Rep. Mary Elizabeth Coleman , who helped author the state 's \" trigger ban \" without exceptions for rape and incest , has also pushed legislation that would allow private individuals to sue Missouri residents if they go outside of the state to get an abortion ."
+        },
+        {
+            "id": 21,
+            "text": "\" It 's one of those phrases that really describes what I think we 're going to be seeing and certainly what we have already started to see , which is states that are really catering to providing abortions to residents of states that have no abortion access , \" Coleman told <mask> ."
+        },
+        {
+            "id": 22,
+            "text": "\" And so there 's a direct targeting that 's taking place into pro-life states . \""
+        }
+    ],
+    "id": "STORY_148_DOCUMENT_0",
+    "old_id": "abortion_13_1",
+    "split": "test",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "says",
+            "sentence_id": 0,
+            "start": 7,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "pelosi",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "legislation to protect personal data in reproductive apps",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "looking",
+            "sentence_id": 0,
+            "start": 32,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "house democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "legislation to protect personal data in reproductive apps",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "protect",
+            "sentence_id": 0,
+            "start": 58,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "outlined",
+            "sentence_id": 1,
+            "start": 37,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "response",
+            "sentence_id": 1,
+            "start": 76,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "overturned",
+            "sentence_id": 2,
+            "start": 11,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "saying",
+            "sentence_id": 2,
+            "start": 24,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "pelosi",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 7,
+            "token": "looking",
+            "sentence_id": 2,
+            "start": 44,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "codifying",
+            "sentence_id": 2,
+            "start": 55,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "pelosi",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 9,
+            "token": "outlined",
+            "sentence_id": 3,
+            "start": 7,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "examining",
+            "sentence_id": 3,
+            "start": 53,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "gutted",
+            "sentence_id": 3,
+            "start": 97,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "supreme court",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "abortion rights",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 12,
+            "token": "overturning",
+            "sentence_id": 3,
+            "start": 130,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "supreme court",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "roe v. wade",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 13,
+            "token": "protecting",
+            "sentence_id": 4,
+            "start": 12,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "pelosi",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "legislation to protect personal data in reproductive apps",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 14,
+            "token": "making",
+            "sentence_id": 4,
+            "start": 68,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "stop",
+            "sentence_id": 4,
+            "start": 103,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "traveling",
+            "sentence_id": 4,
+            "start": 120,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "seek",
+            "sentence_id": 4,
+            "start": 133,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "trying",
+            "sentence_id": 4,
+            "start": 167,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "pelosi",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "abortion rights",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 19,
+            "token": "pass",
+            "sentence_id": 4,
+            "start": 177,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "guaranteeing",
+            "sentence_id": 4,
+            "start": 196,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "works",
+            "sentence_id": 5,
+            "start": 37,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "punish",
+            "sentence_id": 5,
+            "start": 46,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "supreme court",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "American people",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 23,
+            "token": "control",
+            "sentence_id": 5,
+            "start": 57,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "supreme court",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "American people",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 24,
+            "token": "continue",
+            "sentence_id": 5,
+            "start": 102,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "fight",
+            "sentence_id": 5,
+            "start": 115,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "legislation to protect personal data in reproductive apps",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 26,
+            "token": "expand",
+            "sentence_id": 5,
+            "start": 124,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "wrote",
+            "sentence_id": 5,
+            "start": 161,
+            "end": 166,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "Doing",
+            "sentence_id": 6,
+            "start": 2,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "outline",
+            "sentence_id": 7,
+            "start": 16,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "introduced",
+            "sentence_id": 7,
+            "start": 98,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "lawmakers",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "legislation to protect personal data in reproductive apps",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "introduced",
+            "sentence_id": 8,
+            "start": 48,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "sara jacobs",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "legislation to protect personal data in reproductive apps",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "My Body , My Data Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 32,
+            "token": "task",
+            "sentence_id": 8,
+            "start": 113,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "enforcing",
+            "sentence_id": 8,
+            "start": 152,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "legislation to protect personal data in reproductive apps",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "legislation to protect personal data in reproductive apps",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "a national privacy standard for period - tracking apps",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 34,
+            "token": "lined",
+            "sentence_id": 9,
+            "start": 41,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "support",
+            "sentence_id": 9,
+            "start": 124,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "senate republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "legislation to protect personal data in reproductive apps",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "My Body , My Data Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 36,
+            "token": "passing",
+            "sentence_id": 10,
+            "start": 77,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "requires",
+            "sentence_id": 11,
+            "start": 34,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "need",
+            "sentence_id": 12,
+            "start": 33,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "support",
+            "sentence_id": 12,
+            "start": 53,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "attracting",
+            "sentence_id": 12,
+            "start": 88,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "line",
+            "sentence_id": 13,
+            "start": 50,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 42,
+            "token": "thought",
+            "sentence_id": 15,
+            "start": 45,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "joe manchin",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "abortion rights",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 43,
+            "token": "guarantee",
+            "sentence_id": 15,
+            "start": 79,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "went",
+            "sentence_id": 15,
+            "start": 152,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 20,
+                    "text": "The Women 's Health Protection Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 45,
+            "token": "joined",
+            "sentence_id": 16,
+            "start": 3,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "joe manchin",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "senate republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 46,
+            "token": "opposing",
+            "sentence_id": 16,
+            "start": 43,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "senate republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "joe manchin",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "The Women 's Health Protection Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 47,
+            "token": "decision",
+            "sentence_id": 17,
+            "start": 27,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "make",
+            "sentence_id": 17,
+            "start": 45,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "ruled",
+            "sentence_id": 18,
+            "start": 19,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "step",
+            "sentence_id": 18,
+            "start": 45,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "determine",
+            "sentence_id": 18,
+            "start": 56,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "impose",
+            "sentence_id": 18,
+            "start": 87,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "having",
+            "sentence_id": 18,
+            "start": 127,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "abortion bans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "at least eight states",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 54,
+            "token": "bans",
+            "sentence_id": 18,
+            "start": 143,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "ruling",
+            "sentence_id": 18,
+            "start": 169,
+            "end": 175,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "made",
+            "sentence_id": 19,
+            "start": 37,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "republican state lawmakers",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "abortion bans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 57,
+            "token": "content",
+            "sentence_id": 19,
+            "start": 66,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "banning",
+            "sentence_id": 19,
+            "start": 96,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "helped",
+            "sentence_id": 20,
+            "start": 54,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "author",
+            "sentence_id": 20,
+            "start": 61,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "mary elizabeth coleman",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "the state 's \" trigger ban \"",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 61,
+            "token": "pushed",
+            "sentence_id": 20,
+            "start": 147,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "mary elizabeth coleman",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "legislation",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 62,
+            "token": "allow",
+            "sentence_id": 20,
+            "start": 177,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "sue",
+            "sentence_id": 20,
+            "start": 206,
+            "end": 209,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "go",
+            "sentence_id": 20,
+            "start": 237,
+            "end": 239,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "get",
+            "sentence_id": 20,
+            "start": 264,
+            "end": 267,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "describes",
+            "sentence_id": 21,
+            "start": 41,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "think",
+            "sentence_id": 21,
+            "start": 58,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "seeing",
+            "sentence_id": 21,
+            "start": 83,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "started",
+            "sentence_id": 21,
+            "start": 125,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "see",
+            "sentence_id": 21,
+            "start": 136,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "catering",
+            "sentence_id": 21,
+            "start": 174,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "providing",
+            "sentence_id": 21,
+            "start": 186,
+            "end": 195,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "told",
+            "sentence_id": 21,
+            "start": 270,
+            "end": 274,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "targeting",
+            "sentence_id": 22,
+            "start": 27,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "taking",
+            "sentence_id": 22,
+            "start": 45,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "lack",
+            "sentence_id": 10,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "My Body , My Data Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "senate republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "pelosi",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                0,
+                8,
+                6,
+                13,
+                18
+            ]
+        },
+        {
+            "text": "house democrats",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                1
+            ]
+        },
+        {
+            "text": "legislation to protect personal data in reproductive apps",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                0,
+                1,
+                13,
+                30,
+                31,
+                33,
+                35,
+                76,
+                25,
+                33
+            ]
+        },
+        {
+            "text": "roe v. wade",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                5,
+                12
+            ]
+        },
+        {
+            "text": "abortion",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                8,
+                6
+            ]
+        },
+        {
+            "text": "supreme court",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                11,
+                12,
+                22,
+                23
+            ]
+        },
+        {
+            "text": "abortion rights",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                11,
+                18,
+                42
+            ]
+        },
+        {
+            "text": "democrats",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                25,
+                41
+            ]
+        },
+        {
+            "text": "lawmakers",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                30
+            ]
+        },
+        {
+            "text": "sara jacobs",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                31
+            ]
+        },
+        {
+            "text": "senate republicans",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                35,
+                46,
+                77,
+                45
+            ]
+        },
+        {
+            "text": "republican",
+            "ideology": "Right",
+            "id": 11,
+            "events": [
+                76
+            ]
+        },
+        {
+            "text": "joe manchin",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                42,
+                45,
+                46
+            ]
+        },
+        {
+            "text": "abortion bans",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                53,
+                56,
+                73
+            ]
+        },
+        {
+            "text": "republican state lawmakers",
+            "ideology": "Right",
+            "id": 15,
+            "events": [
+                56
+            ]
+        },
+        {
+            "text": "mary elizabeth coleman",
+            "ideology": "Right",
+            "id": 16,
+            "events": [
+                61,
+                73,
+                60
+            ]
+        },
+        {
+            "text": "American people",
+            "ideology": "Neutral",
+            "id": 17,
+            "events": [
+                22,
+                23
+            ]
+        },
+        {
+            "text": "My Body , My Data Act",
+            "ideology": "Left",
+            "id": 18,
+            "events": [
+                31,
+                35,
+                77
+            ]
+        },
+        {
+            "text": "a national privacy standard for period - tracking apps",
+            "ideology": "Left",
+            "id": 19,
+            "events": [
+                33
+            ]
+        },
+        {
+            "text": "The Women 's Health Protection Act",
+            "ideology": "Left",
+            "id": 20,
+            "events": [
+                44,
+                46
+            ]
+        },
+        {
+            "text": "at least eight states",
+            "ideology": "Right",
+            "id": 21,
+            "events": [
+                53
+            ]
+        },
+        {
+            "text": "the state 's \" trigger ban \"",
+            "ideology": "Right",
+            "id": 22,
+            "events": [
+                60
+            ]
+        },
+        {
+            "text": "legislation",
+            "ideology": "Right",
+            "id": 23,
+            "events": [
+                61
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1635 @@
+{
+    "title": "Biden's IRS army is not coming for billionaires \u2014 it's coming for you",
+    "date": "2023-01-12",
+    "topic": "tax",
+    "source": "Washington Examiner",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "When the new Republican-controlled House passed a bill to cancel President Joe Biden \u2019s desired army of 87,000 new IRS agents, the administration reacted with a full-blown tantrum."
+        },
+        {
+            "id": 1,
+            "text": "Vice President Kamala Harris released an angry statement that Republicans want to \u201callow \u2026 millionaires, billionaires, and corporations to cheat the system.\u201d"
+        },
+        {
+            "id": 2,
+            "text": "This is ridiculous if you know anything about how the IRS conducts audits and raises additional revenue."
+        },
+        {
+            "id": 3,
+            "text": "Fortunately, the Government Accountability Office released a report last spring that shows exactly whom the IRS tends to target."
+        },
+        {
+            "id": 4,
+            "text": "First, the majority of the extra money the IRS collects from audits comes from households with incomes below $200,000."
+        },
+        {
+            "id": 5,
+            "text": "This is a perennial fact of life that has not changed in at least a decade, neither with the president\u2019s party affiliation nor with the tax changes that have been enacted over the years."
+        },
+        {
+            "id": 6,
+            "text": "This alone demonstrates the certainty that Biden\u2019s new IRS army would look for most of its additional revenue within the much larger pool of middle-income taxpayers, not among the ultrawealthy."
+        },
+        {
+            "id": 7,
+            "text": "But when you dig deeper into the numbers, the evidence only gets stronger."
+        },
+        {
+            "id": 8,
+            "text": "The second-most lucrative type of audit for the IRS, in terms of money recovered per man-hour, is the audit of low-income taxpayers who take the earned income tax credit."
+        },
+        {
+            "id": 9,
+            "text": "Such audits net an average of $3,231 per hour, more than twice as much as the average audit of households earning between $500,000 and $5 million (about $1,500 per hour on average)."
+        },
+        {
+            "id": 10,
+            "text": "This is why households in the under-$25,000 income category are more than twice as likely to be audited as households making between $25,000 and $200,000."
+        },
+        {
+            "id": 11,
+            "text": "It is true that audits of $5 million annual earners are marginally more lucrative than audits of the poor, but they only net about $4,800 per man-hour."
+        },
+        {
+            "id": 12,
+            "text": "That\u2019s because those audits require, on average, 60 man-hours, and they are about four times as likely to result in no change to the taxpayer\u2019s bill as are audits of households earning less than $200,000."
+        },
+        {
+            "id": 13,
+            "text": "It turns out rich people have lawyers and tax experts and are far more likely than anyone else to have a bulletproof tax return."
+        },
+        {
+            "id": 14,
+            "text": "But that isn\u2019t even the biggest problem with leaning on high-earners to close the tax gap."
+        },
+        {
+            "id": 15,
+            "text": "The biggest problem is that there are only about 64,000 households in the country that make $5 million or more per year."
+        },
+        {
+            "id": 16,
+            "text": "If Biden\u2019s 87,000 new agents were all auditors and they spent all their time auditing every one of those high earners, it would take them just over one work week and net only $18 billion."
+        },
+        {
+            "id": 17,
+            "text": "That\u2019s a fraction of the $70 billion Democrats claimed they could raise when they voted to give the IRS all these additional resources."
+        },
+        {
+            "id": 18,
+            "text": "In reality, the IRS will not audit even 10% of those high earners."
+        },
+        {
+            "id": 19,
+            "text": "So you can bet your dwindling life savings that for the other 51 weeks of the year, Biden\u2019s agents, including the ones carrying guns , would be coming after you, squeezing more blood out of the stone that is the lower- and middle-income taxpayer."
+        },
+        {
+            "id": 20,
+            "text": "This is not just our opinion \u2014 it is the opinion of researchers and experts ."
+        },
+        {
+            "id": 21,
+            "text": "Biden is convinced you and people like you are hoarding $70 billion that is rightfully his to squander on ineffective government programs."
+        },
+        {
+            "id": 22,
+            "text": "You, he believes, are cheating by underreporting your tips, your crypto sales, and your side hustle, and he wants his cut."
+        },
+        {
+            "id": 23,
+            "text": "As the data show, the IRS has strong incentives to come especially hard after people with the lowest incomes because that is the largest pool in which to fish efficiently for dollars."
+        },
+        {
+            "id": 24,
+            "text": "This is why the agency conducted nearly 100 times as many audits of downscale earned income tax credit claimants in 2019 as it did of households making more than $1 million."
+        },
+        {
+            "id": 25,
+            "text": "So don\u2019t believe the whining and the spin coming out of the Biden White House about millionaires and billionaires."
+        },
+        {
+            "id": 26,
+            "text": "They have nothing to do with this."
+        },
+        {
+            "id": 27,
+            "text": "Biden's agenda depends on middle-income earners paying thousands more in taxes than they think they owe, and he\u2019s upset that the House should dare imperil his ability to make it happen."
+        }
+    ],
+    "id": "STORY_150_DOCUMENT_0",
+    "old_id": "7552_0",
+    "split": "test",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "passed",
+            "sentence_id": 0,
+            "start": 41,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "cancel",
+            "sentence_id": 0,
+            "start": 58,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "reacted",
+            "sentence_id": 0,
+            "start": 146,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "tantrum",
+            "sentence_id": 0,
+            "start": 172,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 4,
+            "token": "released",
+            "sentence_id": 1,
+            "start": 29,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "Vice President Kamala Harris",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "want",
+            "sentence_id": 1,
+            "start": 74,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "millionaires, billionaires, and corporations",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 6,
+            "token": "allow",
+            "sentence_id": 1,
+            "start": 83,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "cheating the system",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "millionaires, billionaires, and corporations",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 7,
+            "token": "cheat",
+            "sentence_id": 1,
+            "start": 139,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "millionaires, billionaires, and corporations",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 8,
+            "token": "know",
+            "sentence_id": 2,
+            "start": 26,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "conducts",
+            "sentence_id": 2,
+            "start": 58,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "IRS",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Vice President Kamala Harris",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "raises",
+            "sentence_id": 2,
+            "start": 78,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "IRS",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Vice President Kamala Harris",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "released",
+            "sentence_id": 3,
+            "start": 50,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "shows",
+            "sentence_id": 3,
+            "start": 85,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "tends",
+            "sentence_id": 3,
+            "start": 112,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "target",
+            "sentence_id": 3,
+            "start": 121,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "collects",
+            "sentence_id": 4,
+            "start": 47,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "comes",
+            "sentence_id": 4,
+            "start": 68,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "changed",
+            "sentence_id": 5,
+            "start": 46,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "changes",
+            "sentence_id": 5,
+            "start": 140,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "enacted",
+            "sentence_id": 5,
+            "start": 163,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "demonstrates",
+            "sentence_id": 6,
+            "start": 11,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Government Accountability Office",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Biden\u2019s IRS agents",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "look",
+            "sentence_id": 6,
+            "start": 70,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "middle-income taxpayers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "dig",
+            "sentence_id": 7,
+            "start": 13,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "gets",
+            "sentence_id": 7,
+            "start": 60,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "recovered",
+            "sentence_id": 8,
+            "start": 71,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "audit",
+            "sentence_id": 8,
+            "start": 102,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "net",
+            "sentence_id": 9,
+            "start": 12,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "audited",
+            "sentence_id": 10,
+            "start": 96,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "net",
+            "sentence_id": 11,
+            "start": 121,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "require",
+            "sentence_id": 12,
+            "start": 28,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "result",
+            "sentence_id": 12,
+            "start": 106,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "change",
+            "sentence_id": 12,
+            "start": 119,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "turns",
+            "sentence_id": 13,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "have",
+            "sentence_id": 13,
+            "start": 98,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "leaning",
+            "sentence_id": 14,
+            "start": 45,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "close",
+            "sentence_id": 14,
+            "start": 72,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "make",
+            "sentence_id": 15,
+            "start": 87,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "spent",
+            "sentence_id": 16,
+            "start": 56,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "millionaires, billionaires, and corporations",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "auditing",
+            "sentence_id": 16,
+            "start": 77,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "millionaires, billionaires, and corporations",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "net",
+            "sentence_id": 16,
+            "start": 166,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "claimed",
+            "sentence_id": 17,
+            "start": 47,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "IRS",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "$70 billion",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "raise",
+            "sentence_id": 17,
+            "start": 66,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "$70 billion",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "voted",
+            "sentence_id": 17,
+            "start": 82,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "give",
+            "sentence_id": 17,
+            "start": 91,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "audit",
+            "sentence_id": 18,
+            "start": 29,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "IRS",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "bet",
+            "sentence_id": 19,
+            "start": 11,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "carrying",
+            "sentence_id": 19,
+            "start": 119,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "coming",
+            "sentence_id": 19,
+            "start": 144,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Biden\u2019s IRS agents",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "lower- and middle-income taxpayer",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "middle-income taxpayers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 48,
+            "token": "squeezing",
+            "sentence_id": 19,
+            "start": 162,
+            "end": 171,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Biden\u2019s IRS agents",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "lower- and middle-income taxpayer",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "middle-income taxpayers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 49,
+            "token": "convinced",
+            "sentence_id": 21,
+            "start": 9,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "lower- and middle-income taxpayer",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "middle-income taxpayers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 50,
+            "token": "hoarding",
+            "sentence_id": 21,
+            "start": 47,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "middle-income taxpayers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "$70 billion",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "squander",
+            "sentence_id": 21,
+            "start": 94,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "ineffective government programs",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "$70 billion",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "middle-income taxpayers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 52,
+            "token": "believes",
+            "sentence_id": 22,
+            "start": 8,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "lower- and middle-income taxpayer",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 53,
+            "token": "cheating",
+            "sentence_id": 22,
+            "start": 22,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "middle-income taxpayers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "$70 billion",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 54,
+            "token": "underreporting",
+            "sentence_id": 22,
+            "start": 34,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "wants",
+            "sentence_id": 22,
+            "start": 108,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "taxes",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "$70 billion",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "middle-income taxpayers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 56,
+            "token": "show",
+            "sentence_id": 23,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "come",
+            "sentence_id": 23,
+            "start": 51,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "fish",
+            "sentence_id": 23,
+            "start": 154,
+            "end": 158,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "conducted",
+            "sentence_id": 24,
+            "start": 23,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "audits",
+            "sentence_id": 24,
+            "start": 58,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "believe",
+            "sentence_id": 25,
+            "start": 9,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "whining",
+            "sentence_id": 25,
+            "start": 21,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "millionaires and billionaires",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "millionaires, billionaires, and corporations",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 63,
+            "token": "coming",
+            "sentence_id": 25,
+            "start": 42,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "depends",
+            "sentence_id": 27,
+            "start": 15,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "lower- and middle-income taxpayer",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "middle-income taxpayers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 65,
+            "token": "paying",
+            "sentence_id": 27,
+            "start": 48,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "middle-income taxpayers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "$70 billion",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 66,
+            "token": "think",
+            "sentence_id": 27,
+            "start": 89,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "owe",
+            "sentence_id": 27,
+            "start": 100,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "upset",
+            "sentence_id": 27,
+            "start": 114,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Republican-controlled House",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "the House",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 69,
+            "token": "dare",
+            "sentence_id": 27,
+            "start": 142,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "imperil",
+            "sentence_id": 27,
+            "start": 147,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "make",
+            "sentence_id": 27,
+            "start": 170,
+            "end": 174,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "happen",
+            "sentence_id": 27,
+            "start": 178,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Biden administration",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                64,
+                65,
+                3,
+                68,
+                37,
+                38,
+                47,
+                48,
+                49,
+                50,
+                51,
+                21,
+                53,
+                55,
+                62
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "text": "cheating the system",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                6
+            ]
+        },
+        {
+            "text": "Government Accountability Office",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                20
+            ]
+        },
+        {
+            "text": "Biden\u2019s IRS agents",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                20,
+                47,
+                48
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                40,
+                41,
+                44
+            ]
+        },
+        {
+            "text": "IRS",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                40,
+                9,
+                10,
+                44
+            ]
+        },
+        {
+            "text": "lower- and middle-income taxpayer",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                47,
+                48,
+                49,
+                52,
+                64
+            ]
+        },
+        {
+            "text": "Joe Biden",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                49,
+                51,
+                52,
+                55,
+                62,
+                64,
+                68
+            ]
+        },
+        {
+            "text": "ineffective government programs",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                51
+            ]
+        },
+        {
+            "text": "taxes",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                55
+            ]
+        },
+        {
+            "text": "millionaires and billionaires",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                62
+            ]
+        },
+        {
+            "text": "Republican-controlled House",
+            "ideology": "Right",
+            "id": 12,
+            "events": [
+                68
+            ]
+        },
+        {
+            "text": "Vice President Kamala Harris",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                4,
+                9,
+                10
+            ]
+        },
+        {
+            "text": "millionaires, billionaires, and corporations",
+            "ideology": "Neutral",
+            "id": 14,
+            "events": [
+                5,
+                6,
+                7,
+                37,
+                38,
+                62
+            ]
+        },
+        {
+            "text": "middle-income taxpayers",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                21,
+                47,
+                48,
+                49,
+                50,
+                51,
+                53,
+                55,
+                64,
+                65
+            ]
+        },
+        {
+            "text": "$70 billion",
+            "ideology": "Neutral",
+            "id": 16,
+            "events": [
+                40,
+                41,
+                50,
+                51,
+                53,
+                55,
+                65
+            ]
+        },
+        {
+            "text": "the House",
+            "ideology": "Neutral",
+            "id": 17,
+            "events": [
+                68
+            ]
+        }
+    ]
+}

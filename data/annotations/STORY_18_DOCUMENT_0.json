@@ -1,0 +1,1531 @@
+{
+    "title": "Trump administration expands government's deportation powers",
+    "date": "2018-07-23",
+    "topic": "immigration",
+    "source": "Washington Times",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Trump administration has expanded the government \u2019s deportation powers , issuing guidelines urging officers at U.S. Citizenship and Immigration Services \u2014 the legal immigration agency \u2014 to begin the removal process for people who use fraudulent documents or who illegally took government benefits ."
+        },
+        {
+            "id": 1,
+            "text": "USCIS officers have always had powers to begin deportation proceedings , but in the past had usually referred cases to other parts of Homeland Security for decisions on deportation ."
+        },
+        {
+            "id": 2,
+            "text": "Now , though , the agency is flexing those powers , with guidance memos telling officers to look for instances where they can begin the deportation process for people they deem illegal immigrants ."
+        },
+        {
+            "id": 3,
+            "text": "The memos , dated June 28 , tell agency employees to be on the lookout for people who apply for naturalization or other legal immigration benefit but who have criminal records , used bogus documents , lied about their applications or had abused public benefit programs ."
+        },
+        {
+            "id": 4,
+            "text": "In the past those might have been enough to reject the application , but USCIS would either drop the issue at that point or refer the case to U.S. Immigration and Customs Enforcement for possible deportation ."
+        },
+        {
+            "id": 5,
+            "text": "Under the new guidelines USCIS employees are now urged to begin the deportation process themselves ."
+        },
+        {
+            "id": 6,
+            "text": "That involves issuing a Notice to Appear , or NTA , which signals the beginning of the deportation process ."
+        },
+        {
+            "id": 7,
+            "text": "Someone who receives an NTA then must go before an immigration judge , has the chance to appeal , and only then is deported ."
+        },
+        {
+            "id": 8,
+            "text": "\u201c For too long , USCIS officers uncovering instances of fraudulent or criminal activity have been limited in their ability to help ensure U.S. immigration laws are faithfully executed , \u201d USCIS Director L. Francis Cissna said in announcing the changes ."
+        },
+        {
+            "id": 9,
+            "text": "\u201c This updated policy equips USCIS officers with clear guidance they need and deserve to support the enforcement priorities established by the president , keep our communities safe , and protect the integrity of our immigration system from those seeking to exploit it . \u201d"
+        },
+        {
+            "id": 10,
+            "text": "The new guidance reclaims USCIS \u2019s role as a gatekeeper and expands the number of government employees on the lookout for deportable migrants ."
+        },
+        {
+            "id": 11,
+            "text": "\u201c When fraud , misrepresentation , or evidence of abuse of public benefit programs is part of the record and the alien is removable , USCIS will issue an NTA upon denial of the petition or application , or other appropriate negative eligibility determination , \u201d the guidance says ."
+        },
+        {
+            "id": 12,
+            "text": "USCIS says the move is about efficiency ."
+        },
+        {
+            "id": 13,
+            "text": "In the past , it had to wait on ICE to make decisions and ICE would have to track someone down to issue them an NTA ."
+        },
+        {
+            "id": 14,
+            "text": "Now , USCIS will be able to do that immediately ."
+        },
+        {
+            "id": 15,
+            "text": "One effect could be to discourage people with bogus claims from coming forward to apply , since they now run a greater risk of ending up in deportation proceedings ."
+        },
+        {
+            "id": 16,
+            "text": "People applying under the Obama - era DACA program are exempted from the new guidance , meaning illegal immigrant \u201c Dreamers \u201d wo n\u2019t generally have to worry about being put in deportation if their claim is rejected ."
+        },
+        {
+            "id": 17,
+            "text": "The prohibition on sharing their information with ICE is also still in place , according to a second memo released Thursday ."
+        }
+    ],
+    "id": "STORY_18_DOCUMENT_0",
+    "old_id": "TRIPLET_117_DOCUMENT_0",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "expanded",
+            "sentence_id": 0,
+            "start": 29,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "the trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "the government \u2019s deportation powers",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "issuing",
+            "sentence_id": 0,
+            "start": 77,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "urging",
+            "sentence_id": 0,
+            "start": 96,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "begin",
+            "sentence_id": 0,
+            "start": 193,
+            "end": 198,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "use",
+            "sentence_id": 0,
+            "start": 234,
+            "end": 237,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "took",
+            "sentence_id": 0,
+            "start": 276,
+            "end": 280,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "had",
+            "sentence_id": 1,
+            "start": 27,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "begin",
+            "sentence_id": 1,
+            "start": 41,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "proceedings",
+            "sentence_id": 1,
+            "start": 59,
+            "end": 70,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "referred",
+            "sentence_id": 1,
+            "start": 101,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "decisions",
+            "sentence_id": 1,
+            "start": 156,
+            "end": 165,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "flexing",
+            "sentence_id": 2,
+            "start": 29,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "telling",
+            "sentence_id": 2,
+            "start": 72,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "look",
+            "sentence_id": 2,
+            "start": 92,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "begin",
+            "sentence_id": 2,
+            "start": 126,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "deem",
+            "sentence_id": 2,
+            "start": 172,
+            "end": 176,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "dated",
+            "sentence_id": 3,
+            "start": 12,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "tell",
+            "sentence_id": 3,
+            "start": 28,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "apply",
+            "sentence_id": 3,
+            "start": 86,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "have",
+            "sentence_id": 3,
+            "start": 154,
+            "end": 158,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "used",
+            "sentence_id": 3,
+            "start": 178,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "lied",
+            "sentence_id": 3,
+            "start": 201,
+            "end": 205,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "abused",
+            "sentence_id": 3,
+            "start": 238,
+            "end": 244,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "reject",
+            "sentence_id": 4,
+            "start": 44,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "drop",
+            "sentence_id": 4,
+            "start": 92,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "refer",
+            "sentence_id": 4,
+            "start": 124,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "deportation",
+            "sentence_id": 4,
+            "start": 196,
+            "end": 207,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "urged",
+            "sentence_id": 5,
+            "start": 49,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "U.S. Citizenship and Immigration Services",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 28,
+            "token": "begin",
+            "sentence_id": 5,
+            "start": 58,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "u.s. citizenship and immigration services",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "the deportation process",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "issuing",
+            "sentence_id": 6,
+            "start": 14,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "signals",
+            "sentence_id": 6,
+            "start": 58,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "beginning",
+            "sentence_id": 6,
+            "start": 70,
+            "end": 79,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "receives",
+            "sentence_id": 7,
+            "start": 12,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "go",
+            "sentence_id": 7,
+            "start": 38,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "appeal",
+            "sentence_id": 7,
+            "start": 89,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "deported",
+            "sentence_id": 7,
+            "start": 115,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "uncovering",
+            "sentence_id": 8,
+            "start": 32,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "limited",
+            "sentence_id": 8,
+            "start": 98,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "the government \u2019s deportation powers",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "this updated policy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "officers at u.s. citizenship and immigration services",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "U.S. Citizenship and Immigration Services",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "help",
+            "sentence_id": 8,
+            "start": 126,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "U.S. Citizenship and Immigration Services",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "ensure",
+            "sentence_id": 8,
+            "start": 131,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "U.S. Citizenship and Immigration Services",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "executed",
+            "sentence_id": 8,
+            "start": 175,
+            "end": 183,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 221,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "announcing",
+            "sentence_id": 8,
+            "start": 229,
+            "end": 239,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "changes",
+            "sentence_id": 8,
+            "start": 244,
+            "end": 251,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "equips",
+            "sentence_id": 9,
+            "start": 22,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "officers at u.s. citizenship and immigration services",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "this updated policy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "U.S. Citizenship and Immigration Services",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 45,
+            "token": "need",
+            "sentence_id": 9,
+            "start": 69,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "U.S. Citizenship and Immigration Services",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "deserve",
+            "sentence_id": 9,
+            "start": 78,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "U.S. Citizenship and Immigration Services",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "support",
+            "sentence_id": 9,
+            "start": 89,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "U.S. Citizenship and Immigration Services",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 48,
+            "token": "established",
+            "sentence_id": 9,
+            "start": 124,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "keep",
+            "sentence_id": 9,
+            "start": 155,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "officers at u.s. citizenship and immigration services",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "communities",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "this updated policy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "U.S. Citizenship and Immigration Services",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 50,
+            "token": "protect",
+            "sentence_id": 9,
+            "start": 187,
+            "end": 194,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "officers at u.s. citizenship and immigration services",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "this updated policy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "immigration system",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "U.S. Citizenship and Immigration Services",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 51,
+            "token": "seeking",
+            "sentence_id": 9,
+            "start": 246,
+            "end": 253,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "exploit",
+            "sentence_id": 9,
+            "start": 257,
+            "end": 264,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "people who use fraudulent documents or who illegally took government benefits",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "U.S. Citizenship and Immigration Services",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 53,
+            "token": "reclaims",
+            "sentence_id": 10,
+            "start": 17,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "new guidelines",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "U.S. Citizenship and Immigration Services",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 54,
+            "token": "expands",
+            "sentence_id": 10,
+            "start": 60,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "this updated policy",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "government employees",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "the government \u2019s deportation powers",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "new guidelines",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "abuse",
+            "sentence_id": 11,
+            "start": 50,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "issue",
+            "sentence_id": 11,
+            "start": 145,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "denial",
+            "sentence_id": 11,
+            "start": 163,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "determination",
+            "sentence_id": 11,
+            "start": 245,
+            "end": 258,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "says",
+            "sentence_id": 11,
+            "start": 276,
+            "end": 280,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "says",
+            "sentence_id": 12,
+            "start": 6,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "U.S. Citizenship and Immigration Services",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 61,
+            "token": "move",
+            "sentence_id": 12,
+            "start": 15,
+            "end": 19,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "wait",
+            "sentence_id": 13,
+            "start": 24,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "make",
+            "sentence_id": 13,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "decisions",
+            "sentence_id": 13,
+            "start": 44,
+            "end": 53,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "track",
+            "sentence_id": 13,
+            "start": 76,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "issue",
+            "sentence_id": 13,
+            "start": 98,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "do",
+            "sentence_id": 14,
+            "start": 28,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "discourage",
+            "sentence_id": 15,
+            "start": 23,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "this updated policy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "people with bogus claims",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "new guidelines",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "people who use fraudulent documents or who illegally took government benefits",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 69,
+            "token": "coming",
+            "sentence_id": 15,
+            "start": 64,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "people who use fraudulent documents or who illegally took government benefits",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "new guidelines",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 70,
+            "token": "apply",
+            "sentence_id": 15,
+            "start": 82,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "run",
+            "sentence_id": 15,
+            "start": 105,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "ending",
+            "sentence_id": 15,
+            "start": 127,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "people who use fraudulent documents or who illegally took government benefits",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "new guidelines",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 73,
+            "token": "proceedings",
+            "sentence_id": 15,
+            "start": 152,
+            "end": 163,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "applying",
+            "sentence_id": 16,
+            "start": 7,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "exempted",
+            "sentence_id": 16,
+            "start": 55,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "the obama - era daca program",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "this updated policy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 76,
+            "token": "worry",
+            "sentence_id": 16,
+            "start": 152,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "put",
+            "sentence_id": 16,
+            "start": 170,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "rejected",
+            "sentence_id": 16,
+            "start": 207,
+            "end": 215,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "prohibition",
+            "sentence_id": 17,
+            "start": 4,
+            "end": 15,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "sharing",
+            "sentence_id": 17,
+            "start": 19,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "according",
+            "sentence_id": 17,
+            "start": 79,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "released",
+            "sentence_id": 17,
+            "start": 106,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "the trump administration",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "the government \u2019s deportation powers",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                0,
+                11,
+                37,
+                54
+            ]
+        },
+        {
+            "text": "u.s. citizenship and immigration services",
+            "ideology": "N/A",
+            "id": 2,
+            "events": [
+                11,
+                28
+            ]
+        },
+        {
+            "text": "the deportation process",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                28
+            ]
+        },
+        {
+            "text": "this updated policy",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                37,
+                44,
+                49,
+                50,
+                54,
+                68,
+                75
+            ]
+        },
+        {
+            "text": "officers at u.s. citizenship and immigration services",
+            "ideology": "N/A",
+            "id": 5,
+            "events": [
+                37,
+                44,
+                49,
+                50
+            ]
+        },
+        {
+            "text": "communities",
+            "ideology": "N/A",
+            "id": 6,
+            "events": [
+                49
+            ]
+        },
+        {
+            "text": "immigration system",
+            "ideology": "N/A",
+            "id": 7,
+            "events": [
+                50
+            ]
+        },
+        {
+            "text": "government employees",
+            "ideology": "N/A",
+            "id": 8,
+            "events": [
+                54
+            ]
+        },
+        {
+            "text": "people with bogus claims",
+            "ideology": "N/A",
+            "id": 9,
+            "events": [
+                68
+            ]
+        },
+        {
+            "text": "the obama - era daca program",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                75
+            ]
+        },
+        {
+            "text": "U.S. Citizenship and Immigration Services",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                11,
+                27,
+                37,
+                38,
+                39,
+                44,
+                45,
+                46,
+                47,
+                49,
+                50,
+                52,
+                60,
+                53
+            ]
+        },
+        {
+            "text": "Trump administration",
+            "ideology": "Right",
+            "id": 12,
+            "events": [
+                11,
+                27,
+                37,
+                38,
+                39,
+                44,
+                45,
+                46,
+                47,
+                49,
+                50,
+                52,
+                60,
+                69,
+                72
+            ]
+        },
+        {
+            "text": "people who use fraudulent documents or who illegally took government benefits",
+            "ideology": "Uncertain",
+            "id": 13,
+            "events": [
+                52,
+                68,
+                69,
+                72
+            ]
+        },
+        {
+            "text": "new guidelines",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                68,
+                72,
+                69,
+                53,
+                54
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1206 @@
+{
+    "title": "Biden Wants To Force Nurses To Kill Babies Even If It Terrorizes Their Souls",
+    "date": "2022-04-19",
+    "topic": "healthcare",
+    "source": "The Federalist",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Joe Biden\u2019s Department of Health and Human Services plans to snub religious freedom this month by eliminating conscience-based objections for healthcare workers, Politico reported on Tuesday."
+        },
+        {
+            "id": 1,
+            "text": "Former President Donald Trump first announced his intent to introduce conscience-based protections for \u201cphysicians, pharmacists, nurses, teachers, students, and faith-based charities\u201d in 2018."
+        },
+        {
+            "id": 2,
+            "text": "By 2019, the HHS Office for Civil Rights crafted a rule that safeguarded nurses, doctors, and others with moral or religious objections to abortion, assisted suicide, sterilization, genital mutilation, and more and emboldened the government to punish institutions that violated it."
+        },
+        {
+            "id": 3,
+            "text": "The rule was eventually blocked by federal courts after being petitioned by leftist activist groups."
+        },
+        {
+            "id": 4,
+            "text": "The Biden administration is moving to scrap the Trump-era rule as states such as Texas have largely banned abortions and sex experiments on children."
+        },
+        {
+            "id": 5,
+            "text": "The decision is eagerly backed by Planned Parenthood and other pro-baby killing organizations."
+        },
+        {
+            "id": 6,
+            "text": "Pro-religious freedom organizations, however, say the rule change holds negative implications for Americans\u2019 rights."
+        },
+        {
+            "id": 7,
+            "text": "Alliance Defending Freedom is just one of the organizations fighting to keep the administration from removing protections that will cause \u201charm to healthcare providers and patients across the country.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "\u201cNo American should be forced to violate their ethical and religious beliefs."
+        },
+        {
+            "id": 9,
+            "text": "Doctors, nurses, and other medical providers should enjoy this same constitutional protection, free to live and work in a manner consistent with their faith."
+        },
+        {
+            "id": 10,
+            "text": "Yet the Biden administration\u2019s proposed rule would abandon health care professionals to being forced to perform medical procedures that directly violate their religious beliefs or risk losing their jobs."
+        },
+        {
+            "id": 11,
+            "text": "This is an illegal and gross overreach of executive power, and we urge the administration to withdraw this harmful proposal immediately,\u201d Alliance Defending Freedom Senior Counsel Matt Bowman said in a statement to The Federalist."
+        },
+        {
+            "id": 12,
+            "text": "Biden made it clear from the beginning of his time in office that he did not care about conscience-based protections in health care by pushing for taxpayer-funded abortions."
+        },
+        {
+            "id": 13,
+            "text": "Biden also emboldened pro-abortion \u201cextremist\u201d Xavier Becerra, now the secretary of HHS, to dismantle the agency\u2019s Conscience and Religious Freedom Division which the Trump administration created to protect the religious rights of healthcare workers."
+        },
+        {
+            "id": 14,
+            "text": "Later, Becerra eliminated any mention of \u201cconscience,\u201d \u201creligion,\u201d and \u201cConscience and Religious Freedom Division\u201d from the budget and quietly dismissed a case against a hospital where a nurse was forced to perform an abortion even though she had objections."
+        }
+    ],
+    "id": "STORY_103_DOCUMENT_0",
+    "old_id": "6569_1",
+    "split": "dev",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "plans",
+            "sentence_id": 0,
+            "start": 62,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "snub",
+            "sentence_id": 0,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden\u2019s Department of Health and Human Services",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "religious freedom",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 2,
+            "token": "eliminating",
+            "sentence_id": 0,
+            "start": 108,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden\u2019s Department of Health and Human Services",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "conscience-based objections for healthcare workers",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "reported",
+            "sentence_id": 0,
+            "start": 181,
+            "end": 189,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "announced",
+            "sentence_id": 1,
+            "start": 36,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "intent",
+            "sentence_id": 1,
+            "start": 50,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "conscience-based objections for healthcare workers",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "introduce",
+            "sentence_id": 1,
+            "start": 60,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "crafted",
+            "sentence_id": 2,
+            "start": 41,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "safeguarded",
+            "sentence_id": 2,
+            "start": 61,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "conscience-based objections for healthcare workers",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 9,
+            "token": "emboldened",
+            "sentence_id": 2,
+            "start": 215,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "punish",
+            "sentence_id": 2,
+            "start": 244,
+            "end": 250,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "institutions",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "violated",
+            "sentence_id": 2,
+            "start": 269,
+            "end": 277,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "blocked",
+            "sentence_id": 3,
+            "start": 24,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "petitioned",
+            "sentence_id": 3,
+            "start": 62,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "moving",
+            "sentence_id": 4,
+            "start": 28,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "scrap",
+            "sentence_id": 4,
+            "start": 38,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "conscience-based objections for healthcare workers",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "banned",
+            "sentence_id": 4,
+            "start": 100,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "experiments",
+            "sentence_id": 4,
+            "start": 125,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "decision",
+            "sentence_id": 5,
+            "start": 4,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "backed",
+            "sentence_id": 5,
+            "start": 24,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Planned Parenthood",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 20,
+            "token": "say",
+            "sentence_id": 6,
+            "start": 46,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Pro-religious freedom organizations",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "change",
+            "sentence_id": 6,
+            "start": 59,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "holds",
+            "sentence_id": 6,
+            "start": 66,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "fighting",
+            "sentence_id": 7,
+            "start": 60,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Alliance Defending Freedom",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "keep",
+            "sentence_id": 7,
+            "start": 72,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "removing",
+            "sentence_id": 7,
+            "start": 101,
+            "end": 109,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "cause",
+            "sentence_id": 7,
+            "start": 132,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "healthcare providers and patients",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "forced",
+            "sentence_id": 8,
+            "start": 23,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 25,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "violate",
+            "sentence_id": 8,
+            "start": 33,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "religious freedom",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 29,
+            "token": "enjoy",
+            "sentence_id": 9,
+            "start": 52,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "conscience-based objections for healthcare workers",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 30,
+            "token": "live",
+            "sentence_id": 9,
+            "start": 103,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "work",
+            "sentence_id": 9,
+            "start": 112,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "abandon",
+            "sentence_id": 10,
+            "start": 51,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 33,
+            "token": "forced",
+            "sentence_id": 10,
+            "start": 94,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 26,
+                    "text": "Doctors, nurses, and other medical providers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 34,
+            "token": "perform",
+            "sentence_id": 10,
+            "start": 104,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "violate",
+            "sentence_id": 10,
+            "start": 145,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "religious freedom",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 36,
+            "token": "risk",
+            "sentence_id": 10,
+            "start": 180,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "losing",
+            "sentence_id": 10,
+            "start": 185,
+            "end": 191,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 26,
+                    "text": "Doctors, nurses, and other medical providers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 27,
+                    "text": "medical procedures that directly violate their religious beliefs",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "overreach",
+            "sentence_id": 11,
+            "start": 29,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "urge",
+            "sentence_id": 11,
+            "start": 66,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "withdraw",
+            "sentence_id": 11,
+            "start": 93,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "said",
+            "sentence_id": 11,
+            "start": 192,
+            "end": 196,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "made",
+            "sentence_id": 12,
+            "start": 6,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "care",
+            "sentence_id": 12,
+            "start": 77,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "conscience-based objections for healthcare workers",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "pushing",
+            "sentence_id": 12,
+            "start": 135,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "taxpayer-funded abortions",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "emboldened",
+            "sentence_id": 13,
+            "start": 11,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "Xavier Becerra",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "dismantle",
+            "sentence_id": 13,
+            "start": 92,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "Xavier Becerra",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "Conscience and Religious Freedom Division",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "conscience-based objections for healthcare workers",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "created",
+            "sentence_id": 13,
+            "start": 188,
+            "end": 195,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "protect",
+            "sentence_id": 13,
+            "start": 199,
+            "end": 206,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "religious freedom",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "eliminated",
+            "sentence_id": 14,
+            "start": 15,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "Xavier Becerra",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "conscience-based objections for healthcare workers",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 50,
+            "token": "dismissed",
+            "sentence_id": 14,
+            "start": 143,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "Xavier Becerra",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "religious freedom",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "forced",
+            "sentence_id": 14,
+            "start": 197,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 26,
+                    "text": "Doctors, nurses, and other medical providers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 27,
+                    "text": "medical procedures that directly violate their religious beliefs",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "Xavier Becerra",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "perform",
+            "sentence_id": 14,
+            "start": 207,
+            "end": 214,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "President Joe Biden\u2019s Department of Health and Human Services",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                1,
+                2
+            ]
+        },
+        {
+            "text": "religious freedom",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                1,
+                35,
+                48,
+                28
+            ]
+        },
+        {
+            "text": "conscience-based objections for healthcare workers",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                8,
+                43,
+                46,
+                15,
+                49,
+                53,
+                29
+            ]
+        },
+        {
+            "text": "institutions",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                10
+            ]
+        },
+        {
+            "text": "Planned Parenthood",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                19
+            ]
+        },
+        {
+            "text": "Biden administration",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                19,
+                20,
+                26,
+                23,
+                28,
+                32,
+                38,
+                44,
+                22,
+                27,
+                33,
+                35,
+                37,
+                15,
+                40,
+                43,
+                45,
+                52
+            ]
+        },
+        {
+            "text": "Pro-religious freedom organizations",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                20
+            ]
+        },
+        {
+            "text": "healthcare providers and patients",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                26
+            ]
+        },
+        {
+            "text": "Alliance Defending Freedom",
+            "ideology": "Right",
+            "id": 12,
+            "events": [
+                23
+            ]
+        },
+        {
+            "text": "taxpayer-funded abortions",
+            "ideology": "Left",
+            "id": 15,
+            "events": [
+                44
+            ]
+        },
+        {
+            "text": "Trump administration",
+            "ideology": "Right",
+            "id": 16,
+            "events": [
+                48,
+                8,
+                10
+            ]
+        },
+        {
+            "text": "Xavier Becerra",
+            "ideology": "Left",
+            "id": 17,
+            "events": [
+                45,
+                49,
+                51
+            ]
+        },
+        {
+            "text": "Conscience and Religious Freedom Division",
+            "ideology": "Right",
+            "id": 18,
+            "events": [
+                46
+            ]
+        },
+        {
+            "text": "Americans",
+            "ideology": "Neutral",
+            "id": 25,
+            "events": [
+                27
+            ]
+        },
+        {
+            "text": "Doctors, nurses, and other medical providers",
+            "ideology": "Neutral",
+            "id": 26,
+            "events": [
+                33,
+                37,
+                51
+            ]
+        },
+        {
+            "text": "medical procedures that directly violate their religious beliefs",
+            "ideology": "Neutral",
+            "id": 27,
+            "events": [
+                37,
+                51
+            ]
+        },
+        {
+            "text": "physicians, pharmacists, nurses, teachers, students, and faith-based charities",
+            "ideology": "Neutral",
+            "id": 29,
+            "events": [
+                53
+            ]
+        }
+    ]
+}

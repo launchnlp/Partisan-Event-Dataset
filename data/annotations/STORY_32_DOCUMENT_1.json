@@ -1,0 +1,984 @@
+{
+    "title": "Rick Perry actually tried to argue that fossil fuels can help fight sexual assault",
+    "date": "2017-11-02",
+    "topic": "energy",
+    "source": "Vox",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Rick Perry, y\u2019all."
+        },
+        {
+            "id": 1,
+            "text": "The energy secretary on Thursday actually said this during a discussion about energy policy and Africa: \u201cBut also from the standpoint of sexual assault."
+        },
+        {
+            "id": 2,
+            "text": "When the lights are on, when you have light that shines the righteousness, if you will, on those types of acts."
+        },
+        {
+            "id": 3,
+            "text": "So from the standpoint of how you really affect people\u2019s lives, fossil fuels is going to play a role in that."
+        },
+        {
+            "id": 4,
+            "text": "I happen to think it\u2019s going to play a positive role.\u201d"
+        },
+        {
+            "id": 5,
+            "text": "The implication is that fossil fuels power lights, and those lights can then help prevent or at least expose sexual assault."
+        },
+        {
+            "id": 6,
+            "text": "This manages to be both offensive and wrong."
+        },
+        {
+            "id": 7,
+            "text": "For one, this claim attempts to use a serious topic \u2014 sexual assault \u2014 to score some political points for one of Perry\u2019s long-held beliefs about the fossil fuel industry."
+        },
+        {
+            "id": 8,
+            "text": "It just feels gross, as Emily Atkin of the New Republic pointed out on Twitter."
+        },
+        {
+            "id": 9,
+            "text": "How about if instead of talking about the wonders of fossil fuels, we talk about how men just need to stop treating other people like objects?"
+        },
+        {
+            "id": 10,
+            "text": "Obviously Perry's use of sexual assault victims to promote Trump's fossil fuel agenda is offensive."
+        },
+        {
+            "id": 11,
+            "text": "Let's just get that out of the way."
+        },
+        {
+            "id": 12,
+            "text": "\u2014 Emily Atkin (@emorwee) November 2, 2017"
+        },
+        {
+            "id": 13,
+            "text": "Looking at the substance, the implication that you need fossil fuels to turn on lights is also false."
+        },
+        {
+            "id": 14,
+            "text": "There are also alternative energy sources \u2014 nuclear, solar, power, hydro, and so on \u2014 that work."
+        },
+        {
+            "id": 15,
+            "text": "As Atkin pointed out in her Twitter thread, there are even \u201chuge untapped resources for renewable energy\u201d in Africa."
+        },
+        {
+            "id": 16,
+            "text": "Even the underlying assumption of Perry\u2019s comments is questionable."
+        },
+        {
+            "id": 17,
+            "text": "As Christopher Ingraham pointed out over at the Washington Post, the evidence on whether lighting stops and deters crime is mixed."
+        },
+        {
+            "id": 18,
+            "text": "Here are some of the studies:"
+        },
+        {
+            "id": 19,
+            "text": "A 2007 systematic review of the research, covering 13 studies, found that US studies had mixed results, although UK studies reported much more positive outcomes."
+        },
+        {
+            "id": 20,
+            "text": "A 2015 study in England and Wales concluded, \u201cThere is no evidence that reduced street lighting is associated with increases in road traffic collisions or crime.\u201d"
+        },
+        {
+            "id": 21,
+            "text": "A 1997 report to Congress found, \u201cLighting has received considerable attention."
+        },
+        {
+            "id": 22,
+            "text": "Yet, evaluation designs are weak and the results are mixed."
+        },
+        {
+            "id": 23,
+            "text": "We can have very little confidence that improved lighting prevents crime, particularly since we do not know if offenders use lighting to their advantage.\u201d"
+        },
+        {
+            "id": 24,
+            "text": "This is such a contentious topic in the empirical research that CityLab\u2019s 2014 article on it, by Mike Riggs, was titled \u201cStreet Lights and Crime: A Seemingly Endless Debate.\u201d"
+        },
+        {
+            "id": 25,
+            "text": "When it comes to Perry, though, it means that his statements range from ridiculous and wrong to questionable."
+        }
+    ],
+    "id": "STORY_32_DOCUMENT_1",
+    "old_id": "2643_2",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 42,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rick Perry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "energy policy and Africa",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "discussion",
+            "sentence_id": 1,
+            "start": 61,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "shines",
+            "sentence_id": 2,
+            "start": 49,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "affect",
+            "sentence_id": 3,
+            "start": 41,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "play",
+            "sentence_id": 3,
+            "start": 89,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "happen",
+            "sentence_id": 4,
+            "start": 2,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "think",
+            "sentence_id": 4,
+            "start": 12,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "play",
+            "sentence_id": 4,
+            "start": 32,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "power",
+            "sentence_id": 5,
+            "start": 37,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "help",
+            "sentence_id": 5,
+            "start": 77,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "prevent",
+            "sentence_id": 5,
+            "start": 82,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "expose",
+            "sentence_id": 5,
+            "start": 102,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "manages",
+            "sentence_id": 6,
+            "start": 5,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rick Perry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "sexual assault",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 13,
+            "token": "attempts",
+            "sentence_id": 7,
+            "start": 20,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rick Perry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "sexual assault",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "use",
+            "sentence_id": 7,
+            "start": 32,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rick Perry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "sexual assault",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "score",
+            "sentence_id": 7,
+            "start": 74,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rick Perry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "political points",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "fossil fuel industry",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 16,
+            "token": "feels",
+            "sentence_id": 8,
+            "start": 8,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rick Perry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Emily Atkin",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Rick Perry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "sexual assault",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 17,
+            "token": "pointed",
+            "sentence_id": 8,
+            "start": 56,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "talking",
+            "sentence_id": 9,
+            "start": 24,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rick Perry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "fossil fuel industry",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "talk",
+            "sentence_id": 9,
+            "start": 70,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "need",
+            "sentence_id": 9,
+            "start": 94,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "stop",
+            "sentence_id": 9,
+            "start": 102,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "treating",
+            "sentence_id": 9,
+            "start": 107,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rick Perry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "sexual assault victims",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 23,
+            "token": "use",
+            "sentence_id": 10,
+            "start": 18,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rick Perry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "sexual assault",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 24,
+            "token": "promote",
+            "sentence_id": 10,
+            "start": 51,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rick Perry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Trump's fossil fuel agenda",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 25,
+            "token": "get",
+            "sentence_id": 11,
+            "start": 11,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "need",
+            "sentence_id": 13,
+            "start": 51,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rick Perry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "fossil fuel industry",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "turn",
+            "sentence_id": 13,
+            "start": 72,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "work",
+            "sentence_id": 14,
+            "start": 91,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "pointed",
+            "sentence_id": 15,
+            "start": 9,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "comments",
+            "sentence_id": 16,
+            "start": 42,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "questionable",
+            "sentence_id": 16,
+            "start": 54,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rick Perry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "sexual assault",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "pointed",
+            "sentence_id": 17,
+            "start": 24,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "stops",
+            "sentence_id": 17,
+            "start": 98,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "deters",
+            "sentence_id": 17,
+            "start": 108,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "found",
+            "sentence_id": 19,
+            "start": 63,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "had",
+            "sentence_id": 19,
+            "start": 85,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "reported",
+            "sentence_id": 19,
+            "start": 124,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "concluded",
+            "sentence_id": 20,
+            "start": 34,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "associated",
+            "sentence_id": 20,
+            "start": 99,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "street lighting",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "sexual assault",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Rick Perry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "increases",
+            "sentence_id": 20,
+            "start": 115,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "found",
+            "sentence_id": 21,
+            "start": 26,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "received",
+            "sentence_id": 21,
+            "start": 47,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "prevents",
+            "sentence_id": 23,
+            "start": 58,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "street lighting",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "sexual assault",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Rick Perry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "know",
+            "sentence_id": 23,
+            "start": 103,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "use",
+            "sentence_id": 23,
+            "start": 121,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "titled",
+            "sentence_id": 24,
+            "start": 113,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "Debate",
+            "sentence_id": 24,
+            "start": 166,
+            "end": 172,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "range",
+            "sentence_id": 25,
+            "start": 61,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rick Perry",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "sexual assault",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Rick Perry",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                0,
+                39,
+                43,
+                12,
+                13,
+                14,
+                15,
+                16,
+                48,
+                18,
+                22,
+                23,
+                24,
+                26,
+                31
+            ]
+        },
+        {
+            "text": "energy policy and Africa",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "sexual assault",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                39,
+                43,
+                12,
+                13,
+                14,
+                16,
+                48,
+                23,
+                31
+            ]
+        },
+        {
+            "text": "Emily Atkin",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                16
+            ]
+        },
+        {
+            "text": "Trump's fossil fuel agenda",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                24
+            ]
+        },
+        {
+            "text": "political points",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                15
+            ]
+        },
+        {
+            "text": "sexual assault victims",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                22
+            ]
+        },
+        {
+            "text": "fossil fuel industry",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                15,
+                18,
+                26
+            ]
+        },
+        {
+            "text": "street lighting",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                39,
+                43
+            ]
+        }
+    ]
+}

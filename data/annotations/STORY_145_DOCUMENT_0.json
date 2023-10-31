@@ -1,0 +1,1246 @@
+{
+    "title": "DeSantis Admin Slams Lawsuit Filed by Martha's Vineyard Migrants",
+    "date": "2022-09-21",
+    "topic": "immigration",
+    "source": "Breitbart News",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "As [ MASK ] News reported on Tuesday , the migrants sued the governor , claiming that he violated their Fourth and Fourteenth Amendment rights by being deceived into taking the trips up to the wealthy liberal enclave ."
+        },
+        {
+            "id": 1,
+            "text": "The lawsuit filed by lawyers with the non-governmental organizations ( NGOs ) Alianza Americas and Lawyers for Civil Rights said :"
+        },
+        {
+            "id": 2,
+            "text": "The Doe Defendants made false promises and false representations that if the individual Plaintiffs and other class members were willing to board airplanes to other states , they would receive employment , housing , educational opportunities , and other like assistance at their arrival , \u201d said the lawsuit filed by lawyers with the non-governmental organizations ( NGOs ) Alianza Americas and Lawyers for Civil Rights ."
+        },
+        {
+            "id": 3,
+            "text": "In fact , Defendants had made no arrangements for employment , housing , educational opportunities , or other assistance for the individual Plaintiffs or other class members at their destination ."
+        },
+        {
+            "id": 4,
+            "text": "Defendants had not even notified any governmental or non-profit entity that could provide such services that the individual Plaintiffs and their similarly - situated class members would be arriving ."
+        },
+        {
+            "id": 5,
+            "text": "The office of Ron DeSantis responded to the lawsuit on Tuesday , saying the migrants made a voluntary journey to Martha \u2019s Vineyard and that they were well cared for ."
+        },
+        {
+            "id": 6,
+            "text": "DeSantis spokeswoman Taryn Fenske said :"
+        },
+        {
+            "id": 7,
+            "text": "If these activists spent even a fraction of this time and effort at the border , perhaps some accountability would be brought to the Biden Administration \u2019s reckless border policies that entice illegal immigrants to make dangerous and often lethal journeys through Central America and put their lives in the hands of cartels and Coyotes ."
+        },
+        {
+            "id": 8,
+            "text": "Fenske even provided a copy of the consent form that migrants were asked to sign before boarding the plane ."
+        },
+        {
+            "id": 9,
+            "text": "The form said in both Spanish and English :"
+        },
+        {
+            "id": 10,
+            "text": "\u201c I agree to hold the benefactor or its designed representatives harmless of all liability arising out of or in any way relating to any injuries and damages that may occur during the agreed transport to locations outside of Texas until the final destination in Massachusetts ."
+        },
+        {
+            "id": 11,
+            "text": "Fenske added that the immigrants were homeless and abandoned and that activists cared nothing for them until they were shipped to Martha \u2019s Vineyard :"
+        },
+        {
+            "id": 12,
+            "text": "Florida \u2019s program gave them a fresh start in a sanctuary state and these individuals opted to take advantage of chartered flights to Massachusetts ."
+        },
+        {
+            "id": 13,
+            "text": "It was disappointing that Martha \u2019s Vineyard called in the Massachusetts National Guard to bus them away from the island within 48 hours ."
+        },
+        {
+            "id": 14,
+            "text": "Immediately after the migrants arrived on Martha \u2019s Vineyard , Democrats began pushing the absurd talking point that DeSantis \u201c kidnapped \u201d the migrants in order to use them as political pawns ."
+        },
+        {
+            "id": 15,
+            "text": "Democrat California Gov. Gavin Newsom even called on Attorney General Merrick Garland to investigate potential wrongdoing ."
+        },
+        {
+            "id": 16,
+            "text": "Newsom wrote on Thursday :"
+        },
+        {
+            "id": 17,
+            "text": "Like millions of Americans , I have been horrified at the images of migrants being shipped on buses and planes across the country to be used as political props ."
+        },
+        {
+            "id": 18,
+            "text": "Clearly , transporting families , including children , across state lines under false pretenses is morally reprehensible , but it may also be illegal ."
+        },
+        {
+            "id": 19,
+            "text": "\u201c I strongly urge the U.S. Department of Justice ( US DOJ ) to open an investigation into possible criminal or civil violations of federal law based on this alleged fraudulent scheme , \u201d he added ."
+        },
+        {
+            "id": 20,
+            "text": "Speaking to reporters in Martha \u2019s Vineyard near the shelter where migrants were being housed , immigration attorney Rachel Self also accused DeSantis of \u201c kidnapping \u201d the migrants by sending them to an island where millionaires vacation ."
+        }
+    ],
+    "id": "STORY_145_DOCUMENT_0",
+    "old_id": "TRIPLET_1313_DOCUMENT_0",
+    "split": "test",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "reported",
+            "sentence_id": 0,
+            "start": 17,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "sued",
+            "sentence_id": 0,
+            "start": 52,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Ron DeSantis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Martha's Vineyard Migrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 2,
+            "token": "claiming",
+            "sentence_id": 0,
+            "start": 72,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "violated",
+            "sentence_id": 0,
+            "start": 89,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Ron DeSantis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "migrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 4,
+            "token": "deceived",
+            "sentence_id": 0,
+            "start": 152,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "migrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 5,
+            "token": "taking",
+            "sentence_id": 0,
+            "start": 166,
+            "end": 172,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "trips",
+            "sentence_id": 0,
+            "start": 177,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "filed",
+            "sentence_id": 1,
+            "start": 12,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 124,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "made",
+            "sentence_id": 2,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "promises",
+            "sentence_id": 2,
+            "start": 30,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "willing",
+            "sentence_id": 2,
+            "start": 128,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "board",
+            "sentence_id": 2,
+            "start": 139,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "receive",
+            "sentence_id": 2,
+            "start": 184,
+            "end": 191,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "arrival",
+            "sentence_id": 2,
+            "start": 278,
+            "end": 285,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 290,
+            "end": 294,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "filed",
+            "sentence_id": 2,
+            "start": 307,
+            "end": 312,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "made",
+            "sentence_id": 3,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Ron DeSantis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "migrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 18,
+            "token": "arrangements",
+            "sentence_id": 3,
+            "start": 33,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "notified",
+            "sentence_id": 4,
+            "start": 24,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Ron DeSantis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 20,
+            "token": "provide",
+            "sentence_id": 4,
+            "start": 82,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "arriving",
+            "sentence_id": 4,
+            "start": 189,
+            "end": 197,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "responded",
+            "sentence_id": 5,
+            "start": 27,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "saying",
+            "sentence_id": 5,
+            "start": 65,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "made",
+            "sentence_id": 5,
+            "start": 85,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "journey",
+            "sentence_id": 5,
+            "start": 102,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "cared",
+            "sentence_id": 5,
+            "start": 156,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 34,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "spent",
+            "sentence_id": 7,
+            "start": 19,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "brought",
+            "sentence_id": 7,
+            "start": 118,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 30,
+            "token": "entice",
+            "sentence_id": 7,
+            "start": 187,
+            "end": 193,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "illegal immigrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Biden Administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "make",
+            "sentence_id": 7,
+            "start": 216,
+            "end": 220,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "journeys",
+            "sentence_id": 7,
+            "start": 248,
+            "end": 256,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "put",
+            "sentence_id": 7,
+            "start": 285,
+            "end": 288,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 34,
+            "token": "provided",
+            "sentence_id": 8,
+            "start": 12,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Taryn Fenske",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Ron DeSantis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 35,
+            "token": "asked",
+            "sentence_id": 8,
+            "start": 67,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "sign",
+            "sentence_id": 8,
+            "start": 76,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "boarding",
+            "sentence_id": 8,
+            "start": 88,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "agree",
+            "sentence_id": 10,
+            "start": 4,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "hold",
+            "sentence_id": 10,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "arising",
+            "sentence_id": 10,
+            "start": 91,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "injuries",
+            "sentence_id": 10,
+            "start": 136,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "occur",
+            "sentence_id": 10,
+            "start": 166,
+            "end": 171,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "transport",
+            "sentence_id": 10,
+            "start": 190,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "added",
+            "sentence_id": 11,
+            "start": 7,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "abandoned",
+            "sentence_id": 11,
+            "start": 51,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "cared",
+            "sentence_id": 11,
+            "start": 80,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 20,
+                    "text": "activists",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "migrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 48,
+            "token": "shipped",
+            "sentence_id": 11,
+            "start": 119,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "gave",
+            "sentence_id": 12,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "migrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 50,
+            "token": "opted",
+            "sentence_id": 12,
+            "start": 86,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "take",
+            "sentence_id": 12,
+            "start": 95,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "disappointing",
+            "sentence_id": 13,
+            "start": 7,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 53,
+            "token": "called",
+            "sentence_id": 13,
+            "start": 45,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "bus",
+            "sentence_id": 13,
+            "start": 91,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "arrived",
+            "sentence_id": 14,
+            "start": 31,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "began",
+            "sentence_id": 14,
+            "start": 73,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "pushing",
+            "sentence_id": 14,
+            "start": 79,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Ron DeSantis",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 58,
+            "token": "kidnapped",
+            "sentence_id": 14,
+            "start": 128,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "migrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 59,
+            "token": "use",
+            "sentence_id": 14,
+            "start": 165,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "migrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Ron DeSantis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 60,
+            "token": "called",
+            "sentence_id": 15,
+            "start": 43,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 61,
+            "token": "investigate",
+            "sentence_id": 15,
+            "start": 89,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Gavin Newsom",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Ron DeSantis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 62,
+            "token": "wrongdoing",
+            "sentence_id": 15,
+            "start": 111,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "wrote",
+            "sentence_id": 16,
+            "start": 7,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "horrified",
+            "sentence_id": 17,
+            "start": 41,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "shipped",
+            "sentence_id": 17,
+            "start": 83,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "used",
+            "sentence_id": 17,
+            "start": 136,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "migrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Ron DeSantis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 67,
+            "token": "transporting",
+            "sentence_id": 18,
+            "start": 10,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "urge",
+            "sentence_id": 19,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "open",
+            "sentence_id": 19,
+            "start": 63,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "investigation",
+            "sentence_id": 19,
+            "start": 71,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "violations",
+            "sentence_id": 19,
+            "start": 117,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Ron DeSantis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 28,
+                    "text": "federal law",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 72,
+            "token": "added",
+            "sentence_id": 19,
+            "start": 190,
+            "end": 195,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "Speaking",
+            "sentence_id": 20,
+            "start": 0,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "housed",
+            "sentence_id": 20,
+            "start": 87,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "accused",
+            "sentence_id": 20,
+            "start": 134,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "immigration attorney Rachel Self",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Ron DeSantis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 76,
+            "token": "kidnapping",
+            "sentence_id": 20,
+            "start": 156,
+            "end": 166,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Ron DeSantis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "migrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 77,
+            "token": "sending",
+            "sentence_id": 20,
+            "start": 185,
+            "end": 192,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "vacation",
+            "sentence_id": 20,
+            "start": 230,
+            "end": 238,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "migrants",
+            "ideology": "Neutral",
+            "id": 0,
+            "events": [
+                1,
+                66,
+                4,
+                76,
+                47,
+                17,
+                49,
+                58,
+                59,
+                3,
+                10,
+                26
+            ]
+        },
+        {
+            "text": "Ron DeSantis",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                1,
+                4,
+                10,
+                26,
+                49,
+                58,
+                59,
+                66,
+                71
+            ]
+        },
+        {
+            "text": "Martha's Vineyard Migrants",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                1
+            ]
+        },
+        {
+            "text": "Taryn Fenske",
+            "ideology": "Right",
+            "id": 7,
+            "events": []
+        },
+        {
+            "text": "Biden Administration",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                30
+            ]
+        },
+        {
+            "text": "illegal immigrants",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                30
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                57
+            ]
+        },
+        {
+            "text": "Gavin Newsom",
+            "ideology": "Left",
+            "id": 14,
+            "events": [
+                61
+            ]
+        },
+        {
+            "text": "immigration attorney Rachel Self",
+            "ideology": "Neutral",
+            "id": 16,
+            "events": []
+        },
+        {
+            "text": "activists",
+            "ideology": "Left",
+            "id": 20,
+            "events": [
+                47
+            ]
+        },
+        {
+            "text": "governmental or non-profit entity",
+            "ideology": "Neutral",
+            "id": 27,
+            "events": [
+                19
+            ]
+        },
+        {
+            "text": "federal law",
+            "ideology": "Neutral",
+            "id": 28,
+            "events": [
+                71
+            ]
+        }
+    ]
+}

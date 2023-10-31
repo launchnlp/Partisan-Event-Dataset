@@ -1,0 +1,1571 @@
+{
+    "title": "Treasury Department admits Senate tax plan won\u2019t pay for itself",
+    "date": "2017-12-12",
+    "topic": "tax",
+    "source": "Vox",
+    "media_ideology": "Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Today, the Treasury Department finally released its much-promised analysis of its tax plan."
+        },
+        {
+            "id": 1,
+            "text": "And it turns out, they can\u2019t deliver what they promised."
+        },
+        {
+            "id": 2,
+            "text": "For months now, top leaders in the Trump administration have been promising to produce a dynamic economic analysis that shows the growth-boosting powers of its tax plan are so impressive that they will negate any revenue loss."
+        },
+        {
+            "id": 3,
+            "text": "But the report \u2014 published by an agency overseen by Trump appointees and using methods Republicans say they favor \u2014 found that they have to assume large numbers of additional policy changes to get the growth they\u2019ve promised."
+        },
+        {
+            "id": 4,
+            "text": "Dozens of Republican Senators and members of Congress profess to believe that some such analysis is out there somewhere, and that it justifies their decision to ignore Joint Committee on Taxation findings that the plan would, in fact, add somewhere between $1 and $1.5 trillion to the deficit."
+        },
+        {
+            "id": 5,
+            "text": "Instead of a dynamic analysis showing that the tax plan would boost annual economic growth by the 0.7 percentage points they need, they have an analysis claiming that if you passed that tax plan and did a bunch of other stuff you will get the growth (emphasis added):"
+        },
+        {
+            "id": 6,
+            "text": "[Office of Tax Policy] compared this 2.9% GDP growth scenario to a baseline of previous projections of 2.2% GDP growth."
+        },
+        {
+            "id": 7,
+            "text": "Treasury expects approximately half of this 0.7% increase in growth to come from changes to corporate taxation."
+        },
+        {
+            "id": 8,
+            "text": "We expect the other half to come from changes to pass-through taxation and individual tax reform, as well as from a combination of regulatory reform, infrastructure development, and welfare reform as proposed in the Administration\u2019s Fiscal Year 2018 budget."
+        },
+        {
+            "id": 9,
+            "text": "Two points on this."
+        },
+        {
+            "id": 10,
+            "text": "One is that the budget proposal in question involved draconian spending cuts on a huge range of programs \u2014 everything from the Appalachian Regional Commission to Meals on Wheels to nutritional assistance for low-income pregnant women gets the axe."
+        },
+        {
+            "id": 11,
+            "text": "So if you want to \u201cdynamically\u201d score the growth benefits of this kind of thing, you also ought to dynamically update the distributional accounts."
+        },
+        {
+            "id": 12,
+            "text": "Treasury is basically saying that if you pay for a corporate tax cut by taking money away from the needy, your GDP will grow."
+        },
+        {
+            "id": 13,
+            "text": "At some margin, that\u2019s probably true."
+        },
+        {
+            "id": 14,
+            "text": "The economic benefits of having pregnant women able to eat healthy food are not going to show up within a 10-year scoring window."
+        },
+        {
+            "id": 15,
+            "text": "Providing meals to home-bound sick, elderly, and disabled people probably doesn\u2019t generate any economic growth at all."
+        },
+        {
+            "id": 16,
+            "text": "Your mileage may vary as to whether this is the right way to think about policy."
+        },
+        {
+            "id": 17,
+            "text": "The second point is that even House Republicans pronounced Trump\u2019s budget proposal dead on arrival when he released it."
+        },
+        {
+            "id": 18,
+            "text": "The budget resolution congressional Republicans passed looks totally different from Trump\u2019s proposal, and the negotiations over appropriations bills do not envision Trump\u2019s proposals being enacted."
+        },
+        {
+            "id": 19,
+            "text": "The administration\u2019s analysis claims, basically, that the tax cuts would pay for themselves if and only if they are paired with a bunch of other ideas congress already rejected."
+        },
+        {
+            "id": 20,
+            "text": "So there\u2019s the story."
+        },
+        {
+            "id": 21,
+            "text": "Both JCT and Treasury are, at this point, run by Republicans and using the methods Republicans say they favor."
+        },
+        {
+            "id": 22,
+            "text": "According to those methods, the tax plan will not achieve what the tax plan\u2019s political advocates say it will achieve."
+        },
+        {
+            "id": 23,
+            "text": "And by other, more skeptical methods, things look even worse."
+        }
+    ],
+    "id": "STORY_10_DOCUMENT_0",
+    "old_id": "2710_1",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "released",
+            "sentence_id": 0,
+            "start": 39,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "turns",
+            "sentence_id": 1,
+            "start": 7,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "deliver",
+            "sentence_id": 1,
+            "start": 29,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Treasury Department",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "tax plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 3,
+            "token": "promised",
+            "sentence_id": 1,
+            "start": 47,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Treasury Department",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "promising",
+            "sentence_id": 2,
+            "start": 66,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "produce",
+            "sentence_id": 2,
+            "start": 79,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "shows",
+            "sentence_id": 2,
+            "start": 120,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "negate",
+            "sentence_id": 2,
+            "start": 202,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "Senate tax plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "loss",
+            "sentence_id": 2,
+            "start": 221,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "published",
+            "sentence_id": 3,
+            "start": 17,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "using",
+            "sentence_id": 3,
+            "start": 73,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "say",
+            "sentence_id": 3,
+            "start": 99,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "favor",
+            "sentence_id": 3,
+            "start": 108,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "found",
+            "sentence_id": 3,
+            "start": 116,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "assume",
+            "sentence_id": 3,
+            "start": 140,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "economic analysis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "policy changes",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "the Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Senate tax plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 15,
+            "token": "changes",
+            "sentence_id": 3,
+            "start": 182,
+            "end": 189,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "get",
+            "sentence_id": 3,
+            "start": 193,
+            "end": 196,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "the Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Senate tax plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "promised",
+            "sentence_id": 3,
+            "start": 216,
+            "end": 224,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "the Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Senate tax plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 18,
+            "token": "profess",
+            "sentence_id": 4,
+            "start": 54,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "believe",
+            "sentence_id": 4,
+            "start": 65,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "justifies",
+            "sentence_id": 4,
+            "start": 133,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "The administration\u2019s analysis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "Republican Senators and members of Congress",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "decision",
+            "sentence_id": 4,
+            "start": 149,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "ignore",
+            "sentence_id": 4,
+            "start": 161,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Republican Senators",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Joint Committee on Taxation",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "Republican Senators and members of Congress",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "Joint Committee on Taxation findings",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 23,
+            "token": "findings",
+            "sentence_id": 4,
+            "start": 196,
+            "end": 204,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "add",
+            "sentence_id": 4,
+            "start": 235,
+            "end": 238,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "Senate tax plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "showing",
+            "sentence_id": 5,
+            "start": 30,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "boost",
+            "sentence_id": 5,
+            "start": 62,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "need",
+            "sentence_id": 5,
+            "start": 125,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "claiming",
+            "sentence_id": 5,
+            "start": 153,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "economic analysis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "economic growth",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "The administration\u2019s analysis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "passed",
+            "sentence_id": 5,
+            "start": 174,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 19,
+                    "text": "you",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "The administration\u2019s analysis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 30,
+            "token": "did",
+            "sentence_id": 5,
+            "start": 199,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 19,
+                    "text": "you",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "The administration\u2019s analysis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "get",
+            "sentence_id": 5,
+            "start": 235,
+            "end": 238,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 19,
+                    "text": "you",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "The administration\u2019s analysis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "compared",
+            "sentence_id": 6,
+            "start": 23,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "expects",
+            "sentence_id": 7,
+            "start": 9,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "increase",
+            "sentence_id": 7,
+            "start": 49,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "come",
+            "sentence_id": 7,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "changes",
+            "sentence_id": 7,
+            "start": 81,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "expect",
+            "sentence_id": 8,
+            "start": 3,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "come",
+            "sentence_id": 8,
+            "start": 28,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "changes",
+            "sentence_id": 8,
+            "start": 38,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "proposed",
+            "sentence_id": 8,
+            "start": 200,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "involved",
+            "sentence_id": 10,
+            "start": 44,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "cuts",
+            "sentence_id": 10,
+            "start": 72,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "want",
+            "sentence_id": 11,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "score",
+            "sentence_id": 11,
+            "start": 32,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "update",
+            "sentence_id": 11,
+            "start": 111,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 19,
+                    "text": "you",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Senate tax plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "saying",
+            "sentence_id": 12,
+            "start": 22,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "pay",
+            "sentence_id": 12,
+            "start": 41,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "taking",
+            "sentence_id": 12,
+            "start": 72,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "tax plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "money",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Senate tax plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "the needy",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 49,
+            "token": "grow",
+            "sentence_id": 12,
+            "start": 120,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "eat",
+            "sentence_id": 14,
+            "start": 55,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "show",
+            "sentence_id": 14,
+            "start": 89,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "economic benefits",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Senate tax plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "Providing",
+            "sentence_id": 15,
+            "start": 0,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "generate",
+            "sentence_id": 15,
+            "start": 82,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "Providing meals to home-bound sick, elderly, and disabled people",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Senate tax plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 54,
+            "token": "vary",
+            "sentence_id": 16,
+            "start": 17,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "think",
+            "sentence_id": 16,
+            "start": 61,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "pronounced",
+            "sentence_id": 17,
+            "start": 48,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "House Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "Trump\u2019s budget",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "Trump\u2019s budget proposal",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 57,
+            "token": "dead",
+            "sentence_id": 17,
+            "start": 83,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 23,
+                    "text": "Trump\u2019s budget proposal",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "released",
+            "sentence_id": 17,
+            "start": 107,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "passed",
+            "sentence_id": 18,
+            "start": 48,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "looks",
+            "sentence_id": 18,
+            "start": 55,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "negotiations",
+            "sentence_id": 18,
+            "start": 110,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "envision",
+            "sentence_id": 18,
+            "start": 156,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "budget resolution congressional Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "Trump\u2019s budget",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 63,
+            "token": "enacted",
+            "sentence_id": 18,
+            "start": 189,
+            "end": 196,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 23,
+                    "text": "Trump\u2019s budget proposal",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 64,
+            "token": "claims",
+            "sentence_id": 19,
+            "start": 30,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "economic analysis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "tax cuts would pay for themselves",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 65,
+            "token": "pay",
+            "sentence_id": 19,
+            "start": 73,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "paired",
+            "sentence_id": 19,
+            "start": 116,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "rejected",
+            "sentence_id": 19,
+            "start": 168,
+            "end": 176,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 24,
+                    "text": "a bunch of other ideas",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Senate tax plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "The administration\u2019s analysis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 68,
+            "token": "run",
+            "sentence_id": 21,
+            "start": 42,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "using",
+            "sentence_id": 21,
+            "start": 65,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "say",
+            "sentence_id": 21,
+            "start": 95,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "favor",
+            "sentence_id": 21,
+            "start": 104,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "economic analysis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 72,
+            "token": "achieve",
+            "sentence_id": 22,
+            "start": 50,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "tax plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "economic growth",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Senate tax plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 73,
+            "token": "say",
+            "sentence_id": 22,
+            "start": 98,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "tax plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 74,
+            "token": "achieve",
+            "sentence_id": 22,
+            "start": 110,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "look",
+            "sentence_id": 23,
+            "start": 45,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "tax plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Treasury Department",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                2,
+                3
+            ]
+        },
+        {
+            "text": "tax plan",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                2,
+                48,
+                72,
+                73,
+                75
+            ]
+        },
+        {
+            "text": "Trump administration",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "economic analysis",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                4,
+                14,
+                28,
+                64,
+                71
+            ]
+        },
+        {
+            "text": "policy changes",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                14
+            ]
+        },
+        {
+            "text": "Republican Senators",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                22
+            ]
+        },
+        {
+            "text": "Joint Committee on Taxation",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                22
+            ]
+        },
+        {
+            "text": "economic growth",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                28,
+                72
+            ]
+        },
+        {
+            "text": "money",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                48
+            ]
+        },
+        {
+            "text": "House Republicans",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                56
+            ]
+        },
+        {
+            "text": "Trump\u2019s budget",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                56,
+                62
+            ]
+        },
+        {
+            "text": "budget resolution congressional Republicans",
+            "ideology": "Right",
+            "id": 11,
+            "events": [
+                62
+            ]
+        },
+        {
+            "text": "tax cuts would pay for themselves",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                64
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 13,
+            "events": [
+                71,
+                73
+            ]
+        },
+        {
+            "text": "the Trump administration",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                4,
+                14,
+                16,
+                17
+            ]
+        },
+        {
+            "text": "Senate tax plan",
+            "ideology": "Right",
+            "id": 15,
+            "events": [
+                7,
+                14,
+                16,
+                17,
+                24,
+                45,
+                48,
+                51,
+                53,
+                67,
+                72
+            ]
+        },
+        {
+            "text": "The administration\u2019s analysis",
+            "ideology": "Right",
+            "id": 16,
+            "events": [
+                20,
+                28,
+                29,
+                30,
+                31,
+                67
+            ]
+        },
+        {
+            "text": "Republican Senators and members of Congress",
+            "ideology": "Right",
+            "id": 17,
+            "events": [
+                22,
+                20
+            ]
+        },
+        {
+            "text": "Joint Committee on Taxation findings",
+            "ideology": "Neutral",
+            "id": 18,
+            "events": [
+                22
+            ]
+        },
+        {
+            "text": "you",
+            "ideology": "Uncertain",
+            "id": 19,
+            "events": [
+                29,
+                30,
+                31,
+                45
+            ]
+        },
+        {
+            "text": "the needy",
+            "ideology": "Neutral",
+            "id": 20,
+            "events": [
+                48
+            ]
+        },
+        {
+            "text": "economic benefits",
+            "ideology": "N/A",
+            "id": 21,
+            "events": [
+                51
+            ]
+        },
+        {
+            "text": "Providing meals to home-bound sick, elderly, and disabled people",
+            "ideology": "N/A",
+            "id": 22,
+            "events": [
+                53
+            ]
+        },
+        {
+            "text": "Trump\u2019s budget proposal",
+            "ideology": "Right",
+            "id": 23,
+            "events": [
+                56,
+                57,
+                63
+            ]
+        },
+        {
+            "text": "a bunch of other ideas",
+            "ideology": "Right",
+            "id": 24,
+            "events": [
+                67
+            ]
+        }
+    ]
+}

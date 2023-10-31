@@ -1,0 +1,1313 @@
+{
+    "title": "'Short-term thinking': Environmentalists push back on Biden's ethanol expansion",
+    "date": "2022-04-13",
+    "topic": "energy",
+    "source": "NBC News (Online)",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Joe Biden's plan to reduce the price of gas by allowing the sale of higher-ethanol fuel this summer may make corn farmers and their elected representatives happy."
+        },
+        {
+            "id": 1,
+            "text": "But the move also has irked environmentalists who see ethanol as a climate-change villain."
+        },
+        {
+            "id": 2,
+            "text": "Biden made his announcement Tuesday during a trip to Iowa, where corn \u2014 and ethanol \u2014 are crucial to the state economy."
+        },
+        {
+            "id": 3,
+            "text": "He said the Environmental Protection Agency would issue an emergency waiver from the Clean Air Act that will permit the sale of gasoline that is 15 percent ethanol, 5 percent more than the typical blend, from June 1 to Sept. 15."
+        },
+        {
+            "id": 4,
+            "text": "The change will lower gas prices by about 10 cents a gallon at the 2,300 gas stations equipped to pump it, the Biden administration says."
+        },
+        {
+            "id": 5,
+            "text": "To environmentalists, that's a small benefit compared to the damage the decision could do to efforts to reduce the country's carbon emissions."
+        },
+        {
+            "id": 6,
+            "text": "\u201cWhat the president is doing is the definition of short-term thinking,\u201d said Carroll Muffett, president and CEO of the Center for International Environmental Law."
+        },
+        {
+            "id": 7,
+            "text": "\u201cThe goal here shouldn\u2019t be to bring gas prices down by 10 cents in the near term by increasing emissions that will endanger large parts of the population.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "Although ethanol was embraced more than a decade ago as a renewable fuel, its green reputation has eroded."
+        },
+        {
+            "id": 9,
+            "text": "Scientists have found evidence that increased corn production for ethanol could increase greenhouse gas emissions; a study published in February said ethanol may be worse for the climate than gasoline."
+        },
+        {
+            "id": 10,
+            "text": "The reason Biden needs an emergency waiver is that the summertime use of gas with 15 percent ethanol, known as E15, is known to increase smog."
+        },
+        {
+            "id": 11,
+            "text": "\u201cThis is a quick fix that will harm the planet and not do much to support consumers,\u201d said Jim Walsh, policy director at Food & Water Watch, a nonprofit group that opposes the use of ethanol as a climate solution."
+        },
+        {
+            "id": 12,
+            "text": "Senior Biden administration officials have told reporters that the EPA's own analysis did not indicate that the emergency waiver was likely to harm air quality."
+        },
+        {
+            "id": 13,
+            "text": "They pointed to another study, published last year, showing that ethanol's greenhouse gas emissions are decreasing with improvements in farming and production methods."
+        },
+        {
+            "id": 14,
+            "text": "Geoff Cooper, president and CEO of the Renewable Fuels Association, an ethanol trade association, said ethanol was \"unquestionably a winner when compared to gasoline.\""
+        },
+        {
+            "id": 15,
+            "text": "Biden's move also drew criticism from the oil industry."
+        },
+        {
+            "id": 16,
+            "text": "The American Petroleum Institute, a trade association for the oil and gas industries, said that the scarcity of stations equipped with E15 fuel limits the impact of the president's action."
+        },
+        {
+            "id": 17,
+            "text": "\"Americans are looking for long-term solutions, not short-term political fixes that fail to acknowledge the logistical, legal and compatibility constraints that limit the ability of E15 to influence prices at the pump today,\" Ron Chittim, the group's vice president of downstream policy, said in a statement."
+        },
+        {
+            "id": 18,
+            "text": "Then-President Donald Trump tried allowing the year-round use of E15 fuel in 2019 but a federal court overruled him following a challenge from oil refiners."
+        },
+        {
+            "id": 19,
+            "text": "Sheila Karpf, a senior policy analyst at Taxpayers for Common Sense, a nonprofit government watchdog group that opposes ethanol subsidies, said she expected Biden's waiver to be challenged in court as well."
+        },
+        {
+            "id": 20,
+            "text": "\"We have seen decades of corn ethanol subsidies, and the handouts to the industry continue to happen,\" she said."
+        },
+        {
+            "id": 21,
+            "text": "Cooper, of the ethanol trade group, said that he too expected the oil industry to challenge Biden's expansion of E15 but that it will survive, because it involves the temporary use of emergency powers allowed by the Clean Air Act."
+        },
+        {
+            "id": 22,
+            "text": "\"If war in Ukraine and $4 gas and a shortage in the marketplace don\u2019t warrant an emergency, I don\u2019t know what would,\" he said."
+        }
+    ],
+    "id": "STORY_114_DOCUMENT_1",
+    "old_id": "6560_1",
+    "split": "dev",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "plan",
+            "sentence_id": 0,
+            "start": 22,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "reduce",
+            "sentence_id": 0,
+            "start": 30,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "allowing",
+            "sentence_id": 0,
+            "start": 57,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "sale",
+            "sentence_id": 0,
+            "start": 70,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "make",
+            "sentence_id": 0,
+            "start": 114,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "emergency waiver",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "corn farmers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "move",
+            "sentence_id": 1,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "irked",
+            "sentence_id": 1,
+            "start": 22,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "emergency waiver",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "environmentalists",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 7,
+            "token": "see",
+            "sentence_id": 1,
+            "start": 50,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "made",
+            "sentence_id": 2,
+            "start": 6,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "announcement",
+            "sentence_id": 2,
+            "start": 15,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "trip",
+            "sentence_id": 2,
+            "start": 45,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "issue",
+            "sentence_id": 3,
+            "start": 50,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "permit",
+            "sentence_id": 3,
+            "start": 109,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "sale",
+            "sentence_id": 3,
+            "start": 120,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "change",
+            "sentence_id": 4,
+            "start": 4,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "lower",
+            "sentence_id": 4,
+            "start": 16,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "emergency waiver",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "gas prices",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "says",
+            "sentence_id": 4,
+            "start": 132,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "damage",
+            "sentence_id": 5,
+            "start": 61,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "emergency waiver",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "carbon emissions",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 19,
+            "token": "decision",
+            "sentence_id": 5,
+            "start": 72,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "do",
+            "sentence_id": 5,
+            "start": 87,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "efforts",
+            "sentence_id": 5,
+            "start": 93,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "reduce",
+            "sentence_id": 5,
+            "start": 104,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "doing",
+            "sentence_id": 6,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "short-term thinking",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 24,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 72,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "bring",
+            "sentence_id": 7,
+            "start": 31,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "emergency waiver",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "gas prices",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "increasing",
+            "sentence_id": 7,
+            "start": 85,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "endanger",
+            "sentence_id": 7,
+            "start": 116,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "emergency waiver",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "population",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 28,
+            "token": "embraced",
+            "sentence_id": 8,
+            "start": 21,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "eroded",
+            "sentence_id": 8,
+            "start": 99,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "found",
+            "sentence_id": 9,
+            "start": 16,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "increase",
+            "sentence_id": 9,
+            "start": 80,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "published",
+            "sentence_id": 9,
+            "start": 123,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 145,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "needs",
+            "sentence_id": 10,
+            "start": 17,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "use",
+            "sentence_id": 10,
+            "start": 66,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "known",
+            "sentence_id": 10,
+            "start": 119,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "increase",
+            "sentence_id": 10,
+            "start": 128,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "fix",
+            "sentence_id": 11,
+            "start": 17,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "emergency waiver",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "planet",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "harm",
+            "sentence_id": 11,
+            "start": 31,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "emergency waiver",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "planet",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 40,
+            "token": "do",
+            "sentence_id": 11,
+            "start": 55,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "support",
+            "sentence_id": 11,
+            "start": 66,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "said",
+            "sentence_id": 11,
+            "start": 86,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "opposes",
+            "sentence_id": 11,
+            "start": 164,
+            "end": 171,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "use",
+            "sentence_id": 11,
+            "start": 176,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "told",
+            "sentence_id": 12,
+            "start": 43,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "indicate",
+            "sentence_id": 12,
+            "start": 94,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "EPA's own analysis",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "emergency waiver",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "harm",
+            "sentence_id": 12,
+            "start": 143,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "pointed",
+            "sentence_id": 13,
+            "start": 5,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "published",
+            "sentence_id": 13,
+            "start": 31,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "showing",
+            "sentence_id": 13,
+            "start": 52,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "decreasing",
+            "sentence_id": 13,
+            "start": 104,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "improvements",
+            "sentence_id": 13,
+            "start": 120,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "said",
+            "sentence_id": 14,
+            "start": 98,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "move",
+            "sentence_id": 15,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "drew",
+            "sentence_id": 15,
+            "start": 18,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "emergency waiver",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "oil industry",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 56,
+            "token": "said",
+            "sentence_id": 16,
+            "start": 86,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "limits",
+            "sentence_id": 16,
+            "start": 144,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "action",
+            "sentence_id": 16,
+            "start": 181,
+            "end": 187,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "looking",
+            "sentence_id": 17,
+            "start": 15,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "fixes",
+            "sentence_id": 17,
+            "start": 73,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "fail",
+            "sentence_id": 17,
+            "start": 84,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "emergency waiver",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "constraints",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 62,
+            "token": "acknowledge",
+            "sentence_id": 17,
+            "start": 92,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "limit",
+            "sentence_id": 17,
+            "start": 161,
+            "end": 166,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "influence",
+            "sentence_id": 17,
+            "start": 189,
+            "end": 198,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 288,
+            "end": 292,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "tried",
+            "sentence_id": 18,
+            "start": 28,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "allowing",
+            "sentence_id": 18,
+            "start": 34,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "overruled",
+            "sentence_id": 18,
+            "start": 102,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "challenge",
+            "sentence_id": 18,
+            "start": 128,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "opposes",
+            "sentence_id": 19,
+            "start": 112,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "said",
+            "sentence_id": 19,
+            "start": 139,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "expected",
+            "sentence_id": 19,
+            "start": 148,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "challenged",
+            "sentence_id": 19,
+            "start": 178,
+            "end": 188,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "seen",
+            "sentence_id": 20,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "handouts",
+            "sentence_id": 20,
+            "start": 57,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "continue",
+            "sentence_id": 20,
+            "start": 82,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "happen",
+            "sentence_id": 20,
+            "start": 94,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "said",
+            "sentence_id": 20,
+            "start": 107,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "said",
+            "sentence_id": 21,
+            "start": 36,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "expected",
+            "sentence_id": 21,
+            "start": 53,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "challenge",
+            "sentence_id": 21,
+            "start": 82,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "expansion",
+            "sentence_id": 21,
+            "start": 100,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "survive",
+            "sentence_id": 21,
+            "start": 134,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 84,
+            "token": "involves",
+            "sentence_id": 21,
+            "start": 154,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "use",
+            "sentence_id": 21,
+            "start": 177,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "war",
+            "sentence_id": 22,
+            "start": 4,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 87,
+            "token": "shortage",
+            "sentence_id": 22,
+            "start": 36,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 88,
+            "token": "warrant",
+            "sentence_id": 22,
+            "start": 70,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "know",
+            "sentence_id": 22,
+            "start": 100,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 90,
+            "token": "said",
+            "sentence_id": 22,
+            "start": 121,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "emergency waiver",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                4,
+                6,
+                16,
+                18,
+                25,
+                27,
+                38,
+                39,
+                46,
+                55,
+                61
+            ]
+        },
+        {
+            "text": "corn farmers",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "environmentalists",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                6
+            ]
+        },
+        {
+            "text": "gas prices",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                16,
+                25
+            ]
+        },
+        {
+            "text": "carbon emissions",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                18
+            ]
+        },
+        {
+            "text": "Joe Biden",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                23
+            ]
+        },
+        {
+            "text": "short-term thinking",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                23
+            ]
+        },
+        {
+            "text": "population",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                27
+            ]
+        },
+        {
+            "text": "planet",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                38,
+                39
+            ]
+        },
+        {
+            "text": "EPA's own analysis",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                46
+            ]
+        },
+        {
+            "text": "oil industry",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                55
+            ]
+        },
+        {
+            "text": "constraints",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                61
+            ]
+        }
+    ]
+}

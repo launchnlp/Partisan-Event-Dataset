@@ -1,0 +1,1020 @@
+{
+    "title": "Trump\u2019s 1776 Commission Critiques Liberalism in Report Derided by Historians",
+    "date": "2021-01-19",
+    "topic": "race-and-racism",
+    "source": "New York Times (News)",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "\u201cThis report skillfully weaves together myths, distortions, deliberate silences, and both blatant and subtle misreading of evidence to create a narrative and an argument that few respectable professional historians, even across a wide interpretive spectrum, would consider plausible, never mind convincing,\u201d he said."
+        },
+        {
+            "id": 1,
+            "text": "\u201cThey\u2019re using something they call history to stoke culture wars,\u201d he said."
+        },
+        {
+            "id": 2,
+            "text": "The commission\u2019s report depicts a nation where liberals are seething with hatred for their own country, and whose divisions over its history and meaning recall those leading to the American Revolution and the Civil War."
+        },
+        {
+            "id": 3,
+            "text": "It portrays an America whose institutions have been infiltrated by leftist radicals whose views echo those of recent totalitarian movements and argues that progressives have created, in the so-called administrative state, an unchecked \u201cfourth branch\u201d or \u201cshadow government.\u201d"
+        },
+        {
+            "id": 4,
+            "text": "And American universities, the report contends, \u201care often today hotbeds of anti-Americanism, libel, and censorship that combine to generate in students and in the broader culture at the very least disdain and at worst outright hatred for this country.\u201d"
+        },
+        {
+            "id": 5,
+            "text": "The report likens the American progressive movement of the early 20th century to the fascism of leaders like Benito Mussolini, who it said \u201csought to centralize power under the management of so-called experts.\u201d"
+        },
+        {
+            "id": 6,
+            "text": "\u201cThe biggest tell in the 1776 report is that it lists \u2018Progressivism\u2019 along with \u2018Slavery\u2019 and \u2018Fascism\u2019 in its list of \u2018challenges to America\u2019s principles,\u2019\u201d Thomas Sugrue, a historian at New York University, wrote on Twitter."
+        },
+        {
+            "id": 7,
+            "text": "\u201cTime to rewrite my lectures to say that ending child labor and regulating meatpacking = Hitlerism.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "Released on Martin Luther King\u2019s Birthday, the report even takes aim at the legacy of the Civil Rights movement, saying that it \u201cwas almost immediately turned to programs that ran counter to the lofty ideals of the founders.\u201d"
+        }
+    ],
+    "id": "STORY_78_DOCUMENT_0",
+    "old_id": "5276_0",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "weaves",
+            "sentence_id": 0,
+            "start": 24,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 1,
+            "token": "silences",
+            "sentence_id": 0,
+            "start": 71,
+            "end": 79,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "misreading",
+            "sentence_id": 0,
+            "start": 109,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Trump\u2019s 1776 Commission Report",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "evidence",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "create",
+            "sentence_id": 0,
+            "start": 135,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 4,
+            "token": "consider",
+            "sentence_id": 0,
+            "start": 264,
+            "end": 272,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "respectable professional historians",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Trump\u2019s 1776 Commission Report",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 5,
+            "token": "convincing",
+            "sentence_id": 0,
+            "start": 295,
+            "end": 305,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "respectable professional historians",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Trump\u2019s 1776 Commission Report",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "said",
+            "sentence_id": 0,
+            "start": 311,
+            "end": 315,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "using",
+            "sentence_id": 1,
+            "start": 9,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 8,
+            "token": "stoke",
+            "sentence_id": 1,
+            "start": 46,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Trump\u2019s 1776 Commission Report",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "culture wars",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 9,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 70,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "depicts",
+            "sentence_id": 2,
+            "start": 24,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "seething",
+            "sentence_id": 2,
+            "start": 60,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "divisions",
+            "sentence_id": 2,
+            "start": 114,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "liberals",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "history",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "recall",
+            "sentence_id": 2,
+            "start": 153,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "liberals",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 14,
+            "token": "leading",
+            "sentence_id": 2,
+            "start": 166,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 15,
+            "token": "Revolution",
+            "sentence_id": 2,
+            "start": 190,
+            "end": 200,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "War",
+            "sentence_id": 2,
+            "start": 215,
+            "end": 218,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "portrays",
+            "sentence_id": 3,
+            "start": 3,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "infiltrated",
+            "sentence_id": 3,
+            "start": 52,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "echo",
+            "sentence_id": 3,
+            "start": 96,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "argues",
+            "sentence_id": 3,
+            "start": 144,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "created",
+            "sentence_id": 3,
+            "start": 174,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "contends",
+            "sentence_id": 4,
+            "start": 38,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "combine",
+            "sentence_id": 4,
+            "start": 121,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "generate",
+            "sentence_id": 4,
+            "start": 132,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "likens",
+            "sentence_id": 5,
+            "start": 11,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the American progressive movement",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Trump\u2019s 1776 Commission Report",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "early 20th century to the fascism",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 26,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 134,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "sought",
+            "sentence_id": 5,
+            "start": 140,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "the American progressive movement",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "centralize",
+            "sentence_id": 5,
+            "start": 150,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "the American progressive movement",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "lists",
+            "sentence_id": 6,
+            "start": 48,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the American progressive movement",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Trump\u2019s 1776 Commission Report",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "progressives",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 30,
+            "token": "wrote",
+            "sentence_id": 6,
+            "start": 210,
+            "end": 215,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "rewrite",
+            "sentence_id": 7,
+            "start": 9,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "Thomas Sugrue",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "lectures",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Trump\u2019s 1776 Commission Report",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "say",
+            "sentence_id": 7,
+            "start": 32,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "ending",
+            "sentence_id": 7,
+            "start": 41,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "the American progressive movement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 34,
+            "token": "regulating",
+            "sentence_id": 7,
+            "start": 64,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "the American progressive movement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 35,
+            "token": "Released",
+            "sentence_id": 8,
+            "start": 0,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "takes",
+            "sentence_id": 8,
+            "start": 59,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Civil Rights movement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Trump\u2019s 1776 Commission Report",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Civil Rights movement",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 37,
+            "token": "saying",
+            "sentence_id": 8,
+            "start": 113,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "turned",
+            "sentence_id": 8,
+            "start": 152,
+            "end": 158,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "ran",
+            "sentence_id": 8,
+            "start": 176,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Civil Rights movement",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Trump\u2019s 1776 Commission",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                0,
+                3,
+                4,
+                7,
+                8,
+                11,
+                13,
+                14,
+                18,
+                19,
+                21,
+                23,
+                24,
+                25,
+                27,
+                28,
+                29,
+                33,
+                34,
+                36,
+                38,
+                39
+            ]
+        },
+        {
+            "text": "liberals",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                11,
+                12,
+                13,
+                18,
+                19
+            ]
+        },
+        {
+            "text": "America",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                18
+            ]
+        },
+        {
+            "text": "progressives",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                29,
+                21
+            ]
+        },
+        {
+            "text": "American universities",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                23,
+                24
+            ]
+        },
+        {
+            "text": "the American progressive movement",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                25,
+                27,
+                28,
+                29,
+                33,
+                34
+            ]
+        },
+        {
+            "text": "Civil Rights movement",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                36,
+                38,
+                39
+            ]
+        },
+        {
+            "text": "Trump\u2019s 1776 Commission Report",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                2,
+                4,
+                5,
+                8,
+                25,
+                29,
+                36,
+                31
+            ]
+        },
+        {
+            "text": "evidence",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "respectable professional historians",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                4,
+                5
+            ]
+        },
+        {
+            "text": "culture wars",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": []
+        },
+        {
+            "text": "country",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "history",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                12
+            ]
+        },
+        {
+            "text": "leftist radicals",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                18,
+                19
+            ]
+        },
+        {
+            "text": "recent totalitarian movements",
+            "ideology": "Neutral",
+            "id": 14,
+            "events": [
+                19
+            ]
+        },
+        {
+            "text": "fourth branch",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                21
+            ]
+        },
+        {
+            "text": "shadow government",
+            "ideology": "Neutral",
+            "id": 16,
+            "events": [
+                21
+            ]
+        },
+        {
+            "text": "hatred for this country",
+            "ideology": "Neutral",
+            "id": 17,
+            "events": [
+                23,
+                24
+            ]
+        },
+        {
+            "text": "early 20th century to the fascism",
+            "ideology": "Neutral",
+            "id": 18,
+            "events": [
+                25
+            ]
+        },
+        {
+            "text": "ideals of the founders",
+            "ideology": "Neutral",
+            "id": 19,
+            "events": [
+                38
+            ]
+        },
+        {
+            "text": "leftist radicals whose views",
+            "ideology": "Left",
+            "id": 20,
+            "events": [
+                23,
+                24
+            ]
+        },
+        {
+            "text": "Thomas Sugrue",
+            "ideology": "Left",
+            "id": 21,
+            "events": [
+                31
+            ]
+        },
+        {
+            "text": "lectures",
+            "ideology": "Neutral",
+            "id": 22,
+            "events": [
+                31
+            ]
+        }
+    ]
+}

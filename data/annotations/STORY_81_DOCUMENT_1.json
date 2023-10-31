@@ -1,0 +1,1824 @@
+{
+    "title": "NRA's LaPierre slams Obama administration over gun proposals",
+    "date": "2013-03-15",
+    "topic": "gun_control_and_gun_rights",
+    "source": "CNN (Online News)",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Proposed universal background checks of firearms purchases wo n\u2019t stop gun violence , but would serve agendas of people \u201c bent on destroying the Second Amendment , \u201d a top National Rifle Association official told a conservative political conference on Friday ."
+        },
+        {
+            "id": 1,
+            "text": "Wayne LaPierre , the executive vice president of the influential NRA , received repeated cheers and prolonged applause at the Conservative Political Action Conference when he took on proposals to toughen gun laws in the aftermath of the Connecticut school massacre that killed 20 first graders last December ."
+        },
+        {
+            "id": 2,
+            "text": "According to LaPierre , an arrogant political and media elite wants to subvert the bedrock right to freedom that he said made America better than other countries ."
+        },
+        {
+            "id": 3,
+            "text": "He repeatedly questioned the logic and even the sanity of President Barack Obama \u2019s administration and other advocates of new gun laws , and he implored supporters to \u201c stand up and fight \u201d now and in future elections to protect their right to own guns ."
+        },
+        {
+            "id": 4,
+            "text": "\u201c No matter what the elitists who scorn you say , let them be damned , \u201d LaPierre declared ."
+        },
+        {
+            "id": 5,
+            "text": "In particular , LaPierre took aim at Vice President Joe Biden for saying recently that a 12 - gauge shotgun would provide better protection for women under threat at home than a high - powered semi-automatic rifle targeted by a proposed ban ."
+        },
+        {
+            "id": 6,
+            "text": "\u201c The vice president of the United States actually told women facing an attack to just empty their shotguns into the air , \u201d LaPierre said ."
+        },
+        {
+            "id": 7,
+            "text": "\u201c Honestly , have they lost their minds over at the White House ? \u201d"
+        },
+        {
+            "id": 8,
+            "text": "With the crowd cheering , he added : \u201c Keep your advice , we \u2019ll keep our guns . \u201d"
+        },
+        {
+            "id": 9,
+            "text": "The Senate Judiciary Committee this week sent four proposals to the full Senate for consideration , including an updated ban on semi-automatic firearms modeled after military assault weapons ."
+        },
+        {
+            "id": 10,
+            "text": "Other measures would expand federal gun laws against gun trafficking and straw purchases and broaden background checks to include private firearms sales ."
+        },
+        {
+            "id": 11,
+            "text": "A fourth proposal that would establish a framework for the Department of Education to set safety guidelines aimed at protecting schools from gun violence was the only one to get significant bipartisan support from the committee ."
+        },
+        {
+            "id": 12,
+            "text": "LaPierre insisted Friday that expanded background checks were a first step toward a liberal desire to create a national gun registry ."
+        },
+        {
+            "id": 13,
+            "text": "\u201c In the end , there are only two reasons for government to create that federal registry of gun owners \u2013 to tax them or to take them , \u201d he said ."
+        },
+        {
+            "id": 14,
+            "text": "Supporters of expanded checks deny the legislation would create such a registry ."
+        },
+        {
+            "id": 15,
+            "text": "LaPierre repeated the NRA \u2019s call for armed guards in every U.S. school and expressed bemused frustration with those who ridiculed his position ."
+        },
+        {
+            "id": 16,
+            "text": "Noting a Department of Homeland Security video that advised people threatened by an armed attacker to fight back with any weapon handy , such as a pair of scissors , LaPierre responded with scorn ."
+        },
+        {
+            "id": 17,
+            "text": "\u201c Let \u2019s get this straight , \u201d he said to applause ."
+        },
+        {
+            "id": 18,
+            "text": "\u201c To protect our children at school , we recommend a trained professional with a gun and they recommend scissors ?"
+        },
+        {
+            "id": 19,
+            "text": "And they say we \u2019re crazy ?"
+        },
+        {
+            "id": 20,
+            "text": "It \u2019s sheer madness . \u201d"
+        }
+    ],
+    "id": "STORY_81_DOCUMENT_1",
+    "old_id": "TRIPLET_211_DOCUMENT_0",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "stop",
+            "sentence_id": 0,
+            "start": 66,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "gun proposals",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "gun violence",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "universal background checks",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "National Rifle Association official",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 1,
+            "token": "serve",
+            "sentence_id": 0,
+            "start": 96,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "destroying",
+            "sentence_id": 0,
+            "start": 130,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "gun proposals",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "the second amendment",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "universal background checks",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "Second Amendment",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 3,
+            "token": "told",
+            "sentence_id": 0,
+            "start": 208,
+            "end": 212,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 4,
+            "token": "received",
+            "sentence_id": 1,
+            "start": 71,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "cheers",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "applause",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "Wayne LaPierre",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "universal background checks",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "cheers",
+            "sentence_id": 1,
+            "start": 89,
+            "end": 95,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "applause",
+            "sentence_id": 1,
+            "start": 110,
+            "end": 118,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "took",
+            "sentence_id": 1,
+            "start": 175,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "toughen",
+            "sentence_id": 1,
+            "start": 196,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "Wayne LaPierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "universal background checks",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 9,
+            "token": "massacre",
+            "sentence_id": 1,
+            "start": 256,
+            "end": 264,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "killed",
+            "sentence_id": 1,
+            "start": 270,
+            "end": 276,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "According",
+            "sentence_id": 2,
+            "start": 0,
+            "end": 9,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "wants",
+            "sentence_id": 2,
+            "start": 62,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "political and media elite",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 13,
+            "token": "subvert",
+            "sentence_id": 2,
+            "start": 71,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "political and media elite",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "the second amendment",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 14,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 116,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "made",
+            "sentence_id": 2,
+            "start": 121,
+            "end": 125,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "questioned",
+            "sentence_id": 3,
+            "start": 14,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "gun proposals",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "president barack obama \u2019s administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "political and media elite",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "Barack Obama \u2019s administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "Wayne LaPierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 17,
+            "token": "implored",
+            "sentence_id": 3,
+            "start": 144,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 18,
+            "token": "stand",
+            "sentence_id": 3,
+            "start": 169,
+            "end": 174,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "fight",
+            "sentence_id": 3,
+            "start": 182,
+            "end": 187,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "protect",
+            "sentence_id": 3,
+            "start": 221,
+            "end": 228,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "supporters",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "right to own guns",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "Wayne LaPierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "right to own guns",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 21,
+            "token": "own",
+            "sentence_id": 3,
+            "start": 244,
+            "end": 247,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "scorn",
+            "sentence_id": 4,
+            "start": 34,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "say",
+            "sentence_id": 4,
+            "start": 44,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "damned",
+            "sentence_id": 4,
+            "start": 62,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 23,
+                    "text": "Barack Obama \u2019s administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "declared",
+            "sentence_id": 4,
+            "start": 82,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "political and media elite",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 26,
+            "token": "took",
+            "sentence_id": 5,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "Wayne LaPierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "saying",
+            "sentence_id": 5,
+            "start": 66,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "provide",
+            "sentence_id": 5,
+            "start": 114,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 25,
+                    "text": "12 - gauge shotgun",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "targeted",
+            "sentence_id": 5,
+            "start": 214,
+            "end": 222,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "ban",
+            "sentence_id": 5,
+            "start": 237,
+            "end": 240,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "told",
+            "sentence_id": 6,
+            "start": 51,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "facing",
+            "sentence_id": 6,
+            "start": 62,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "attack",
+            "sentence_id": 6,
+            "start": 72,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "empty",
+            "sentence_id": 6,
+            "start": 87,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 134,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "vice president joe biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 36,
+            "token": "lost",
+            "sentence_id": 7,
+            "start": 23,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "president barack obama \u2019s administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "Barack Obama \u2019s administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 37,
+            "token": "cheering",
+            "sentence_id": 8,
+            "start": 15,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "added",
+            "sentence_id": 8,
+            "start": 29,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "Keep",
+            "sentence_id": 8,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "keep",
+            "sentence_id": 8,
+            "start": 65,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "right to own guns",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "right to own guns",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "Wayne LaPierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "sent",
+            "sentence_id": 9,
+            "start": 41,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 26,
+                    "text": "The Senate Judiciary Committee",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 27,
+                    "text": "ban on semi-automatic firearms",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 42,
+            "token": "consideration",
+            "sentence_id": 9,
+            "start": 84,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "expand",
+            "sentence_id": 10,
+            "start": 21,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 27,
+                    "text": "ban on semi-automatic firearms",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 28,
+                    "text": "gun trafficking",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "universal background checks",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 44,
+            "token": "broaden",
+            "sentence_id": 10,
+            "start": 93,
+            "end": 100,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "establish",
+            "sentence_id": 11,
+            "start": 29,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "set",
+            "sentence_id": 11,
+            "start": 86,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "protecting",
+            "sentence_id": 11,
+            "start": 117,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 26,
+                    "text": "The Senate Judiciary Committee",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "gun violence",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 48,
+            "token": "get",
+            "sentence_id": 11,
+            "start": 174,
+            "end": 177,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "a fourth proposal",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "bipartisan support",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "gun proposals",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "insisted",
+            "sentence_id": 12,
+            "start": 9,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "Wayne LaPierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "universal background checks",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 50,
+            "token": "desire",
+            "sentence_id": 12,
+            "start": 92,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "create",
+            "sentence_id": 12,
+            "start": 102,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "universal background checks",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "political and media elite",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "national gun registry",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "create",
+            "sentence_id": 13,
+            "start": 60,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 29,
+                    "text": "federal registry of gun owners",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "Barack Obama \u2019s administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 53,
+            "token": "tax",
+            "sentence_id": 13,
+            "start": 108,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "president barack obama \u2019s administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "gun owners",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 54,
+            "token": "take",
+            "sentence_id": 13,
+            "start": 123,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "president barack obama \u2019s administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "right to own guns",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 140,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 56,
+            "token": "deny",
+            "sentence_id": 14,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "create",
+            "sentence_id": 14,
+            "start": 57,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "universal background checks",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "national gun registry",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 58,
+            "token": "repeated",
+            "sentence_id": 15,
+            "start": 9,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "Wayne LaPierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 30,
+                    "text": "armed guards in every U.S. school",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 59,
+            "token": "call",
+            "sentence_id": 15,
+            "start": 29,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "expressed",
+            "sentence_id": 15,
+            "start": 76,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "Wayne LaPierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "Barack Obama \u2019s administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 61,
+            "token": "ridiculed",
+            "sentence_id": 15,
+            "start": 121,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "Noting",
+            "sentence_id": 16,
+            "start": 0,
+            "end": 6,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "advised",
+            "sentence_id": 16,
+            "start": 52,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "threatened",
+            "sentence_id": 16,
+            "start": 67,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "fight",
+            "sentence_id": 16,
+            "start": 102,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "responded",
+            "sentence_id": 16,
+            "start": 175,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "the nra \u2019s call for armed guards in every u.s. school",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "Wayne LaPierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "Barack Obama \u2019s administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 67,
+            "token": "get",
+            "sentence_id": 17,
+            "start": 9,
+            "end": 12,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 34,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "protect",
+            "sentence_id": 18,
+            "start": 5,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "recommend",
+            "sentence_id": 18,
+            "start": 41,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "the nra \u2019s call for armed guards in every u.s. school",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 30,
+                    "text": "armed guards in every U.S. school",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "Wayne LaPierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 71,
+            "token": "recommend",
+            "sentence_id": 18,
+            "start": 94,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "department of homeland security",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "scissors",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "the nra \u2019s call for armed guards in every u.s. school",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "Barack Obama \u2019s administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "universal background checks",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 72,
+            "token": "say",
+            "sentence_id": 19,
+            "start": 9,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "frustration",
+            "sentence_id": 15,
+            "start": 94,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "political and media elite",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "wayne lapierre",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                3,
+                4,
+                16,
+                17,
+                25,
+                35,
+                38,
+                40,
+                55,
+                73,
+                66,
+                70
+            ]
+        },
+        {
+            "text": "gun proposals",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                0,
+                2,
+                16,
+                48
+            ]
+        },
+        {
+            "text": "gun violence",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                0,
+                47
+            ]
+        },
+        {
+            "text": "the second amendment",
+            "ideology": "N/A",
+            "id": 3,
+            "events": [
+                2,
+                13
+            ]
+        },
+        {
+            "text": "cheers",
+            "ideology": "N/A",
+            "id": 4,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "applause",
+            "ideology": "N/A",
+            "id": 5,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "political and media elite",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                12,
+                13,
+                16,
+                25,
+                51,
+                56,
+                73
+            ]
+        },
+        {
+            "text": "president barack obama \u2019s administration",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                16,
+                36,
+                53,
+                54
+            ]
+        },
+        {
+            "text": "supporters",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                20
+            ]
+        },
+        {
+            "text": "right to own guns",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                40,
+                20,
+                54
+            ]
+        },
+        {
+            "text": "vice president joe biden",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                35
+            ]
+        },
+        {
+            "text": "a fourth proposal",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                48
+            ]
+        },
+        {
+            "text": "bipartisan support",
+            "ideology": "N/A",
+            "id": 12,
+            "events": [
+                48
+            ]
+        },
+        {
+            "text": "universal background checks",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                0,
+                57,
+                51
+            ]
+        },
+        {
+            "text": "national gun registry",
+            "ideology": "N/A",
+            "id": 14,
+            "events": [
+                51,
+                57
+            ]
+        },
+        {
+            "text": "gun owners",
+            "ideology": "Right",
+            "id": 15,
+            "events": [
+                53
+            ]
+        },
+        {
+            "text": "the nra \u2019s call for armed guards in every u.s. school",
+            "ideology": "Right",
+            "id": 16,
+            "events": [
+                66,
+                70,
+                71
+            ]
+        },
+        {
+            "text": "department of homeland security",
+            "ideology": "N/A",
+            "id": 17,
+            "events": [
+                71
+            ]
+        },
+        {
+            "text": "scissors",
+            "ideology": "N/A",
+            "id": 18,
+            "events": [
+                71
+            ]
+        },
+        {
+            "text": "National Rifle Association official",
+            "ideology": "Right",
+            "id": 19,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "Second Amendment",
+            "ideology": "Right",
+            "id": 20,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "Wayne LaPierre",
+            "ideology": "Right",
+            "id": 21,
+            "events": [
+                8
+            ]
+        },
+        {
+            "text": "Barack Obama",
+            "ideology": "Left",
+            "id": 22,
+            "events": [
+                12
+            ]
+        },
+        {
+            "text": "Barack Obama \u2019s administration",
+            "ideology": "Left",
+            "id": 23,
+            "events": [
+                16
+            ]
+        },
+        {
+            "text": "Joe Biden",
+            "ideology": "Left",
+            "id": 24,
+            "events": [
+                26
+            ]
+        },
+        {
+            "text": "12 - gauge shotgun",
+            "ideology": "Right",
+            "id": 25,
+            "events": [
+                28
+            ]
+        },
+        {
+            "text": "The Senate Judiciary Committee",
+            "ideology": "Left",
+            "id": 26,
+            "events": [
+                41
+            ]
+        },
+        {
+            "text": "ban on semi-automatic firearms",
+            "ideology": "Left",
+            "id": 27,
+            "events": [
+                41
+            ]
+        },
+        {
+            "text": "gun trafficking",
+            "ideology": "Neutral",
+            "id": 28,
+            "events": [
+                43
+            ]
+        },
+        {
+            "text": "federal registry of gun owners",
+            "ideology": "Left",
+            "id": 29,
+            "events": [
+                52
+            ]
+        },
+        {
+            "text": "armed guards in every U.S. school",
+            "ideology": "Right",
+            "id": 30,
+            "events": [
+                58
+            ]
+        }
+    ]
+}

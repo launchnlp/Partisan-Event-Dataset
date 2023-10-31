@@ -1,0 +1,1046 @@
+{
+    "title": "Minneapolis Teachers Outraged after Union Contract Suggests Race-Based Layoff Agreement",
+    "date": "2022-08-16",
+    "topic": "race-and-racism",
+    "source": "The Root",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "After a two-week long strike, the Minneapolis teachers union and Minneapolis Public Schools (MPS) finally came to an agreement."
+        },
+        {
+            "id": 1,
+            "text": "However, it came with a caveat."
+        },
+        {
+            "id": 2,
+            "text": "In regards to layoffs, the new contract suggests white teachers would be considered before teachers of color, per ABC 4 News."
+        },
+        {
+            "id": 3,
+            "text": "You can imagine the outrage that announcement sparked."
+        },
+        {
+            "id": 4,
+            "text": "In an effort to revise how the district hires and retains teachers of color, the new contract states that teachers will be subject to layoffs or job changes in \u201corder of seniority,\u201d unless the teacher is part of an \u201cunderrepresented group.\u201d"
+        },
+        {
+            "id": 5,
+            "text": "The Minnesota Reformer reported that MPS teachers of colors face job changes and budget cuts at a higher rate than their white counterparts."
+        },
+        {
+            "id": 6,
+            "text": "On top of that, 23 percent of teachers laid off in the 2020-21 school year were Black and brown while only making up 18 percent of the workforce."
+        },
+        {
+            "id": 7,
+            "text": "\u201cTo me, this is an attempt at affirmative action, to bring in and keep teachers who look like the kids they\u2019re teaching,\u201d said Joseph Daly, professor at Mitchell Hamline School of Law, via Minnesota Reformer."
+        },
+        {
+            "id": 8,
+            "text": "District and union leaders said the agreement makes Minneapolis one of the only school districts in the nation with a \u201cseniority-disrupting\u201d policy that can consider race over merit, according to The Star Tribune."
+        },
+        {
+            "id": 9,
+            "text": "MFT and MPS\u2019s agreement also included other \u201canti-racist\u201d and \u201canti-bias\u201d provisions, including an \u201cAnti-Bias Anti-Racist Staff Development and Advisory Council,\u201d which will \u201cfocus on reducing inequitable practices and behaviors in our learning places and spaces as well as supporting educators, specifically educators of color, in navigating and disrupting our district as a predominantly white institution.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "\u201cTo remedy the continuing effects of past discrimination, Minneapolis Public Schools and the Minneapolis Federation of Teachers (MFT) mutually agreed to contract language that aims to support the recruitment and retention of teachers from underrepresented groups as compared to the labor market and to the community served by the school district,\u201d a spokesperson for Minneapolis Public Schools told TND in a statement."
+        },
+        {
+            "id": 11,
+            "text": "It\u2019s doubtful that the agreement was made just to target white teachers."
+        },
+        {
+            "id": 12,
+            "text": "Yet, as expected, the reverse racism accusations came rolling right in."
+        },
+        {
+            "id": 13,
+            "text": "\u201cThis is the inevitable endpoint of \u201cequity,\u201d tweeted conservative activist Christopher F. Rufo."
+        },
+        {
+            "id": 14,
+            "text": "Another Twitter user wrote the agreement was \u201cbreathtakingly racist and outright unconstitutional.\u201d"
+        },
+        {
+            "id": 15,
+            "text": "To be honest, even the smallest initiatives toward equity are susceptible to receiving the same outrage because undoing the damage of racism is unfathomable to those who don\u2019t acknowledge racism to begin with."
+        },
+        {
+            "id": 16,
+            "text": "Countless studies have found that students of color create greater connections with staff and faculty who look like them and even perform better in their classes."
+        },
+        {
+            "id": 17,
+            "text": "In order to see this outcome and account for past discriminatory practices, yes, Black and brown teachers must be prioritized."
+        }
+    ],
+    "id": "STORY_126_DOCUMENT_0",
+    "old_id": "6971_1",
+    "split": "test",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "strike",
+            "sentence_id": 0,
+            "start": 22,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "came",
+            "sentence_id": 0,
+            "start": 106,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "agreement",
+            "sentence_id": 0,
+            "start": 117,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "came",
+            "sentence_id": 1,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "layoffs",
+            "sentence_id": 2,
+            "start": 14,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "suggests",
+            "sentence_id": 2,
+            "start": 40,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "considered",
+            "sentence_id": 2,
+            "start": 73,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "imagine",
+            "sentence_id": 3,
+            "start": 8,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "outrage",
+            "sentence_id": 3,
+            "start": 20,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 9,
+            "token": "announcement",
+            "sentence_id": 3,
+            "start": 33,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "sparked",
+            "sentence_id": 3,
+            "start": 46,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "effort",
+            "sentence_id": 4,
+            "start": 6,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "revise",
+            "sentence_id": 4,
+            "start": 16,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "hires",
+            "sentence_id": 4,
+            "start": 40,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "retains",
+            "sentence_id": 4,
+            "start": 50,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "states",
+            "sentence_id": 4,
+            "start": 94,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "subject",
+            "sentence_id": 4,
+            "start": 123,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "layoffs",
+            "sentence_id": 4,
+            "start": 134,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "changes",
+            "sentence_id": 4,
+            "start": 149,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "reported",
+            "sentence_id": 5,
+            "start": 23,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "face",
+            "sentence_id": 5,
+            "start": 60,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "changes",
+            "sentence_id": 5,
+            "start": 69,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "cuts",
+            "sentence_id": 5,
+            "start": 88,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "laid",
+            "sentence_id": 6,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "making",
+            "sentence_id": 6,
+            "start": 107,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "attempt",
+            "sentence_id": 7,
+            "start": 19,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "affirmative action",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "bring",
+            "sentence_id": 7,
+            "start": 53,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "teachers of color",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "keep",
+            "sentence_id": 7,
+            "start": 66,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "teachers of color",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 122,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 27,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "agreement",
+            "sentence_id": 8,
+            "start": 36,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "makes",
+            "sentence_id": 8,
+            "start": 46,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "consider",
+            "sentence_id": 8,
+            "start": 157,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 33,
+            "token": "according",
+            "sentence_id": 8,
+            "start": 183,
+            "end": 192,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "included",
+            "sentence_id": 9,
+            "start": 29,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "focus",
+            "sentence_id": 9,
+            "start": 175,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "reducing",
+            "sentence_id": 9,
+            "start": 184,
+            "end": 192,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "supporting",
+            "sentence_id": 9,
+            "start": 274,
+            "end": 284,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "navigating",
+            "sentence_id": 9,
+            "start": 332,
+            "end": 342,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "disrupting",
+            "sentence_id": 9,
+            "start": 347,
+            "end": 357,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "remedy",
+            "sentence_id": 10,
+            "start": 4,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 41,
+            "token": "agreed",
+            "sentence_id": 10,
+            "start": 143,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "aims",
+            "sentence_id": 10,
+            "start": 176,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "support",
+            "sentence_id": 10,
+            "start": 184,
+            "end": 191,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "told",
+            "sentence_id": 10,
+            "start": 394,
+            "end": 398,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "made",
+            "sentence_id": 11,
+            "start": 37,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "target",
+            "sentence_id": 11,
+            "start": 50,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "reverse racism accusations",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "came",
+            "sentence_id": 12,
+            "start": 49,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "rolling",
+            "sentence_id": 12,
+            "start": 54,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "reverse racism accusations",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "tweeted",
+            "sentence_id": 13,
+            "start": 46,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "conservative activist Christopher F. Rufo",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 50,
+            "token": "wrote",
+            "sentence_id": 14,
+            "start": 21,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Twitter user",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 51,
+            "token": "initiatives",
+            "sentence_id": 15,
+            "start": 32,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "susceptible",
+            "sentence_id": 15,
+            "start": 62,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "initiatives toward equity",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "reverse racism accusations",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 53,
+            "token": "receiving",
+            "sentence_id": 15,
+            "start": 77,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "undoing",
+            "sentence_id": 15,
+            "start": 112,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "initiatives toward equity",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "acknowledge",
+            "sentence_id": 15,
+            "start": 176,
+            "end": 187,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "found",
+            "sentence_id": 16,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "create",
+            "sentence_id": 16,
+            "start": 52,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "perform",
+            "sentence_id": 16,
+            "start": 130,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "see",
+            "sentence_id": 17,
+            "start": 12,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "account",
+            "sentence_id": 17,
+            "start": 33,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 61,
+            "token": "practices",
+            "sentence_id": 17,
+            "start": 65,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "prioritized",
+            "sentence_id": 17,
+            "start": 114,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "teachers of color",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "MFT and MPS\u2019s agreement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "MFT and MPS\u2019s agreement",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                8,
+                26,
+                27,
+                32,
+                36,
+                37,
+                39,
+                40,
+                43,
+                46,
+                49,
+                50,
+                54,
+                60,
+                34,
+                38,
+                62,
+                25,
+                52
+            ]
+        },
+        {
+            "text": "conservative activist Christopher F. Rufo",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                49
+            ]
+        },
+        {
+            "text": "Twitter user",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                50
+            ]
+        },
+        {
+            "text": "teachers of color",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                62,
+                26,
+                27
+            ]
+        },
+        {
+            "text": "affirmative action",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                25
+            ]
+        },
+        {
+            "text": "reverse racism accusations",
+            "ideology": "Right",
+            "id": 17,
+            "events": [
+                48,
+                46,
+                52,
+                52
+            ]
+        },
+        {
+            "text": "initiatives toward equity",
+            "ideology": "N/A",
+            "id": 18,
+            "events": [
+                52,
+                54
+            ]
+        }
+    ]
+}

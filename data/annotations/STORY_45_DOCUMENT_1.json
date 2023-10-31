@@ -1,0 +1,1668 @@
+{
+    "title": "Chris Christie: Parents Should Have 'Some Measure Of Choice' On Vaccinating Their Children",
+    "date": "2015-02-02",
+    "topic": "politics",
+    "source": "HuffPost",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "New Jersey Gov. Chris Christie ( R ) said parents should have \" some measure of choice \" when it comes to vaccinating their children ."
+        },
+        {
+            "id": 1,
+            "text": "Christie , speaking to reporters during a three - day trip to the United Kingdom , said all four of his children have been vaccinated , but noted he thinks a parent 's opinion about the issue is more important than what a public official thinks ."
+        },
+        {
+            "id": 2,
+            "text": "\u201c Mary Pat and I have had our children vaccinated and we think that it \u2019s an important part of being sure we protect their health and the public health , \u201d Christie said , according to The Washington Post ."
+        },
+        {
+            "id": 3,
+            "text": "\u201c I also understand that parents need to have some measure of choice in things as well , so that \u2019s the balance that the government has to decide , \" Christie added ."
+        },
+        {
+            "id": 4,
+            "text": "Christie spokesman Kevin Roberts clarified the governor 's comments Monday in an email featuring a transcript of Christie 's remarks ."
+        },
+        {
+            "id": 5,
+            "text": "\" To be clear : The Governor believes vaccines are an important public health protection and with a disease like measles there is no question kids should be vaccinated , \" Roberts ' email said ."
+        },
+        {
+            "id": 6,
+            "text": "\" At the same time different states require different degrees of vaccination , which is why he was calling for balance in which ones government should mandate . \""
+        },
+        {
+            "id": 7,
+            "text": "In 2009 , Christie met with those who oppose vaccinations and penned a letter that year expressing support for them , The Daily Beast pointed out Monday ."
+        },
+        {
+            "id": 8,
+            "text": "\u201c I have met with families affected by autism from across the state and have been struck by their incredible grace and courage , \" Christie wrote ."
+        },
+        {
+            "id": 9,
+            "text": "\" Many of these families have expressed their concern over New Jersey \u2019s highest - in - the - nation vaccine mandates ."
+        },
+        {
+            "id": 10,
+            "text": "I stand with them now , and will stand with them as their governor in their fight for greater parental involvement in vaccination decisions that affect their children . \u201d"
+        },
+        {
+            "id": 11,
+            "text": "Christie 's comments on vaccinations seem to contradict his actions in 2014 , when he quarantined a nurse who had been in West Africa treating Ebola victims even after she tested negative for the virus ."
+        },
+        {
+            "id": 12,
+            "text": "\u201c I 'm glad she can be comfortable and back in her home now where she wants to be , but I hope , I think upon reflection she will understand that my job is to protect the health and safety of the people of New Jersey and the region , \" Christie said after nurse Kaci Hickox threatened to sue the governor for keeping her in isolation ."
+        },
+        {
+            "id": 13,
+            "text": "His comments also break from President Barack Obama 's recent remarks urging parents to get their children fully vaccinated amid what the Centers for Disease Control and Prevention said could become a \" large outbreak \" of measles ."
+        },
+        {
+            "id": 14,
+            "text": "\" I understand that there are families that , in some cases , are concerned about the effect of vaccinations , \" Obama told NBC 's Savannah Guthrie in an interview ahead of the Super Bowl on Sunday ."
+        },
+        {
+            "id": 15,
+            "text": "\" The science is , you know , pretty indisputable ."
+        },
+        {
+            "id": 16,
+            "text": "We \u2019ve looked at this again and again ."
+        },
+        {
+            "id": 17,
+            "text": "There is every reason to get vaccinated , but there are n\u2019t reasons to not . \""
+        },
+        {
+            "id": 18,
+            "text": "\" You should get your kids vaccinated , \" he added ."
+        },
+        {
+            "id": 19,
+            "text": "\" It 's good for them and the challenge you have is if you have a certain group of kids who do n't get vaccinated , and if it grows large enough that a percentage of the population does n't get vaccinated and they 're the folks who can't get vaccinated , small infants , for example ... they suddenly become much more vulnerable . \""
+        },
+        {
+            "id": 20,
+            "text": "The CDC has said there are at least 102 reported cases of measles in 14 states ."
+        },
+        {
+            "id": 21,
+            "text": "In an interview on CBS 's \" Face the Nation \" Sunday , CDC Director Tom Frieden said that the U.S. is \" likely to see more cases . \""
+        },
+        {
+            "id": 22,
+            "text": "This post has been updated with information about Christie 's past remarks on vaccinations and illnesses ."
+        },
+        {
+            "id": 23,
+            "text": "It 's also been updated with clarification on Christie 's remarks from his spokesman ."
+        }
+    ],
+    "id": "STORY_45_DOCUMENT_1",
+    "old_id": "TRIPLET_041_DOCUMENT_1",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "said",
+            "sentence_id": 0,
+            "start": 37,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "meansure of choice when it comes to vaccinating children",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 1,
+            "token": "speaking",
+            "sentence_id": 1,
+            "start": 11,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "trip",
+            "sentence_id": 1,
+            "start": 54,
+            "end": 58,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 83,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "vaccinated",
+            "sentence_id": 1,
+            "start": 123,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "noted",
+            "sentence_id": 1,
+            "start": 140,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "meansure of choice when it comes to vaccinating children",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "thinks",
+            "sentence_id": 1,
+            "start": 149,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "parent 's opinion about the issue",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "thinks",
+            "sentence_id": 1,
+            "start": 238,
+            "end": 244,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "vaccinated",
+            "sentence_id": 2,
+            "start": 39,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "children",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 9,
+            "token": "think",
+            "sentence_id": 2,
+            "start": 57,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "protect",
+            "sentence_id": 2,
+            "start": 109,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "children",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 11,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 165,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "according",
+            "sentence_id": 2,
+            "start": 172,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "understand",
+            "sentence_id": 3,
+            "start": 9,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "parent 's opinion about the issue",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "need",
+            "sentence_id": 3,
+            "start": 33,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "parent 's opinion about the issue",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "decide",
+            "sentence_id": 3,
+            "start": 139,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "added",
+            "sentence_id": 3,
+            "start": 159,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "clarified",
+            "sentence_id": 4,
+            "start": 33,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "comments",
+            "sentence_id": 4,
+            "start": 59,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Kevin Roberts",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 19,
+            "token": "featuring",
+            "sentence_id": 4,
+            "start": 87,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "remarks",
+            "sentence_id": 4,
+            "start": 125,
+            "end": 132,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "believes",
+            "sentence_id": 5,
+            "start": 29,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "vaccinated",
+            "sentence_id": 5,
+            "start": 157,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "vaccinations",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 188,
+            "end": 192,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "require",
+            "sentence_id": 6,
+            "start": 36,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "calling",
+            "sentence_id": 6,
+            "start": 99,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "mandate",
+            "sentence_id": 6,
+            "start": 151,
+            "end": 158,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "met",
+            "sentence_id": 7,
+            "start": 19,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "oppose vaccinations",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 28,
+            "token": "oppose",
+            "sentence_id": 7,
+            "start": 38,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "vaccinations",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 29,
+            "token": "penned",
+            "sentence_id": 7,
+            "start": 62,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "those who oppose vaccinations",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 30,
+            "token": "expressing",
+            "sentence_id": 7,
+            "start": 88,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "oppose vaccinations",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "those who oppose vaccinations",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 31,
+            "token": "pointed",
+            "sentence_id": 7,
+            "start": 134,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "met",
+            "sentence_id": 8,
+            "start": 9,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "affected",
+            "sentence_id": 8,
+            "start": 27,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "struck",
+            "sentence_id": 8,
+            "start": 82,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "families affected by autism",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 35,
+            "token": "wrote",
+            "sentence_id": 8,
+            "start": 140,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "expressed",
+            "sentence_id": 9,
+            "start": 30,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "vaccine mandates",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "families affected by autism",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 37,
+            "token": "stand",
+            "sentence_id": 10,
+            "start": 2,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "stand",
+            "sentence_id": 10,
+            "start": 33,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "those who oppose vaccinations",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "fight",
+            "sentence_id": 10,
+            "start": 76,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "meansure of choice when it comes to vaccinating children",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 40,
+            "token": "decisions",
+            "sentence_id": 10,
+            "start": 130,
+            "end": 139,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "comments",
+            "sentence_id": 11,
+            "start": 12,
+            "end": 20,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "seem",
+            "sentence_id": 11,
+            "start": 37,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 43,
+            "token": "contradict",
+            "sentence_id": 11,
+            "start": 45,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "vaccines are an important public health protection",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "actions",
+            "sentence_id": 11,
+            "start": 60,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "quarantined",
+            "sentence_id": 11,
+            "start": 86,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "nurse who had been in West Africa treating Ebola victims",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 46,
+            "token": "treating",
+            "sentence_id": 11,
+            "start": 134,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "tested",
+            "sentence_id": 11,
+            "start": 172,
+            "end": 178,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 48,
+            "token": "glad",
+            "sentence_id": 12,
+            "start": 7,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "wants",
+            "sentence_id": 12,
+            "start": 70,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "hope",
+            "sentence_id": 12,
+            "start": 90,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "think",
+            "sentence_id": 12,
+            "start": 99,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "understand",
+            "sentence_id": 12,
+            "start": 130,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "protect",
+            "sentence_id": 12,
+            "start": 159,
+            "end": 166,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "health and safety of the people of New Jersey",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 54,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 245,
+            "end": 249,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "threatened",
+            "sentence_id": 12,
+            "start": 274,
+            "end": 284,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "sue",
+            "sentence_id": 12,
+            "start": 288,
+            "end": 291,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Kaci Hickox",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "nurse Kaci Hickox",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 57,
+            "token": "keeping",
+            "sentence_id": 12,
+            "start": 309,
+            "end": 316,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 58,
+            "token": "break",
+            "sentence_id": 13,
+            "start": 18,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "New Jersey Gov. Chris Christie",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "President Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 59,
+            "token": "remarks",
+            "sentence_id": 13,
+            "start": 62,
+            "end": 69,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "urging",
+            "sentence_id": 13,
+            "start": 70,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "vaccinations",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "vaccine mandates",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "President Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "children fully vaccinated",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 61,
+            "token": "get",
+            "sentence_id": 13,
+            "start": 88,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 181,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "become",
+            "sentence_id": 13,
+            "start": 192,
+            "end": 198,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "outbreak",
+            "sentence_id": 13,
+            "start": 209,
+            "end": 217,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "understand",
+            "sentence_id": 14,
+            "start": 4,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "President Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "parent 's opinion about the issue",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 66,
+            "token": "concerned",
+            "sentence_id": 14,
+            "start": 66,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "told",
+            "sentence_id": 14,
+            "start": 119,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "interview",
+            "sentence_id": 14,
+            "start": 154,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "looked",
+            "sentence_id": 16,
+            "start": 7,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "get",
+            "sentence_id": 17,
+            "start": 25,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "vaccinations",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 71,
+            "token": "get",
+            "sentence_id": 18,
+            "start": 13,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "vaccinations",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "President Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "children fully vaccinated",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 72,
+            "token": "added",
+            "sentence_id": 18,
+            "start": 45,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "get",
+            "sentence_id": 19,
+            "start": 99,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "grows",
+            "sentence_id": 19,
+            "start": 126,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "vaccine mandates",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "vaccinations",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 75,
+            "token": "become",
+            "sentence_id": 19,
+            "start": 301,
+            "end": 307,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "said",
+            "sentence_id": 20,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "interview",
+            "sentence_id": 21,
+            "start": 6,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "said",
+            "sentence_id": 21,
+            "start": 80,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "see",
+            "sentence_id": 21,
+            "start": 114,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "updated",
+            "sentence_id": 22,
+            "start": 19,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "remarks",
+            "sentence_id": 22,
+            "start": 67,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "updated",
+            "sentence_id": 23,
+            "start": 16,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "remarks",
+            "sentence_id": 23,
+            "start": 58,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Chris Christie",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "vaccinations",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "meansure of choice when it comes to vaccinating children",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "Kevin Roberts",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                18
+            ]
+        },
+        {
+            "text": "oppose vaccinations",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                27
+            ]
+        },
+        {
+            "text": "families affected by autism",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                34
+            ]
+        },
+        {
+            "text": "vaccine mandates",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                36
+            ]
+        },
+        {
+            "text": "Kaci Hickox",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                56
+            ]
+        },
+        {
+            "text": "Barack Obama",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                58
+            ]
+        },
+        {
+            "text": "New Jersey Gov. Chris Christie",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                4,
+                6,
+                8,
+                10,
+                13,
+                14,
+                21,
+                25,
+                29,
+                30,
+                37,
+                38,
+                43,
+                45,
+                53,
+                56,
+                58
+            ]
+        },
+        {
+            "text": "children",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                4,
+                8,
+                10
+            ]
+        },
+        {
+            "text": "parent 's opinion about the issue",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                6,
+                13,
+                14,
+                65
+            ]
+        },
+        {
+            "text": "vaccines are an important public health protection",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                21,
+                43
+            ]
+        },
+        {
+            "text": "balance in which ones government should mandate",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": [
+                25
+            ]
+        },
+        {
+            "text": "those who oppose vaccinations",
+            "ideology": "Neutral",
+            "id": 14,
+            "events": [
+                29,
+                37,
+                38
+            ]
+        },
+        {
+            "text": "nurse who had been in West Africa treating Ebola victims",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                45
+            ]
+        },
+        {
+            "text": "health and safety of the people of New Jersey",
+            "ideology": "Neutral",
+            "id": 16,
+            "events": [
+                53
+            ]
+        },
+        {
+            "text": "nurse Kaci Hickox",
+            "ideology": "Neutral",
+            "id": 17,
+            "events": [
+                56
+            ]
+        },
+        {
+            "text": "President Barack Obama",
+            "ideology": "Left",
+            "id": 18,
+            "events": [
+                58,
+                60,
+                65,
+                71
+            ]
+        },
+        {
+            "text": "children fully vaccinated",
+            "ideology": "Neutral",
+            "id": 19,
+            "events": [
+                60,
+                71
+            ]
+        }
+    ]
+}

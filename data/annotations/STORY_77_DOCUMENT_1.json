@@ -1,0 +1,1416 @@
+{
+    "title": "\u2018Perplexing\u2019: Granholm slams Senate Republicans\u2019 infrastructure position",
+    "date": "2021-06-06",
+    "topic": "economic_policy",
+    "source": "Politico",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Granholm specifically cited investments in the transmission grid , expanding nuclear energy initiatives and addressing the loss of fossil fuel jobs as areas where the GOP could move closer toward the White House \u2019s infrastructure proposal ."
+        },
+        {
+            "id": 1,
+            "text": "\u201c It \u2019s just curious why there is n\u2019t more coming together , \u201d she said ."
+        },
+        {
+            "id": 2,
+            "text": "Granholm \u2019s remarks come after Biden last Friday rejected the latest GOP counteroffer from Sen. Shelley Moore Capito ( R - W.Va . ) , which increased Senate Republicans \u2019 previous proposal of $ 257 billion in new spending by roughly $ 50 billion , according to the White House ."
+        },
+        {
+            "id": 3,
+            "text": "In an earlier meeting last Wednesday , Biden had pushed Capito to support $ 1 trillion in new spending , after decreasing his roughly $ 2.3 trillion initial demand to $ 1.7 trillion ."
+        },
+        {
+            "id": 4,
+            "text": "Biden and Capito are scheduled to speak again on Monday ."
+        },
+        {
+            "id": 5,
+            "text": "Sen. Joe Manchin ( D - W.Va. ) , a key vote on any potential package , said on Sunday that he was confident a bipartisan deal could be reached ."
+        },
+        {
+            "id": 6,
+            "text": "Progressives , however , have urged Biden to pursue the so - called reconciliation process , which would allow Democrats to pass the legislation without Republican votes in the Senate ."
+        },
+        {
+            "id": 7,
+            "text": "Meanwhile , the House Transportation and Infrastructure Committee is set to begin work marking up its own infrastructure bill on Wednesday ."
+        },
+        {
+            "id": 8,
+            "text": "\u201c The president still has hope ."
+        },
+        {
+            "id": 9,
+            "text": "Joe Manchin still has hope ."
+        },
+        {
+            "id": 10,
+            "text": "We all have hope that it can happen ."
+        },
+        {
+            "id": 11,
+            "text": "They \u2019ll be talking on Monday ."
+        },
+        {
+            "id": 12,
+            "text": "But I can tell you the House will start their markup on Wednesday , \u201d Granholm said on Sunday ."
+        },
+        {
+            "id": 13,
+            "text": "\u201c It is frustrating that there \u2019s not more coming together on this , \u201d she added ."
+        },
+        {
+            "id": 14,
+            "text": "\u201c But the president \u2019s red line , as you have heard , is that inaction is his red line ."
+        },
+        {
+            "id": 15,
+            "text": "So there will be action ."
+        },
+        {
+            "id": 16,
+            "text": "We \u2019re just hopeful that we can see it in a bipartisan way that would be good for the country . \u201d"
+        },
+        {
+            "id": 17,
+            "text": "Transportation Secretary Pete Buttigieg offered a gentler assessment of the negotiations Sunday but acknowledged there was \u201c still lots of daylight , honestly , between us and our Republican friends \u201d on the price and scope of the infrastructure package ."
+        },
+        {
+            "id": 18,
+            "text": "He also nodded to the possibility of passing the White House \u2019s proposal through reconciliation , telling CBS \u2019s \u201c Face the Nation \u201d that \u201c as our Democratic friends remind us , there is another way ."
+        },
+        {
+            "id": 19,
+            "text": "But our strong preference is to do this on a bipartisan basis . \u201d"
+        },
+        {
+            "id": 20,
+            "text": "But even if Biden ultimately decides to forge ahead on legislation without Republican support , \u201c there are 50 Democratic senators who think for themselves , \u201d Buttigieg said , and \u201c you ca n\u2019t simply assume that all of them are going to come on board with something unless we work through it together . \u201d"
+        },
+        {
+            "id": 21,
+            "text": "Commerce Secretary Gina Raimondo predicted on Sunday that those Senate Democrats , particularly Manchin and fellow moderate Sen. Kyrsten Sinema ( D - Ariz . ) , would end up backing Biden \u2019s proposal should bipartisan talks collapse ."
+        },
+        {
+            "id": 22,
+            "text": "\u201c I think they will ."
+        },
+        {
+            "id": 23,
+            "text": "They are very engaged , both of them ."
+        },
+        {
+            "id": 24,
+            "text": "They want to do what \u2019s right , \u201d she told ABC \u2019s \u201c This Week . \u201d"
+        },
+        {
+            "id": 25,
+            "text": "Unlike Granholm , Raimondo also sought to deemphasize the urgency of the coming days \u2019 negotiations , arguing that this week \u201c is not [ a ] do - or - die \u201d timeframe for a potential compromise between Biden and Senate Republicans ."
+        },
+        {
+            "id": 26,
+            "text": "\u201c The practice of legislating is much more art than science , \u201d she said , and \u201c there is no hardwired deadline \u201d for the infrastructure talks ."
+        },
+        {
+            "id": 27,
+            "text": "\u201c We wo n\u2019t do this forever , \u201d Raimondo added ."
+        },
+        {
+            "id": 28,
+            "text": "\u201c But right now , there are good faith efforts on both sides , and we \u2019re going to continue the work of doing our job and trying to get a bipartisan agreement . \u201d"
+        }
+    ],
+    "id": "STORY_77_DOCUMENT_1",
+    "old_id": "TRIPLET_163_DOCUMENT_1",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "cited",
+            "sentence_id": 0,
+            "start": 22,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "investments",
+            "sentence_id": 0,
+            "start": 28,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "expanding",
+            "sentence_id": 0,
+            "start": 67,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "addressing",
+            "sentence_id": 0,
+            "start": 108,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "loss",
+            "sentence_id": 0,
+            "start": 123,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "move",
+            "sentence_id": 0,
+            "start": 177,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "proposal",
+            "sentence_id": 0,
+            "start": 230,
+            "end": 238,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "coming",
+            "sentence_id": 1,
+            "start": 43,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 67,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "granholm",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "gop",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "remarks",
+            "sentence_id": 2,
+            "start": 12,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "come",
+            "sentence_id": 2,
+            "start": 20,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "rejected",
+            "sentence_id": 2,
+            "start": 49,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "biden",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "sen. shelley moore capito",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "increased",
+            "sentence_id": 2,
+            "start": 140,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "proposal",
+            "sentence_id": 2,
+            "start": 180,
+            "end": 188,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "according",
+            "sentence_id": 2,
+            "start": 248,
+            "end": 257,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "meeting",
+            "sentence_id": 3,
+            "start": 14,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "pushed",
+            "sentence_id": 3,
+            "start": 49,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "support",
+            "sentence_id": 3,
+            "start": 66,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "decreasing",
+            "sentence_id": 3,
+            "start": 111,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "demand",
+            "sentence_id": 3,
+            "start": 157,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "scheduled",
+            "sentence_id": 4,
+            "start": 21,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "speak",
+            "sentence_id": 4,
+            "start": 34,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "confident",
+            "sentence_id": 5,
+            "start": 98,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "deal",
+            "sentence_id": 5,
+            "start": 121,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "reached",
+            "sentence_id": 5,
+            "start": 135,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the white house \u2019s infrastructure proposal",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "urged",
+            "sentence_id": 6,
+            "start": 30,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "pursue",
+            "sentence_id": 6,
+            "start": 45,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "biden",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "reconciliation process",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "allow",
+            "sentence_id": 6,
+            "start": 105,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "pass",
+            "sentence_id": 6,
+            "start": 124,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "the white house \u2019s infrastructure proposal",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "gop",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 30,
+            "token": "set",
+            "sentence_id": 7,
+            "start": 69,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "begin",
+            "sentence_id": 7,
+            "start": 76,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "work",
+            "sentence_id": 7,
+            "start": 82,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "marking",
+            "sentence_id": 7,
+            "start": 87,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 34,
+            "token": "happen",
+            "sentence_id": 10,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "talking",
+            "sentence_id": 11,
+            "start": 12,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "tell",
+            "sentence_id": 12,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "start",
+            "sentence_id": 12,
+            "start": 34,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the white house \u2019s infrastructure proposal",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "markup",
+            "sentence_id": 12,
+            "start": 46,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 79,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "frustrating",
+            "sentence_id": 13,
+            "start": 8,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "gop",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "the white house \u2019s infrastructure proposal",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 41,
+            "token": "coming",
+            "sentence_id": 13,
+            "start": 43,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "added",
+            "sentence_id": 13,
+            "start": 75,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "heard",
+            "sentence_id": 14,
+            "start": 46,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "action",
+            "sentence_id": 15,
+            "start": 17,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "the white house \u2019s infrastructure proposal",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 45,
+            "token": "hopeful",
+            "sentence_id": 16,
+            "start": 12,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "the white house \u2019s infrastructure proposal",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "see",
+            "sentence_id": 16,
+            "start": 32,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "offered",
+            "sentence_id": 17,
+            "start": 40,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "negotiations",
+            "sentence_id": 17,
+            "start": 76,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "acknowledged",
+            "sentence_id": 17,
+            "start": 100,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "nodded",
+            "sentence_id": 18,
+            "start": 8,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "transportation secretary pete buttigieg",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "reconciliation process",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "passing",
+            "sentence_id": 18,
+            "start": 37,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "reconciliation process",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "the white house \u2019s infrastructure proposal",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "telling",
+            "sentence_id": 18,
+            "start": 98,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "remind",
+            "sentence_id": 18,
+            "start": 166,
+            "end": 172,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "do",
+            "sentence_id": 19,
+            "start": 32,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "the white house \u2019s infrastructure proposal",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "decides",
+            "sentence_id": 20,
+            "start": 29,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "forge",
+            "sentence_id": 20,
+            "start": 40,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "think",
+            "sentence_id": 20,
+            "start": 135,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "democratic senators",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 58,
+            "token": "said",
+            "sentence_id": 20,
+            "start": 170,
+            "end": 174,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "assume",
+            "sentence_id": 20,
+            "start": 201,
+            "end": 207,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "democratic senators",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 60,
+            "token": "come",
+            "sentence_id": 20,
+            "start": 238,
+            "end": 242,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "democratic senators",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "the white house \u2019s infrastructure proposal",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 61,
+            "token": "work",
+            "sentence_id": 20,
+            "start": 277,
+            "end": 281,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "predicted",
+            "sentence_id": 21,
+            "start": 33,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 63,
+            "token": "end",
+            "sentence_id": 21,
+            "start": 167,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "backing",
+            "sentence_id": 21,
+            "start": 174,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "sen. joe manchin",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "sen. kyrsten sinema",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "the white house \u2019s infrastructure proposal",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 65,
+            "token": "talks",
+            "sentence_id": 21,
+            "start": 218,
+            "end": 223,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "collapse",
+            "sentence_id": 21,
+            "start": 224,
+            "end": 232,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "think",
+            "sentence_id": 22,
+            "start": 4,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "engaged",
+            "sentence_id": 23,
+            "start": 14,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "want",
+            "sentence_id": 24,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "do",
+            "sentence_id": 24,
+            "start": 13,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "told",
+            "sentence_id": 24,
+            "start": 38,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "commerce secretary gina raimondo",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "sen. joe manchin",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "sen. kyrsten sinema",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 72,
+            "token": "sought",
+            "sentence_id": 25,
+            "start": 32,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "deemphasize",
+            "sentence_id": 25,
+            "start": 42,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "negotiations",
+            "sentence_id": 25,
+            "start": 87,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "arguing",
+            "sentence_id": 25,
+            "start": 102,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "compromise",
+            "sentence_id": 25,
+            "start": 182,
+            "end": 192,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "said",
+            "sentence_id": 26,
+            "start": 68,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "talks",
+            "sentence_id": 26,
+            "start": 137,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "do",
+            "sentence_id": 27,
+            "start": 12,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "added",
+            "sentence_id": 27,
+            "start": 41,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "efforts",
+            "sentence_id": 28,
+            "start": 39,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "continue",
+            "sentence_id": 28,
+            "start": 83,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the white house \u2019s infrastructure proposal",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 83,
+            "token": "doing",
+            "sentence_id": 28,
+            "start": 104,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 84,
+            "token": "trying",
+            "sentence_id": 28,
+            "start": 122,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "get",
+            "sentence_id": 28,
+            "start": 132,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the white house \u2019s infrastructure proposal",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "granholm",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                8
+            ]
+        },
+        {
+            "text": "gop",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                8,
+                29,
+                40,
+                40
+            ]
+        },
+        {
+            "text": "biden",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                11,
+                27,
+                44,
+                37
+            ]
+        },
+        {
+            "text": "sen. shelley moore capito",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "reconciliation process",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                27,
+                51,
+                50
+            ]
+        },
+        {
+            "text": "democrats",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                64,
+                45,
+                54
+            ]
+        },
+        {
+            "text": "the white house \u2019s infrastructure proposal",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                29,
+                51,
+                64,
+                37,
+                40,
+                44,
+                45,
+                54,
+                60,
+                82,
+                85,
+                25,
+                37,
+                40
+            ]
+        },
+        {
+            "text": "transportation secretary pete buttigieg",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                50
+            ]
+        },
+        {
+            "text": "commerce secretary gina raimondo",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                71
+            ]
+        },
+        {
+            "text": "sen. joe manchin",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                64,
+                71
+            ]
+        },
+        {
+            "text": "sen. kyrsten sinema",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                64,
+                71
+            ]
+        },
+        {
+            "text": "democratic senators",
+            "ideology": "Left",
+            "id": 16,
+            "events": [
+                57,
+                59,
+                60
+            ]
+        }
+    ]
+}

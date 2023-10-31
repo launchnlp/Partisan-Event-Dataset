@@ -1,0 +1,1231 @@
+{
+    "title": "Senate passes Keystone XL measure",
+    "date": "2015-01-29",
+    "topic": "energy",
+    "source": "CNN (Online News)",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Senate passed a bipartisan bill on Thursday to clear construction of the Keystone XL pipeline, a controversial project that would transport oil from Canada to the Gulf of Mexico."
+        },
+        {
+            "id": 1,
+            "text": "The vote was 62 to 36."
+        },
+        {
+            "id": 2,
+            "text": "Nine mostly centrist Democrats joined with Republicans to support the bill despite President Barack Obama\u2019s promise to veto it."
+        },
+        {
+            "id": 3,
+            "text": "The President has said the decision should remain within the executive branch."
+        },
+        {
+            "id": 4,
+            "text": "Passage was a victory for newly empowered Republicans who made the bill their top legislative priority and the first taken up on the Senate floor."
+        },
+        {
+            "id": 5,
+            "text": "Keystone supporters, frustrated by the lengthy and still ongoing Obama administration review of the project, are trying to force the President\u2019s hand to let it be built."
+        },
+        {
+            "id": 6,
+            "text": "While the GOP glee is likely to be short-lived as the vote fell short of the two-thirds majority necessary to overcome a potential veto, for now, Republicans are pleased."
+        },
+        {
+            "id": 7,
+            "text": "\u201cThis is a happy day on several counts,\u201d said Senate Majority Leader Mitch McConnell, who told reporters he was pleased with both the success of the bill and the legislative process it took to get there \u2013 most notably the 41 amendments from members of both parties that got votes."
+        },
+        {
+            "id": 8,
+            "text": "When they were in the minority, Republicans pledged to restore a more \u201copen\u201d amendment process than they faced when Democrats were in charge."
+        },
+        {
+            "id": 9,
+            "text": "The open process worked initially during the Keystone debate but broke down temporarily last Thursday, when \u2013 in a session that ran past midnight \u2013 Republicans abruptly tried to end debate on the bill."
+        },
+        {
+            "id": 10,
+            "text": "It quickly got back on track, but only after Democratic supporters of the pipeline refused to go along."
+        },
+        {
+            "id": 11,
+            "text": "In a rare exchange on the Senate floor on Thursday, McConnell and Sen. Dick Durbin, the assistant Democratic leader, actually praised each other\u2019s handling of the debate."
+        },
+        {
+            "id": 12,
+            "text": "\u201cWhat I\u2019ve seen on the floor the last several weeks is the Senate I remember, the Senate I was elected to,\u201d Durbin said."
+        },
+        {
+            "id": 13,
+            "text": "\u201cI hope that in our role in the minority we can work with you, with a feeling of mutual respect, to achieve, at least, debate on the floor if not some significant legislation.\u201d"
+        },
+        {
+            "id": 14,
+            "text": "\u201cI agree that this has been good for the Senate, good for both parties, good for America for getting back to normal and I thank the senator for his comments and his cooperation,\u201d McConnell responded."
+        },
+        {
+            "id": 15,
+            "text": "The kind words though don\u2019t mask the deep policy differences between the two leaders on the Keystone issue."
+        },
+        {
+            "id": 16,
+            "text": "Former Senate Majority Leader Trent Lott, R-Mississippi, was in the Capitol as the debate carried on."
+        },
+        {
+            "id": 17,
+            "text": "He told CNN the Senate was hurt by the way Democrats ran things in recent years, particularly when they didn\u2019t allow amendments from either side."
+        },
+        {
+            "id": 18,
+            "text": "He said that a new spirit of cooperation from the both Democrats and Republicans is a good thing."
+        },
+        {
+            "id": 19,
+            "text": "\u201cLook you\u2019re going to have partisanship."
+        },
+        {
+            "id": 20,
+            "text": "But I think the institution is being damaged by what has happened the last two years,\u201d he said."
+        },
+        {
+            "id": 21,
+            "text": "\u201cIf they can get it back on track it would be good for America."
+        }
+    ],
+    "id": "STORY_60_DOCUMENT_0",
+    "old_id": "1292_0",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "passed",
+            "sentence_id": 0,
+            "start": 11,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "clear",
+            "sentence_id": 0,
+            "start": 51,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "construction",
+            "sentence_id": 0,
+            "start": 57,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "transport",
+            "sentence_id": 0,
+            "start": 134,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "vote",
+            "sentence_id": 1,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "joined",
+            "sentence_id": 2,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "support",
+            "sentence_id": 2,
+            "start": 58,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Keystone XL pipeline",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "promise",
+            "sentence_id": 2,
+            "start": 108,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "President Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Keystone XL pipeline",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "veto",
+            "sentence_id": 2,
+            "start": 119,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 18,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "decision",
+            "sentence_id": 3,
+            "start": 27,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "remain",
+            "sentence_id": 3,
+            "start": 43,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "Passage",
+            "sentence_id": 4,
+            "start": 0,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "victory",
+            "sentence_id": 4,
+            "start": 14,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "made",
+            "sentence_id": 4,
+            "start": 58,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "taken",
+            "sentence_id": 4,
+            "start": 117,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "frustrated",
+            "sentence_id": 5,
+            "start": 21,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "review",
+            "sentence_id": 5,
+            "start": 86,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "trying",
+            "sentence_id": 5,
+            "start": 113,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "force",
+            "sentence_id": 5,
+            "start": 123,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Keystone supporters",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "President Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "let",
+            "sentence_id": 5,
+            "start": 153,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "built",
+            "sentence_id": 5,
+            "start": 163,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "vote",
+            "sentence_id": 6,
+            "start": 54,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "fell",
+            "sentence_id": 6,
+            "start": 59,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "overcome",
+            "sentence_id": 6,
+            "start": 110,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "President Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "veto",
+            "sentence_id": 6,
+            "start": 131,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "pleased",
+            "sentence_id": 6,
+            "start": 162,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 41,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "told",
+            "sentence_id": 7,
+            "start": 90,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "pleased",
+            "sentence_id": 7,
+            "start": 112,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "success",
+            "sentence_id": 7,
+            "start": 134,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Keystone XL pipeline",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 31,
+            "token": "process",
+            "sentence_id": 7,
+            "start": 174,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "took",
+            "sentence_id": 7,
+            "start": 185,
+            "end": 189,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "get",
+            "sentence_id": 7,
+            "start": 193,
+            "end": 196,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "got",
+            "sentence_id": 7,
+            "start": 270,
+            "end": 273,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "votes",
+            "sentence_id": 7,
+            "start": 274,
+            "end": 279,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Keystone XL pipeline",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 36,
+            "token": "pledged",
+            "sentence_id": 8,
+            "start": 44,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "restore",
+            "sentence_id": 8,
+            "start": 55,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "faced",
+            "sentence_id": 8,
+            "start": 105,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "worked",
+            "sentence_id": 9,
+            "start": 17,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "debate",
+            "sentence_id": 9,
+            "start": 54,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "broke",
+            "sentence_id": 9,
+            "start": 65,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "open process",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "session",
+            "sentence_id": 9,
+            "start": 115,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "ran",
+            "sentence_id": 9,
+            "start": 128,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "tried",
+            "sentence_id": 9,
+            "start": 169,
+            "end": 174,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Keystone XL pipeline",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "end",
+            "sentence_id": 9,
+            "start": 178,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "debate",
+            "sentence_id": 9,
+            "start": 182,
+            "end": 188,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "got",
+            "sentence_id": 10,
+            "start": 11,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "refused",
+            "sentence_id": 10,
+            "start": 83,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "go",
+            "sentence_id": 10,
+            "start": 94,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "exchange",
+            "sentence_id": 11,
+            "start": 10,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "praised",
+            "sentence_id": 11,
+            "start": 126,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Keystone XL pipeline",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "handling",
+            "sentence_id": 11,
+            "start": 147,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "debate",
+            "sentence_id": 11,
+            "start": 163,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "seen",
+            "sentence_id": 12,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "remember",
+            "sentence_id": 12,
+            "start": 68,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 56,
+            "token": "elected",
+            "sentence_id": 12,
+            "start": 95,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 115,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "hope",
+            "sentence_id": 13,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "work",
+            "sentence_id": 13,
+            "start": 48,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "achieve",
+            "sentence_id": 13,
+            "start": 100,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "debate",
+            "sentence_id": 13,
+            "start": 119,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "agree",
+            "sentence_id": 14,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "getting",
+            "sentence_id": 14,
+            "start": 93,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "thank",
+            "sentence_id": 14,
+            "start": 122,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "comments",
+            "sentence_id": 14,
+            "start": 148,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "cooperation",
+            "sentence_id": 14,
+            "start": 165,
+            "end": 176,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "responded",
+            "sentence_id": 14,
+            "start": 189,
+            "end": 198,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "mask",
+            "sentence_id": 15,
+            "start": 28,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Keystone XL pipeline",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 69,
+            "token": "differences",
+            "sentence_id": 15,
+            "start": 49,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "debate",
+            "sentence_id": 16,
+            "start": 83,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "carried",
+            "sentence_id": 16,
+            "start": 90,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "told",
+            "sentence_id": 17,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "hurt",
+            "sentence_id": 17,
+            "start": 27,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 74,
+            "token": "ran",
+            "sentence_id": 17,
+            "start": 53,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "allow",
+            "sentence_id": 17,
+            "start": 111,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "amendments",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 76,
+            "token": "said",
+            "sentence_id": 18,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "think",
+            "sentence_id": 20,
+            "start": 6,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "damaged",
+            "sentence_id": 20,
+            "start": 37,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "happened",
+            "sentence_id": 20,
+            "start": 57,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "said",
+            "sentence_id": 20,
+            "start": 90,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "get",
+            "sentence_id": 21,
+            "start": 13,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Keystone supporters",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                19
+            ]
+        },
+        {
+            "text": "President Barack Obama",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                19,
+                7,
+                24
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                44,
+                48,
+                73,
+                6,
+                24,
+                30,
+                35,
+                41,
+                51,
+                68
+            ]
+        },
+        {
+            "text": "Keystone XL pipeline",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                44,
+                6,
+                7,
+                30,
+                35,
+                51,
+                68
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                48,
+                73,
+                75,
+                35,
+                51,
+                68
+            ]
+        },
+        {
+            "text": "amendments",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                75
+            ]
+        },
+        {
+            "text": "open process",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                41
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1326 @@
+{
+    "title": "Team Biden must stop gaslighting on \u2018secure\u2019 border as crisis is about to get drastically worse",
+    "date": "2022-11-24",
+    "topic": "immigration",
+    "source": "New York Post (News)",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Homeland Security Secretary Alejandro Mayorkas this week again told Congress , \u201c yes , \u201d the border is secure , \u201c and we are working day in and day out to enhance security . \u201d"
+        },
+        {
+            "id": 1,
+            "text": "We do not think that word means what he thinks it means ."
+        },
+        {
+            "id": 2,
+            "text": "And the impending end of Title 42 , which Team Biden has used to expel more than 1 million of the 2.4 million migrants that the Border Patrol \u201c encountered \u201d last fiscal year , is sure to add to the chaos ."
+        },
+        {
+            "id": 3,
+            "text": "The surge is expected to rise to 18,000 a day , or over 500,000 a month ."
+        },
+        {
+            "id": 4,
+            "text": "Even now , the waves have border security hopelessly overstretched , with perhaps half a million illegal migrants a year seen but not \u201c encountered \u201d by Border Patrol \u2014 meaning they made it in with no screening at all ."
+        },
+        {
+            "id": 5,
+            "text": "And it \u2019s not just migrants ."
+        },
+        {
+            "id": 6,
+            "text": "At the same hearing , FBI chief Christopher Wray admitted , \u201c We see significant criminal threats coming from south of the border \u2014 whether it \u2019s guns , drugs , money , violence . \u201d"
+        },
+        {
+            "id": 7,
+            "text": "Drug cartels are in overdrive , with fentanyl smuggling out of control ."
+        },
+        {
+            "id": 8,
+            "text": "Wray pointed to a single \u201c vehicle interdiction \u201d in Phoenix that stopped \u201c enough fentanyl to kill the equivalent of the entire state of Pennsylvania . \u201d"
+        },
+        {
+            "id": 9,
+            "text": "But lots more is getting through ."
+        },
+        {
+            "id": 10,
+            "text": "Biden has made exceptions to get tougher on migrants from Venezuela , Cuba and Haiti , but overall numbers keep rising ."
+        },
+        {
+            "id": 11,
+            "text": "Month after month ( with minor seasonal variation ) , the migrant numbers grow , hitting 230,678 encounters in October ."
+        },
+        {
+            "id": 12,
+            "text": "And that \u2019s with more than a third being sent back to Mexico under Title 42 ."
+        },
+        {
+            "id": 13,
+            "text": "Yet the administration plainly has no clue what to do now that the courts are ordering Title 42 to end ( which is legally correct : It \u2019s an emergency public - health exception to normal rules that Team Trump invoked during the pandemic , which is over ) ."
+        },
+        {
+            "id": 14,
+            "text": "The exit of woefully incompetent Customs and Border Protection chief Chris Magnus might bring marginal improvements , and we certainly get the GOP sentiment to impeach routine - liar Mayorkas ( even though it \u2019s hard to see the Senate actually removing him ) ."
+        },
+        {
+            "id": 15,
+            "text": "But the core problem is plainly policy , not personnel ."
+        },
+        {
+            "id": 16,
+            "text": "That is : President Joe Biden refuses to do anything serious to stem the tides ."
+        },
+        {
+            "id": 17,
+            "text": "Fine , he \u2019s made exceptions to get tougher on migrants from Venezuela and now Cuba , as well as Haiti , but the overall numbers still keep rising ."
+        },
+        {
+            "id": 18,
+            "text": "\u201c Do n\u2019t come \u2014 but we \u2019ll probably wave you in if you do \u201d turns out not to work ."
+        },
+        {
+            "id": 19,
+            "text": "Having made it through the midterms , Biden may think he can go on not caring ."
+        },
+        {
+            "id": 20,
+            "text": "But the cumulative impact keeps growing , slamming ever more communities across the nation \u2014 and , again , the problem will soon double from its already - record levels ."
+        },
+        {
+            "id": 21,
+            "text": "This is a recipe for disaster : more border violence , more drugs , more shootouts like Thursday \u2019s that killed one border agent and injured two more ; potentially , the utter breakdown of overwhelmed towns \u2014 and a likely rise in ugly anti-immigrant sentiment ."
+        },
+        {
+            "id": 22,
+            "text": "The White House has to come up with a realistic Plan B \u2014 one that goes beyond gaslighting ."
+        }
+    ],
+    "id": "STORY_129_DOCUMENT_1",
+    "old_id": "TRIPLET_1323_DOCUMENT_1",
+    "split": "test",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "told",
+            "sentence_id": 0,
+            "start": 63,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Alejandro Mayorkas",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Congress",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "secure",
+            "sentence_id": 0,
+            "start": 103,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "working",
+            "sentence_id": 0,
+            "start": 125,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "enhance",
+            "sentence_id": 0,
+            "start": 155,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "think",
+            "sentence_id": 1,
+            "start": 10,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "means",
+            "sentence_id": 1,
+            "start": 26,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "thinks",
+            "sentence_id": 1,
+            "start": 40,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "means",
+            "sentence_id": 1,
+            "start": 50,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "end",
+            "sentence_id": 2,
+            "start": 18,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Title 42",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "used",
+            "sentence_id": 2,
+            "start": 57,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "expel",
+            "sentence_id": 2,
+            "start": 65,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "migrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "encountered",
+            "sentence_id": 2,
+            "start": 144,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "sure",
+            "sentence_id": 2,
+            "start": 180,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "add",
+            "sentence_id": 2,
+            "start": 188,
+            "end": 191,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 14,
+            "token": "chaos",
+            "sentence_id": 2,
+            "start": 199,
+            "end": 204,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "surge",
+            "sentence_id": 3,
+            "start": 4,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "expected",
+            "sentence_id": 3,
+            "start": 13,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "rise",
+            "sentence_id": 3,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "overstretched",
+            "sentence_id": 4,
+            "start": 53,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "seen",
+            "sentence_id": 4,
+            "start": 121,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "encountered",
+            "sentence_id": 4,
+            "start": 136,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "made",
+            "sentence_id": 4,
+            "start": 182,
+            "end": 186,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "screening",
+            "sentence_id": 4,
+            "start": 201,
+            "end": 210,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "hearing",
+            "sentence_id": 6,
+            "start": 12,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "admitted",
+            "sentence_id": 6,
+            "start": 49,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "see",
+            "sentence_id": 6,
+            "start": 65,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "coming",
+            "sentence_id": 6,
+            "start": 98,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "smuggling",
+            "sentence_id": 7,
+            "start": 46,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "pointed",
+            "sentence_id": 8,
+            "start": 5,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "interdiction",
+            "sentence_id": 8,
+            "start": 35,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "stopped",
+            "sentence_id": 8,
+            "start": 66,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "kill",
+            "sentence_id": 8,
+            "start": 95,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "getting",
+            "sentence_id": 9,
+            "start": 17,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "made",
+            "sentence_id": 10,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "exceptions",
+            "sentence_id": 10,
+            "start": 15,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "migrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 35,
+            "token": "get",
+            "sentence_id": 10,
+            "start": 29,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "keep",
+            "sentence_id": 10,
+            "start": 107,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "rising",
+            "sentence_id": 10,
+            "start": 112,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "grow",
+            "sentence_id": 11,
+            "start": 74,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "hitting",
+            "sentence_id": 11,
+            "start": 81,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "encounters",
+            "sentence_id": 11,
+            "start": 97,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "sent",
+            "sentence_id": 12,
+            "start": 41,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Title 42",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "migrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "do",
+            "sentence_id": 13,
+            "start": 51,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 43,
+            "token": "ordering",
+            "sentence_id": 13,
+            "start": 78,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "end",
+            "sentence_id": 13,
+            "start": 99,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "courts",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Title 42",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "invoked",
+            "sentence_id": 13,
+            "start": 209,
+            "end": 216,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "Team Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Title 42",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "exit",
+            "sentence_id": 14,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 20,
+                    "text": "Customs and Border Protection chief Chris Magnus",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 47,
+            "token": "bring",
+            "sentence_id": 14,
+            "start": 88,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "improvements",
+            "sentence_id": 14,
+            "start": 103,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "get",
+            "sentence_id": 14,
+            "start": 135,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "impeach",
+            "sentence_id": 14,
+            "start": 160,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "GOP",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Alejandro Mayorkas",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 51,
+            "token": "see",
+            "sentence_id": 14,
+            "start": 220,
+            "end": 223,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "removing",
+            "sentence_id": 14,
+            "start": 244,
+            "end": 252,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "Senate",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "Mayorkas",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 53,
+            "token": "refuses",
+            "sentence_id": 16,
+            "start": 30,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "migrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 54,
+            "token": "do",
+            "sentence_id": 16,
+            "start": 41,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "stem",
+            "sentence_id": 16,
+            "start": 64,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "migrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 56,
+            "token": "made",
+            "sentence_id": 17,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "exceptions",
+            "sentence_id": 17,
+            "start": 18,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "migrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 58,
+            "token": "get",
+            "sentence_id": 17,
+            "start": 32,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "keep",
+            "sentence_id": 17,
+            "start": 135,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "rising",
+            "sentence_id": 17,
+            "start": 140,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 61,
+            "token": "come",
+            "sentence_id": 18,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "wave",
+            "sentence_id": 18,
+            "start": 36,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 63,
+            "token": "turns",
+            "sentence_id": 18,
+            "start": 60,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "work",
+            "sentence_id": 18,
+            "start": 77,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 65,
+            "token": "made",
+            "sentence_id": 19,
+            "start": 7,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "think",
+            "sentence_id": 19,
+            "start": 48,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 67,
+            "token": "go",
+            "sentence_id": 19,
+            "start": 61,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "caring",
+            "sentence_id": 19,
+            "start": 71,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 69,
+            "token": "keeps",
+            "sentence_id": 20,
+            "start": 26,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "growing",
+            "sentence_id": 20,
+            "start": 32,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "slamming",
+            "sentence_id": 20,
+            "start": 42,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 24,
+                    "text": "communities",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 72,
+            "token": "double",
+            "sentence_id": 20,
+            "start": 129,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 73,
+            "token": "shootouts",
+            "sentence_id": 21,
+            "start": 73,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 74,
+            "token": "killed",
+            "sentence_id": 21,
+            "start": 105,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 75,
+            "token": "injured",
+            "sentence_id": 21,
+            "start": 133,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 76,
+            "token": "breakdown",
+            "sentence_id": 21,
+            "start": 176,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 77,
+            "token": "rise",
+            "sentence_id": 21,
+            "start": 222,
+            "end": 226,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 78,
+            "token": "come",
+            "sentence_id": 22,
+            "start": 23,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 26,
+                    "text": "Plan B",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 79,
+            "token": "gaslighting",
+            "sentence_id": 22,
+            "start": 78,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Alejandro Mayorkas",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "Congress",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "Title 42",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                8,
+                41,
+                44
+            ]
+        },
+        {
+            "text": "migrants",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                34,
+                10,
+                57,
+                41,
+                53,
+                55,
+                41
+            ]
+        },
+        {
+            "text": "courts",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                44
+            ]
+        },
+        {
+            "text": "Team Trump",
+            "ideology": "Right",
+            "id": 11,
+            "events": [
+                45
+            ]
+        },
+        {
+            "text": "GOP",
+            "ideology": "Right",
+            "id": 13,
+            "events": []
+        },
+        {
+            "text": "Joe Biden",
+            "ideology": "Left",
+            "id": 14,
+            "events": [
+                8,
+                34,
+                55,
+                57,
+                68,
+                78,
+                79,
+                10,
+                64,
+                71
+            ]
+        },
+        {
+            "text": "Customs and Border Protection chief Chris Magnus",
+            "ideology": "Left",
+            "id": 20,
+            "events": [
+                46
+            ]
+        },
+        {
+            "text": "Mayorkas",
+            "ideology": "Left",
+            "id": 21,
+            "events": [
+                52
+            ]
+        },
+        {
+            "text": "Senate",
+            "ideology": "Neutral",
+            "id": 22,
+            "events": [
+                52
+            ]
+        },
+        {
+            "text": "communities",
+            "ideology": "Neutral",
+            "id": 24,
+            "events": [
+                71
+            ]
+        },
+        {
+            "text": "Plan B",
+            "ideology": "Neutral",
+            "id": 26,
+            "events": [
+                78
+            ]
+        }
+    ]
+}

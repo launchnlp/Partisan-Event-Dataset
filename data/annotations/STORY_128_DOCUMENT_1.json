@@ -1,0 +1,1602 @@
+{
+    "title": "Media outlets use photo from 1977 yearbook to suggest GOP governor is 'hypocritical' on drag",
+    "date": "2023-03-02",
+    "topic": "LGBT",
+    "source": "Fox News (Online News)",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Multiple media outlets are attempting to suggest Republican Tennessee Gov. Bill Lee is guilty of hypocrisy over a photo from his 1977 high school yearbook."
+        },
+        {
+            "id": 1,
+            "text": "Lee is set to sign a bill that would outlaw drag shows from certain public areas that can be exposed to children, making a first offense a misdemeanor and the second offense a felony."
+        },
+        {
+            "id": 2,
+            "text": "But a photo from the 1977 Franklin High yearbook surfaced on social media showing Lee wearing a wig, cheerleader uniform and a pearl necklace alongside girls wearing men\u2019s suits."
+        },
+        {
+            "id": 3,
+            "text": "The photo is captioned \"Hard Luck Woman.\""
+        },
+        {
+            "id": 4,
+            "text": "Tennessee Democrat Christopher"
+        },
+        {
+            "id": 5,
+            "text": "Hale was among the critics who shared the image online, tweeting, \"Tennessee Governor Bill Lee is set to sign a bill that bans and criminalizes drag across the Volunteer State."
+        },
+        {
+            "id": 6,
+            "text": "Under this law, Governor Lee himself would face prosecution and jail time for his decision to dress up as a 'hard luck woman' in high school."
+        },
+        {
+            "id": 7,
+            "text": "Nice legs though!"
+        },
+        {
+            "id": 8,
+            "text": "Critics in the press tried to claim the governor's current stance is the opposite of his actions as a young student."
+        },
+        {
+            "id": 9,
+            "text": "The Tennessean tried lumping the two together in its headline, \"Gov. Bill Lee will sign drag bill, reacts to yearbook photo showing him dressed as a woman.\""
+        },
+        {
+            "id": 10,
+            "text": "News went even further with its story, \"Tennessee governor appears to have dressed in drag, an art form he wants to restrict.\""
+        },
+        {
+            "id": 11,
+            "text": "One Nashville drag performer called it \"hypocritical,\" telling NBC News, \"He\u2019s saying: \u2018It\u2019s OK for straight people to do it, but not the gay community\u2026"
+        },
+        {
+            "id": 12,
+            "text": "That\u2019s the message he\u2019s delivering to the people.\""
+        },
+        {
+            "id": 13,
+            "text": "DRAG QUEEN, CITING 1969 STONEWALL RIOT, VOWS TO FIGHT BACK IF BAN PASSES: \u2018NOT A THREAT BUT A PROMISE\u2019"
+        },
+        {
+            "id": 14,
+            "text": "The NBC News report, though, concedes, \"While the event photographed in the yearbook would meet most definitions of 'drag,' it would not necessarily be illegal under Tennessee\u2019s newly passed drag bill, which specifically bans \u2018male or female impersonators who provide entertainment that appeals to a prurient interest\u2019 from performing in public or in front of children.\""
+        },
+        {
+            "id": 15,
+            "text": "On Tuesday, The Washington Post ran the headline, \"Tenn. governor to restrict drag shows as photo appears to show him in drag.\""
+        },
+        {
+            "id": 16,
+            "text": "KNOXVILLE MAYOR CRITICIZED FOR ATTENDING 'ALL AGES' CHRISTMAS DRAG SHOW WITH 'EXPOSED B---HOLES,' 'SEX ACTS'"
+        },
+        {
+            "id": 17,
+            "text": "The Guardian similarly published, \"Tennessee governor to ban drag shows \u2013 despite photo of him dressed in drag.\""
+        },
+        {
+            "id": 18,
+            "text": "\"Tennessee's governor, Bill Lee, is facing accusations of hypocrisy after a photo of him dressed in drag went viral days after the politician confirmed that he would sign legislation criminalizing drag performances,\" the Guardian wrote."
+        },
+        {
+            "id": 19,
+            "text": "Other headlines include the Daily Beast's \"Drag-Banning Tennessee Guv Shrugs Off Old Drag Pic as a \u2018Lighthearted Tradition\u2019\" and HuffPost's \"Tennessee Governor Expected To Sign Drag Ban Apparently Once Wore Drag In Yearbook Photo.\""
+        },
+        {
+            "id": 20,
+            "text": "Lee blasted the notion that the legislation and the yearbook photo are linked, calling a question at a press conference Monday \"ridiculous.\""
+        },
+        {
+            "id": 21,
+            "text": "\"Conflating something like that to sexualized entertainment in front of children?\""
+        },
+        {
+            "id": 22,
+            "text": "Lee exclaimed."
+        },
+        {
+            "id": 23,
+            "text": "A spokesperson for Lee also stated, \"The bill specifically protects children from obscene, sexualized entertainment, and any attempt to conflate this serious issue with lighthearted school traditions is dishonest and disrespectful to Tennessee families.\""
+        }
+    ],
+    "id": "STORY_128_DOCUMENT_1",
+    "old_id": "7729_2",
+    "split": "test",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "attempting",
+            "sentence_id": 0,
+            "start": 27,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "media outlets",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Republican Tennessee Gov. Bill Lee",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "suggest",
+            "sentence_id": 0,
+            "start": 41,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "guilty",
+            "sentence_id": 0,
+            "start": 87,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Republican Tennessee Gov. Bill Lee",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 3,
+            "token": "set",
+            "sentence_id": 1,
+            "start": 7,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "sign",
+            "sentence_id": 1,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "outlaw",
+            "sentence_id": 1,
+            "start": 37,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "exposed",
+            "sentence_id": 1,
+            "start": 93,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "drag shows",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Drag Ban",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "making",
+            "sentence_id": 1,
+            "start": 114,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "surfaced",
+            "sentence_id": 2,
+            "start": 49,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "showing",
+            "sentence_id": 2,
+            "start": 74,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "wearing",
+            "sentence_id": 2,
+            "start": 86,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "captioned",
+            "sentence_id": 3,
+            "start": 13,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "shared",
+            "sentence_id": 5,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "tweeting",
+            "sentence_id": 5,
+            "start": 56,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "set",
+            "sentence_id": 5,
+            "start": 98,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "sign",
+            "sentence_id": 5,
+            "start": 105,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "bans",
+            "sentence_id": 5,
+            "start": 122,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "criminalizes",
+            "sentence_id": 5,
+            "start": 131,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Republican Tennessee Gov. Bill Lee",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": " drag shows ",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 18,
+            "token": "face",
+            "sentence_id": 6,
+            "start": 43,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Republican Tennessee Gov. Bill Lee",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 19,
+            "token": "prosecution",
+            "sentence_id": 6,
+            "start": 48,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "drag bill",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Republican Tennessee Gov. Bill Lee",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 20,
+            "token": "decision",
+            "sentence_id": 6,
+            "start": 82,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "dress",
+            "sentence_id": 6,
+            "start": 94,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "tried",
+            "sentence_id": 8,
+            "start": 21,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "claim",
+            "sentence_id": 8,
+            "start": 30,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "actions",
+            "sentence_id": 8,
+            "start": 89,
+            "end": 96,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "tried",
+            "sentence_id": 9,
+            "start": 15,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "lumping",
+            "sentence_id": 9,
+            "start": 21,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Tennessee Democrat Christopher Hale",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "headline",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "sign",
+            "sentence_id": 9,
+            "start": 83,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "reacts",
+            "sentence_id": 9,
+            "start": 99,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "showing",
+            "sentence_id": 9,
+            "start": 124,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "dressed",
+            "sentence_id": 9,
+            "start": 136,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "went",
+            "sentence_id": 10,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "appears",
+            "sentence_id": 10,
+            "start": 59,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "dressed",
+            "sentence_id": 10,
+            "start": 75,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "wants",
+            "sentence_id": 10,
+            "start": 107,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Republican Tennessee Gov. Bill Lee",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "drag shows",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 35,
+            "token": "restrict",
+            "sentence_id": 10,
+            "start": 116,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Republican Tennessee Gov. Bill Lee",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": " drag shows ",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 36,
+            "token": "called",
+            "sentence_id": 11,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Nashville drag performer",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Republican Tennessee Gov. Bill Lee",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 37,
+            "token": "telling",
+            "sentence_id": 11,
+            "start": 55,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "saying",
+            "sentence_id": 11,
+            "start": 79,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "do",
+            "sentence_id": 11,
+            "start": 119,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Republican Tennessee Gov. Bill Lee",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Drag Ban",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 40,
+            "token": "delivering",
+            "sentence_id": 12,
+            "start": 24,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Republican Tennessee Gov. Bill Lee",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Drag Ban",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 41,
+            "token": "CITING",
+            "sentence_id": 13,
+            "start": 12,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "RIOT",
+            "sentence_id": 13,
+            "start": 34,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "VOWS",
+            "sentence_id": 13,
+            "start": 40,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "DRAG QUEEN",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "1969 STONEWALL RIOT",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Drag Ban",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 44,
+            "token": "FIGHT",
+            "sentence_id": 13,
+            "start": 48,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "DRAG QUEEN",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "1969 STONEWALL RIOT",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Drag Ban",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 45,
+            "token": "PASSES",
+            "sentence_id": 13,
+            "start": 66,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "concedes",
+            "sentence_id": 14,
+            "start": 29,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "NBC News",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "event",
+            "sentence_id": 14,
+            "start": 50,
+            "end": 55,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "photographed",
+            "sentence_id": 14,
+            "start": 56,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "meet",
+            "sentence_id": 14,
+            "start": 91,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "illegal",
+            "sentence_id": 14,
+            "start": 152,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "photo appears to show him in drag",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Republican Tennessee Gov. Bill Lee",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Drag Ban",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "passed",
+            "sentence_id": 14,
+            "start": 184,
+            "end": 190,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "bans",
+            "sentence_id": 14,
+            "start": 221,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "provide",
+            "sentence_id": 14,
+            "start": 260,
+            "end": 267,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "performing",
+            "sentence_id": 14,
+            "start": 324,
+            "end": 334,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "ran",
+            "sentence_id": 15,
+            "start": 32,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "restrict",
+            "sentence_id": 15,
+            "start": 69,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Republican Tennessee Gov. Bill Lee",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "drag shows",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 57,
+            "token": "appears",
+            "sentence_id": 15,
+            "start": 98,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "show",
+            "sentence_id": 15,
+            "start": 109,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "CRITICIZED",
+            "sentence_id": 16,
+            "start": 16,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "KNOXVILLE MAYOR",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "drag shows",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Drag Ban",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 60,
+            "token": "ATTENDING",
+            "sentence_id": 16,
+            "start": 31,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "published",
+            "sentence_id": 17,
+            "start": 23,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "ban",
+            "sentence_id": 17,
+            "start": 57,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Republican Tennessee Gov. Bill Lee",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "drag shows",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 63,
+            "token": "dressed",
+            "sentence_id": 17,
+            "start": 95,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "facing",
+            "sentence_id": 18,
+            "start": 36,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "accusations",
+            "sentence_id": 18,
+            "start": 43,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Republican Tennessee Gov. Bill Lee",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "media outlets",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Drag Ban",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 66,
+            "token": "dressed",
+            "sentence_id": 18,
+            "start": 89,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "went",
+            "sentence_id": 18,
+            "start": 105,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "confirmed",
+            "sentence_id": 18,
+            "start": 142,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "sign",
+            "sentence_id": 18,
+            "start": 166,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "criminalizing",
+            "sentence_id": 18,
+            "start": 183,
+            "end": 196,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Republican Tennessee Gov. Bill Lee",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "drag shows",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 71,
+            "token": "wrote",
+            "sentence_id": 18,
+            "start": 230,
+            "end": 235,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "Shrugs",
+            "sentence_id": 19,
+            "start": 70,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Republican Tennessee Gov. Bill Lee",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 73,
+            "token": "Expected",
+            "sentence_id": 19,
+            "start": 160,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "Sign",
+            "sentence_id": 19,
+            "start": 172,
+            "end": 176,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "Wore",
+            "sentence_id": 19,
+            "start": 202,
+            "end": 206,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "blasted",
+            "sentence_id": 20,
+            "start": 4,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Republican Tennessee Gov. Bill Lee",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "media outlets",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Republican Tennessee Gov. Bill Lee",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Media outlets",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 77,
+            "token": "linked",
+            "sentence_id": 20,
+            "start": 71,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "calling",
+            "sentence_id": 20,
+            "start": 79,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "conference",
+            "sentence_id": 20,
+            "start": 109,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "Conflating",
+            "sentence_id": 21,
+            "start": 1,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "media outlets",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "drag shows",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Media outlets",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Drag Ban",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 81,
+            "token": "exclaimed",
+            "sentence_id": 22,
+            "start": 4,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "stated",
+            "sentence_id": 23,
+            "start": 28,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "protects",
+            "sentence_id": 23,
+            "start": 59,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "drag bill",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "children",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Drag Ban",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 84,
+            "token": "attempt",
+            "sentence_id": 23,
+            "start": 125,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "conflate",
+            "sentence_id": 23,
+            "start": 136,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "media outlets",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "drag shows",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Media outlets",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Drag Ban",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "media outlets",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                0,
+                65,
+                76,
+                80,
+                85
+            ]
+        },
+        {
+            "text": "Republican Tennessee Gov. Bill Lee",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                0,
+                65,
+                34,
+                35,
+                36,
+                2,
+                70,
+                39,
+                40,
+                72,
+                76,
+                17,
+                18,
+                19,
+                50,
+                56,
+                62
+            ]
+        },
+        {
+            "text": " drag shows ",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                17,
+                35
+            ]
+        },
+        {
+            "text": "drag bill",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                19,
+                83
+            ]
+        },
+        {
+            "text": "Tennessee Democrat Christopher Hale",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                26
+            ]
+        },
+        {
+            "text": "headline",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                26
+            ]
+        },
+        {
+            "text": "Nashville drag performer",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                36
+            ]
+        },
+        {
+            "text": "drag shows",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                34,
+                70,
+                6,
+                80,
+                85,
+                56,
+                59,
+                62
+            ]
+        },
+        {
+            "text": "children",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                83
+            ]
+        },
+        {
+            "text": "Drag Ban",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                6,
+                39,
+                40,
+                43,
+                44,
+                50,
+                59,
+                65,
+                80,
+                83,
+                85
+            ]
+        },
+        {
+            "text": "DRAG QUEEN",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                43,
+                44
+            ]
+        },
+        {
+            "text": "1969 STONEWALL RIOT",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                43,
+                44
+            ]
+        },
+        {
+            "text": "NBC News",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                46
+            ]
+        },
+        {
+            "text": "photo appears to show him in drag",
+            "ideology": "N/A",
+            "id": 13,
+            "events": [
+                50
+            ]
+        },
+        {
+            "text": "KNOXVILLE MAYOR",
+            "ideology": "Uncertain",
+            "id": 14,
+            "events": [
+                59
+            ]
+        },
+        {
+            "text": "Media outlets",
+            "ideology": "Uncertain",
+            "id": 15,
+            "events": [
+                76,
+                80,
+                85
+            ]
+        }
+    ]
+}

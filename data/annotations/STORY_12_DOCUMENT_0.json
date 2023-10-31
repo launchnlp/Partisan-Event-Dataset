@@ -1,0 +1,1870 @@
+{
+    "title": "Sessions likens California sanctuary laws to slave-state nullification",
+    "date": "2018-03-09",
+    "topic": "immigration",
+    "source": "Washington Times",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Attorney General Jeff Sessions compared California \u2019s new sanctuary city laws to attempts by slave - holding southern states to nullify federal laws , and blasted California officials Wednesday for attempting to force a \u201c radical open borders agenda \u201d on the rest of the country ."
+        },
+        {
+            "id": 1,
+            "text": "Speaking to California police and sheriffs , Mr. Sessions defended his decision to file a lawsuit against California this week seeking to block three state laws he says are thwarting federal agents \u2019 ability to stop illegal immigration ."
+        },
+        {
+            "id": 2,
+            "text": "And he took specific aim at Oakland Mayor Libby Schaaf , saying she actively aided illegal immigrants in escaping arrest last month by warning them of an impending sweep by federal deportation officers ."
+        },
+        {
+            "id": 3,
+            "text": "\u201c Here \u2019s my message to Mayor Schaaf : How dare you , \u201d the attorney general said ."
+        },
+        {
+            "id": 4,
+            "text": "\u201c How dare you needlessly endanger the lives of law enforcement to promote a radical open borders agenda . \u201d"
+        },
+        {
+            "id": 5,
+            "text": "Ms. Schaaf has defended her actions , saying she was trying to give illegal immigrants the tools to defend their rights , and saying she wanted to keep families together ."
+        },
+        {
+            "id": 6,
+            "text": "She won praise from state officials , who said California is proud to be a sanctuary ."
+        },
+        {
+            "id": 7,
+            "text": "The state government approved three laws last year that severely limit cooperation police can provide to federal immigration authorities , and also prohibit private businesses from cooperating as well ."
+        },
+        {
+            "id": 8,
+            "text": "Mr. Sessions said those laws interfere with the federal government , which under the Constitution and laws passed by Congress has supreme power over immigration ."
+        },
+        {
+            "id": 9,
+            "text": "\u201c There is no nullification ."
+        },
+        {
+            "id": 10,
+            "text": "There is no secession , \u201d he said ."
+        },
+        {
+            "id": 11,
+            "text": "\u201c Federal law is \u2018 the supreme law of the land . \u2019"
+        },
+        {
+            "id": 12,
+            "text": "I would invite any doubters to go to Gettysburg , to the tombstones of John C. Calhoun and Abraham Lincoln ."
+        },
+        {
+            "id": 13,
+            "text": "This matter has been settled . \u201d"
+        },
+        {
+            "id": 14,
+            "text": "Mr. Sessions called the laws \u201c an embarrassment \u201d to the state ."
+        },
+        {
+            "id": 15,
+            "text": "He wondered what would happen if a state passed a law to thwart the Environmental Protection Agency \u2019s ability to target polluters ."
+        },
+        {
+            "id": 16,
+            "text": "California officials have defended their policies , saying federal agents are allowed to conduct enforcement \u2014 but state and local police should n\u2019t be forced to assist ."
+        },
+        {
+            "id": 17,
+            "text": "They argue that immigrants , including those in the country legally , are less willing to cooperate on reporting other crimes if they fear immigration agents could become involved ."
+        }
+    ],
+    "id": "STORY_12_DOCUMENT_0",
+    "old_id": "TRIPLET_125_DOCUMENT_1",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "compared",
+            "sentence_id": 0,
+            "start": 31,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "attempts",
+            "sentence_id": 0,
+            "start": 81,
+            "end": 89,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "nullify",
+            "sentence_id": 0,
+            "start": 128,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "slave - holding southern states",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "federal laws",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "california \u2019s new sanctuary city laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "slave-state",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "California sanctuary laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 3,
+            "token": "blasted",
+            "sentence_id": 0,
+            "start": 155,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "attorney general jeff sessions",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "california officials",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "Jeff Sessions",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "California officials",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 4,
+            "token": "attempting",
+            "sentence_id": 0,
+            "start": 198,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "force",
+            "sentence_id": 0,
+            "start": 212,
+            "end": 217,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "California officials",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "California sanctuary laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "Speaking",
+            "sentence_id": 1,
+            "start": 0,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "defended",
+            "sentence_id": 1,
+            "start": 58,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "decision",
+            "sentence_id": 1,
+            "start": 71,
+            "end": 79,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "file",
+            "sentence_id": 1,
+            "start": 83,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "lawsuit",
+            "sentence_id": 1,
+            "start": 90,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "attorney general jeff sessions",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "california",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "seeking",
+            "sentence_id": 1,
+            "start": 127,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "block",
+            "sentence_id": 1,
+            "start": 138,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "says",
+            "sentence_id": 1,
+            "start": 164,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "thwarting",
+            "sentence_id": 1,
+            "start": 173,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "california \u2019s new sanctuary city laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "federal laws",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "California sanctuary laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 15,
+            "token": "stop",
+            "sentence_id": 1,
+            "start": 211,
+            "end": 215,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "federal agents",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "illegal immigration",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "California sanctuary laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "took",
+            "sentence_id": 2,
+            "start": 7,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "saying",
+            "sentence_id": 2,
+            "start": 57,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "aided",
+            "sentence_id": 2,
+            "start": 77,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "oakland mayor libby schaaf",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "illegal immigrants",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "Oakland Mayor Libby Schaaf",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "illegal immigration",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 19,
+            "token": "escaping",
+            "sentence_id": 2,
+            "start": 105,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 23,
+                    "text": "illegal immigration",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "Oakland Mayor Libby Schaaf",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "arrest",
+            "sentence_id": 2,
+            "start": 114,
+            "end": 120,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "warning",
+            "sentence_id": 2,
+            "start": 135,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 24,
+                    "text": "Oakland Mayor Libby Schaaf",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "illegal immigration",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "sweep",
+            "sentence_id": 2,
+            "start": 164,
+            "end": 169,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 77,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "attorney general jeff sessions",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "oakland mayor libby schaaf",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 24,
+            "token": "endanger",
+            "sentence_id": 4,
+            "start": 26,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "oakland mayor libby schaaf",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "federal deportation officers",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "Oakland Mayor Libby Schaaf",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 25,
+            "token": "promote",
+            "sentence_id": 4,
+            "start": 67,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "oakland mayor libby schaaf",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "a radical open borders agenda",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "Oakland Mayor Libby Schaaf",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "California sanctuary laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 26,
+            "token": "defended",
+            "sentence_id": 5,
+            "start": 15,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "oakland mayor libby schaaf",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "california \u2019s new sanctuary city laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "actions",
+            "sentence_id": 5,
+            "start": 28,
+            "end": 35,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "saying",
+            "sentence_id": 5,
+            "start": 38,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "trying",
+            "sentence_id": 5,
+            "start": 53,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "give",
+            "sentence_id": 5,
+            "start": 63,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "oakland mayor libby schaaf",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "illegal immigrants",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "Oakland Mayor Libby Schaaf",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "illegal immigration",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 31,
+            "token": "defend",
+            "sentence_id": 5,
+            "start": 100,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 23,
+                    "text": "illegal immigration",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "Oakland Mayor Libby Schaaf",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 32,
+            "token": "saying",
+            "sentence_id": 5,
+            "start": 126,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "wanted",
+            "sentence_id": 5,
+            "start": 137,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "keep",
+            "sentence_id": 5,
+            "start": 147,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "oakland mayor libby schaaf",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "illegal immigrants",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "Oakland Mayor Libby Schaaf",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 35,
+            "token": "won",
+            "sentence_id": 6,
+            "start": 4,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "oakland mayor libby schaaf",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "Oakland Mayor Libby Schaaf",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "California officials",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 36,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 42,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "proud",
+            "sentence_id": 6,
+            "start": 61,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "approved",
+            "sentence_id": 7,
+            "start": 21,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "limit",
+            "sentence_id": 7,
+            "start": 65,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "California sanctuary laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "federal agents",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "provide",
+            "sentence_id": 7,
+            "start": 94,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "federal agents",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "California sanctuary laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "prohibit",
+            "sentence_id": 7,
+            "start": 148,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "California sanctuary laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "cooperating",
+            "sentence_id": 7,
+            "start": 181,
+            "end": 192,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "interfere",
+            "sentence_id": 8,
+            "start": 29,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "california \u2019s new sanctuary city laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "the federal government",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "California sanctuary laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "federal agents",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 45,
+            "token": "passed",
+            "sentence_id": 8,
+            "start": 107,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "said",
+            "sentence_id": 10,
+            "start": 29,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "attorney general jeff sessions",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "federal laws",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "invite",
+            "sentence_id": 12,
+            "start": 8,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "attorney general jeff sessions",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "doubters",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "federal laws",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 48,
+            "token": "go",
+            "sentence_id": 12,
+            "start": 31,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "settled",
+            "sentence_id": 13,
+            "start": 21,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "federal laws",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 25,
+                    "text": "Federal law",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "California sanctuary laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 50,
+            "token": "called",
+            "sentence_id": 14,
+            "start": 13,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "Jeff Sessions",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "California sanctuary laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "wondered",
+            "sentence_id": 15,
+            "start": 3,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "happen",
+            "sentence_id": 15,
+            "start": 23,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "passed",
+            "sentence_id": 15,
+            "start": 41,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "thwart",
+            "sentence_id": 15,
+            "start": 57,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "a state",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "the environmental protection agency \u2019s ability to target polluters",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "california \u2019s new sanctuary city laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 26,
+                    "text": "the Environmental Protection Agency",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "California sanctuary laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "California officials",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 55,
+            "token": "target",
+            "sentence_id": 15,
+            "start": 114,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "defended",
+            "sentence_id": 16,
+            "start": 26,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "california officials",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "california \u2019s new sanctuary city laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 57,
+            "token": "saying",
+            "sentence_id": 16,
+            "start": 52,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "allowed",
+            "sentence_id": 16,
+            "start": 78,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "federal agents",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "California sanctuary laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 59,
+            "token": "conduct",
+            "sentence_id": 16,
+            "start": 89,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "enforcement",
+            "sentence_id": 16,
+            "start": 97,
+            "end": 108,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "forced",
+            "sentence_id": 16,
+            "start": 152,
+            "end": 158,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "federal agents",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "California sanctuary laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 62,
+            "token": "assist",
+            "sentence_id": 16,
+            "start": 162,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "federal agents",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "California sanctuary laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 63,
+            "token": "argue",
+            "sentence_id": 17,
+            "start": 5,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "willing",
+            "sentence_id": 17,
+            "start": 79,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "cooperate",
+            "sentence_id": 17,
+            "start": 90,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "reporting other crimes",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "federal deportation officers",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "immigrants",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "California sanctuary laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 66,
+            "token": "reporting",
+            "sentence_id": 17,
+            "start": 103,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "fear",
+            "sentence_id": 17,
+            "start": 134,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "immigrants",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "federal deportation officers",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "California sanctuary laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 68,
+            "token": "become",
+            "sentence_id": 17,
+            "start": 164,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "involved",
+            "sentence_id": 17,
+            "start": 171,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 27,
+                    "text": "immigration agents",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "California sanctuary laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 70,
+            "token": "praise",
+            "sentence_id": 6,
+            "start": 8,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "oakland mayor libby schaaf",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "california officials",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 71,
+            "token": "has",
+            "sentence_id": 8,
+            "start": 126,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "federal laws",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "power over immigration",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 72,
+            "token": "embarrassment",
+            "sentence_id": 14,
+            "start": 34,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "california \u2019s new sanctuary city laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "california",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "attorney general jeff sessions",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                0,
+                3,
+                10,
+                23,
+                46,
+                47
+            ]
+        },
+        {
+            "text": "california \u2019s new sanctuary city laws",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                0,
+                2,
+                14,
+                26,
+                37,
+                44,
+                72,
+                54,
+                56
+            ]
+        },
+        {
+            "text": "slave - holding southern states",
+            "ideology": "N/A",
+            "id": 2,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "federal laws",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                2,
+                14,
+                71,
+                46,
+                47,
+                49
+            ]
+        },
+        {
+            "text": "california officials",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                3,
+                70,
+                56
+            ]
+        },
+        {
+            "text": "california",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                10,
+                37,
+                72
+            ]
+        },
+        {
+            "text": "oakland mayor libby schaaf",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                18,
+                23,
+                24,
+                25,
+                26,
+                30,
+                34,
+                35,
+                70
+            ]
+        },
+        {
+            "text": "illegal immigrants",
+            "ideology": "N/A",
+            "id": 7,
+            "events": [
+                18,
+                30,
+                34
+            ]
+        },
+        {
+            "text": "federal deportation officers",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                24,
+                65,
+                67
+            ]
+        },
+        {
+            "text": "a radical open borders agenda",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                25
+            ]
+        },
+        {
+            "text": "the federal government",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                44
+            ]
+        },
+        {
+            "text": "power over immigration",
+            "ideology": "N/A",
+            "id": 11,
+            "events": [
+                71
+            ]
+        },
+        {
+            "text": "doubters",
+            "ideology": "N/A",
+            "id": 12,
+            "events": [
+                47
+            ]
+        },
+        {
+            "text": "a state",
+            "ideology": "Uncertain",
+            "id": 13,
+            "events": [
+                54
+            ]
+        },
+        {
+            "text": "the environmental protection agency \u2019s ability to target polluters",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                54
+            ]
+        },
+        {
+            "text": "reporting other crimes",
+            "ideology": "N/A",
+            "id": 15,
+            "events": [
+                65
+            ]
+        },
+        {
+            "text": "immigrants",
+            "ideology": "N/A",
+            "id": 16,
+            "events": [
+                65,
+                67
+            ]
+        },
+        {
+            "text": "Jeff Sessions",
+            "ideology": "Right",
+            "id": 17,
+            "events": [
+                0,
+                3,
+                50
+            ]
+        },
+        {
+            "text": "California sanctuary laws",
+            "ideology": "Left",
+            "id": 18,
+            "events": [
+                0,
+                2,
+                5,
+                14,
+                15,
+                25,
+                39,
+                40,
+                41,
+                44,
+                49,
+                50,
+                54,
+                58,
+                61,
+                62,
+                65,
+                67,
+                69
+            ]
+        },
+        {
+            "text": "slave-state nullification",
+            "ideology": "Right",
+            "id": 19,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "slave-state",
+            "ideology": "Right",
+            "id": 20,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "California officials",
+            "ideology": "Left",
+            "id": 21,
+            "events": [
+                3,
+                5,
+                35,
+                37,
+                54
+            ]
+        },
+        {
+            "text": "federal agents",
+            "ideology": "Neutral",
+            "id": 22,
+            "events": [
+                15,
+                39,
+                40,
+                44,
+                58,
+                61,
+                62
+            ]
+        },
+        {
+            "text": "illegal immigration",
+            "ideology": "N/A",
+            "id": 23,
+            "events": [
+                15,
+                18,
+                19,
+                21,
+                30,
+                31
+            ]
+        },
+        {
+            "text": "Oakland Mayor Libby Schaaf",
+            "ideology": "Left",
+            "id": 24,
+            "events": [
+                18,
+                19,
+                21,
+                24,
+                25,
+                30,
+                31,
+                34,
+                35
+            ]
+        },
+        {
+            "text": "Federal law",
+            "ideology": "Neutral",
+            "id": 25,
+            "events": [
+                49
+            ]
+        },
+        {
+            "text": "the Environmental Protection Agency",
+            "ideology": "Left",
+            "id": 26,
+            "events": [
+                54
+            ]
+        },
+        {
+            "text": "immigration agents",
+            "ideology": "Neutral",
+            "id": 27,
+            "events": [
+                69
+            ]
+        }
+    ]
+}

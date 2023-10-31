@@ -1,0 +1,912 @@
+{
+    "title": "80-year-old Biden says concerns over his age are 'totally legitimate' as he weighs 2024 bid",
+    "date": "2023-02-27",
+    "topic": "2024-election",
+    "source": "Fox News (Online News)",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Biden admitted that concerns over his age are \"totally legitimate,\" as voters debate whether the 80-year-old should seek another four years in the White House."
+        },
+        {
+            "id": 1,
+            "text": "ABC News' David Muir recently asked Biden if the growing concerns over his age, from both critics and supporters, will be a deciding factor in his decision to seek re-election."
+        },
+        {
+            "id": 2,
+            "text": "\"No,\" the president stated."
+        },
+        {
+            "id": 3,
+            "text": "\"But it\u2019s legitimate for people to raise issues about my age."
+        },
+        {
+            "id": 4,
+            "text": "It\u2019s totally legitimate to do that."
+        },
+        {
+            "id": 5,
+            "text": "And the only thing I can say is watch me.\""
+        },
+        {
+            "id": 6,
+            "text": "Biden, who will be 82 at the time of the next election and 86 at the end of his second term as president if re-elected, has faced concerns over whether he will be fit to serve another full term as president."
+        },
+        {
+            "id": 7,
+            "text": "The president recently underwent his annual physical exam where he was deemed fit to serve, but the public evaluation was missing the results of Biden's mental status."
+        },
+        {
+            "id": 8,
+            "text": "\"This physical exam is more significant for what it leaves out than what it actually tells us,\" Dr. Marc Siegel told Fox News Digital after noticing his cognitive tests were left out of the report."
+        },
+        {
+            "id": 9,
+            "text": "Michelle Goldberg, a New York Times columnist, recently suggested that Biden is \"too old\" to run for re-election in 2024 and would not have the luxury of campaigning virtually as he did in 2020."
+        },
+        {
+            "id": 10,
+            "text": "\"And while Biden was able to campaign virtually in 2020, in 2024 we will almost certainly be back to a grueling real-world campaign schedule, which he would have to power through while running the country."
+        },
+        {
+            "id": 11,
+            "text": "It\u2019s a Herculean task for a 60-year-old and a near impossible one for an octogenarian,\" Goldberg wrote ahead of Biden's State of the Union address."
+        },
+        {
+            "id": 12,
+            "text": "Biden has not officially announced he will run for president next cycle, but first lady Jill Biden made the most recent insinuation to another bid."
+        },
+        {
+            "id": 13,
+            "text": "\"He says he\u2019s not done,\" the first lady told the Associated Press while visiting Nairobi, Africa on Friday."
+        },
+        {
+            "id": 14,
+            "text": "\"He\u2019s not finished what he\u2019s started."
+        },
+        {
+            "id": 15,
+            "text": "And that\u2019s what\u2019s important.\""
+        },
+        {
+            "id": 16,
+            "text": "\"How many times does he have to say it for you to believe it?\" she added."
+        }
+    ],
+    "id": "STORY_143_DOCUMENT_1",
+    "old_id": "7717_1",
+    "split": "test",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "admitted",
+            "sentence_id": 0,
+            "start": 16,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "concerns over age",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "concerns over his age",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "debate",
+            "sentence_id": 0,
+            "start": 88,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "seek",
+            "sentence_id": 0,
+            "start": 126,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "asked",
+            "sentence_id": 1,
+            "start": 30,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "decision",
+            "sentence_id": 1,
+            "start": 147,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "seek",
+            "sentence_id": 1,
+            "start": 159,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "stated",
+            "sentence_id": 2,
+            "start": 20,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "raise",
+            "sentence_id": 3,
+            "start": 35,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "concerns over his age",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "do",
+            "sentence_id": 4,
+            "start": 27,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "say",
+            "sentence_id": 5,
+            "start": 25,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "watch",
+            "sentence_id": 5,
+            "start": 32,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "concerns over his age",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 11,
+            "token": "election",
+            "sentence_id": 6,
+            "start": 46,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "re-elected",
+            "sentence_id": 6,
+            "start": 108,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "faced",
+            "sentence_id": 6,
+            "start": 124,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "concerns over age",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "concerns over his age",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "serve",
+            "sentence_id": 6,
+            "start": 170,
+            "end": 175,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "full term as president",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "underwent",
+            "sentence_id": 7,
+            "start": 23,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "exam",
+            "sentence_id": 7,
+            "start": 53,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "deemed",
+            "sentence_id": 7,
+            "start": 71,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "annual physical exam",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "fit to serve",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 18,
+            "token": "serve",
+            "sentence_id": 7,
+            "start": 85,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "missing",
+            "sentence_id": 7,
+            "start": 122,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "annual physical exam",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Biden's mental status",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "leaves",
+            "sentence_id": 8,
+            "start": 52,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "annual physical exam",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Biden's mental status",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "physical exam",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "tells",
+            "sentence_id": 8,
+            "start": 85,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "told",
+            "sentence_id": 8,
+            "start": 112,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "noticing",
+            "sentence_id": 8,
+            "start": 140,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "left",
+            "sentence_id": 8,
+            "start": 174,
+            "end": 178,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Biden's mental status",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "physical exam",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "suggested",
+            "sentence_id": 9,
+            "start": 56,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Michelle Goldberg",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "run",
+            "sentence_id": 9,
+            "start": 93,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "fit to serve",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "campaigning",
+            "sentence_id": 9,
+            "start": 154,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "campaign",
+            "sentence_id": 10,
+            "start": 29,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "power",
+            "sentence_id": 10,
+            "start": 165,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "running",
+            "sentence_id": 10,
+            "start": 185,
+            "end": 192,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "wrote",
+            "sentence_id": 11,
+            "start": 97,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Michelle Goldberg",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "address",
+            "sentence_id": 11,
+            "start": 139,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "announced",
+            "sentence_id": 12,
+            "start": 25,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "run",
+            "sentence_id": 12,
+            "start": 43,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "made",
+            "sentence_id": 12,
+            "start": 99,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "insinuation",
+            "sentence_id": 12,
+            "start": 120,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "bid",
+            "sentence_id": 12,
+            "start": 143,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "says",
+            "sentence_id": 13,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "done",
+            "sentence_id": 13,
+            "start": 18,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "told",
+            "sentence_id": 13,
+            "start": 40,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "visiting",
+            "sentence_id": 13,
+            "start": 72,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "finished",
+            "sentence_id": 14,
+            "start": 10,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "started",
+            "sentence_id": 14,
+            "start": 29,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "say",
+            "sentence_id": 16,
+            "start": 32,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "believe",
+            "sentence_id": 16,
+            "start": 50,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "added",
+            "sentence_id": 16,
+            "start": 67,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Joe Biden",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                13,
+                0,
+                17,
+                25,
+                31
+            ]
+        },
+        {
+            "text": "concerns over age",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                13,
+                0
+            ]
+        },
+        {
+            "text": "annual physical exam",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                17,
+                19,
+                20
+            ]
+        },
+        {
+            "text": "Biden's mental status",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                24,
+                19,
+                20
+            ]
+        },
+        {
+            "text": "Michelle Goldberg",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                25,
+                31
+            ]
+        },
+        {
+            "text": "President Biden",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                0,
+                7,
+                10,
+                13,
+                14,
+                17,
+                19,
+                25,
+                26
+            ]
+        },
+        {
+            "text": "concerns over his age",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                0,
+                7,
+                10,
+                13
+            ]
+        },
+        {
+            "text": "full term as president",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                14
+            ]
+        },
+        {
+            "text": "fit to serve",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                17,
+                26
+            ]
+        },
+        {
+            "text": "physical exam",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                20,
+                24
+            ]
+        }
+    ]
+}

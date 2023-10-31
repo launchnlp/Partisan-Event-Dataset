@@ -1,0 +1,1592 @@
+{
+    "title": "Trump signs executive order on immigration, but says 'zero tolerance' will continue",
+    "date": "2018-06-20",
+    "topic": "immigration",
+    "source": "USA TODAY",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Kevin Johnson , David Jackson , Jessica Estepa USA TODAY President Donald Trump , bowing to a deepening humanitarian crisis along the southwest border , signed an executive order Wednesday that promises to halt family separation while insisting that the administration 's \" zero tolerance \" policy to prosecute all illegal immigrants would continue ."
+        },
+        {
+            "id": 1,
+            "text": "\u201c We \u2019re going to have strong , very strong borders , but we \u2019re going to keep the families together , \" Trump said ."
+        },
+        {
+            "id": 2,
+            "text": "\" I did n\u2019t like the sight or the feeling of families being separated . \""
+        },
+        {
+            "id": 3,
+            "text": "Vice President Mike Pence and Department of Homeland Security Secretary Kirstjen Nielsen stood by his side when he signed the order in the Oval Office ."
+        },
+        {
+            "id": 4,
+            "text": "\" Thank you for your leadership , sir , \" said Nielsen , who has become the public face of the administration 's policy that led to separation of children from adult immigrants charged with illegal entry ."
+        },
+        {
+            "id": 5,
+            "text": "The order 's title , \" Affording Congress an Opportunity to Address Family Separation , \" puts the onus on lawmakers to provide a long - term fix with legislative action ."
+        },
+        {
+            "id": 6,
+            "text": "It authorizes DHS to keep families together when they are detained at the border , unless officials determine that the child 's welfare is at \" risk . \""
+        },
+        {
+            "id": 7,
+            "text": "It also authorizes the Defense Department to provide facilities for housing those families ."
+        },
+        {
+            "id": 8,
+            "text": "Also under the order , the Justice Department was directed to prioritize the prosecution of cases involving families ."
+        },
+        {
+            "id": 9,
+            "text": "Justice officials had been working since early Wednesday on a draft of the order aimed at reversing politically - charged policy that has resulted in the separation of more than 2,000 children of adult illegal immigrants in the past month , an official familiar with the matter said Wednesday ."
+        },
+        {
+            "id": 10,
+            "text": "The scope of the order , however , did not address how the already - separated children would be re-united with their parents ."
+        },
+        {
+            "id": 11,
+            "text": "The text of the document appeared only to apply to families of future illegal immigrants , while fates of the existing detainees \u2014 children and adults \u2014 are likely to be left to Congress to resolve ."
+        },
+        {
+            "id": 12,
+            "text": "The first signs that Trump was preparing to act emerged early Wednesday , as Nielsen huddled with the White House to discuss possible options , including an executive order , while Attorney General Jeff Sessions worked with Justice officials on the mechanics and language that would ultimately preserve the administration 's promise to prosecute all those accused of illegal entry ."
+        },
+        {
+            "id": 13,
+            "text": "More : Trump to sign executive order to end immigrant family separations : What we know now More : Why are immigrant children being separated from parents ?"
+        },
+        {
+            "id": 14,
+            "text": "All your questions answered More : Fact check : What 's really going on with immigrant children being detained at the border ?"
+        },
+        {
+            "id": 15,
+            "text": "Hours later , Trump announced that he would take action to end family separation ."
+        },
+        {
+            "id": 16,
+            "text": "\u201c I \u2019ll be signing something in a little while that \u2019s going to do that , \" Trump said after he was asked about stopping the separation of families at the border ."
+        },
+        {
+            "id": 17,
+            "text": "\" I \u2019ll be doing something that \u2019s somewhat preemptive and ultimately will be matched by legislation , I \u2019m sure . \u201d"
+        },
+        {
+            "id": 18,
+            "text": "The controversial zero tolerance policy was first announced more than a month ago by Sessions ."
+        },
+        {
+            "id": 19,
+            "text": "\u201c If you cross this border unlawfully , then we will prosecute you , \u201d Sessions said in the shadow of California 's busiest border crossing in San Diego ."
+        },
+        {
+            "id": 20,
+            "text": "\" If you are smuggling a child , then we will prosecute you and that child will be separated from you as required by law . \u201d"
+        },
+        {
+            "id": 21,
+            "text": "Some of the most intense public pressure to reverse course , had been applied to Nielsen , the public face of the strategy , and Sessions , the architect of the zero tolerance policy ."
+        },
+        {
+            "id": 22,
+            "text": "Late Tuesday , protesters heckled Nielsen as she ate dinner at a downtown Washington , D.C. , Mexican restaurant ."
+        },
+        {
+            "id": 23,
+            "text": "And for his part , Sessions was rebuked by separate coalitions of state attorneys general and former federal prosecutors who called on the attorney general to halt the practice of separating children from their parents ."
+        },
+        {
+            "id": 24,
+            "text": "Sessions also was the target of public condemnation from United Methodist clergy and lay members who suggested that that actions taken by the administration and the attorney general were akin to child abuse ."
+        },
+        {
+            "id": 25,
+            "text": "Still , prior to his announcement , Trump again blamed Democrats for the problems , asserting that Republicans wanted security ."
+        },
+        {
+            "id": 26,
+            "text": "\" I am working on something - it never ends ! \""
+        },
+        {
+            "id": 27,
+            "text": "he tweeted ."
+        }
+    ],
+    "id": "STORY_3_DOCUMENT_0",
+    "old_id": "TRIPLET_104_DOCUMENT_2",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "bowing",
+            "sentence_id": 0,
+            "start": 82,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "president donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 1,
+            "token": "crisis",
+            "sentence_id": 0,
+            "start": 117,
+            "end": 123,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "signed",
+            "sentence_id": 0,
+            "start": 153,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "promises",
+            "sentence_id": 0,
+            "start": 194,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "halt",
+            "sentence_id": 0,
+            "start": 206,
+            "end": 210,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "president donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "\" Affording Congress an Opportunity to Address Family Separation , \"",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "insisting",
+            "sentence_id": 0,
+            "start": 235,
+            "end": 244,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "president donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "\" zero tolerance \" policy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "prosecute",
+            "sentence_id": 0,
+            "start": 301,
+            "end": 310,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "continue",
+            "sentence_id": 0,
+            "start": 340,
+            "end": 348,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "\" zero tolerance \" policy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "illegal immigrants",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "have",
+            "sentence_id": 1,
+            "start": 18,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "president donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "keep",
+            "sentence_id": 1,
+            "start": 74,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "president donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "\" Affording Congress an Opportunity to Address Family Separation , \"",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 111,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "like",
+            "sentence_id": 2,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "president donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "separated",
+            "sentence_id": 2,
+            "start": 60,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "stood",
+            "sentence_id": 3,
+            "start": 89,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "signed",
+            "sentence_id": 3,
+            "start": 115,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "Thank",
+            "sentence_id": 4,
+            "start": 2,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "kirstjen nielsen",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "president donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 42,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "become",
+            "sentence_id": 4,
+            "start": 65,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "led",
+            "sentence_id": 4,
+            "start": 125,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "kirstjen nielsen",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "\" Affording Congress an Opportunity to Address Family Separation , \"",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "separation",
+            "sentence_id": 4,
+            "start": 132,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "charged",
+            "sentence_id": 4,
+            "start": 177,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "Affording",
+            "sentence_id": 5,
+            "start": 23,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "Address",
+            "sentence_id": 5,
+            "start": 60,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "puts",
+            "sentence_id": 5,
+            "start": 90,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "provide",
+            "sentence_id": 5,
+            "start": 120,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "fix",
+            "sentence_id": 5,
+            "start": 142,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "action",
+            "sentence_id": 5,
+            "start": 163,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "authorizes",
+            "sentence_id": 6,
+            "start": 3,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "\" Affording Congress an Opportunity to Address Family Separation , \"",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "dhs",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "keep",
+            "sentence_id": 6,
+            "start": 21,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "detained",
+            "sentence_id": 6,
+            "start": 58,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "determine",
+            "sentence_id": 6,
+            "start": 100,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "authorizes",
+            "sentence_id": 7,
+            "start": 8,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "\" Affording Congress an Opportunity to Address Family Separation , \"",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "provide",
+            "sentence_id": 7,
+            "start": 45,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "directed",
+            "sentence_id": 8,
+            "start": 50,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "prioritize",
+            "sentence_id": 8,
+            "start": 62,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "prosecution",
+            "sentence_id": 8,
+            "start": 77,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "working",
+            "sentence_id": 9,
+            "start": 27,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "aimed",
+            "sentence_id": 9,
+            "start": 81,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "reversing",
+            "sentence_id": 9,
+            "start": 90,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "resulted",
+            "sentence_id": 9,
+            "start": 138,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "separation",
+            "sentence_id": 9,
+            "start": 154,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 278,
+            "end": 282,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "address",
+            "sentence_id": 10,
+            "start": 43,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "\" Affording Congress an Opportunity to Address Family Separation , \"",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 43,
+            "token": "re-united",
+            "sentence_id": 10,
+            "start": 97,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "appeared",
+            "sentence_id": 11,
+            "start": 25,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "apply",
+            "sentence_id": 11,
+            "start": 42,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "left",
+            "sentence_id": 11,
+            "start": 170,
+            "end": 174,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "resolve",
+            "sentence_id": 11,
+            "start": 190,
+            "end": 197,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "preparing",
+            "sentence_id": 12,
+            "start": 31,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "act",
+            "sentence_id": 12,
+            "start": 44,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "emerged",
+            "sentence_id": 12,
+            "start": 48,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "huddled",
+            "sentence_id": 12,
+            "start": 85,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "discuss",
+            "sentence_id": 12,
+            "start": 117,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "worked",
+            "sentence_id": 12,
+            "start": 212,
+            "end": 218,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "preserve",
+            "sentence_id": 12,
+            "start": 294,
+            "end": 302,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "president donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "\" zero tolerance \" policy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "promise",
+            "sentence_id": 12,
+            "start": 325,
+            "end": 332,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "prosecute",
+            "sentence_id": 12,
+            "start": 336,
+            "end": 345,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "accused",
+            "sentence_id": 12,
+            "start": 356,
+            "end": 363,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "sign",
+            "sentence_id": 13,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "end",
+            "sentence_id": 13,
+            "start": 40,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "separated",
+            "sentence_id": 13,
+            "start": 132,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "detained",
+            "sentence_id": 14,
+            "start": 102,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "announced",
+            "sentence_id": 15,
+            "start": 20,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "take",
+            "sentence_id": 15,
+            "start": 44,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "end",
+            "sentence_id": 15,
+            "start": 59,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "president donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "\" Affording Congress an Opportunity to Address Family Separation , \"",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 65,
+            "token": "signing",
+            "sentence_id": 16,
+            "start": 11,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "do",
+            "sentence_id": 16,
+            "start": 64,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "said",
+            "sentence_id": 16,
+            "start": 82,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "asked",
+            "sentence_id": 16,
+            "start": 100,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "stopping",
+            "sentence_id": 16,
+            "start": 112,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "separation",
+            "sentence_id": 16,
+            "start": 125,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "doing",
+            "sentence_id": 17,
+            "start": 11,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "matched",
+            "sentence_id": 17,
+            "start": 78,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "\" Affording Congress an Opportunity to Address Family Separation , \"",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 73,
+            "token": "announced",
+            "sentence_id": 18,
+            "start": 50,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "cross",
+            "sentence_id": 19,
+            "start": 9,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "prosecute",
+            "sentence_id": 19,
+            "start": 53,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "illegal immigrants",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "\" zero tolerance \" policy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 76,
+            "token": "said",
+            "sentence_id": 19,
+            "start": 80,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "smuggling",
+            "sentence_id": 20,
+            "start": 13,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "prosecute",
+            "sentence_id": 20,
+            "start": 46,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "illegal immigrants",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "\" zero tolerance \" policy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 79,
+            "token": "separated",
+            "sentence_id": 20,
+            "start": 83,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "required",
+            "sentence_id": 20,
+            "start": 105,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "reverse",
+            "sentence_id": 21,
+            "start": 44,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "applied",
+            "sentence_id": 21,
+            "start": 70,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "jeff sessions",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "kirstjen nielsen",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 83,
+            "token": "heckled",
+            "sentence_id": 22,
+            "start": 26,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "protesters",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "kirstjen nielsen",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 84,
+            "token": "ate",
+            "sentence_id": 22,
+            "start": 49,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "rebuked",
+            "sentence_id": 23,
+            "start": 32,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "jeff sessions",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 86,
+            "token": "called",
+            "sentence_id": 23,
+            "start": 125,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 87,
+            "token": "halt",
+            "sentence_id": 23,
+            "start": 159,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 88,
+            "token": "separating",
+            "sentence_id": 23,
+            "start": 180,
+            "end": 190,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "condemnation",
+            "sentence_id": 24,
+            "start": 39,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "united methodist clergy and lay members",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "jeff sessions",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "\" zero tolerance \" policy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 90,
+            "token": "suggested",
+            "sentence_id": 24,
+            "start": 101,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 91,
+            "token": "actions",
+            "sentence_id": 24,
+            "start": 121,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 92,
+            "token": "taken",
+            "sentence_id": 24,
+            "start": 129,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 93,
+            "token": "announcement",
+            "sentence_id": 25,
+            "start": 21,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 94,
+            "token": "blamed",
+            "sentence_id": 25,
+            "start": 48,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "president donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 95,
+            "token": "asserting",
+            "sentence_id": 25,
+            "start": 84,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "president donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 96,
+            "token": "wanted",
+            "sentence_id": 25,
+            "start": 111,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 97,
+            "token": "working",
+            "sentence_id": 26,
+            "start": 7,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 98,
+            "token": "ends",
+            "sentence_id": 26,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 99,
+            "token": "tweeted",
+            "sentence_id": 27,
+            "start": 3,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "\" Affording Congress an Opportunity to Address Family Separation , \"",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                72,
+                18,
+                9,
+                27,
+                31,
+                38,
+                64,
+                9,
+                4,
+                42
+            ]
+        },
+        {
+            "text": "president donald trump",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                0,
+                4,
+                5,
+                8,
+                11,
+                15,
+                54,
+                94,
+                95
+            ]
+        },
+        {
+            "text": "kirstjen nielsen",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                15,
+                83,
+                82,
+                18
+            ]
+        },
+        {
+            "text": "jeff sessions",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                82,
+                85,
+                89
+            ]
+        },
+        {
+            "text": "protesters",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                83
+            ]
+        },
+        {
+            "text": "united methodist clergy and lay members",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                89
+            ]
+        },
+        {
+            "text": "democrats",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                94
+            ]
+        },
+        {
+            "text": "republicans",
+            "ideology": "Right",
+            "id": 13,
+            "events": [
+                96,
+                95
+            ]
+        },
+        {
+            "text": "\" zero tolerance \" policy",
+            "ideology": "Right",
+            "id": 16,
+            "events": [
+                5,
+                7,
+                54,
+                89,
+                7,
+                75,
+                78
+            ]
+        },
+        {
+            "text": "illegal immigrants",
+            "ideology": "N/A",
+            "id": 17,
+            "events": [
+                7,
+                7,
+                75,
+                78
+            ]
+        },
+        {
+            "text": "dhs",
+            "ideology": "Right",
+            "id": 19,
+            "events": [
+                27
+            ]
+        },
+        {
+            "text": "politically - charged policy",
+            "ideology": "Right",
+            "id": 21,
+            "events": [
+                38
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1425 @@
+{
+    "title": "Mike Pence forced to defend his stay at Trump property in Ireland",
+    "date": "2019-09-03",
+    "topic": "politics",
+    "source": "Washington Times",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Vice President Mike Pence is meeting Tuesday with leaders in Dublin after staying overnight at a Trump property on the other side of Ireland , prompting Democrats to accuse him of \u201c funneling \u201d taxpayer money to his boss ."
+        },
+        {
+            "id": 1,
+            "text": "Mr. Pence flew from an airport near Mr. Trump \u2019s golf club in Doonbeg , on the west coast , to meet with Taoiseach Leo Varadkar and other dignitaries 180 miles away in the east - coast capital ."
+        },
+        {
+            "id": 2,
+            "text": "The vice president and second lady are scheduled to fly back to Doonbeg later Tuesday , raising eyebrows from Democrats who are worried that President Trump is profiting from the presidency ."
+        },
+        {
+            "id": 3,
+            "text": "\u201c You took an oath to the Constitution , not to @realDonaldTrump , \u201d Rep . Ted Lieu , California Democrat , tweeted ."
+        },
+        {
+            "id": 4,
+            "text": "\u201c Funneling taxpayer money to @POTUS by staying at this Trump resort is sooooooo corrupt . \u201d"
+        },
+        {
+            "id": 5,
+            "text": "Mr. Pence \u2019s chief of staff , Marc Short , dismissed the criticism , saying the odd logistics were a byproduct of Mr. Trump dispatching Mr. Pence to Poland at the last minute because of Hurricane Dorian ."
+        },
+        {
+            "id": 6,
+            "text": "Mr. Pence initially planned to finish a European swing at Doonbeg to explore his family roots ."
+        },
+        {
+            "id": 7,
+            "text": "His team had to rearrange the order of stops and find an overnight hotel for his entourage ahead of the Dublin meetings , according to Mr. Short ."
+        },
+        {
+            "id": 8,
+            "text": "Mr. Trump and family members stayed at their Doonbeg residence on official business recently , so the property had been fully vetted ."
+        },
+        {
+            "id": 9,
+            "text": "The president did not order Mr. Pence to stay at his property , according to Mr. Short ."
+        },
+        {
+            "id": 10,
+            "text": "\u201c I do n\u2019t think it was a request , like a command , \u201d he told reporters ."
+        },
+        {
+            "id": 11,
+            "text": "\u201c I think that it was a suggestion ."
+        },
+        {
+            "id": 12,
+            "text": "\u2026"
+        },
+        {
+            "id": 13,
+            "text": "It \u2019s like , \u2018 Well , you should stay at my place . \u2019"
+        },
+        {
+            "id": 14,
+            "text": "\u201c Yet Mr. Trump did n\u2019t waive the bill ."
+        },
+        {
+            "id": 15,
+            "text": "Taxpayers are still paying the tab , though Mr. Pence is personally paying for his mother and sister , who came along ."
+        },
+        {
+            "id": 16,
+            "text": "Mr. Trump insists he is losing money as president , because he can\u2019t explore blockbuster deals , though Democrats worry he has n\u2019t properly accounted for visits from foreign dignitaries to his hotels and clubs ."
+        },
+        {
+            "id": 17,
+            "text": "Critics also find it unseemly that he spends so much time at his golf clubs while president ."
+        },
+        {
+            "id": 18,
+            "text": "House Democrats last week said they will investigate Mr. Trump \u2019s pitch to hold next year \u2019s Group of Seven summit at his Florida club , Trump National Doral Miami ."
+        },
+        {
+            "id": 19,
+            "text": "Mr. Pence , meanwhile , is scheduled to discuss Brexit negotiations with Irish leaders ."
+        },
+        {
+            "id": 20,
+            "text": "Ireland \u2019s foreign minister , Simon Coveney , on Monday said Ireland respects the U.K. \u2019s decision to leave the European Union , but they fear \u201c disruption \u201d at the northern border ."
+        },
+        {
+            "id": 21,
+            "text": "He said Ireland cannot return to a hard border full of inspections , calling it a \u201c huge issue . \u201d"
+        },
+        {
+            "id": 22,
+            "text": "Mr. Pence thanked Mr. Coveney for \u201c his candor \u201d and said the U.S. will work with the U.K. to ensure that any Brexit deal does not violate the Good Friday agreements between the British and Irish governments ."
+        },
+        {
+            "id": 23,
+            "text": "House Speaker Nancy Pelosi last month called the agreement the \u201c bedrock of peace in Northern Ireland and as a beacon of hope for the entire world . \u201d"
+        },
+        {
+            "id": 24,
+            "text": "\u201c Whatever form it takes , Brexit cannot be allowed to imperil the Good Friday Agreement , including the seamless border between the Irish Republic and Northern Ireland , especially now , as the first generation born into the hope of Good Friday 21 years ago comes into adulthood , \u201d she said ."
+        },
+        {
+            "id": 25,
+            "text": "\u201c We can not go back . \u201d"
+        }
+    ],
+    "id": "STORY_9_DOCUMENT_1",
+    "old_id": "TRIPLET_056_DOCUMENT_0",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "meeting",
+            "sentence_id": 0,
+            "start": 29,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "staying",
+            "sentence_id": 0,
+            "start": 74,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "prompting",
+            "sentence_id": 0,
+            "start": 143,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "accuse",
+            "sentence_id": 0,
+            "start": 166,
+            "end": 172,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Vice President Mike Pence",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Vice President Mike Pence",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "funneling",
+            "sentence_id": 0,
+            "start": 182,
+            "end": 191,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Vice President Mike Pence",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "taxpayer money",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 5,
+            "token": "flew",
+            "sentence_id": 1,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "meet",
+            "sentence_id": 1,
+            "start": 95,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "scheduled",
+            "sentence_id": 2,
+            "start": 39,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "fly",
+            "sentence_id": 2,
+            "start": 52,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "raising",
+            "sentence_id": 2,
+            "start": 88,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "worried",
+            "sentence_id": 2,
+            "start": 128,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "profiting",
+            "sentence_id": 2,
+            "start": 160,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "presidency",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Trump presidency",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 12,
+            "token": "took",
+            "sentence_id": 3,
+            "start": 6,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Vice President Mike Pence",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 13,
+            "token": "tweeted",
+            "sentence_id": 3,
+            "start": 108,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "Funneling",
+            "sentence_id": 4,
+            "start": 2,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "taxpayer money",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Vice President Mike Pence",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 15,
+            "token": "staying",
+            "sentence_id": 4,
+            "start": 40,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Vice President Mike Pence",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Trump resort",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 16,
+            "token": "dismissed",
+            "sentence_id": 5,
+            "start": 43,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "saying",
+            "sentence_id": 5,
+            "start": 69,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "dispatching",
+            "sentence_id": 5,
+            "start": 124,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Vice President Mike Pence",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "planned",
+            "sentence_id": 6,
+            "start": 20,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "finish",
+            "sentence_id": 6,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "swing",
+            "sentence_id": 6,
+            "start": 49,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "explore",
+            "sentence_id": 6,
+            "start": 69,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Vice President Mike Pence",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "family roots",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "rearrange",
+            "sentence_id": 7,
+            "start": 16,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Mike Pence's team",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "find",
+            "sentence_id": 7,
+            "start": 49,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Mike Pence's team",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "meetings",
+            "sentence_id": 7,
+            "start": 111,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "according",
+            "sentence_id": 7,
+            "start": 122,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "stayed",
+            "sentence_id": 8,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "vetted",
+            "sentence_id": 8,
+            "start": 126,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "order",
+            "sentence_id": 9,
+            "start": 22,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Vice President Mike Pence",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 30,
+            "token": "stay",
+            "sentence_id": 9,
+            "start": 41,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "according",
+            "sentence_id": 9,
+            "start": 64,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "think",
+            "sentence_id": 10,
+            "start": 11,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "request",
+            "sentence_id": 10,
+            "start": 26,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "command",
+            "sentence_id": 10,
+            "start": 43,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "told",
+            "sentence_id": 10,
+            "start": 58,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "think",
+            "sentence_id": 11,
+            "start": 4,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "suggestion",
+            "sentence_id": 11,
+            "start": 24,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Vice President Mike Pence",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "stay",
+            "sentence_id": 13,
+            "start": 33,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "waive",
+            "sentence_id": 14,
+            "start": 24,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "bill",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 40,
+            "token": "paying",
+            "sentence_id": 15,
+            "start": 20,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Taxpayers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "bill",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 41,
+            "token": "paying",
+            "sentence_id": 15,
+            "start": 68,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Vice President Mike Pence",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "bill",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "came",
+            "sentence_id": 15,
+            "start": 107,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "insists",
+            "sentence_id": 16,
+            "start": 10,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "losing",
+            "sentence_id": 16,
+            "start": 24,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "money",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "explore",
+            "sentence_id": 16,
+            "start": 69,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "worry",
+            "sentence_id": 16,
+            "start": 114,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "accounted",
+            "sentence_id": 16,
+            "start": 140,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "visits from foreign dignitaries",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 48,
+            "token": "visits",
+            "sentence_id": 16,
+            "start": 154,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "find",
+            "sentence_id": 17,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "spends",
+            "sentence_id": 17,
+            "start": 38,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "time at his golf clubs",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 51,
+            "token": "said",
+            "sentence_id": 18,
+            "start": 26,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "investigate",
+            "sentence_id": 18,
+            "start": 41,
+            "end": 52,
+            "remove": false,
+            "partisanship": "",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 53,
+            "token": "pitch",
+            "sentence_id": 18,
+            "start": 66,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "hold",
+            "sentence_id": 18,
+            "start": 75,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "summit",
+            "sentence_id": 18,
+            "start": 108,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "scheduled",
+            "sentence_id": 19,
+            "start": 27,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "discuss",
+            "sentence_id": 19,
+            "start": 40,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "negotiations",
+            "sentence_id": 19,
+            "start": 55,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "said",
+            "sentence_id": 20,
+            "start": 56,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "respects",
+            "sentence_id": 20,
+            "start": 69,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "decision",
+            "sentence_id": 20,
+            "start": 90,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "leave",
+            "sentence_id": 20,
+            "start": 102,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "fear",
+            "sentence_id": 20,
+            "start": 138,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "said",
+            "sentence_id": 21,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "return",
+            "sentence_id": 21,
+            "start": 23,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "calling",
+            "sentence_id": 21,
+            "start": 69,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "thanked",
+            "sentence_id": 22,
+            "start": 10,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "said",
+            "sentence_id": 22,
+            "start": 53,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "work",
+            "sentence_id": 22,
+            "start": 72,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "ensure",
+            "sentence_id": 22,
+            "start": 94,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "violate",
+            "sentence_id": 22,
+            "start": 131,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "called",
+            "sentence_id": 23,
+            "start": 38,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "House Speaker Nancy Pelosi",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Brexit deal",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 73,
+            "token": "allowed",
+            "sentence_id": 24,
+            "start": 44,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "imperil",
+            "sentence_id": 24,
+            "start": 55,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "born",
+            "sentence_id": 24,
+            "start": 212,
+            "end": 216,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "comes",
+            "sentence_id": 24,
+            "start": 259,
+            "end": 264,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "said",
+            "sentence_id": 24,
+            "start": 288,
+            "end": 292,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "go",
+            "sentence_id": 25,
+            "start": 13,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                3,
+                9,
+                10,
+                46,
+                52
+            ]
+        },
+        {
+            "text": "Vice President Mike Pence",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                3,
+                4,
+                37,
+                41,
+                12,
+                14,
+                15,
+                18,
+                22,
+                29
+            ]
+        },
+        {
+            "text": "President Trump",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                37,
+                39,
+                9,
+                10,
+                11,
+                44,
+                14,
+                47,
+                46,
+                18,
+                50,
+                52,
+                29
+            ]
+        },
+        {
+            "text": "presidency",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "taxpayer money",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                4,
+                14
+            ]
+        },
+        {
+            "text": "money",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                44
+            ]
+        },
+        {
+            "text": "visits from foreign dignitaries",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                47
+            ]
+        },
+        {
+            "text": "Trump presidency",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "Trump resort",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                15
+            ]
+        },
+        {
+            "text": "family roots",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                22
+            ]
+        },
+        {
+            "text": "Mike Pence's team",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                23,
+                24
+            ]
+        },
+        {
+            "text": "bill",
+            "ideology": "Right",
+            "id": 11,
+            "events": [
+                40,
+                41
+            ]
+        },
+        {
+            "text": "Taxpayers",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                40
+            ]
+        },
+        {
+            "text": "time at his golf clubs",
+            "ideology": "Right",
+            "id": 13,
+            "events": [
+                50
+            ]
+        },
+        {
+            "text": "House Speaker Nancy Pelosi",
+            "ideology": "Left",
+            "id": 14,
+            "events": [
+                72
+            ]
+        },
+        {
+            "text": "Brexit deal",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                72
+            ]
+        }
+    ]
+}

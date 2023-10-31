@@ -1,0 +1,916 @@
+{
+    "title": "Single-payer healthcare isn't what the doctor ordered",
+    "date": "2017-08-31",
+    "topic": "healthcare",
+    "source": "Washington Examiner",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "America's doctors are warming to the idea of single-payer healthcare."
+        },
+        {
+            "id": 1,
+            "text": "A new survey from consulting firm Merritt Hawkins finds that 56 percent of doctors support a government-run system at least somewhat, with 42 percent expressing strong support."
+        },
+        {
+            "id": 2,
+            "text": "It's easy to see why so many doctors are fed up with the Obamacare status quo."
+        },
+        {
+            "id": 3,
+            "text": "But a federal takeover of our healthcare system isn't the answer."
+        },
+        {
+            "id": 4,
+            "text": "Indeed, if physicians understood what single-payer means for their own profession, they'd be far less eager to make the switch."
+        },
+        {
+            "id": 5,
+            "text": "Under a single-payer system, doctors would be forced to let the government's finances, not their own medical judgment, dictate many treatment decisions."
+        },
+        {
+            "id": 6,
+            "text": "Such ill-advised penny-pinching is routine in the United Kingdom's National Health Service."
+        },
+        {
+            "id": 7,
+            "text": "In fact, NHS organizations are now instituting so-called \"lifestyle rationing\" measures that delay certain surgeries for obese patients and smokers in an attempt to keep costs in check."
+        },
+        {
+            "id": 8,
+            "text": "A recent investigation in the British Medical Journal discovered a surge in rationing for treatments and procedures such as cataract surgery, hip replacements, and arthritis medication."
+        },
+        {
+            "id": 9,
+            "text": "As one surgeon lamented, these policies \"are unfairly and unnecessarily prolonging the time patients will spend in pain.\""
+        },
+        {
+            "id": 10,
+            "text": "Last year, Canadians waited 20 weeks on average from seeing a primary care doctor to getting treatment by a specialist, more than double the 9.3 weeks in 1993."
+        },
+        {
+            "id": 11,
+            "text": "Physicians who support single-payer should also prepare for a pay-cut."
+        },
+        {
+            "id": 12,
+            "text": "In my native Canada's single-payer system, physicians make significantly less than their U.S. counterparts."
+        },
+        {
+            "id": 13,
+            "text": "The average salary for an American orthopedic surgeon is more than double that of the same Canadian specialist, according to an analysis in Health Affairs."
+        },
+        {
+            "id": 14,
+            "text": "Physicians are right that our health system needs a significant overhaul."
+        },
+        {
+            "id": 15,
+            "text": "But whatever may ail our medical sector, single-payer isn't the cure."
+        }
+    ],
+    "id": "STORY_57_DOCUMENT_0",
+    "old_id": "2539_2",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "warming",
+            "sentence_id": 0,
+            "start": 22,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Single-payer healthcare",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "America's doctors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 1,
+            "token": "finds",
+            "sentence_id": 1,
+            "start": 50,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "support",
+            "sentence_id": 1,
+            "start": 83,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "doctors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "single-payer system",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "America's doctors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Single-payer healthcare",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 3,
+            "token": "expressing",
+            "sentence_id": 1,
+            "start": 150,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "America's doctors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Single-payer healthcare",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 4,
+            "token": "see",
+            "sentence_id": 2,
+            "start": 13,
+            "end": 16,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "fed",
+            "sentence_id": 2,
+            "start": 41,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "doctors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Obamacare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "America's doctors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Obamacare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 6,
+            "token": "takeover",
+            "sentence_id": 3,
+            "start": 14,
+            "end": 22,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "understood",
+            "sentence_id": 4,
+            "start": 22,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "America's doctors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Single-payer healthcare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "means",
+            "sentence_id": 4,
+            "start": 51,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Single-payer healthcare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "make",
+            "sentence_id": 4,
+            "start": 111,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "switch",
+            "sentence_id": 4,
+            "start": 120,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "America's doctors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Single-payer healthcare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "forced",
+            "sentence_id": 5,
+            "start": 46,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "single-payer system",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "doctors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "America's doctors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the government",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Single-payer healthcare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 12,
+            "token": "let",
+            "sentence_id": 5,
+            "start": 56,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "dictate",
+            "sentence_id": 5,
+            "start": 119,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "the government",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Single-payer healthcare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "pinching",
+            "sentence_id": 6,
+            "start": 23,
+            "end": 31,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "instituting",
+            "sentence_id": 7,
+            "start": 35,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "the United Kingdom's National Health Service",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Single-payer healthcare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "delay",
+            "sentence_id": 7,
+            "start": 93,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "the United Kingdom's National Health Service",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Single-payer healthcare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "surgeries",
+            "sentence_id": 7,
+            "start": 107,
+            "end": 116,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "attempt",
+            "sentence_id": 7,
+            "start": 154,
+            "end": 161,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "keep",
+            "sentence_id": 7,
+            "start": 165,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "the United Kingdom's National Health Service",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Single-payer healthcare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "investigation",
+            "sentence_id": 8,
+            "start": 9,
+            "end": 22,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "discovered",
+            "sentence_id": 8,
+            "start": 54,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "surge",
+            "sentence_id": 8,
+            "start": 67,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "the United Kingdom's National Health Service",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Single-payer healthcare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "rationing",
+            "sentence_id": 8,
+            "start": 76,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "the United Kingdom's National Health Service",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Single-payer healthcare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "lamented",
+            "sentence_id": 9,
+            "start": 15,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "doctors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "single-payer system",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "one surgeon",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Single-payer healthcare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "prolonging",
+            "sentence_id": 9,
+            "start": 72,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Single-payer healthcare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "spend",
+            "sentence_id": 9,
+            "start": 106,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "patients",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Single-payer healthcare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "waited",
+            "sentence_id": 10,
+            "start": 21,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Canadians",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Single-payer healthcare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "seeing",
+            "sentence_id": 10,
+            "start": 53,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "getting",
+            "sentence_id": 10,
+            "start": 85,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "support",
+            "sentence_id": 11,
+            "start": 15,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "prepare",
+            "sentence_id": 11,
+            "start": 48,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "America's doctors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Single-payer healthcare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "cut",
+            "sentence_id": 11,
+            "start": 66,
+            "end": 69,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "according",
+            "sentence_id": 13,
+            "start": 112,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "needs",
+            "sentence_id": 14,
+            "start": 44,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "overhaul",
+            "sentence_id": 14,
+            "start": 64,
+            "end": 72,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "ail",
+            "sentence_id": 15,
+            "start": 17,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "doctors",
+            "ideology": "Neutral",
+            "id": 0,
+            "events": [
+                5,
+                11,
+                24,
+                2
+            ]
+        },
+        {
+            "text": "Obamacare",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                5
+            ]
+        },
+        {
+            "text": "single-payer system",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                11,
+                24,
+                2
+            ]
+        },
+        {
+            "text": "Single-payer healthcare",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                0,
+                2,
+                3,
+                7,
+                8,
+                10,
+                11,
+                13,
+                15,
+                16,
+                19,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                31
+            ]
+        },
+        {
+            "text": "America's doctors",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                0,
+                2,
+                3,
+                5,
+                7,
+                10,
+                11,
+                31
+            ]
+        },
+        {
+            "text": "the government",
+            "ideology": "Uncertain",
+            "id": 5,
+            "events": [
+                11,
+                13
+            ]
+        },
+        {
+            "text": "the United Kingdom's National Health Service",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                15,
+                16,
+                19,
+                22,
+                23
+            ]
+        },
+        {
+            "text": "one surgeon",
+            "ideology": "Uncertain",
+            "id": 7,
+            "events": [
+                24
+            ]
+        },
+        {
+            "text": "patients",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                26
+            ]
+        },
+        {
+            "text": "Canadians",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                27
+            ]
+        }
+    ]
+}

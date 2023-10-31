@@ -1,0 +1,1202 @@
+{
+    "title": "Michael Hayden: President Obama to hold his ground",
+    "date": "2014-01-17",
+    "topic": "nsa",
+    "source": "Politico",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Hayden said the biggest task for Obama in his speech is to be reassuring ."
+        },
+        {
+            "id": 1,
+            "text": "Hayden : Obama to hold his ground Ahead of a high - profile speech about changes to the National Security Agency by President Barack Obama , former NSA Director Michael Hayden said Friday he does n\u2019t believe any of the proposed reforms will change the way the government collects intelligence ."
+        },
+        {
+            "id": 2,
+            "text": "\u201c I think what we are going to see in the speech , Joe , is all of the language in the speech kind of fading left about transformation and transparency and checks and balances , but , frankly , I think the substance of the speech is going to be holding his ground , \u201d Hayden told MSNBC \u2019s \u201c Morning Joe \u201d host Joe Scarborough based on news reports of what Obama will unveil on Friday ."
+        },
+        {
+            "id": 3,
+            "text": "\u201c I do n\u2019t know that American intelligence agencies are going to be doing a whole lot of things different in a week , a month , or a year than what they are doing right now , \u201d Hayden continued ."
+        },
+        {
+            "id": 4,
+            "text": "( Also on POLITICO : Public ' all over the map ' on NSA ) Shortly after Hayden \u2019s appearance on MSNBC , news broke that Obama would be proposing that the NSA relinquish control over the phone data the NSA collects , but would not offer up who should collect the data instead ."
+        },
+        {
+            "id": 5,
+            "text": "But Hayden said the biggest task for Obama in his speech is to be reassuring ."
+        },
+        {
+            "id": 6,
+            "text": "\u201c His mission here , I do n\u2019t think , is to change what we \u2019re doing ."
+        },
+        {
+            "id": 7,
+            "text": "His mission here is to make people more comfortable about what it is that the intelligence agencies are doing , \u201d Hayden said ."
+        },
+        {
+            "id": 8,
+            "text": "( Also on POLITICO : Obama to halt part of NSA program )"
+        },
+        {
+            "id": 9,
+            "text": "The retired general and former CIA director said the big questions Obama will have to address on the NSA \u2019s phone data collection are where the data is held and how it can be queried ."
+        },
+        {
+            "id": 10,
+            "text": "\u201c I think the president \u2019s going to punt the first question to Congress and NSA will continue to hold the data , and Congress wo n\u2019t come up with an acceptable change , \u201d Hayden said ."
+        },
+        {
+            "id": 11,
+            "text": "On the second question , Hayden said he was concerned about requiring intelligence agencies to go to a judge every time they want to query data ."
+        },
+        {
+            "id": 12,
+            "text": "\u201c I was the director of NSA prior to 9/11 , and if you direct the agency that they \u2019ve got to go to a judge before they query data that is already there and already lawfully collected , that really feels like Sept. 10 to me , \u201d Hayden said ."
+        },
+        {
+            "id": 13,
+            "text": "\u201c It \u2019s a pre-9/11 mindset , and that would make me feel uncomfortable . \u201d"
+        },
+        {
+            "id": 14,
+            "text": "The president \u2019s 11 a.m. speech is the culmination of a months - long review of the surveillance programs made public last summer by leaker Edward Snowden ."
+        },
+        {
+            "id": 15,
+            "text": "Before Hayden \u2019s interview , the White House had not confirmed what changes to the program Obama would suggest making ."
+        }
+    ],
+    "id": "STORY_15_DOCUMENT_0",
+    "old_id": "TRIPLET_170_DOCUMENT_0",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "said",
+            "sentence_id": 0,
+            "start": 7,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "speech",
+            "sentence_id": 0,
+            "start": 46,
+            "end": 52,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "reassuring",
+            "sentence_id": 0,
+            "start": 62,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 3,
+            "token": ":",
+            "sentence_id": 1,
+            "start": 7,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "hold",
+            "sentence_id": 1,
+            "start": 18,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "speech",
+            "sentence_id": 1,
+            "start": 60,
+            "end": 66,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "changes",
+            "sentence_id": 1,
+            "start": 73,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "the National Security Agency",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 176,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "believe",
+            "sentence_id": 1,
+            "start": 200,
+            "end": 207,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Michael Hayden",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "proposed reforms",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 9,
+            "token": "change",
+            "sentence_id": 1,
+            "start": 241,
+            "end": 247,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "proposed reforms",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 10,
+            "token": "collects",
+            "sentence_id": 1,
+            "start": 271,
+            "end": 279,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "think",
+            "sentence_id": 2,
+            "start": 4,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "see",
+            "sentence_id": 2,
+            "start": 31,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "fading",
+            "sentence_id": 2,
+            "start": 102,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "proposed reforms",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 14,
+            "token": "think",
+            "sentence_id": 2,
+            "start": 196,
+            "end": 201,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "holding",
+            "sentence_id": 2,
+            "start": 245,
+            "end": 252,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "proposed reforms",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 16,
+            "token": "told",
+            "sentence_id": 2,
+            "start": 275,
+            "end": 279,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "unveil",
+            "sentence_id": 2,
+            "start": 367,
+            "end": 373,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "know",
+            "sentence_id": 3,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Michael Hayden",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "American intelligence agencies",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "proposed reforms",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 19,
+            "token": "doing",
+            "sentence_id": 3,
+            "start": 68,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "American intelligence agencies",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "proposed reforms",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "doing",
+            "sentence_id": 3,
+            "start": 157,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "continued",
+            "sentence_id": 3,
+            "start": 184,
+            "end": 193,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "appearance",
+            "sentence_id": 4,
+            "start": 82,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "broke",
+            "sentence_id": 4,
+            "start": 109,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "proposing",
+            "sentence_id": 4,
+            "start": 135,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "relinquish",
+            "sentence_id": 4,
+            "start": 158,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "collects",
+            "sentence_id": 4,
+            "start": 205,
+            "end": 213,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "offer",
+            "sentence_id": 4,
+            "start": 230,
+            "end": 235,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "collect",
+            "sentence_id": 4,
+            "start": 250,
+            "end": 257,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "speech",
+            "sentence_id": 5,
+            "start": 50,
+            "end": 56,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "reassuring",
+            "sentence_id": 5,
+            "start": 66,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 32,
+            "token": "think",
+            "sentence_id": 6,
+            "start": 30,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "change",
+            "sentence_id": 6,
+            "start": 44,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "proposed reforms",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 34,
+            "token": "doing",
+            "sentence_id": 6,
+            "start": 63,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "make",
+            "sentence_id": 7,
+            "start": 23,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 36,
+            "token": "doing",
+            "sentence_id": 7,
+            "start": 104,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 121,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "halt",
+            "sentence_id": 8,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 44,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "address",
+            "sentence_id": 9,
+            "start": 86,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "held",
+            "sentence_id": 9,
+            "start": 152,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "queried",
+            "sentence_id": 9,
+            "start": 175,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "think",
+            "sentence_id": 10,
+            "start": 4,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "punt",
+            "sentence_id": 10,
+            "start": 36,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 45,
+            "token": "continue",
+            "sentence_id": 10,
+            "start": 85,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "the National Security Agency",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 46,
+            "token": "hold",
+            "sentence_id": 10,
+            "start": 97,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "come",
+            "sentence_id": 10,
+            "start": 133,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Congress",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 48,
+            "token": "change",
+            "sentence_id": 10,
+            "start": 160,
+            "end": 166,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "said",
+            "sentence_id": 10,
+            "start": 178,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "said",
+            "sentence_id": 11,
+            "start": 32,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "concerned",
+            "sentence_id": 11,
+            "start": 44,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Michael Hayden",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "proposed reforms",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 52,
+            "token": "requiring",
+            "sentence_id": 11,
+            "start": 60,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "go",
+            "sentence_id": 11,
+            "start": 95,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "want",
+            "sentence_id": 11,
+            "start": 125,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "query",
+            "sentence_id": 11,
+            "start": 133,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "direct",
+            "sentence_id": 12,
+            "start": 55,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "go",
+            "sentence_id": 12,
+            "start": 94,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "the National Security Agency",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "proposed reforms",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "query",
+            "sentence_id": 12,
+            "start": 120,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "collected",
+            "sentence_id": 12,
+            "start": 174,
+            "end": 183,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "feels",
+            "sentence_id": 12,
+            "start": 198,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Michael Hayden",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "proposed reforms",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 61,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 235,
+            "end": 239,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "feel",
+            "sentence_id": 13,
+            "start": 52,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Michael Hayden",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "pre-9/11 mindset",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "proposed reforms",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 63,
+            "token": "speech",
+            "sentence_id": 14,
+            "start": 25,
+            "end": 31,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "culmination",
+            "sentence_id": 14,
+            "start": 39,
+            "end": 50,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "review",
+            "sentence_id": 14,
+            "start": 70,
+            "end": 76,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "made",
+            "sentence_id": 14,
+            "start": 106,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "interview",
+            "sentence_id": 15,
+            "start": 17,
+            "end": 26,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "confirmed",
+            "sentence_id": 15,
+            "start": 53,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the White House",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "proposed reforms",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 69,
+            "token": "changes",
+            "sentence_id": 15,
+            "start": 68,
+            "end": 75,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "suggest",
+            "sentence_id": 15,
+            "start": 103,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "making",
+            "sentence_id": 15,
+            "start": 111,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "President Obama",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                2,
+                4,
+                6,
+                8,
+                9,
+                13,
+                15,
+                31,
+                33,
+                35,
+                44,
+                45,
+                47
+            ]
+        },
+        {
+            "text": "the National Security Agency",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                6,
+                45,
+                57
+            ]
+        },
+        {
+            "text": "Michael Hayden",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                8,
+                18,
+                51,
+                60,
+                62
+            ]
+        },
+        {
+            "text": "proposed reforms",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                9,
+                8,
+                13,
+                15,
+                18,
+                19,
+                33,
+                51,
+                57,
+                60,
+                62,
+                68
+            ]
+        },
+        {
+            "text": "American intelligence agencies",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                18,
+                19
+            ]
+        },
+        {
+            "text": "Congress",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                47
+            ]
+        },
+        {
+            "text": "pre-9/11 mindset",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                62
+            ]
+        },
+        {
+            "text": "the White House",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                68
+            ]
+        }
+    ]
+}

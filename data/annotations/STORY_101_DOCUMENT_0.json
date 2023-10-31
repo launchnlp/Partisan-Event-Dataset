@@ -1,0 +1,1212 @@
+{
+    "title": "Senate passes bipartisan gun legislation, sending measure to House",
+    "date": "2022-06-23",
+    "topic": "gun",
+    "source": "Washington Examiner",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Center",
+    "news": [
+        {
+            "id": 0,
+            "text": "Senate passes bipartisan gun legislation , sending measure to House ."
+        },
+        {
+            "id": 1,
+            "text": "The Senate passed a bipartisan gun reform bill on Thursday in the wake of a slew of mass shootings in recent months , the most notable of which left 19 children and two teachers dead in Uvalde , Texas , in late May ."
+        },
+        {
+            "id": 2,
+            "text": "The Bipartisan Safer Communities"
+        },
+        {
+            "id": 3,
+            "text": "Act , negotiated by a group of senators led by John Cornyn ( R - TX ) and Chris Murphy ( R - CT ) , looks to incentivize states to implement red flag laws ."
+        },
+        {
+            "id": 4,
+            "text": "The proposal would make it easier for law enforcement to confiscate a firearm and block the purchase of a gun if an individual is deemed to be a danger to themselves or others , tighten background checks , close the so - called boyfriend loophole by tightening background checks on gun purchases of those convicted of domestic violence or certain crimes as minors , and provide money for trauma support , school safety , and mental health programs ."
+        },
+        {
+            "id": 5,
+            "text": "The legislation passed 65 - 33 and also includes language to strengthen background checks on individuals under 21 looking to purchase a gun and crack down on straw purchases by implementing stronger penalties ."
+        },
+        {
+            "id": 6,
+            "text": "Senate Minority Leader Mitch McConnell ( R - KY ) voted in favor of the measure , which has received pushback from conservatives in the House who argue that its language pertaining to red flag laws could violate due process rights ."
+        },
+        {
+            "id": 7,
+            "text": "Proponents of the measure argue that the Uvalde shooting , a supermarket shooting in Buffalo , New York , that left 10 dead , and a hospital shooting in Tulsa , Oklahoma , that left four dead are signals that Congress needs to take action to curb gun violence ."
+        },
+        {
+            "id": 8,
+            "text": "\u201c This is the sweet spot , madam president \u2014 making America safer , especially for kids in school without making our country one bit less free ."
+        },
+        {
+            "id": 9,
+            "text": "The legislation before us would make our communities and schools safer without laying one finger on the Second Amendment for law - abiding citizens , \u201d McConnell said on the floor ."
+        },
+        {
+            "id": 10,
+            "text": "\u201c Its key provisions are hugely popular with the American people . \u201d"
+        },
+        {
+            "id": 11,
+            "text": "Democrats hoped for a broader package similar to the one that passed the House along party lines , which included language to ban assault weapons ."
+        },
+        {
+            "id": 12,
+            "text": "Lawmakers praised its passage as the most substantial of its kind in recent history , noting the difficulties parties have had in reaching an agreement on the issue in the past ."
+        },
+        {
+            "id": 13,
+            "text": "\u201c For too long , political games in Washington on both sides of the aisle have stopped progress towards protecting our communities and keeping families safe and secure , \" Senate Majority Leader Chuck Schumer ( D - NY ) said on the floor ahead of the vote ."
+        },
+        {
+            "id": 14,
+            "text": "\" Commonsense proposals have been tossed to the side , bipartisan lawmakers choosing politics instead of solutions ."
+        },
+        {
+            "id": 15,
+            "text": "Elected officials have made a habit of insulting one another for offering thoughts and prayers , for blaming violence on strictly mental illness or video games , for particular kinds of weapons or any cause that did n't align with and confirm their own predetermined beliefs . \u201d"
+        },
+        {
+            "id": 16,
+            "text": "While House GOP leaders are whipping against the measure , it is expected to pass the House before Congress breaks for its Fourth of July recess ."
+        }
+    ],
+    "id": "STORY_101_DOCUMENT_0",
+    "old_id": "gun_11_1",
+    "split": "dev",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "passes",
+            "sentence_id": 0,
+            "start": 7,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "senate",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Bipartisan Safer Communities Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "sending",
+            "sentence_id": 0,
+            "start": 43,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "passed",
+            "sentence_id": 1,
+            "start": 11,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "senate",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Bipartisan Safer Communities Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "shootings",
+            "sentence_id": 1,
+            "start": 89,
+            "end": 98,
+            "remove": true,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "left",
+            "sentence_id": 1,
+            "start": 144,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "negotiated",
+            "sentence_id": 3,
+            "start": 6,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "a group of senators",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Bipartisan Safer Communities Act",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "john cornyn",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "chris murphy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "looks",
+            "sentence_id": 3,
+            "start": 100,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "incentivize",
+            "sentence_id": 3,
+            "start": 109,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Bipartisan Safer Communities Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "states",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "implement",
+            "sentence_id": 3,
+            "start": 131,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "make",
+            "sentence_id": 4,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Bipartisan Safer Communities Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "confiscate",
+            "sentence_id": 4,
+            "start": 57,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "block",
+            "sentence_id": 4,
+            "start": 82,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "purchase",
+            "sentence_id": 4,
+            "start": 92,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "deemed",
+            "sentence_id": 4,
+            "start": 130,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "tighten",
+            "sentence_id": 4,
+            "start": 178,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "close",
+            "sentence_id": 4,
+            "start": 206,
+            "end": 211,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "tightening",
+            "sentence_id": 4,
+            "start": 250,
+            "end": 260,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "convicted",
+            "sentence_id": 4,
+            "start": 305,
+            "end": 314,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "provide",
+            "sentence_id": 4,
+            "start": 370,
+            "end": 377,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "passed",
+            "sentence_id": 5,
+            "start": 16,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Bipartisan Safer Communities Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 20,
+            "token": "includes",
+            "sentence_id": 5,
+            "start": 40,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "strengthen",
+            "sentence_id": 5,
+            "start": 61,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "looking",
+            "sentence_id": 5,
+            "start": 114,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "purchase",
+            "sentence_id": 5,
+            "start": 125,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "crack",
+            "sentence_id": 5,
+            "start": 144,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "implementing",
+            "sentence_id": 5,
+            "start": 177,
+            "end": 189,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "voted",
+            "sentence_id": 6,
+            "start": 50,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "senate minority leader mitch mcconnell",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Bipartisan Safer Communities Act",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "received",
+            "sentence_id": 6,
+            "start": 92,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Bipartisan Safer Communities Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "pushback",
+            "sentence_id": 6,
+            "start": 101,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "argue",
+            "sentence_id": 6,
+            "start": 146,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "violate",
+            "sentence_id": 6,
+            "start": 204,
+            "end": 211,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Bipartisan Safer Communities Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "due process rights",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "argue",
+            "sentence_id": 7,
+            "start": 26,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "shooting",
+            "sentence_id": 7,
+            "start": 48,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "shooting",
+            "sentence_id": 7,
+            "start": 73,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "left",
+            "sentence_id": 7,
+            "start": 111,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "shooting",
+            "sentence_id": 7,
+            "start": 141,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "left",
+            "sentence_id": 7,
+            "start": 177,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "needs",
+            "sentence_id": 7,
+            "start": 218,
+            "end": 223,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "take",
+            "sentence_id": 7,
+            "start": 227,
+            "end": 231,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "curb",
+            "sentence_id": 7,
+            "start": 242,
+            "end": 246,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "congress",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "gun violence",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Bipartisan Safer Communities Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "making",
+            "sentence_id": 8,
+            "start": 45,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Bipartisan Safer Communities Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "america",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "making",
+            "sentence_id": 8,
+            "start": 106,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Bipartisan Safer Communities Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "america",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "make",
+            "sentence_id": 9,
+            "start": 32,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Bipartisan Safer Communities Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 43,
+            "token": "laying",
+            "sentence_id": 9,
+            "start": 79,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "the second amendment",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 44,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 162,
+            "end": 166,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "hoped",
+            "sentence_id": 11,
+            "start": 10,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "passed",
+            "sentence_id": 11,
+            "start": 62,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "ban",
+            "sentence_id": 11,
+            "start": 126,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "praised",
+            "sentence_id": 12,
+            "start": 10,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "lawmakers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Bipartisan Safer Communities Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "passage",
+            "sentence_id": 12,
+            "start": 22,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "noting",
+            "sentence_id": 12,
+            "start": 86,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "had",
+            "sentence_id": 12,
+            "start": 123,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "reaching",
+            "sentence_id": 12,
+            "start": 130,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "agreement",
+            "sentence_id": 12,
+            "start": 142,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "stopped",
+            "sentence_id": 13,
+            "start": 79,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "progress",
+            "sentence_id": 13,
+            "start": 87,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "protecting",
+            "sentence_id": 13,
+            "start": 104,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "keeping",
+            "sentence_id": 13,
+            "start": 135,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 220,
+            "end": 224,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "vote",
+            "sentence_id": 13,
+            "start": 251,
+            "end": 255,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "tossed",
+            "sentence_id": 14,
+            "start": 34,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "choosing",
+            "sentence_id": 14,
+            "start": 76,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "made",
+            "sentence_id": 15,
+            "start": 23,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "insulting",
+            "sentence_id": 15,
+            "start": 39,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "offering",
+            "sentence_id": 15,
+            "start": 65,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "blaming",
+            "sentence_id": 15,
+            "start": 101,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "align",
+            "sentence_id": 15,
+            "start": 220,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "confirm",
+            "sentence_id": 15,
+            "start": 235,
+            "end": 242,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "whipping",
+            "sentence_id": 16,
+            "start": 28,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "house gop leaders",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Bipartisan Safer Communities Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 69,
+            "token": "expected",
+            "sentence_id": 16,
+            "start": 65,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "pass",
+            "sentence_id": 16,
+            "start": 77,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Bipartisan Safer Communities Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "house of representatives",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 71,
+            "token": "breaks",
+            "sentence_id": 16,
+            "start": 108,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "recess",
+            "sentence_id": 16,
+            "start": 138,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "senate",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                0,
+                2
+            ]
+        },
+        {
+            "text": "The Bipartisan Safer Communities Act",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                0,
+                2,
+                5,
+                7,
+                9,
+                26,
+                27,
+                30,
+                40,
+                41,
+                48,
+                68,
+                70,
+                19,
+                39,
+                42
+            ]
+        },
+        {
+            "text": "a group of senators",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                5
+            ]
+        },
+        {
+            "text": "john cornyn",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                5
+            ]
+        },
+        {
+            "text": "chris murphy",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                5
+            ]
+        },
+        {
+            "text": "states",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                7
+            ]
+        },
+        {
+            "text": "senate minority leader mitch mcconnell",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                26
+            ]
+        },
+        {
+            "text": "due process rights",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                30
+            ]
+        },
+        {
+            "text": "congress",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                39
+            ]
+        },
+        {
+            "text": "america",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                40,
+                41
+            ]
+        },
+        {
+            "text": "the second amendment",
+            "ideology": "Right",
+            "id": 11,
+            "events": [
+                43
+            ]
+        },
+        {
+            "text": "lawmakers",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                48
+            ]
+        },
+        {
+            "text": "house gop leaders",
+            "ideology": "Right",
+            "id": 13,
+            "events": [
+                68
+            ]
+        },
+        {
+            "text": "house of representatives",
+            "ideology": "Left",
+            "id": 14,
+            "events": [
+                70
+            ]
+        },
+        {
+            "text": "gun violence",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                39
+            ]
+        }
+    ]
+}

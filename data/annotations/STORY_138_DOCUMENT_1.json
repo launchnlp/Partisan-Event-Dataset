@@ -1,0 +1,881 @@
+{
+    "title": "Opinion | Will It Be Morning in Joe Biden\u2019s America?",
+    "date": "2023-01-16",
+    "topic": "2024-election",
+    "source": "Paul Krugman",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Which raises a question few would have asked even a few months ago: Is Joe Biden \u2014 who, for the record, had a much better midterm than Ronald Reagan did in 1982 \u2014 possibly headed for a \u201cmorning in America\u201d moment?"
+        },
+        {
+            "id": 1,
+            "text": "A few months ago I looked at the \u201cmisery index\u201d \u2014 the sum of unemployment and inflation, originally suggested by Arthur Okun as a quick-and-dirty summary of the state of the economy."
+        },
+        {
+            "id": 2,
+            "text": "I used to think this index was silly; there are multiple reasons it shouldn\u2019t make sense."
+        },
+        {
+            "id": 3,
+            "text": "But it has historically done a surprisingly good job of tracking consumer sentiment."
+        },
+        {
+            "id": 4,
+            "text": "And as I noted even then, the misery index seemed to be declining."
+        },
+        {
+            "id": 5,
+            "text": "Well, now it has fallen off a cliff."
+        },
+        {
+            "id": 6,
+            "text": "If we use the inflation rate over the past six months, the misery index, which stood at 14 as recently as June, is now down to 5.4, or about what it was on the eve of the pandemic, when Donald Trump confidently expected a strong economy to guarantee his re-election."
+        },
+        {
+            "id": 7,
+            "text": "Nor is that the only thing Democrats have going for them."
+        },
+        {
+            "id": 8,
+            "text": "The green energy subsidies in the Inflation Reduction"
+        },
+        {
+            "id": 9,
+            "text": "Act are leading to multiple new investments in domestic manufacturing; it\u2019s unclear how many jobs will be created, but the next two years will give Biden many opportunities to preside over factory openings, giving speeches about how America is, um, becoming great again."
+        },
+        {
+            "id": 10,
+            "text": "Now, I\u2019m not predicting a Democratic blowout in 2024."
+        },
+        {
+            "id": 11,
+            "text": "For one thing, many things can happen over the next 22 months, although I don\u2019t think Republicans, even with cooperation from too many in the media, will convince Americans that the Biden administration is riddled with corruption."
+        },
+        {
+            "id": 12,
+            "text": "For another, elections often turn not so much on how good things are as on the perceived rate of improvement, and with inflation and unemployment already low, it\u2019s not clear how much room there is for a boom."
+        },
+        {
+            "id": 13,
+            "text": "Also, extreme political polarization has probably made landslide elections a thing of the past."
+        },
+        {
+            "id": 14,
+            "text": "Republicans could probably nominate George Santos and still get 47 percent of the vote."
+        },
+        {
+            "id": 15,
+            "text": "But to the extent that the economic landscape shapes the political landscape, things look far better for Democrats now than almost anyone imagined until very recently."
+        }
+    ],
+    "id": "STORY_138_DOCUMENT_1",
+    "old_id": "7562_0",
+    "split": "test",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "raises",
+            "sentence_id": 0,
+            "start": 6,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "asked",
+            "sentence_id": 0,
+            "start": 39,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "had",
+            "sentence_id": 0,
+            "start": 104,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "midterm",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Ronald Reagan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Ronald Reagan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "headed",
+            "sentence_id": 0,
+            "start": 172,
+            "end": 178,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "moment",
+            "sentence_id": 0,
+            "start": 206,
+            "end": 212,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "looked",
+            "sentence_id": 1,
+            "start": 19,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "suggested",
+            "sentence_id": 1,
+            "start": 100,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "used",
+            "sentence_id": 2,
+            "start": 2,
+            "end": 6,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "think",
+            "sentence_id": 2,
+            "start": 10,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "make",
+            "sentence_id": 2,
+            "start": 78,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "done",
+            "sentence_id": 3,
+            "start": 24,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "tracking",
+            "sentence_id": 3,
+            "start": 56,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "noted",
+            "sentence_id": 4,
+            "start": 9,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "seemed",
+            "sentence_id": 4,
+            "start": 43,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "declining",
+            "sentence_id": 4,
+            "start": 56,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "misery index",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "fallen",
+            "sentence_id": 5,
+            "start": 17,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "misery index",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "use",
+            "sentence_id": 6,
+            "start": 6,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "stood",
+            "sentence_id": 6,
+            "start": 79,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "expected",
+            "sentence_id": 6,
+            "start": 211,
+            "end": 219,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "strong economy",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "guarantee",
+            "sentence_id": 6,
+            "start": 240,
+            "end": 249,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "strong economy",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "leading",
+            "sentence_id": 9,
+            "start": 8,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "investments",
+            "sentence_id": 9,
+            "start": 32,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Inflation Reduction Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "domestic manufacturing",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "created",
+            "sentence_id": 9,
+            "start": 106,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Inflation Reduction Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "jobs",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "jobs",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "give",
+            "sentence_id": 9,
+            "start": 143,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Inflation Reduction Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "preside",
+            "sentence_id": 9,
+            "start": 176,
+            "end": 183,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "openings",
+            "sentence_id": 9,
+            "start": 197,
+            "end": 205,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "giving",
+            "sentence_id": 9,
+            "start": 207,
+            "end": 213,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "becoming",
+            "sentence_id": 9,
+            "start": 249,
+            "end": 257,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "America",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "predicting",
+            "sentence_id": 10,
+            "start": 13,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "blowout",
+            "sentence_id": 10,
+            "start": 37,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "happen",
+            "sentence_id": 11,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "think",
+            "sentence_id": 11,
+            "start": 80,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "cooperation",
+            "sentence_id": 11,
+            "start": 109,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "convince",
+            "sentence_id": 11,
+            "start": 154,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "America",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 34,
+            "token": "riddled",
+            "sentence_id": 11,
+            "start": 206,
+            "end": 213,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "corruption",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 35,
+            "token": "turn",
+            "sentence_id": 12,
+            "start": 29,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "boom",
+            "sentence_id": 12,
+            "start": 203,
+            "end": 207,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "made",
+            "sentence_id": 13,
+            "start": 50,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "elections",
+            "sentence_id": 13,
+            "start": 65,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "nominate",
+            "sentence_id": 14,
+            "start": 27,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "get",
+            "sentence_id": 14,
+            "start": 60,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "shapes",
+            "sentence_id": 15,
+            "start": 46,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "look",
+            "sentence_id": 15,
+            "start": 85,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "political landscape",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "America",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 43,
+            "token": "imagined",
+            "sentence_id": 15,
+            "start": 138,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Joe Biden",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                2,
+                34,
+                14,
+                15,
+                23,
+                27
+            ]
+        },
+        {
+            "text": "midterm",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "Ronald Reagan",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "Inflation Reduction Act",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "text": "jobs",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                22
+            ]
+        },
+        {
+            "text": "domestic manufacturing",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                21
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                33
+            ]
+        },
+        {
+            "text": "Americans",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                33
+            ]
+        },
+        {
+            "text": "political landscape",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                42
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                42
+            ]
+        },
+        {
+            "text": "misery index",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                14,
+                15
+            ]
+        },
+        {
+            "text": "strong economy",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                19,
+                18
+            ]
+        },
+        {
+            "text": "Donald Trump",
+            "ideology": "Right",
+            "id": 12,
+            "events": [
+                19,
+                18
+            ]
+        },
+        {
+            "text": "America",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": [
+                27,
+                33,
+                42
+            ]
+        },
+        {
+            "text": "corruption",
+            "ideology": "Neutral",
+            "id": 14,
+            "events": [
+                34
+            ]
+        }
+    ]
+}

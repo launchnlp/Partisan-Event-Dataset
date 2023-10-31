@@ -1,0 +1,1877 @@
+{
+    "title": "New Hampshire abolishes death penalty after state senate overrides governor",
+    "date": "2019-05-30",
+    "topic": "politics",
+    "source": "The Guardian",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "New Hampshire , which has n\u2019t executed anyone in 80 years and has only one inmate on death row , has became the latest US state to abolish the death penalty when the state senate voted to override the governor \u2019s veto ."
+        },
+        {
+            "id": 1,
+            "text": "\u201c Now it \u2019s up to us to stop this practice that is archaic , costly , discriminatory and final , \u201d said New Hampshire state senator Melanie Levesque ."
+        },
+        {
+            "id": 2,
+            "text": "The senate vote came a week after the 400 - member house voted by the narrowest possible margin to override Republican governor Chris Sununu \u2019s veto of a bill to repeal capital punishment ."
+        },
+        {
+            "id": 3,
+            "text": "New Hampshire \u2019s death penalty applies in only seven scenarios : the killing of an on - duty law enforcement officer or judge , murder for hire , murder during a rape , certain drug offenses , or home invasion and murder by someone already serving a life sentence without parole ."
+        },
+        {
+            "id": 4,
+            "text": "The state has n\u2019t executed anyone since 1939 , and the repeal bill would not apply retroactively to Michael Addison , who killed Manchester officer Michael Briggs and is the state \u2019s only inmate on death row ."
+        },
+        {
+            "id": 5,
+            "text": "But death penalty supporters argued that courts will interpret it differently , giving Addison a chance at life in prison ."
+        },
+        {
+            "id": 6,
+            "text": "\u201c If you think you \u2019re passing this today and Mr Addison is still going to remain on death row , you are confused , \u201d said the state senator Sharon Carson ."
+        },
+        {
+            "id": 7,
+            "text": "\u201c Mr Addison \u2019s sentence will be converted to life in prison . \u201d"
+        },
+        {
+            "id": 8,
+            "text": "Carson argued that New Hampshire has a narrowly drawn law and a careful , deliberative process to ensure innocent people are not executed ."
+        },
+        {
+            "id": 9,
+            "text": "\u201c This is not Louisiana of the 1920s where Old Sparky was put on a flatbed truck and driven from prison to prison and people were executed ."
+        },
+        {
+            "id": 10,
+            "text": "We are not those people , \u201d she said ."
+        },
+        {
+            "id": 11,
+            "text": "\u201c That does n\u2019t happen here in New Hampshire . \u201d"
+        },
+        {
+            "id": 12,
+            "text": "The senate vote , 16 - 8 , was exactly the two - thirds majority necessary to override the veto ."
+        },
+        {
+            "id": 13,
+            "text": "Twelve Democrats and four Republicans supported ending the death penalty , while six Republicans and two Democrats voted to keep it ."
+        },
+        {
+            "id": 14,
+            "text": "The latter included Lou D\u2019Allesandro , who represents the district in which Briggs was killed ."
+        },
+        {
+            "id": 15,
+            "text": "He urged his colleagues to remember law enforcement officers who put their lives on the line every day ."
+        },
+        {
+            "id": 16,
+            "text": "\u201c I ca n\u2019t abandon these people , \u201d he said ."
+        },
+        {
+            "id": 17,
+            "text": "\u201c These people are there for us ."
+        },
+        {
+            "id": 18,
+            "text": "They \u2019re there for us , and I believe strongly we have to support them . \u201d"
+        },
+        {
+            "id": 19,
+            "text": "Sununu , who vetoed the repeal bill surrounded by officers at a community center named for Briggs , said Thursday he was incredibly disappointed in the vote ."
+        },
+        {
+            "id": 20,
+            "text": "\u201c I have consistently stood with law enforcement , families of crime victims , and advocates for justice in opposing a repeal of the death penalty because it is the right thing to do , \u201d he said in a statement ."
+        },
+        {
+            "id": 21,
+            "text": "But state senator Bob Giuda , a former FBI agent , said while he greatly respects law enforcement , the death penalty is at odds with his pro-life principles ."
+        },
+        {
+            "id": 22,
+            "text": "He called execution a \u201c ghastly \u201d process and urged his colleagues to \u201c move our civilization \u201d past it ."
+        },
+        {
+            "id": 23,
+            "text": "\u201c I think we \u2019re better than that , \u201d he said ."
+        },
+        {
+            "id": 24,
+            "text": "\u201c I choose to move our state forward to remove the death penalty . \u201d"
+        },
+        {
+            "id": 25,
+            "text": "Thirty states allow capital punishment , but in four of them , governors have issued moratoriums on the death penalty , according to the Death Penalty Information Center ."
+        },
+        {
+            "id": 26,
+            "text": "Twenty states have abolished or overturned it ."
+        },
+        {
+            "id": 27,
+            "text": "New Hampshire lawmakers have been considering and rejecting repeal efforts for the last two decades ."
+        },
+        {
+            "id": 28,
+            "text": "Former governor Joeanne Shaheen , a Democrat , vetoed a similar bill in 2000 ."
+        },
+        {
+            "id": 29,
+            "text": "Another Democrat , former governor John Lynch , signed a bill in 2011 expanding the death penalty to cover home invasions in response to a machete and knife attack that killed a woman and maimed her daughter in Mont Vernon ."
+        }
+    ],
+    "id": "STORY_46_DOCUMENT_1",
+    "old_id": "TRIPLET_067_DOCUMENT_0",
+    "split": "train",
+    "events": [
+        {
+            "e_id": 0,
+            "token": "executed",
+            "sentence_id": 0,
+            "start": 30,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "has",
+            "sentence_id": 0,
+            "start": 62,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "became",
+            "sentence_id": 0,
+            "start": 101,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "abolish",
+            "sentence_id": 0,
+            "start": 131,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "New Hampshire",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "voted",
+            "sentence_id": 0,
+            "start": 179,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the state senate",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "override",
+            "sentence_id": 0,
+            "start": 188,
+            "end": 196,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "veto",
+            "sentence_id": 0,
+            "start": 213,
+            "end": 217,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Chris Sununu",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 7,
+            "token": "stop",
+            "sentence_id": 1,
+            "start": 24,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Melanie Levesque",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "New Hampshire state senator Melanie Levesque",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 8,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 99,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "vote",
+            "sentence_id": 2,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "came",
+            "sentence_id": 2,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "voted",
+            "sentence_id": 2,
+            "start": 57,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "override",
+            "sentence_id": 2,
+            "start": 99,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the state senate",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Chris Sununu",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 13,
+            "token": "veto",
+            "sentence_id": 2,
+            "start": 144,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Chris Sununu",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 14,
+            "token": "repeal",
+            "sentence_id": 2,
+            "start": 162,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "applies",
+            "sentence_id": 3,
+            "start": 31,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "killing",
+            "sentence_id": 3,
+            "start": 69,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "serving",
+            "sentence_id": 3,
+            "start": 240,
+            "end": 247,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "executed",
+            "sentence_id": 4,
+            "start": 18,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "apply",
+            "sentence_id": 4,
+            "start": 77,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Michael Addison",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "repeal bill",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "killed",
+            "sentence_id": 4,
+            "start": 122,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "argued",
+            "sentence_id": 5,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "interpret",
+            "sentence_id": 5,
+            "start": 53,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "giving",
+            "sentence_id": 5,
+            "start": 80,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 20,
+                    "text": "courts",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "life in prison",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 24,
+            "token": "think",
+            "sentence_id": 6,
+            "start": 9,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Sharon Carson",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 25,
+            "token": "passing",
+            "sentence_id": 6,
+            "start": 23,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "remain",
+            "sentence_id": 6,
+            "start": 75,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Michael Addison",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "death row",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 27,
+            "token": "confused",
+            "sentence_id": 6,
+            "start": 105,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Sharon Carson",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 28,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 118,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "converted",
+            "sentence_id": 7,
+            "start": 33,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Michael Addison",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "life in prison",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 30,
+            "token": "argued",
+            "sentence_id": 8,
+            "start": 7,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Sharon Carson",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "New Hampshire",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 31,
+            "token": "ensure",
+            "sentence_id": 8,
+            "start": 98,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "executed",
+            "sentence_id": 8,
+            "start": 129,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "put",
+            "sentence_id": 9,
+            "start": 58,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "driven",
+            "sentence_id": 9,
+            "start": 85,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "executed",
+            "sentence_id": 9,
+            "start": 130,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "said",
+            "sentence_id": 10,
+            "start": 32,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 25,
+                    "text": "state senator Sharon Carson",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 37,
+            "token": "happen",
+            "sentence_id": 11,
+            "start": 16,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "vote",
+            "sentence_id": 12,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "override",
+            "sentence_id": 12,
+            "start": 78,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "veto",
+            "sentence_id": 12,
+            "start": 91,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "supported",
+            "sentence_id": 13,
+            "start": 38,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "ending",
+            "sentence_id": 13,
+            "start": 48,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "voted",
+            "sentence_id": 13,
+            "start": 115,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "keep",
+            "sentence_id": 13,
+            "start": 124,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 45,
+            "token": "represents",
+            "sentence_id": 14,
+            "start": 43,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "killed",
+            "sentence_id": 14,
+            "start": 87,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "urged",
+            "sentence_id": 15,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Lou D\u2019Allesandro",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 48,
+            "token": "remember",
+            "sentence_id": 15,
+            "start": 27,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 26,
+                    "text": "law enforcement officers",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 27,
+                    "text": "colleagues",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 49,
+            "token": "put",
+            "sentence_id": 15,
+            "start": 65,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "abandon",
+            "sentence_id": 16,
+            "start": 11,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Lou D\u2019Allesandro",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 26,
+                    "text": "law enforcement officers",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 51,
+            "token": "said",
+            "sentence_id": 16,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "believe",
+            "sentence_id": 18,
+            "start": 30,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "support",
+            "sentence_id": 18,
+            "start": 58,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Lou D\u2019Allesandro",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 26,
+                    "text": "law enforcement officers",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 54,
+            "token": "vetoed",
+            "sentence_id": 19,
+            "start": 13,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Chris Sununu",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "repeal bill",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 55,
+            "token": "surrounded",
+            "sentence_id": 19,
+            "start": 36,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "said",
+            "sentence_id": 19,
+            "start": 100,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "disappointed",
+            "sentence_id": 19,
+            "start": 132,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 28,
+                    "text": "Sununu",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 29,
+                    "text": "vote",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 58,
+            "token": "vote",
+            "sentence_id": 19,
+            "start": 152,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "stood",
+            "sentence_id": 20,
+            "start": 22,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Chris Sununu",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "law enforcement",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "families of crime victims",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "advocates for justice",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 60,
+            "token": "opposing",
+            "sentence_id": 20,
+            "start": 108,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Chris Sununu",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "repeal bill",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 28,
+                    "text": "Sununu",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 61,
+            "token": "repeal",
+            "sentence_id": 20,
+            "start": 119,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "do",
+            "sentence_id": 20,
+            "start": 180,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "said",
+            "sentence_id": 20,
+            "start": 190,
+            "end": 194,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "said",
+            "sentence_id": 21,
+            "start": 51,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "Bob Giuda",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "pro-life principles",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 65,
+            "token": "respects",
+            "sentence_id": 21,
+            "start": 73,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "called",
+            "sentence_id": 22,
+            "start": 3,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "Bob Giuda",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 30,
+                    "text": "state senator Bob Giuda",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 67,
+            "token": "urged",
+            "sentence_id": 22,
+            "start": 46,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "Bob Giuda",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 68,
+            "token": "move",
+            "sentence_id": 22,
+            "start": 72,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "think",
+            "sentence_id": 23,
+            "start": 4,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "said",
+            "sentence_id": 23,
+            "start": 41,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "choose",
+            "sentence_id": 24,
+            "start": 4,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "move",
+            "sentence_id": 24,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "remove",
+            "sentence_id": 24,
+            "start": 40,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "Bob Giuda",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 30,
+                    "text": "state senator Bob Giuda",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 74,
+            "token": "allow",
+            "sentence_id": 25,
+            "start": 14,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 75,
+            "token": "issued",
+            "sentence_id": 25,
+            "start": 78,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 76,
+            "token": "according",
+            "sentence_id": 25,
+            "start": 120,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "abolished",
+            "sentence_id": 26,
+            "start": 19,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 78,
+            "token": "overturned",
+            "sentence_id": 26,
+            "start": 32,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Partisan",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 79,
+            "token": "considering",
+            "sentence_id": 27,
+            "start": 34,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "rejecting",
+            "sentence_id": 27,
+            "start": 50,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "efforts",
+            "sentence_id": 27,
+            "start": 67,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "vetoed",
+            "sentence_id": 28,
+            "start": 47,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "Joeanne Shaheen",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "repeal bill",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 83,
+            "token": "signed",
+            "sentence_id": 29,
+            "start": 48,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "John Lynch",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "death penalty",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 84,
+            "token": "expanding",
+            "sentence_id": 29,
+            "start": 70,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "cover",
+            "sentence_id": 29,
+            "start": 101,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "invasions",
+            "sentence_id": 29,
+            "start": 112,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 87,
+            "token": "attack",
+            "sentence_id": 29,
+            "start": 157,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 88,
+            "token": "killed",
+            "sentence_id": 29,
+            "start": 169,
+            "end": 175,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "maimed",
+            "sentence_id": 29,
+            "start": 188,
+            "end": 194,
+            "remove": false,
+            "partisanship": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "New Hampshire",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                3
+            ]
+        },
+        {
+            "text": "death penalty",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                73,
+                66,
+                3,
+                7
+            ]
+        },
+        {
+            "text": "the state senate",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "Chris Sununu",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                6
+            ]
+        },
+        {
+            "text": "Melanie Levesque",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                7
+            ]
+        },
+        {
+            "text": "Michael Addison",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                26,
+                19,
+                29
+            ]
+        },
+        {
+            "text": "Sharon Carson",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                24
+            ]
+        },
+        {
+            "text": "Louisiana",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                33
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                41
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                44
+            ]
+        },
+        {
+            "text": "Lou D\u2019Allesandro",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                47
+            ]
+        },
+        {
+            "text": "repeal bill",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                19,
+                60,
+                54
+            ]
+        },
+        {
+            "text": "law enforcement",
+            "ideology": "Right",
+            "id": 12,
+            "events": [
+                59
+            ]
+        },
+        {
+            "text": "families of crime victims",
+            "ideology": "Right",
+            "id": 13,
+            "events": [
+                59
+            ]
+        },
+        {
+            "text": "advocates for justice",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                59
+            ]
+        },
+        {
+            "text": "Bob Giuda",
+            "ideology": "Right",
+            "id": 15,
+            "events": [
+                64
+            ]
+        },
+        {
+            "text": "pro-life principles",
+            "ideology": "Right",
+            "id": 16,
+            "events": [
+                64
+            ]
+        },
+        {
+            "text": "Joeanne Shaheen",
+            "ideology": "Left",
+            "id": 17,
+            "events": [
+                82
+            ]
+        },
+        {
+            "text": "John Lynch",
+            "ideology": "Left",
+            "id": 18,
+            "events": [
+                83
+            ]
+        },
+        {
+            "text": "New Hampshire state senator Melanie Levesque",
+            "ideology": "Left",
+            "id": 19,
+            "events": [
+                7
+            ]
+        },
+        {
+            "text": "courts",
+            "ideology": "Neutral",
+            "id": 20,
+            "events": [
+                23
+            ]
+        },
+        {
+            "text": "death row",
+            "ideology": "Right",
+            "id": 21,
+            "events": [
+                26
+            ]
+        },
+        {
+            "text": "life in prison",
+            "ideology": "Left",
+            "id": 22,
+            "events": [
+                29,
+                23
+            ]
+        },
+        {
+            "text": "law",
+            "ideology": "Right",
+            "id": 23,
+            "events": [
+                31
+            ]
+        },
+        {
+            "text": "innocent people",
+            "ideology": "Neutral",
+            "id": 24,
+            "events": [
+                31
+            ]
+        },
+        {
+            "text": "state senator Sharon Carson",
+            "ideology": "Right",
+            "id": 25,
+            "events": [
+                36
+            ]
+        },
+        {
+            "text": "law enforcement officers",
+            "ideology": "Right",
+            "id": 26,
+            "events": [
+                50,
+                48,
+                53
+            ]
+        },
+        {
+            "text": "colleagues",
+            "ideology": "Left",
+            "id": 27,
+            "events": [
+                48
+            ]
+        },
+        {
+            "text": "Sununu",
+            "ideology": "Right",
+            "id": 28,
+            "events": [
+                57,
+                60
+            ]
+        },
+        {
+            "text": "vote",
+            "ideology": "Left",
+            "id": 29,
+            "events": [
+                57
+            ]
+        },
+        {
+            "text": "state senator Bob Giuda",
+            "ideology": "Left",
+            "id": 30,
+            "events": [
+                66,
+                73
+            ]
+        }
+    ]
+}
