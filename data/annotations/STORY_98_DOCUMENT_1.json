@@ -1,5 +1,7 @@
 {
     "title": "'Enough': Biden Exhorts Congress To Pass Gun Control Laws",
+    "id": "STORY_98_DOCUMENT_1",
+    "split": "dev",
     "date": "2022-06-02",
     "topic": "gun",
     "source": "HuffPost",
@@ -84,9 +86,6 @@
             "text": "However , Biden cited former Supreme Court Justice Antonin Scalia \u2015 a conservative icon \u2015 who had declared that the Second Amendment was \u201c not unlimited . \u201d"
         }
     ],
-    "id": "STORY_98_DOCUMENT_1",
-    "old_id": "gun_2_2",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

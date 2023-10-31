@@ -1,5 +1,7 @@
 {
     "title": "How Democrats Can Win With Medicare For All",
+    "id": "STORY_57_DOCUMENT_1",
+    "split": "train",
     "date": "2017-08-31",
     "topic": "healthcare",
     "source": "HuffPost",
@@ -148,9 +150,6 @@
             "text": "Instead, we\u2019ve allowed billionaires, not doctors, to decide which services people need while weighing their worth against profits."
         }
     ],
-    "id": "STORY_57_DOCUMENT_1",
-    "old_id": "2539_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

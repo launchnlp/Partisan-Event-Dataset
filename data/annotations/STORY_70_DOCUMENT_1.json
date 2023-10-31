@@ -1,5 +1,7 @@
 {
     "title": "Trump vetoes $740 billion defense legislation",
+    "id": "STORY_70_DOCUMENT_1",
+    "split": "train",
     "date": "2020-12-23",
     "topic": "national_defense",
     "source": "CBS News (Online)",
@@ -96,9 +98,6 @@
             "text": "Mr. Trump, who declined to directly take part in negotiations and instead sent Treasury Secretary Steve Mnuchin, did not speak publicly about his support for larger stimulus checks during negotiations."
         }
     ],
-    "id": "STORY_70_DOCUMENT_1",
-    "old_id": "5206_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

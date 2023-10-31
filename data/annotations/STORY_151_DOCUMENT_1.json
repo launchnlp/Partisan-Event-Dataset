@@ -1,5 +1,7 @@
 {
     "title": "Man indicted in rape of Ohio girl, 10, who traveled to Indiana for abortion",
+    "id": "STORY_151_DOCUMENT_1",
+    "split": "test",
     "date": "2022-07-22",
     "topic": "abortion",
     "source": "NBC News (Online)",
@@ -68,9 +70,6 @@
             "text": "NBC News obtained a Terminated Pregnancy Report from the Indiana Department of Health showing Bernard did report the procedure within the required timeframe ."
         }
     ],
-    "id": "STORY_151_DOCUMENT_1",
-    "old_id": "TRIPLET_1063_DOCUMENT_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

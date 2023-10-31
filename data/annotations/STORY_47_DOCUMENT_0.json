@@ -1,5 +1,7 @@
 {
     "title": "Republican senators warn Iran in open letter",
+    "id": "STORY_47_DOCUMENT_0",
+    "split": "train",
     "date": "2015-03-09",
     "topic": "us_senate",
     "source": "Politico",
@@ -92,9 +94,6 @@
             "text": "\u201c The next president could revoke such an executive agreement with the stroke of a pen and future Congresses could modify the terms of the agreement at any time , \u201d they wrote ."
         }
     ],
-    "id": "STORY_47_DOCUMENT_0",
-    "old_id": "TRIPLET_023_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

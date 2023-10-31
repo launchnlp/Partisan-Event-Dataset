@@ -1,5 +1,7 @@
 {
     "title": "Trump Indictment Puts Republicans in An Impossible Situation",
+    "id": "STORY_141_DOCUMENT_1",
+    "split": "test",
     "date": "2023-04-03",
     "topic": "2024-election",
     "source": "Newsweek",
@@ -144,9 +146,6 @@
             "text": "Newsweek reached out to the GOP for comment."
         }
     ],
-    "id": "STORY_141_DOCUMENT_1",
-    "old_id": "7854_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

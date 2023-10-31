@@ -1,5 +1,7 @@
 {
     "title": "Biden vows to complete Afghan evacuation, but admits risks",
+    "id": "STORY_80_DOCUMENT_1",
+    "split": "train",
     "date": "2021-08-20",
     "topic": "national_defense",
     "source": "The Hill",
@@ -136,9 +138,6 @@
             "text": "\u201cI have seen no question of our credibility from our allies around the world,\u201d he said."
         }
     ],
-    "id": "STORY_80_DOCUMENT_1",
-    "old_id": "5903_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

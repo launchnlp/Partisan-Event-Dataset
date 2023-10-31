@@ -1,5 +1,7 @@
 {
     "title": "Democratic AGs sue Trump over ObamaCare subsidy cutoff",
+    "id": "STORY_13_DOCUMENT_1",
+    "split": "train",
     "date": "2017-10-15",
     "topic": "healthcare",
     "source": "Fox News (Online News)",
@@ -136,9 +138,6 @@
             "text": "Rep. Ileana Ros-Lehtinen, R-Fla., tweeted that the cuts \"will mean more uninsured in my district.\""
         }
     ],
-    "id": "STORY_13_DOCUMENT_1",
-    "old_id": "2613_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

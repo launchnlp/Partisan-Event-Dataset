@@ -1,5 +1,7 @@
 {
     "title": "Trump signs executive order to expand school choice for Hispanic students",
+    "id": "STORY_48_DOCUMENT_1",
+    "split": "train",
     "date": "2020-07-10",
     "topic": "race-and-racism",
     "source": "Fox News (Online News)",
@@ -100,9 +102,6 @@
             "text": "Later Wednesday, at the White House Coronavirus Task Force briefing, Vice President Mike Pence said the CDC would be \u201cissuing new guidance next week\u201d to schools."
         }
     ],
-    "id": "STORY_48_DOCUMENT_1",
-    "old_id": "4710_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Cost of New E.P.A. Coal Rules: Up to 1,400 More Deaths a Year",
+    "id": "STORY_92_DOCUMENT_1",
+    "split": "train",
     "date": "2018-08-21",
     "topic": "energy",
     "source": "New York Times (News)",
@@ -60,9 +62,6 @@
             "text": "The argument for the rule is that the research work isn\u2019t sufficiently transparent if the data behind it isn\u2019t available for analysis."
         }
     ],
-    "id": "STORY_92_DOCUMENT_1",
-    "old_id": "3185_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

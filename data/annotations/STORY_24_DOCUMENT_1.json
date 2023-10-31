@@ -1,5 +1,7 @@
 {
     "title": "Labor Department considers jobs report delay ",
+    "id": "STORY_24_DOCUMENT_1",
+    "split": "train",
     "date": "2012-10-29",
     "topic": "elections",
     "source": "Politico",
@@ -80,9 +82,6 @@
             "text": "The news that the jobs report could be delayed was first reported by The Wall Street Journal ."
         }
     ],
-    "id": "STORY_24_DOCUMENT_1",
-    "old_id": "TRIPLET_226_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

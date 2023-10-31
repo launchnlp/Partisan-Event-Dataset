@@ -1,5 +1,7 @@
 {
     "title": "80-year-old Biden says concerns over his age are 'totally legitimate' as he weighs 2024 bid",
+    "id": "STORY_143_DOCUMENT_1",
+    "split": "test",
     "date": "2023-02-27",
     "topic": "2024-election",
     "source": "Fox News (Online News)",
@@ -76,9 +78,6 @@
             "text": "\"How many times does he have to say it for you to believe it?\" she added."
         }
     ],
-    "id": "STORY_143_DOCUMENT_1",
-    "old_id": "7717_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

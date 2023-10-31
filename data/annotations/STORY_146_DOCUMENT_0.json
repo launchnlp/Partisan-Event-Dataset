@@ -1,5 +1,7 @@
 {
     "title": "EXPLAINER: What is the Strategic Petroleum Reserve?",
+    "id": "STORY_146_DOCUMENT_0",
+    "split": "test",
     "date": "2022-10-22",
     "topic": "energy",
     "source": "Associated Press",
@@ -212,9 +214,6 @@
             "text": "That collides with Biden\u2019s promise to reduce dependence on fossil fuels that contribute to climate change."
         }
     ],
-    "id": "STORY_146_DOCUMENT_0",
-    "old_id": "7237_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

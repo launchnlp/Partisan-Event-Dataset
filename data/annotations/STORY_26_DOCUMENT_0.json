@@ -1,5 +1,7 @@
 {
     "title": "Donald Trump dominates in Nevada",
+    "id": "STORY_26_DOCUMENT_0",
+    "split": "train",
     "date": "2016-02-23",
     "topic": "elections",
     "source": "Washington Times",
@@ -164,9 +166,6 @@
             "text": "Before that , the candidates are scheduled to meet Thursday for a debate at the University of Houston hosted by CNN and Telemundo ."
         }
     ],
-    "id": "STORY_26_DOCUMENT_0",
-    "old_id": "TRIPLET_082_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

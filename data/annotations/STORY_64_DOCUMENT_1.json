@@ -1,5 +1,7 @@
 {
     "title": "Armed Extremists Just Escalated Oregon\u2019s Fight Over Climate Legislation",
+    "id": "STORY_64_DOCUMENT_1",
+    "split": "train",
     "date": "2019-06-22",
     "topic": "climate-change",
     "source": "Mother Jones",
@@ -116,9 +118,6 @@
             "text": "But the Republican spokesperson from the Senate was quoted in a tweet on Friday afternoon, turning down the offer of assistance."
         }
     ],
-    "id": "STORY_64_DOCUMENT_1",
-    "old_id": "3806_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

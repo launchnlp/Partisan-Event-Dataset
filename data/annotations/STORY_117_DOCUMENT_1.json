@@ -1,5 +1,7 @@
 {
     "title": "The GOP Is the Party of Gruesome Oil Profiteering",
+    "id": "STORY_117_DOCUMENT_1",
+    "split": "test",
     "date": "2022-07-07",
     "topic": "energy",
     "source": "The Nation",
@@ -144,9 +146,6 @@
             "text": "Their inaction removes any doubt that the Grand Old Party has, indeed, become the Grand Oil Party."
         }
     ],
-    "id": "STORY_117_DOCUMENT_1",
-    "old_id": "6827_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Tillerson, G7 ministers look to pressure Russia to reconsider Assad support",
+    "id": "STORY_2_DOCUMENT_0",
+    "split": "train",
     "date": "2017-04-10",
     "topic": "state_department",
     "source": "Fox News (Online News)",
@@ -60,9 +62,6 @@
             "text": "Tillerson is expected to meet with Russian Foreign Minister Sergey Lavrov after the G7 meeting ."
         }
     ],
-    "id": "STORY_2_DOCUMENT_0",
-    "old_id": "TRIPLET_031_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

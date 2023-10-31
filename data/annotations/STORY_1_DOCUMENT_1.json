@@ -1,5 +1,7 @@
 {
     "title": "Trump files op-ed bashing Democrats on Medicare for all",
+    "id": "STORY_1_DOCUMENT_1",
+    "split": "train",
     "date": "2018-10-10",
     "topic": "healthcare",
     "source": "CNN (Online News)",
@@ -160,9 +162,6 @@
             "text": "About 28 million people are uninsured and millions more are underinsured so they still have huge health care bills."
         }
     ],
-    "id": "STORY_1_DOCUMENT_1",
-    "old_id": "3308_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

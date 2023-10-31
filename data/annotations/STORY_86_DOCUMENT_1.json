@@ -1,5 +1,7 @@
 {
     "title": "How 16-year-old Greta Thunberg's rise could backfire on environmentalists",
+    "id": "STORY_86_DOCUMENT_1",
+    "split": "train",
     "date": "2019-09-24",
     "topic": "climate-change",
     "source": "Guest Writer - Right",
@@ -136,9 +138,6 @@
             "text": "But anger without doing something other than protesting and making speeches won't protect the environment or do much else other than produce more anger."
         }
     ],
-    "id": "STORY_86_DOCUMENT_1",
-    "old_id": "4000_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Central American leaders to Obama: We're working on it",
+    "id": "STORY_42_DOCUMENT_0",
+    "split": "train",
     "date": "",
     "topic": "",
     "source": "CNN (Online News)",
@@ -144,9 +146,6 @@
             "text": "Key questions about Rick Perry \u2019s border plan"
         }
     ],
-    "id": "STORY_42_DOCUMENT_0",
-    "old_id": "TRIPLET_176_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

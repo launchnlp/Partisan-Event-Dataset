@@ -1,5 +1,7 @@
 {
     "title": "Sinema Agrees to Climate and Tax Deal, Clearing the Way for Votes",
+    "id": "STORY_120_DOCUMENT_0",
+    "split": "test",
     "date": "2022-08-05",
     "topic": "climate-change",
     "source": "New York Times (News)",
@@ -60,9 +62,6 @@
             "text": "After hearing that she had given the bill her support, several Democratic senators and aides celebrated, confident that final passage was within reach."
         }
     ],
-    "id": "STORY_120_DOCUMENT_0",
-    "old_id": "6931_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

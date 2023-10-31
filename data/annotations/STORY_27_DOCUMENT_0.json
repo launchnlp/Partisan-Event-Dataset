@@ -1,5 +1,7 @@
 {
     "title": "Joe Biden, Kamala Harris Tweets Backing Jussie Smollett Remain Up After Guilty Verdict",
+    "id": "STORY_27_DOCUMENT_0",
+    "split": "train",
     "date": "2021-12-10",
     "topic": "crime",
     "source": "Newsweek",
@@ -156,9 +158,6 @@
             "text": "However, soon after Smollett faced allegations of faking the attack, Empire dropped him from its cast."
         }
     ],
-    "id": "STORY_27_DOCUMENT_0",
-    "old_id": "6213_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

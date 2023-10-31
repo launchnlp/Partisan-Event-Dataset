@@ -1,5 +1,7 @@
 {
     "title": "Trump punts on health care until after the 2020 election",
+    "id": "STORY_19_DOCUMENT_0",
+    "split": "train",
     "date": "2019-04-02",
     "topic": "healthcare",
     "source": "CNN (Online News)",
@@ -132,9 +134,6 @@
             "text": "The White House has yet to decide whether it will take the lead on crafting an Obamacare replacement, they said, or whether the President will punt to Republican lawmakers."
         }
     ],
-    "id": "STORY_19_DOCUMENT_0",
-    "old_id": "3674_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

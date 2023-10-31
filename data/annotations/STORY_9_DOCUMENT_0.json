@@ -1,5 +1,7 @@
 {
     "title": "Pence stays at Trump's Doonbeg resort hours away from official meetings",
+    "id": "STORY_9_DOCUMENT_0",
+    "split": "train",
     "date": "2019-09-03",
     "topic": "politics",
     "source": "CNN (Online News)",
@@ -188,9 +190,6 @@
             "text": "He \u2019ll return to the white - walled pub on Tuesday evening , officials said , before retiring to the decidedly more modern establishment blaring the name of his boss ."
         }
     ],
-    "id": "STORY_9_DOCUMENT_0",
-    "old_id": "TRIPLET_056_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

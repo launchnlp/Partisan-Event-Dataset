@@ -1,5 +1,7 @@
 {
     "title": "The CDC finally recognizes the costs of its top-down dictates",
+    "id": "STORY_40_DOCUMENT_0",
+    "split": "train",
     "date": "",
     "topic": "",
     "source": "John Podhoretz",
@@ -128,9 +130,6 @@
             "text": "That is to be welcomed by all ."
         }
     ],
-    "id": "STORY_40_DOCUMENT_0",
-    "old_id": "TRIPLET_1055_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

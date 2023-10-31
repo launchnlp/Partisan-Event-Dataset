@@ -1,5 +1,7 @@
 {
     "title": "Abolish the Police? Those Who Survived the Chaos in Seattle Aren\u2019t So Sure",
+    "id": "STORY_75_DOCUMENT_1",
+    "split": "train",
     "date": "2020-08-11",
     "topic": "race-and-racism",
     "source": "New York Times (News)",
@@ -76,9 +78,6 @@
             "text": "A group of several hundred protesters did, according to Mr. McDermott, breaking down the chain-link fence around his shop and claiming that Mr. McDermott had kidnapped the man."
         }
     ],
-    "id": "STORY_75_DOCUMENT_1",
-    "old_id": "4802_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

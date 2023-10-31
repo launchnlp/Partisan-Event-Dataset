@@ -1,5 +1,7 @@
 {
     "title": "Wayne LaPierre Delivers Fiery Speech At CPAC",
+    "id": "STORY_81_DOCUMENT_0",
+    "split": "train",
     "date": "2013-03-15",
     "topic": "gun_control_and_gun_rights",
     "source": "HuffPost",
@@ -88,9 +90,6 @@
             "text": "\" You keep your advice , we 'll keep our guns . \""
         }
     ],
-    "id": "STORY_81_DOCUMENT_0",
-    "old_id": "TRIPLET_211_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

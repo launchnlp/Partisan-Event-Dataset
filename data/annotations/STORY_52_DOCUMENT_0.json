@@ -1,5 +1,7 @@
 {
     "title": "Poorer Americans get big tax cuts under Democratic plan while the rich get hikes",
+    "id": "STORY_52_DOCUMENT_0",
+    "split": "train",
     "date": "2021-09-16",
     "topic": "federal-budget",
     "source": "Yahoo News",
@@ -84,9 +86,6 @@
             "text": "These are not budget gimmicks.\u201d"
         }
     ],
-    "id": "STORY_52_DOCUMENT_0",
-    "old_id": "5976_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

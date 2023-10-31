@@ -1,5 +1,7 @@
 {
     "title": "Jeff Sessions is leading America back into Reefer Madness | Jamie Peck",
+    "id": "STORY_0_DOCUMENT_0",
+    "split": "train",
     "date": "2017-07-24",
     "topic": "public-health",
     "source": "The Guardian",
@@ -140,9 +142,6 @@
             "text": "Which, judging from recent history, is entirely possible."
         }
     ],
-    "id": "STORY_0_DOCUMENT_0",
-    "old_id": "2476_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

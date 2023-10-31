@@ -1,5 +1,7 @@
 {
     "title": "The Democrats' oil folly",
+    "id": "STORY_146_DOCUMENT_1",
+    "split": "test",
     "date": "2022-10-22",
     "topic": "energy",
     "source": "Byron York",
@@ -132,9 +134,6 @@
             "text": "Then, just remember what happened, and didn't happen, in 2020."
         }
     ],
-    "id": "STORY_146_DOCUMENT_1",
-    "old_id": "7237_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

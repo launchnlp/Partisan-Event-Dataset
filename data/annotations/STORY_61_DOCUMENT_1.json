@@ -1,5 +1,7 @@
 {
     "title": "Confirmed: Boehner's Debt Limit Plan Raises Spending",
+    "id": "STORY_61_DOCUMENT_1",
+    "split": "train",
     "date": "",
     "topic": "",
     "source": "Townhall",
@@ -56,9 +58,6 @@
             "text": "While the military pension cuts should be undone , House Republicans must find a more honest pay for ."
         }
     ],
-    "id": "STORY_61_DOCUMENT_1",
-    "old_id": "TRIPLET_195_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

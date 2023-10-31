@@ -1,5 +1,7 @@
 {
     "title": "State Department: New sanctions are deterring Russian defense sales",
+    "id": "STORY_31_DOCUMENT_0",
+    "split": "train",
     "date": "",
     "topic": "",
     "source": "Washington Examiner",
@@ -100,9 +102,6 @@
             "text": "\u201c The administration should not rest in these efforts and I expect a frequent and regular dialogue on this issue . \u201d"
         }
     ],
-    "id": "STORY_31_DOCUMENT_0",
-    "old_id": "TRIPLET_101_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

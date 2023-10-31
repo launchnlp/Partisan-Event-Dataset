@@ -1,5 +1,7 @@
 {
     "title": "Man Indicted In Rape Of 10-Year-Old Ohio Girl Who Traveled To Indiana For An Abortion",
+    "id": "STORY_151_DOCUMENT_0",
+    "split": "test",
     "date": "2022-07-22",
     "topic": "abortion",
     "source": "The Daily Caller",
@@ -84,9 +86,6 @@
             "text": "She also incorrectly reported that the suspect was 17 year old ."
         }
     ],
-    "id": "STORY_151_DOCUMENT_0",
-    "old_id": "TRIPLET_1063_DOCUMENT_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

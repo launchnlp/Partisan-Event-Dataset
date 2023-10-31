@@ -1,5 +1,7 @@
 {
     "title": "NRA's LaPierre slams Obama administration over gun proposals",
+    "id": "STORY_81_DOCUMENT_1",
+    "split": "train",
     "date": "2013-03-15",
     "topic": "gun_control_and_gun_rights",
     "source": "CNN (Online News)",
@@ -92,9 +94,6 @@
             "text": "It \u2019s sheer madness . \u201d"
         }
     ],
-    "id": "STORY_81_DOCUMENT_1",
-    "old_id": "TRIPLET_211_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

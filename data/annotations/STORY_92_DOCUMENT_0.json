@@ -1,5 +1,7 @@
 {
     "title": "EPA claims replacement for Obama coal rule would save $400 million annually, reduce carbon pollution",
+    "id": "STORY_92_DOCUMENT_0",
+    "split": "train",
     "date": "2018-08-21",
     "topic": "energy",
     "source": "Washington Examiner",
@@ -112,9 +114,6 @@
             "text": "The Trump EPA proposal still faces a 60-day public comment period before being finalized."
         }
     ],
-    "id": "STORY_92_DOCUMENT_0",
-    "old_id": "3185_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

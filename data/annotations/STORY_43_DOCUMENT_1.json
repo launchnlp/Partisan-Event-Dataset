@@ -1,5 +1,7 @@
 {
     "title": "Idaho's gay marriage ban voided",
+    "id": "STORY_43_DOCUMENT_1",
+    "split": "train",
     "date": "2014-05-14",
     "topic": "LGBT",
     "source": "Politico",
@@ -68,9 +70,6 @@
             "text": "\u201cThe court\u2019s ruling is a victory not only for the courageous couples who brought this case, but for everyone who cares about freedom and fairness,\u201d Ferguson said in a statement."
         }
     ],
-    "id": "STORY_43_DOCUMENT_1",
-    "old_id": "950_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

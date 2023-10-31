@@ -1,5 +1,7 @@
 {
     "title": "House Democrats clear path toward passing $3.5 trillion budget bill and infrastructure plan after breaking stalemate",
+    "id": "STORY_54_DOCUMENT_0",
+    "split": "train",
     "date": "2021-08-25",
     "topic": "federal-budget",
     "source": "CNBC",
@@ -72,9 +74,6 @@
             "text": "U.S. House Speaker Nancy Pelosi (D-CA) arrives for a House Democratic caucus meeting amidst ongoing negotiations over budget and infrastructure legislation at the U.S. Capitol in Washington, U.S. August 24, 2021."
         }
     ],
-    "id": "STORY_54_DOCUMENT_0",
-    "old_id": "5914_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

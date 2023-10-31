@@ -1,5 +1,7 @@
 {
     "title": "Media outlets use photo from 1977 yearbook to suggest GOP governor is 'hypocritical' on drag",
+    "id": "STORY_128_DOCUMENT_1",
+    "split": "test",
     "date": "2023-03-02",
     "topic": "LGBT",
     "source": "Fox News (Online News)",
@@ -104,9 +106,6 @@
             "text": "A spokesperson for Lee also stated, \"The bill specifically protects children from obscene, sexualized entertainment, and any attempt to conflate this serious issue with lighthearted school traditions is dishonest and disrespectful to Tennessee families.\""
         }
     ],
-    "id": "STORY_128_DOCUMENT_1",
-    "old_id": "7729_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

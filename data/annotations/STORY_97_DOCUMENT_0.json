@@ -1,5 +1,7 @@
 {
     "title": "Senate Democrats Fail to Advance Sweeping Abortion Bill",
+    "id": "STORY_97_DOCUMENT_0",
+    "split": "dev",
     "date": "2022-05-22",
     "topic": "abortion",
     "source": "National Review",
@@ -120,9 +122,6 @@
             "text": "However , McConnell suggested it is premature to discuss a nationwide abortion ban right now , saying it \u201c puts the cart before the horse . \u201d"
         }
     ],
-    "id": "STORY_97_DOCUMENT_0",
-    "old_id": "abortion_4_2",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Huckabee: Planned Parenthood shooting is 'domestic terrorism'",
+    "id": "STORY_79_DOCUMENT_1",
+    "split": "train",
     "date": "2015-11-29",
     "topic": "violence_in_america",
     "source": "CNN (Online News)",
@@ -104,9 +106,6 @@
             "text": "\u201c That \u2019s what we all need to do \u2013 the family of civilized nations needs to get together and we need to destroy them once and for all . \u201d"
         }
     ],
-    "id": "STORY_79_DOCUMENT_1",
-    "old_id": "TRIPLET_012_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

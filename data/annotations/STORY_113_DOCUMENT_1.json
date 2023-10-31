@@ -1,5 +1,7 @@
 {
     "title": "abortion_3_1",
+    "id": "STORY_113_DOCUMENT_1",
+    "split": "dev",
     "date": "",
     "topic": "",
     "source": "HuffPost",
@@ -104,9 +106,6 @@
             "text": "Our generation will not stop fighting for reproductive rights . \u201d"
         }
     ],
-    "id": "STORY_113_DOCUMENT_1",
-    "old_id": "abortion_3_1",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

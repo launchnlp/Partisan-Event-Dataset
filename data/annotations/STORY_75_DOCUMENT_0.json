@@ -1,5 +1,7 @@
 {
     "title": "\u2018Defund the Police\u2019 is a media fantasy",
+    "id": "STORY_75_DOCUMENT_0",
+    "split": "train",
     "date": "2020-08-11",
     "topic": "race-and-racism",
     "source": "New York Post (Opinion)",
@@ -156,9 +158,6 @@
             "text": "That they do it is obvious to a lot of Americans."
         }
     ],
-    "id": "STORY_75_DOCUMENT_0",
-    "old_id": "4802_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

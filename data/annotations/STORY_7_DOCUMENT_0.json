@@ -1,5 +1,7 @@
 {
     "title": "'We will celebrate my brother's life': George Floyd's family to hold rallies, marches for one-year anniversary of his death",
+    "id": "STORY_7_DOCUMENT_0",
+    "split": "train",
     "date": "2021-05-23",
     "topic": "race-and-racism",
     "source": "USA TODAY",
@@ -148,9 +150,6 @@
             "text": "Follow N'dea Yancey-Bragg on Twitter: @NdeaYanceyBragg"
         }
     ],
-    "id": "STORY_7_DOCUMENT_0",
-    "old_id": "5646_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Transgender track and field athletes can't compete in women's international events",
+    "id": "STORY_139_DOCUMENT_0",
+    "split": "test",
     "date": "2023-03-28",
     "topic": "LGBT",
     "source": "NPR (Online News)",
@@ -112,9 +114,6 @@
             "text": "NPR's Melissa Block contributed reporting."
         }
     ],
-    "id": "STORY_139_DOCUMENT_0",
-    "old_id": "7832_0",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "White House may consider funding for police in schools after Newtown ",
+    "id": "STORY_88_DOCUMENT_1",
+    "split": "train",
     "date": "2013-01-11",
     "topic": "gun_control_and_gun_rights",
     "source": "Washington Post",
@@ -168,9 +170,6 @@
             "text": "\u201c The introduction of police officers into schools has detrimental impact on young people . \u201d"
         }
     ],
-    "id": "STORY_88_DOCUMENT_1",
-    "old_id": "TRIPLET_201_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

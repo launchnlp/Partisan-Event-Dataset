@@ -1,5 +1,7 @@
 {
     "title": "Unreal: Labor Department May Delay Jobs Report Until After Election ",
+    "id": "STORY_24_DOCUMENT_0",
+    "split": "train",
     "date": "2012-10-29",
     "topic": "elections",
     "source": "Townhall",
@@ -84,9 +86,6 @@
             "text": "Parting quotation : \" Never let a serious crisis go to waste . \""
         }
     ],
-    "id": "STORY_24_DOCUMENT_0",
-    "old_id": "TRIPLET_226_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Trump Wants the U.S. Military 'To Secure' the U.S.-Mexico Border ",
+    "id": "STORY_55_DOCUMENT_0",
+    "split": "train",
     "date": "2018-04-04",
     "topic": "white_house",
     "source": "Reason",
@@ -60,9 +62,6 @@
             "text": "If he sends National Guard troops to the border , and those troops work with state authorities , he will be following in the footsteps of recent presidents ."
         }
     ],
-    "id": "STORY_55_DOCUMENT_0",
-    "old_id": "TRIPLET_113_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

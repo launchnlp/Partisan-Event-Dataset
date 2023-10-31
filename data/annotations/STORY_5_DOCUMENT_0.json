@@ -1,5 +1,7 @@
 {
     "title": "Texas governor signs extreme six-week abortion ban into law",
+    "id": "STORY_5_DOCUMENT_0",
+    "split": "train",
     "date": "2021-05-19",
     "topic": "abortion",
     "source": "The Guardian",
@@ -152,9 +154,6 @@
             "text": "\u201c The law will be challenged with the goal of stopping it from ever taking effect . \u201d"
         }
     ],
-    "id": "STORY_5_DOCUMENT_0",
-    "old_id": "TRIPLET_160_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

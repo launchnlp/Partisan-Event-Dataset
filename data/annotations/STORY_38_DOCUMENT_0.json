@@ -1,5 +1,7 @@
 {
     "title": "McEnany: Trump shared video of man shouting \u2018white power\u2019 to stand with \u2018demonized\u2019 supporters",
+    "id": "STORY_38_DOCUMENT_0",
+    "split": "train",
     "date": "2020-06-29",
     "topic": "race-and-racism",
     "source": "The Hill",
@@ -60,9 +62,6 @@
             "text": "What he did see was tremendous enthusiasm from his many supporters.\u201d"
         }
     ],
-    "id": "STORY_38_DOCUMENT_0",
-    "old_id": "4676_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "South Dakotans 'pissed off' and 'angry' over Keystone XL cancellation",
+    "id": "STORY_94_DOCUMENT_1",
+    "split": "train",
     "date": "2021-06-11",
     "topic": "energy",
     "source": "Washington Examiner",
@@ -184,9 +186,6 @@
             "text": "The final cost to the Canadian government is expected to be $1 billion."
         }
     ],
-    "id": "STORY_94_DOCUMENT_1",
-    "old_id": "5710_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

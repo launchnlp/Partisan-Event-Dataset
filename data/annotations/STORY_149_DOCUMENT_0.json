@@ -1,5 +1,7 @@
 {
     "title": "Here's Why President Biden Just Said He's Been Affected by Cancer",
+    "id": "STORY_149_DOCUMENT_0",
+    "split": "test",
     "date": "2022-07-20",
     "topic": "climate-change",
     "source": "People",
@@ -96,9 +98,6 @@
             "text": "The original video can be found on C-SPAN."
         }
     ],
-    "id": "STORY_149_DOCUMENT_0",
-    "old_id": "6871_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

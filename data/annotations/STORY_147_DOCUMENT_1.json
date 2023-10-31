@@ -1,5 +1,7 @@
 {
     "title": "White House Review Of 2021 Afghanistan Withdrawal Blames Trump",
+    "id": "STORY_147_DOCUMENT_1",
+    "split": "test",
     "date": "2023-04-07",
     "topic": "national_defense",
     "source": "Forbes",
@@ -92,9 +94,6 @@
             "text": "Most Americans Now Think U.S. Should\u2019ve Kept Some Troops In Afghanistan\u2014Despite Previously Backing War\u2019s End (Forbes)"
         }
     ],
-    "id": "STORY_147_DOCUMENT_1",
-    "old_id": "7874_0",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

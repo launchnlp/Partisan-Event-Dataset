@@ -1,5 +1,7 @@
 {
     "title": "Medicare Advantage Plans May Face Cuts",
+    "id": "STORY_6_DOCUMENT_0",
+    "split": "train",
     "date": "",
     "topic": "",
     "source": "Newsmax (News)",
@@ -120,9 +122,6 @@
             "text": "Health insurance stocks that soared in 2013 slipped at the start of this year after Humana Inc. , the second - largest in the market , said rate cuts could be deeper than expected ."
         }
     ],
-    "id": "STORY_6_DOCUMENT_0",
-    "old_id": "TRIPLET_189_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

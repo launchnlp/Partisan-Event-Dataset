@@ -1,5 +1,7 @@
 {
     "title": "Hil on the grill: Benghazi committee demands Clinton testify on emails",
+    "id": "STORY_59_DOCUMENT_1",
+    "split": "train",
     "date": "",
     "topic": "",
     "source": "Washington Times",
@@ -128,9 +130,6 @@
             "text": "\u201c It is not a matter of playing favorites ; it is a matter of further harming [ through delay ] our right to know under the Freedom of Information Act , which the agency has trashed , \u201d Mr. Fitton said ."
         }
     ],
-    "id": "STORY_59_DOCUMENT_1",
-    "old_id": "TRIPLET_001_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

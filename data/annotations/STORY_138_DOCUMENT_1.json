@@ -1,5 +1,7 @@
 {
     "title": "Opinion | Will It Be Morning in Joe Biden\u2019s America?",
+    "id": "STORY_138_DOCUMENT_1",
+    "split": "test",
     "date": "2023-01-16",
     "topic": "2024-election",
     "source": "Paul Krugman",
@@ -72,9 +74,6 @@
             "text": "But to the extent that the economic landscape shapes the political landscape, things look far better for Democrats now than almost anyone imagined until very recently."
         }
     ],
-    "id": "STORY_138_DOCUMENT_1",
-    "old_id": "7562_0",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

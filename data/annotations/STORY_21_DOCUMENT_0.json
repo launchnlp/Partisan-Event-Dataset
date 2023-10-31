@@ -1,5 +1,7 @@
 {
     "title": "Texas abortion law Supreme Court ruling Dec. 10, 2021",
+    "id": "STORY_21_DOCUMENT_0",
+    "split": "train",
     "date": "2021-12-10",
     "topic": "abortion",
     "source": "CNN (Online News)",
@@ -56,9 +58,6 @@
             "text": "Indiana and 19 other Republican - led states filed a brief in support of Texas , arguing that the district court that ruled in favor of the Department of Justice \" threatens to expose every State in the Union to a suit by the federal Executive Branch whenever the U.S. Attorney General deems a state law to violate some constitutional right of someone , somewhere . \""
         }
     ],
-    "id": "STORY_21_DOCUMENT_0",
-    "old_id": "TRIPLET_1069_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

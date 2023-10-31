@@ -1,5 +1,7 @@
 {
     "title": "Migrants flown to Martha\u2019s Vineyard sue DeSantis in class action alleging fraud",
+    "id": "STORY_145_DOCUMENT_1",
+    "split": "test",
     "date": "2022-09-21",
     "topic": "immigration",
     "source": "NBC News (Online)",
@@ -80,9 +82,6 @@
             "text": "DeSantis has insisted that no laws were broken , and he has pledged to continue his administration \u2019s $ 12 million program to relocate migrants ."
         }
     ],
-    "id": "STORY_145_DOCUMENT_1",
-    "old_id": "TRIPLET_1313_DOCUMENT_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

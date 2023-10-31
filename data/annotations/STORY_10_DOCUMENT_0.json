@@ -1,5 +1,7 @@
 {
     "title": "Treasury Department admits Senate tax plan won\u2019t pay for itself",
+    "id": "STORY_10_DOCUMENT_0",
+    "split": "train",
     "date": "2017-12-12",
     "topic": "tax",
     "source": "Vox",
@@ -104,9 +106,6 @@
             "text": "And by other, more skeptical methods, things look even worse."
         }
     ],
-    "id": "STORY_10_DOCUMENT_0",
-    "old_id": "2710_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

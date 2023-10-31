@@ -1,5 +1,7 @@
 {
     "title": "Biden's decision on massive Alaska oil project looms",
+    "id": "STORY_127_DOCUMENT_0",
+    "split": "test",
     "date": "2023-03-07",
     "topic": "energy",
     "source": "Fox Business",
@@ -84,9 +86,6 @@
             "text": "Senate Energy and Natural Resources Committee Chairman Joe Manchin, D-W.Va., slammed the BOEM for the memo, saying in a press release, \"I am appalled by its contents, which make crystal clear that this administration is literally putting their radical climate agenda ahead of the needs of the people of Alaska and the United States.\""
         }
     ],
-    "id": "STORY_127_DOCUMENT_0",
-    "old_id": "7748_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Title 42, the xenophobic Trump-era migrant policy, is dead (again)",
+    "id": "STORY_129_DOCUMENT_0",
+    "split": "test",
     "date": "2022-11-24",
     "topic": "immigration",
     "source": "MSNBC",
@@ -84,9 +86,6 @@
             "text": "Let \u2019s hope Tuesday \u2019s ruling killed it off for good ."
         }
     ],
-    "id": "STORY_129_DOCUMENT_0",
-    "old_id": "TRIPLET_1323_DOCUMENT_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

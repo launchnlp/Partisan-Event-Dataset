@@ -1,5 +1,7 @@
 {
     "title": "5 Things to Watch in Senate Races Tuesday Night  ",
+    "id": "STORY_85_DOCUMENT_0",
+    "split": "train",
     "date": "2014-11-02",
     "topic": "elections",
     "source": "Newsmax (News)",
@@ -172,9 +174,6 @@
             "text": "Assuming they do n't lose in Georgia , Kentucky or Kansas , Republicans could secure the Senate majority with three victories among these competitive states : Arkansas , North Carolina , Iowa , Colorado and New Hampshire ."
         }
     ],
-    "id": "STORY_85_DOCUMENT_0",
-    "old_id": "TRIPLET_177_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

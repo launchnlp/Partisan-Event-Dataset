@@ -1,5 +1,7 @@
 {
     "title": "Democratic states sue Trump for gutting signature Obama emissions rule for coal plants",
+    "id": "STORY_36_DOCUMENT_1",
+    "split": "train",
     "date": "",
     "topic": "",
     "source": "Washington Examiner",
@@ -92,9 +94,6 @@
             "text": "Democratic states and environmental groups contend Trump EPA's preference for plants to make efficiency upgrades falls short of that standard, which they say envisioned a systemwide rule allowing for a wholesale shift away from coal."
         }
     ],
-    "id": "STORY_36_DOCUMENT_1",
-    "old_id": "3913_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

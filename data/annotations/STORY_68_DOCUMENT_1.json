@@ -1,5 +1,7 @@
 {
     "title": "Democrats and Republicans frustrated by debt deal",
+    "id": "STORY_68_DOCUMENT_1",
+    "split": "train",
     "date": "2021-10-08",
     "topic": "federal-budget",
     "source": "Axios",
@@ -144,9 +146,6 @@
             "text": "We need to get rid of it altogether,\" said Sen. Elizabeth Warren (D-Mass.)."
         }
     ],
-    "id": "STORY_68_DOCUMENT_1",
-    "old_id": "6037_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

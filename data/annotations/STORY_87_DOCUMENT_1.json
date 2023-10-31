@@ -1,5 +1,7 @@
 {
     "title": "Trey Gowdy Focusing On Hillary Clinton Allies In Closed Benghazi Committee Interviews",
+    "id": "STORY_87_DOCUMENT_1",
+    "split": "train",
     "date": "2015-10-18",
     "topic": "us_house",
     "source": "HuffPost",
@@ -136,9 +138,6 @@
             "text": "This post has been updated to note that Gowdy 's spokesman said Cummings has n't attended many of the committee interviews either ."
         }
     ],
-    "id": "STORY_87_DOCUMENT_1",
-    "old_id": "TRIPLET_029_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

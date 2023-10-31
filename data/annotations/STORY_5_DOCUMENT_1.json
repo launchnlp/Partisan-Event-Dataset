@@ -1,5 +1,7 @@
 {
     "title": "Texas Governor Signs First of Its Kind Fetal Heartbeat Law That Leaves Enforcement to Private Citizens",
+    "id": "STORY_5_DOCUMENT_1",
+    "split": "train",
     "date": "2021-05-19",
     "topic": "abortion",
     "source": "National Review",
@@ -84,9 +86,6 @@
             "text": "The Court said it will take a case involving a Mississippi law passed in 2018 that bans abortions after 15 weeks with limited exceptions ."
         }
     ],
-    "id": "STORY_5_DOCUMENT_1",
-    "old_id": "TRIPLET_160_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

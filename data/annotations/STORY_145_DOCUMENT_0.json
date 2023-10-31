@@ -1,5 +1,7 @@
 {
     "title": "DeSantis Admin Slams Lawsuit Filed by Martha's Vineyard Migrants",
+    "id": "STORY_145_DOCUMENT_0",
+    "split": "test",
     "date": "2022-09-21",
     "topic": "immigration",
     "source": "Breitbart News",
@@ -92,9 +94,6 @@
             "text": "Speaking to reporters in Martha \u2019s Vineyard near the shelter where migrants were being housed , immigration attorney Rachel Self also accused DeSantis of \u201c kidnapping \u201d the migrants by sending them to an island where millionaires vacation ."
         }
     ],
-    "id": "STORY_145_DOCUMENT_0",
-    "old_id": "TRIPLET_1313_DOCUMENT_0",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Biden\u2019s student loan cancellation plan to cost $400B, Congressional Budget Office estimates",
+    "id": "STORY_140_DOCUMENT_1",
+    "split": "test",
     "date": "2022-09-26",
     "topic": "federal-budget",
     "source": "NBC News (Online)",
@@ -108,9 +110,6 @@
             "text": "Rep. Mariannette Miller-Meeks, R-Iowa, tweeted, \"President Biden isn\u2019t forgiving student loans\u2014he\u2019s charging hardworking Americans $400 billion.\""
         }
     ],
-    "id": "STORY_140_DOCUMENT_1",
-    "old_id": "7137_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "18 states sue Trump administration over halted Obamacare subsidies",
+    "id": "STORY_13_DOCUMENT_0",
+    "split": "train",
     "date": "2017-10-15",
     "topic": "healthcare",
     "source": "Salon",
@@ -68,9 +70,6 @@
             "text": "The lawsuit is hoping to achieve a temporary restraining order and also injunctions that would require the government to continue the subsidies for the ACA."
         }
     ],
-    "id": "STORY_13_DOCUMENT_0",
-    "old_id": "2613_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

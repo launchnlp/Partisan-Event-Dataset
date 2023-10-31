@@ -1,5 +1,7 @@
 {
     "title": "Clinton Foundation to continue accepting foreign money during Hillary's run",
+    "id": "STORY_67_DOCUMENT_0",
+    "split": "train",
     "date": "2015-04-16",
     "topic": "elections",
     "source": "CNN (Online News)",
@@ -32,9 +34,6 @@
             "text": "\u201c By implementing this new , even stronger and more transparent policy , the Clinton Foundation is reinforcing its commitment to accountability while protecting programs that are improving the lives of millions of people around the world , \u201d he said ."
         }
     ],
-    "id": "STORY_67_DOCUMENT_0",
-    "old_id": "TRIPLET_002_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

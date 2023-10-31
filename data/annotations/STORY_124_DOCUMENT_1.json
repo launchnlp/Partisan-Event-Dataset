@@ -1,5 +1,7 @@
 {
     "title": "Biden turning to Trump-era rule to expel Venezuelan migrants",
+    "id": "STORY_124_DOCUMENT_1",
+    "split": "test",
     "date": "2022-10-16",
     "topic": "immigration",
     "source": "Associated Press",
@@ -132,9 +134,6 @@
             "text": "\u201c People have a right to seek asylum \u2013 regardless of where they came from , how they arrive in the United States , and whether or not they have family here , \u201d said ACLU lawyer Lee Gelernt ."
         }
     ],
-    "id": "STORY_124_DOCUMENT_1",
-    "old_id": "TRIPLET_1040_DOCUMENT_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

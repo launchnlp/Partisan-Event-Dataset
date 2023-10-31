@@ -1,5 +1,7 @@
 {
     "title": "Obama Confronts Hecklers At Immigration Speech",
+    "id": "STORY_50_DOCUMENT_1",
+    "split": "train",
     "date": "2013-11-26",
     "topic": "immigration",
     "source": "HuffPost",
@@ -136,9 +138,6 @@
             "text": "\" I think he genuinely wants to get it done , and that 's something we should be thankful for this week . \""
         }
     ],
-    "id": "STORY_50_DOCUMENT_1",
-    "old_id": "TRIPLET_209_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Obama hears the discontent over immigration loud and clear, rebukes heckler",
+    "id": "STORY_50_DOCUMENT_0",
+    "split": "train",
     "date": "2013-11-26",
     "topic": "immigration",
     "source": "Washington Times",
@@ -188,9 +190,6 @@
             "text": "\u201c It \u2019s time Speaker Boehner and the House of Representatives address America \u2019s moral crisis \u2014 a dysfunctional immigration system that has continuously undermined the integrity of our national values and the unity of our families , \u201d the activists said in a statement ."
         }
     ],
-    "id": "STORY_50_DOCUMENT_0",
-    "old_id": "TRIPLET_209_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

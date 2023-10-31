@@ -1,5 +1,7 @@
 {
     "title": "Obamacare signup delayed -- for 2015",
+    "id": "STORY_91_DOCUMENT_0",
+    "split": "train",
     "date": "2013-11-22",
     "topic": "healthcare",
     "source": "CNN (Online News)",
@@ -140,9 +142,6 @@
             "text": "Obamacare is even less popular ."
         }
     ],
-    "id": "STORY_91_DOCUMENT_0",
-    "old_id": "TRIPLET_199_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Editorial: America, the IRS is the good guy; tax cheats are the bad guys",
+    "id": "STORY_150_DOCUMENT_1",
+    "split": "test",
     "date": "2023-01-12",
     "topic": "tax",
     "source": "The Palm Beach Post",
@@ -136,9 +138,6 @@
             "text": "Or, are they mainly using their IRS complaints as cover for tax cuts for wealthy constituents and corporate donors, and to starve the agency so it can\u2019t go after tax cheats?"
         }
     ],
-    "id": "STORY_150_DOCUMENT_1",
-    "old_id": "7552_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

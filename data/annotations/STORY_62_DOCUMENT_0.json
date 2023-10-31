@@ -1,5 +1,7 @@
 {
     "title": "All Talk, No Action: Trump Furious Over Border Wall Funding And Yes\u2013He Threatened A Shutdown",
+    "id": "STORY_62_DOCUMENT_0",
+    "split": "train",
     "date": "2018-06-19",
     "topic": "immigration",
     "source": "Townhall",
@@ -164,9 +166,6 @@
             "text": "Well , that would be moderate Republicans ."
         }
     ],
-    "id": "STORY_62_DOCUMENT_0",
-    "old_id": "TRIPLET_116_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

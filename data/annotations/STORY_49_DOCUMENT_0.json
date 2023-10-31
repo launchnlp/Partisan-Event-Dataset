@@ -1,5 +1,7 @@
 {
     "title": "Scandal-Plagued Sen. Amy Klobuchar Announces 2020 Presidential Run",
+    "id": "STORY_49_DOCUMENT_0",
+    "split": "train",
     "date": "2019-02-11",
     "topic": "elections",
     "source": "Reason",
@@ -120,9 +122,6 @@
             "text": "So far this year , Klobuchar has introduced legislation to strengthen federal law enforcement involvement in cases of stalking and domestic violence , to ban deals between pharmaceutical companies that delay generic versions of medication coming to market , and to tighten regulations on social media companies ."
         }
     ],
-    "id": "STORY_49_DOCUMENT_0",
-    "old_id": "TRIPLET_078_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

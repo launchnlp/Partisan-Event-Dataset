@@ -1,5 +1,7 @@
 {
     "title": "'My intention is ... to run,' Biden tells ABC's Muir on reelection decision",
+    "id": "STORY_143_DOCUMENT_0",
+    "split": "test",
     "date": "2023-02-27",
     "topic": "2024-election",
     "source": "ABC News (Online)",
@@ -116,9 +118,6 @@
             "text": "Biden's eldest granddaughter, Naomi Biden also responded to her grandmother's comments on Twitter, saying \"Preach nana.\""
         }
     ],
-    "id": "STORY_143_DOCUMENT_0",
-    "old_id": "7717_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

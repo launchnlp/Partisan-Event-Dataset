@@ -1,5 +1,7 @@
 {
     "title": "Bipartisan Senate Coalition Floats Expanded Background Checks, Red Flag Laws for Guns",
+    "id": "STORY_115_DOCUMENT_0",
+    "split": "dev",
     "date": "2022-05-27",
     "topic": "gun",
     "source": "National Review",
@@ -100,9 +102,6 @@
             "text": "On Wednesday , Senate Majority Leader Chuck Schumer abandoned his push to hold an immediate vote on legislation to strengthen background checks for gun purchasers , instead urging Americans to make gun control a priority at the voting booth in the 2022 midterms ."
         }
     ],
-    "id": "STORY_115_DOCUMENT_0",
-    "old_id": "gun_8_2",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

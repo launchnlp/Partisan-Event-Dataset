@@ -1,5 +1,7 @@
 {
     "title": "Surprise: Clinton Foundation Will Keep Receiving Donations From Foreign Governments",
+    "id": "STORY_67_DOCUMENT_1",
+    "split": "train",
     "date": "2015-04-16",
     "topic": "elections",
     "source": "Townhall",
@@ -64,9 +66,6 @@
             "text": "On a separate note , despite being a so - called advocate and champion for women around the world , Hillary Clinton has gladly accepted millions in donations to her Foundation from countries like Saudi Arabia , where women have practically zero human rights ."
         }
     ],
-    "id": "STORY_67_DOCUMENT_1",
-    "old_id": "TRIPLET_002_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

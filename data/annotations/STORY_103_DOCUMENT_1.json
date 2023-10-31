@@ -1,5 +1,7 @@
 {
     "title": "Biden admin to rescind Trump \u2018conscience\u2019 rule for health workers",
+    "id": "STORY_103_DOCUMENT_1",
+    "split": "dev",
     "date": "2022-04-19",
     "topic": "healthcare",
     "source": "Politico",
@@ -56,9 +58,6 @@
             "text": "Still, she added, \u201cThis action will go a long way toward strengthening patient access to high-quality health care and protecting the integrity of key HHS programs, including the Title X family planning program.\u201d"
         }
     ],
-    "id": "STORY_103_DOCUMENT_1",
-    "old_id": "6569_0",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

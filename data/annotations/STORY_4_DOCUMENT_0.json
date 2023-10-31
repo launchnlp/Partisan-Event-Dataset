@@ -1,5 +1,7 @@
 {
     "title": "Trump admin bars federal funding for abortion clinics",
+    "id": "STORY_4_DOCUMENT_0",
+    "split": "train",
     "date": "2019-02-22",
     "topic": "abortion",
     "source": "Washington Times",
@@ -124,9 +126,6 @@
             "text": "In a statement to the press , HHS clarified a range of implications because of the reassertion of Title X , including the accessibility of birth control for low - income individuals \u201c if they are unable to obtain employer - sponsored insurance coverage for certain contraceptive services due to their employer \u2019s religious beliefs or moral convictions and the limitations of their own financial resources . \u201d"
         }
     ],
-    "id": "STORY_4_DOCUMENT_0",
-    "old_id": "TRIPLET_073_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

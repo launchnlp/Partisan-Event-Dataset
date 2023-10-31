@@ -1,5 +1,7 @@
 {
     "title": "Joe Biden's 'you ain't black' comment: The scourge of the left's identity politics",
+    "id": "STORY_56_DOCUMENT_0",
+    "split": "train",
     "date": "2020-05-28",
     "topic": "race_and_racism",
     "source": "Washington Times",
@@ -200,9 +202,6 @@
             "text": "That , however , will make even more Democratic \u201c leaders \u201d strike out ."
         }
     ],
-    "id": "STORY_56_DOCUMENT_0",
-    "old_id": "TRIPLET_146_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

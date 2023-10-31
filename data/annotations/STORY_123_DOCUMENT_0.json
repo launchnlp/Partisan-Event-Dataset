@@ -1,5 +1,7 @@
 {
     "title": "\u2018Can Feel Excruciating Pain\u2019: Sen. Lindsey Graham Defends 15-Week Abortion Limit",
+    "id": "STORY_123_DOCUMENT_0",
+    "split": "test",
     "date": "2022-09-13",
     "topic": "abortion",
     "source": "The Daily Caller",
@@ -108,9 +110,6 @@
             "text": "My legislation is a counter to their proposal , \u201d Graham said ."
         }
     ],
-    "id": "STORY_123_DOCUMENT_0",
-    "old_id": "abortion_11_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

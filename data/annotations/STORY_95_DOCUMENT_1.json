@@ -1,5 +1,7 @@
 {
     "title": "At the NRA Convention, People Blame Mass Shootings on Everything but Guns",
+    "id": "STORY_95_DOCUMENT_1",
+    "split": "dev",
     "date": "2022-05-29",
     "topic": "gun",
     "source": "Mother Jones",
@@ -184,9 +186,6 @@
             "text": "And the gun-loving Republican Party looks set to clean up in the November midterm elections ."
         }
     ],
-    "id": "STORY_95_DOCUMENT_1",
-    "old_id": "gun_9_2",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

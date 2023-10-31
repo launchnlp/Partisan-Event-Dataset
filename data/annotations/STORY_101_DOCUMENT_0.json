@@ -1,5 +1,7 @@
 {
     "title": "Senate passes bipartisan gun legislation, sending measure to House",
+    "id": "STORY_101_DOCUMENT_0",
+    "split": "dev",
     "date": "2022-06-23",
     "topic": "gun",
     "source": "Washington Examiner",
@@ -76,9 +78,6 @@
             "text": "While House GOP leaders are whipping against the measure , it is expected to pass the House before Congress breaks for its Fourth of July recess ."
         }
     ],
-    "id": "STORY_101_DOCUMENT_0",
-    "old_id": "gun_11_1",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

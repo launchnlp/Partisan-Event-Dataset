@@ -1,5 +1,7 @@
 {
     "title": "Michigan deal bars LGBTQ discrimination in state adoptions",
+    "id": "STORY_73_DOCUMENT_1",
+    "split": "train",
     "date": "2019-03-22",
     "topic": "LGBT",
     "source": "NBC News (Online)",
@@ -88,9 +90,6 @@
             "text": "Under the settlement, the state must enforce non-discrimination provisions in its contracts in cases where an agency accepts a referral but refuses to work with LGBTQ people interested in fostering or adopting any of the children it has accepted."
         }
     ],
-    "id": "STORY_73_DOCUMENT_1",
-    "old_id": "3648_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

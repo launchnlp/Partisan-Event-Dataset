@@ -1,5 +1,7 @@
 {
     "title": "Spirit Mountain: Biden declares largest national monument of his presidency in Nevada",
+    "id": "STORY_136_DOCUMENT_0",
+    "split": "test",
     "date": "2023-03-22",
     "topic": "energy",
     "source": "CNN (Online News)",
@@ -148,9 +150,6 @@
             "text": "\u201cIt would give me a sense of relief that people in my community cannot have that burden on their shoulders, being threatened by possibly losing a piece of us,\u201d she told CNN."
         }
     ],
-    "id": "STORY_136_DOCUMENT_0",
-    "old_id": "7812_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "US 'launched cyber-attack on Iran weapons systems'",
+    "id": "STORY_58_DOCUMENT_1",
+    "split": "train",
     "date": "2019-06-23",
     "topic": "national_defense",
     "source": "BBC News",
@@ -144,9 +146,6 @@
             "text": "\" We could have shot down that one too , but we did not , \" he said ."
         }
     ],
-    "id": "STORY_58_DOCUMENT_1",
-    "old_id": "TRIPLET_072_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

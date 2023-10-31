@@ -1,5 +1,7 @@
 {
     "title": "Biden contradicted by Pentagon on claims al Qaeda \u2018gone\u2019 and Taliban letting Americans reach Kabul airport",
+    "id": "STORY_80_DOCUMENT_0",
+    "split": "train",
     "date": "2021-08-20",
     "topic": "national_defense",
     "source": "New York Post (News)",
@@ -176,9 +178,6 @@
             "text": "His administration on Thursday abandoned plans to charge evacuees $2,000 or more for departure flights."
         }
     ],
-    "id": "STORY_80_DOCUMENT_0",
-    "old_id": "5903_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

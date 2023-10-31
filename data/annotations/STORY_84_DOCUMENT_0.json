@@ -1,5 +1,7 @@
 {
     "title": "Democrat senator refuses to leave all-white private beach club despite championing racial justice",
+    "id": "STORY_84_DOCUMENT_0",
+    "split": "train",
     "date": "2021-06-21",
     "topic": "race-and-racism",
     "source": "The Independent",
@@ -84,9 +86,6 @@
             "text": "\"Racism is the air we breathe in this country, there is no place, absolutely no place that can be named that was not the site of a forcible removal or slaughter of indigenous people, or the trade, whipping, and forced labor of Black people.\""
         }
     ],
-    "id": "STORY_84_DOCUMENT_0",
-    "old_id": "5728_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

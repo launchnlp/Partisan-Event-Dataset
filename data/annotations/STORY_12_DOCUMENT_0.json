@@ -1,5 +1,7 @@
 {
     "title": "Sessions likens California sanctuary laws to slave-state nullification",
+    "id": "STORY_12_DOCUMENT_0",
+    "split": "train",
     "date": "2018-03-09",
     "topic": "immigration",
     "source": "Washington Times",
@@ -80,9 +82,6 @@
             "text": "They argue that immigrants , including those in the country legally , are less willing to cooperate on reporting other crimes if they fear immigration agents could become involved ."
         }
     ],
-    "id": "STORY_12_DOCUMENT_0",
-    "old_id": "TRIPLET_125_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

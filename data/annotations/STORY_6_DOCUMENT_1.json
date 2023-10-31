@@ -1,5 +1,7 @@
 {
     "title": "U.S. Proposes Cuts to Rates in Medicare Payments",
+    "id": "STORY_6_DOCUMENT_1",
+    "split": "train",
     "date": "",
     "topic": "",
     "source": "New York Times (News)",
@@ -120,9 +122,6 @@
             "text": "In addition , Democrats say , Republicans have proposed changes in Medicare that could put older Americans at even greater risk , giving each beneficiary a fixed amount of federal money to spend on either private insurance or traditional Medicare ."
         }
     ],
-    "id": "STORY_6_DOCUMENT_1",
-    "old_id": "TRIPLET_189_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

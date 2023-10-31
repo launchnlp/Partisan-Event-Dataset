@@ -1,5 +1,7 @@
 {
     "title": "Justice Department announces challenge to Georgia's restrictive voting law",
+    "id": "STORY_23_DOCUMENT_0",
+    "split": "train",
     "date": "2021-06-26",
     "topic": "race-and-racism",
     "source": "NBC News (Online)",
@@ -80,9 +82,6 @@
             "text": "Trump responded to the announcement with a statement calling on Georgia voters to sue their state over the results of the election and repeating his unsubstantiated claims of fraud."
         }
     ],
-    "id": "STORY_23_DOCUMENT_0",
-    "old_id": "5747_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

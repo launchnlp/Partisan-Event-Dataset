@@ -1,5 +1,7 @@
 {
     "title": "House Votes to Delay Two Requirements of the Health Care Overhaul",
+    "id": "STORY_66_DOCUMENT_0",
+    "split": "train",
     "date": "2013-07-18",
     "topic": "healthcare",
     "source": "New York Times (News)",
@@ -164,9 +166,6 @@
             "text": "To check eligibility , income and citizenship , the federal government is establishing a computer network that will link the insurance exchanges with federal agencies including the Department of Health and Human Services , the I.R.S. , the Social Security Administration and the Department of Homeland Security ."
         }
     ],
-    "id": "STORY_66_DOCUMENT_0",
-    "old_id": "TRIPLET_200_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

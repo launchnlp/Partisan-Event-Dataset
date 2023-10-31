@@ -1,5 +1,7 @@
 {
     "title": "Trump Administration Finalizes Rollback of Obama Gas Mileage Standards",
+    "id": "STORY_82_DOCUMENT_0",
+    "split": "train",
     "date": "2020-03-31",
     "topic": "climate-change",
     "source": "Breitbart News",
@@ -108,9 +110,6 @@
             "text": "The NHTSA estimated that the Trump administration would save thousands of American lives, including 3,300 fewer crash fatalities, 397,000 fewer injuries, and more than 1.8 million fewer vehicles damaged in crashes over the lifetimes of vehicles built according to the SAFE standards."
         }
     ],
-    "id": "STORY_82_DOCUMENT_0",
-    "old_id": "4436_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

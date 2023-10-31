@@ -1,5 +1,7 @@
 {
     "title": "Progressive Philadelphia DA Larry Krasner Impeached Amid Rise In Crime",
+    "id": "STORY_118_DOCUMENT_1",
+    "split": "test",
     "date": "2022-11-19",
     "topic": "crime",
     "source": "The Daily Caller",
@@ -84,9 +86,6 @@
             "text": "So far in 2022, the city\u2019s police department has recorded 5% fewer homicides after a record high 562 were tallied in 2021."
         }
     ],
-    "id": "STORY_118_DOCUMENT_1",
-    "old_id": "7353_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

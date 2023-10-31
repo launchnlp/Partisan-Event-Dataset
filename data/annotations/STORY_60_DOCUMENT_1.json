@@ -1,5 +1,7 @@
 {
     "title": "Keystone pipeline wins Senate vote in victory for GOP, Mitch McConnell",
+    "id": "STORY_60_DOCUMENT_1",
+    "split": "train",
     "date": "2015-01-29",
     "topic": "energy",
     "source": "Los Angeles Times",
@@ -140,9 +142,6 @@
             "text": "Opponents argue another new pipeline will only worsen dependence on oil and contribute to climate change, though studies show Keystone alone would not likely have a major effect on greenhouse gas emissions."
         }
     ],
-    "id": "STORY_60_DOCUMENT_1",
-    "old_id": "1292_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

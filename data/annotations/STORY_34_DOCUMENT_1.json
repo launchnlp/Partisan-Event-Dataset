@@ -1,5 +1,7 @@
 {
     "title": "Arizona Latinos Prefer Barack Obama, Richard Carmona ",
+    "id": "STORY_34_DOCUMENT_1",
+    "split": "train",
     "date": "2012-10-11",
     "topic": "elections",
     "source": "HuffPost",
@@ -64,9 +66,6 @@
             "text": "The same proportion as in Arizona -- 55 percent -- said they knew an undocumented immigrant between the ages of 5 and 31 , and a majority supported the president 's policy ."
         }
     ],
-    "id": "STORY_34_DOCUMENT_1",
-    "old_id": "TRIPLET_222_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

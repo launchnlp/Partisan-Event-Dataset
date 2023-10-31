@@ -1,5 +1,7 @@
 {
     "title": "Republican senators warn Iranian leaders about limits of White House-negotiated nuclear deal",
+    "id": "STORY_47_DOCUMENT_1",
+    "split": "train",
     "date": "2015-03-09",
     "topic": "us_senate",
     "source": "Washington Times",
@@ -160,9 +162,6 @@
             "text": "The Bush White House called those comments \u201c disturbing . \u201d"
         }
     ],
-    "id": "STORY_47_DOCUMENT_1",
-    "old_id": "TRIPLET_023_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

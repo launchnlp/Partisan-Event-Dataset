@@ -1,5 +1,7 @@
 {
     "title": "22 states sue Trump over repeal of Obama-era power plant rules",
+    "id": "STORY_36_DOCUMENT_0",
+    "split": "train",
     "date": "",
     "topic": "",
     "source": "The Hill",
@@ -88,9 +90,6 @@
             "text": "The District of Columbia; Boulder, Colo.; Chicago; Los Angeles; New York City; Philadelphia; and South Miami are also party to the suit."
         }
     ],
-    "id": "STORY_36_DOCUMENT_0",
-    "old_id": "3913_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

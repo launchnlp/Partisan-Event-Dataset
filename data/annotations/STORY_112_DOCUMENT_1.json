@@ -1,5 +1,7 @@
 {
     "title": "gun_6_2",
+    "id": "STORY_112_DOCUMENT_1",
+    "split": "dev",
     "date": "",
     "topic": "",
     "source": "The Washington Post",
@@ -188,9 +190,6 @@
             "text": "And so , with that performance , McConaughey really put Congress to shame ."
         }
     ],
-    "id": "STORY_112_DOCUMENT_1",
-    "old_id": "gun_6_2",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

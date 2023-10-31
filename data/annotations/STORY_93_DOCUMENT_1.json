@@ -1,5 +1,7 @@
 {
     "title": "Rep. Cori Bush scorched for referring to women as \u2018birthing people:' She's reducing mothers 'to a function'",
+    "id": "STORY_93_DOCUMENT_1",
+    "split": "train",
     "date": "2021-05-10",
     "topic": "race-and-racism",
     "source": "Fox News (Online News)",
@@ -136,9 +138,6 @@
             "text": "Reproductive freedom is for *every* body.\""
         }
     ],
-    "id": "STORY_93_DOCUMENT_1",
-    "old_id": "5606_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

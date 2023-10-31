@@ -1,5 +1,7 @@
 {
     "title": "Democrats Pass $3.5 Trillion Budget After Moderate Democrats Cave",
+    "id": "STORY_54_DOCUMENT_1",
+    "split": "train",
     "date": "2021-08-25",
     "topic": "federal-budget",
     "source": "Breitbart News",
@@ -152,9 +154,6 @@
             "text": "\u201cOn process alone, House Republicans should stand united against Speaker Pelosi\u2019s ploy to railroad the Budget Resolution through the House,\u201d Brandon added."
         }
     ],
-    "id": "STORY_54_DOCUMENT_1",
-    "old_id": "5914_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

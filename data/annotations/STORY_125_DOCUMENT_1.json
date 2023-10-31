@@ -1,5 +1,7 @@
 {
     "title": "Teacher Who Showed LGBT-Themed Disney Film In Classroom Accuses Concerned Parents Of Not Loving Their Children",
+    "id": "STORY_125_DOCUMENT_1",
+    "split": "test",
     "date": "2023-05-16",
     "topic": "LGBT",
     "source": "The Daily Caller",
@@ -72,9 +74,6 @@
             "text": "The school vowed to investigate how the incident was handled weeks after it occurred, once the Florida Department of Education reached out about the matter."
         }
     ],
-    "id": "STORY_125_DOCUMENT_1",
-    "old_id": "8027_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Trump\u2019s 1776 Commission Critiques Liberalism in Report Derided by Historians",
+    "id": "STORY_78_DOCUMENT_0",
+    "split": "train",
     "date": "2021-01-19",
     "topic": "race-and-racism",
     "source": "New York Times (News)",
@@ -44,9 +46,6 @@
             "text": "Released on Martin Luther King\u2019s Birthday, the report even takes aim at the legacy of the Civil Rights movement, saying that it \u201cwas almost immediately turned to programs that ran counter to the lofty ideals of the founders.\u201d"
         }
     ],
-    "id": "STORY_78_DOCUMENT_0",
-    "old_id": "5276_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

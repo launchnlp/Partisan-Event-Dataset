@@ -1,5 +1,7 @@
 {
     "title": "Trump Vetoes Defense-Spending Bill, Calls It \u2018A Gift to China and Russia\u2019",
+    "id": "STORY_70_DOCUMENT_0",
+    "split": "train",
     "date": "2020-12-23",
     "topic": "national_defense",
     "source": "The Epoch Times",
@@ -120,9 +122,6 @@
             "text": "\u201cI very much am opposed to the Afghan war, and I\u2019ve told them I\u2019ll come back to try to prevent them from easily overriding the president\u2019s veto,\u201d he said."
         }
     ],
-    "id": "STORY_70_DOCUMENT_0",
-    "old_id": "5206_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

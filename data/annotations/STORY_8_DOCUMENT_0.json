@@ -1,5 +1,7 @@
 {
     "title": "Gun filibuster appears to misfire for conservative backers",
+    "id": "STORY_8_DOCUMENT_0",
+    "split": "train",
     "date": "2013-04-11",
     "topic": "gun_control_and_gun_rights",
     "source": "CNN (Online News)",
@@ -144,9 +146,6 @@
             "text": "I think the American people would prefer that I think we \u2019ll have better government if we do . \u201d"
         }
     ],
-    "id": "STORY_8_DOCUMENT_0",
-    "old_id": "TRIPLET_219_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

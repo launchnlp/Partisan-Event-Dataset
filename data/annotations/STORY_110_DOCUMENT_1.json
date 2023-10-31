@@ -1,5 +1,7 @@
 {
     "title": "There is no need for more COVID money",
+    "id": "STORY_110_DOCUMENT_1",
+    "split": "dev",
     "date": "2022-03-18",
     "topic": "federal-budget",
     "source": "Washington Examiner",
@@ -112,9 +114,6 @@
             "text": "He has let the inflation genie loose, and it is throwing lightning bolts at the recovering economy he inherited."
         }
     ],
-    "id": "STORY_110_DOCUMENT_1",
-    "old_id": "6487_2",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

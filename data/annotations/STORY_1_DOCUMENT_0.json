@@ -1,5 +1,7 @@
 {
     "title": "Donald Trump: Democrats 'Medicare for All' plan will demolish promises to seniors",
+    "id": "STORY_1_DOCUMENT_0",
+    "split": "train",
     "date": "2018-10-10",
     "topic": "healthcare",
     "source": "Donald Trump",
@@ -180,9 +182,6 @@
             "text": "For the sake of our country, our prosperity, our seniors and all Americans \u2014 this is a fight we must win."
         }
     ],
-    "id": "STORY_1_DOCUMENT_0",
-    "old_id": "3308_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

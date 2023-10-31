@@ -1,5 +1,7 @@
 {
     "title": "Liberal groups prod Dems to raise taxes to pay for racial justice agenda",
+    "id": "STORY_52_DOCUMENT_1",
+    "split": "train",
     "date": "2021-09-16",
     "topic": "federal-budget",
     "source": "Washington Times",
@@ -72,9 +74,6 @@
             "text": "Underscoring the political tightrope the Democratic leaders face, the far left in the House has said they would not support a separate $1.2 trillion bipartisan infrastructure bill until Congress passes the $3.5 trillion package."
         }
     ],
-    "id": "STORY_52_DOCUMENT_1",
-    "old_id": "5976_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

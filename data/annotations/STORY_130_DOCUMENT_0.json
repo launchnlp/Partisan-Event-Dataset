@@ -1,5 +1,7 @@
 {
     "title": "We Now Know What Trump\u2019s \u2018Wall\u2019 Is For 2024",
+    "id": "STORY_130_DOCUMENT_0",
+    "split": "test",
     "date": "2023-01-30",
     "topic": "2024-election",
     "source": "The Daily Caller",
@@ -64,9 +66,6 @@
             "text": "Both Youngkin and DeSantis may challenge Trump on their education policies if the governors toss in a bid for the 2024 presidential race."
         }
     ],
-    "id": "STORY_130_DOCUMENT_0",
-    "old_id": "7612_0",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

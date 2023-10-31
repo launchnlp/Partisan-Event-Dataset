@@ -1,5 +1,7 @@
 {
     "title": "Bobby Jindal Calls for Senate Leader Mitch McConnell to Resign Next",
+    "id": "STORY_69_DOCUMENT_0",
+    "split": "train",
     "date": "2015-09-26",
     "topic": "us_senate",
     "source": "Breitbart News",
@@ -80,9 +82,6 @@
             "text": "It \u2019s time to have Republicans with a backbone in D.C ."
         }
     ],
-    "id": "STORY_69_DOCUMENT_0",
-    "old_id": "TRIPLET_010_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

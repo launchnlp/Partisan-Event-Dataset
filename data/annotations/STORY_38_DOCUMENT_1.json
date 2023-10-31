@@ -1,5 +1,7 @@
 {
     "title": "It's not enough to delete Trump's 'white power' video tweet (opinion)",
+    "id": "STORY_38_DOCUMENT_1",
+    "split": "train",
     "date": "2020-06-29",
     "topic": "race-and-racism",
     "source": "CNN (Opinion)",
@@ -132,9 +134,6 @@
             "text": "And come November 3, that tribute to white supremacy must be repudiated for the good of our nation."
         }
     ],
-    "id": "STORY_38_DOCUMENT_1",
-    "old_id": "4676_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Health Site Chief Expects Low Initial Enrollment Number",
+    "id": "STORY_30_DOCUMENT_1",
+    "split": "train",
     "date": "2013-10-29",
     "topic": "healthcare",
     "source": "New York Times (News)",
@@ -148,9 +150,6 @@
             "text": "People do n\u2019t have access to health plans , they cannot compare coverage options and the true cost is often underreported or completely hidden . \u201d"
         }
     ],
-    "id": "STORY_30_DOCUMENT_1",
-    "old_id": "TRIPLET_206_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

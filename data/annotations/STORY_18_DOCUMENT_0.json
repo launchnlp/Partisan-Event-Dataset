@@ -1,5 +1,7 @@
 {
     "title": "Trump administration expands government's deportation powers",
+    "id": "STORY_18_DOCUMENT_0",
+    "split": "train",
     "date": "2018-07-23",
     "topic": "immigration",
     "source": "Washington Times",
@@ -80,9 +82,6 @@
             "text": "The prohibition on sharing their information with ICE is also still in place , according to a second memo released Thursday ."
         }
     ],
-    "id": "STORY_18_DOCUMENT_0",
-    "old_id": "TRIPLET_117_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

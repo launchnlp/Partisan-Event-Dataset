@@ -1,5 +1,7 @@
 {
     "title": "Trump just decided not to sanction Russia for its election meddling",
+    "id": "STORY_31_DOCUMENT_1",
+    "split": "train",
     "date": "",
     "topic": "",
     "source": "Reuters",
@@ -144,9 +146,6 @@
             "text": "\u201c Understanding who is lining their pockets at the expense of the Russian people and how to combat their efforts is vital . \u201d"
         }
     ],
-    "id": "STORY_31_DOCUMENT_1",
-    "old_id": "TRIPLET_101_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

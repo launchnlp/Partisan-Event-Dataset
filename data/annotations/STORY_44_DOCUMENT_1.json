@@ -1,5 +1,7 @@
 {
     "title": "Democrats release text of massive social spending bill",
+    "id": "STORY_44_DOCUMENT_1",
+    "split": "train",
     "date": "2021-10-29",
     "topic": "tax",
     "source": "Fox News (Online News)",
@@ -72,9 +74,6 @@
             "text": "Moderate Democratic Sen. Joe Manchin of West Virginia is also withholding support until he sees the text of the bill."
         }
     ],
-    "id": "STORY_44_DOCUMENT_1",
-    "old_id": "6095_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

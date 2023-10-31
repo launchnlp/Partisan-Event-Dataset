@@ -1,5 +1,7 @@
 {
     "title": "New Hampshire abolishes death penalty after state senate overrides governor",
+    "id": "STORY_46_DOCUMENT_1",
+    "split": "train",
     "date": "2019-05-30",
     "topic": "politics",
     "source": "The Guardian",
@@ -128,9 +130,6 @@
             "text": "Another Democrat , former governor John Lynch , signed a bill in 2011 expanding the death penalty to cover home invasions in response to a machete and knife attack that killed a woman and maimed her daughter in Mont Vernon ."
         }
     ],
-    "id": "STORY_46_DOCUMENT_1",
-    "old_id": "TRIPLET_067_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

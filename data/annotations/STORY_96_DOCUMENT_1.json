@@ -1,5 +1,7 @@
 {
     "title": "Tax Day is already bad, and Biden wants to make it worse",
+    "id": "STORY_96_DOCUMENT_1",
+    "split": "dev",
     "date": "2022-04-18",
     "topic": "federal-budget",
     "source": "Grover Norquist",
@@ -236,9 +238,6 @@
             "text": "Grover Norquist is President of Americans for Tax Reform."
         }
     ],
-    "id": "STORY_96_DOCUMENT_1",
-    "old_id": "6572_2",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

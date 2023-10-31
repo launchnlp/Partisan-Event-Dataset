@@ -1,5 +1,7 @@
 {
     "title": "Trump Organization ordered to pay $1.6 million fine for criminal tax fraud",
+    "id": "STORY_134_DOCUMENT_1",
+    "split": "test",
     "date": "2023-01-13",
     "topic": "tax",
     "source": "CBS News (Online)",
@@ -84,9 +86,6 @@
             "text": "The Trump Organization's lawyers said Trump and his company were \"betrayed\" by Weisselberg, saying repeatedly, \"Weisselberg did it for Weisselberg.\""
         }
     ],
-    "id": "STORY_134_DOCUMENT_1",
-    "old_id": "7556_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

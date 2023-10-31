@@ -1,5 +1,7 @@
 {
     "title": "Debt limit chaos awaits Paul Ryan as he seeks House speakership",
+    "id": "STORY_25_DOCUMENT_0",
+    "split": "train",
     "date": "2015-10-26",
     "topic": "us_house",
     "source": "Fox News (Online News)",
@@ -116,9 +118,6 @@
             "text": "It 's a situation certain to provoke howls from the GOP base , especially if it ends up being the first item on a newly installed Speaker Ryan 's to - do list ."
         }
     ],
-    "id": "STORY_25_DOCUMENT_0",
-    "old_id": "TRIPLET_006_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

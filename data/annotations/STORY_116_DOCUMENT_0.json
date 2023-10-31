@@ -1,5 +1,7 @@
 {
     "title": "House Passes Bill Raising Age For Semi-Automatic Gun Ownership To 21",
+    "id": "STORY_116_DOCUMENT_0",
+    "split": "dev",
     "date": "2022-06-08",
     "topic": "gun",
     "source": "The Daily Caller",
@@ -76,9 +78,6 @@
             "text": "Republican South Carolina Sen. Lindsey Graham , who has also been involved in the negotiations , called for certifying veterans to increase the number of armed school security guards ."
         }
     ],
-    "id": "STORY_116_DOCUMENT_0",
-    "old_id": "gun_4_2",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

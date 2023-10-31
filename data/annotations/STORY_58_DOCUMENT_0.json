@@ -1,5 +1,7 @@
 {
     "title": "U.S. cyberattack strikes Iran's military computers",
+    "id": "STORY_58_DOCUMENT_0",
+    "split": "train",
     "date": "2019-06-23",
     "topic": "national_defense",
     "source": "Washington Times",
@@ -104,9 +106,6 @@
             "text": "Iranian leaders also have said they \u2019ll begin disregarding the terms of the Obama - era nuclear agreement and will dramatically increase their stockpiles of uranium ."
         }
     ],
-    "id": "STORY_58_DOCUMENT_0",
-    "old_id": "TRIPLET_072_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

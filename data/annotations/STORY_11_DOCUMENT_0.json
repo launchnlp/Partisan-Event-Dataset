@@ -1,5 +1,7 @@
 {
     "title": "No, Delta doesn\u2019t mean the vaccinated \u2014 or children \u2014 need to mask up again",
+    "id": "STORY_11_DOCUMENT_0",
+    "split": "train",
     "date": "2021-07-21",
     "topic": "coronavirus",
     "source": "New York Post (Opinion)",
@@ -116,9 +118,6 @@
             "text": "He should rein in Fauci and his other allies undermining vaccine confidence : 90 million eligible Americans still have n\u2019t gotten a jab , and their lives may depend on it ."
         }
     ],
-    "id": "STORY_11_DOCUMENT_0",
-    "old_id": "TRIPLET_1056_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

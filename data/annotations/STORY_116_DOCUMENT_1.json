@@ -1,5 +1,7 @@
 {
     "title": "US House passes gun control bill but it faces defeat in Senate",
+    "id": "STORY_116_DOCUMENT_1",
+    "split": "dev",
     "date": "2022-06-09",
     "topic": "gun",
     "source": "The Guardian",
@@ -196,9 +198,6 @@
             "text": "Under the House bill , a judge could issue an order to temporarily remove and store the firearms until a hearing can be held no longer than two weeks later to determine whether the firearms should be returned or kept for a specific period ."
         }
     ],
-    "id": "STORY_116_DOCUMENT_1",
-    "old_id": "gun_4_1",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

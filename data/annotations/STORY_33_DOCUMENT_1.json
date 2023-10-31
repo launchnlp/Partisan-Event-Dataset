@@ -1,5 +1,7 @@
 {
     "title": "Gay Businessman Ian Reisner Apologizes For Hosting Ted Cruz Event",
+    "id": "STORY_33_DOCUMENT_1",
+    "split": "train",
     "date": "2015-04-27",
     "topic": "LGBT",
     "source": "HuffPost",
@@ -68,9 +70,6 @@
             "text": "Again, I am deeply sorry,\" he added."
         }
     ],
-    "id": "STORY_33_DOCUMENT_1",
-    "old_id": "1434_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

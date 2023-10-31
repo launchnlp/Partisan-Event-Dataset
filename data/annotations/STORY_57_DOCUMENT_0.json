@@ -1,5 +1,7 @@
 {
     "title": "Single-payer healthcare isn't what the doctor ordered",
+    "id": "STORY_57_DOCUMENT_0",
+    "split": "train",
     "date": "2017-08-31",
     "topic": "healthcare",
     "source": "Washington Examiner",
@@ -72,9 +74,6 @@
             "text": "But whatever may ail our medical sector, single-payer isn't the cure."
         }
     ],
-    "id": "STORY_57_DOCUMENT_0",
-    "old_id": "2539_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

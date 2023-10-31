@@ -1,5 +1,7 @@
 {
     "title": "Pennsylvania House impeaches Philly prosecutor over policies",
+    "id": "STORY_118_DOCUMENT_0",
+    "split": "test",
     "date": "2022-11-19",
     "topic": "crime",
     "source": "Associated Press",
@@ -144,9 +146,6 @@
             "text": "Voters in San Francisco recalled District Attorney Chesa Boudin in June and an effort to recall Democratic Los Angeles District Attorney George Gasc\u00f3n failed this summer when organizers were unable to get it onto the ballot."
         }
     ],
-    "id": "STORY_118_DOCUMENT_0",
-    "old_id": "7353_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "\u2018Nobody Should Be Thrown Out\u2019: Pope Francis Endorses Same-Sex Civil Union Laws",
+    "id": "STORY_83_DOCUMENT_0",
+    "split": "train",
     "date": "2020-10-21",
     "topic": "LGBT",
     "source": "The Daily Wire",
@@ -124,9 +126,6 @@
             "text": "He continued: \u201cThis is something I am concerned about, because perhaps at one time it did not receive much attention.\u201d"
         }
     ],
-    "id": "STORY_83_DOCUMENT_0",
-    "old_id": "5016_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

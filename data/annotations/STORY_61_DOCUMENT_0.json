@@ -1,5 +1,7 @@
 {
     "title": "John Boehner To Bring Up Clean Debt-Ceiling Vote",
+    "id": "STORY_61_DOCUMENT_0",
+    "split": "train",
     "date": "",
     "topic": "",
     "source": "HuffPost",
@@ -156,9 +158,6 @@
             "text": "\" They 're just having to deal with the anxiety of getting out of the corner they painted themselves into . \""
         }
     ],
-    "id": "STORY_61_DOCUMENT_0",
-    "old_id": "TRIPLET_195_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

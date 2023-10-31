@@ -1,5 +1,7 @@
 {
     "title": "Greta Thunberg: Trump mocks teenage climate activist",
+    "id": "STORY_86_DOCUMENT_0",
+    "split": "train",
     "date": "2019-09-24",
     "topic": "climate-change",
     "source": "CNN (Online News)",
@@ -104,9 +106,6 @@
             "text": "When you are interested about something you just continue to read about it and you get super focused,\u201d she told CNN\u2019s Bill Weir in an interview this month."
         }
     ],
-    "id": "STORY_86_DOCUMENT_0",
-    "old_id": "4000_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

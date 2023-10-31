@@ -1,5 +1,7 @@
 {
     "title": "Obama to continue modified NSA meta-data gathering program",
+    "id": "STORY_15_DOCUMENT_1",
+    "split": "train",
     "date": "2014-01-17",
     "topic": "nsa",
     "source": "Washington Times",
@@ -40,9 +42,6 @@
             "text": "\u201c It would turn these service providers into agents of the intelligence community , \u201d she said ."
         }
     ],
-    "id": "STORY_15_DOCUMENT_1",
-    "old_id": "TRIPLET_170_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

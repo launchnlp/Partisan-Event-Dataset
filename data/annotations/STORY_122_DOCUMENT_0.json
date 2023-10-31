@@ -1,5 +1,7 @@
 {
     "title": "Biden administration to finish portion of Trump's border wall following pressure from Democrat",
+    "id": "STORY_122_DOCUMENT_0",
+    "split": "test",
     "date": "2022-07-29",
     "topic": "immigration",
     "source": "Washington Examiner",
@@ -92,9 +94,6 @@
             "text": "CBP did not provide information about the anticipated cost or completion date of the project ."
         }
     ],
-    "id": "STORY_122_DOCUMENT_0",
-    "old_id": "TRIPLET_1262_DOCUMENT_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

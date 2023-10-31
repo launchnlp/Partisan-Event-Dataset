@@ -1,5 +1,7 @@
 {
     "title": "Trump takes formal step to pull out of Paris climate agreement",
+    "id": "STORY_14_DOCUMENT_1",
+    "split": "train",
     "date": "2019-11-04",
     "topic": "climate-change",
     "source": "New York Post (News)",
@@ -56,9 +58,6 @@
             "text": "The US and China, the world\u2019s two largest carbon emitters, have recently been leading negotiations of the Paris \u201crule book\u201d that outlines transparency and reporting rules for signatories."
         }
     ],
-    "id": "STORY_14_DOCUMENT_1",
-    "old_id": "4090_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

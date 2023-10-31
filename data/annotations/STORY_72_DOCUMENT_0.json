@@ -1,5 +1,7 @@
 {
     "title": "DACA Renewal Applications Resume After Judge's Ruling",
+    "id": "STORY_72_DOCUMENT_0",
+    "split": "train",
     "date": "2018-01-14",
     "topic": "immigration",
     "source": "Townhall",
@@ -84,9 +86,6 @@
             "text": "So far , Republicans and Democrats have not been able to compromise on an immigration reform bill that would also address the problem of illegal aliens and \" Dreamers \" currently in the United States ."
         }
     ],
-    "id": "STORY_72_DOCUMENT_0",
-    "old_id": "TRIPLET_121_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

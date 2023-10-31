@@ -1,5 +1,7 @@
 {
     "title": "Will Breyer Side With Trump in Congressional Subpoena Fight?",
+    "id": "STORY_39_DOCUMENT_0",
+    "split": "train",
     "date": "2020-05-13",
     "topic": "tax",
     "source": "Reason",
@@ -84,9 +86,6 @@
             "text": "A decision in Trump v. Mazars is expected by June."
         }
     ],
-    "id": "STORY_39_DOCUMENT_0",
-    "old_id": "4545_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

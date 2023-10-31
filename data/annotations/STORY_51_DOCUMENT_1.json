@@ -1,5 +1,7 @@
 {
     "title": "Opinion | Joe Manchin\u2019s selfishness",
+    "id": "STORY_51_DOCUMENT_1",
+    "split": "train",
     "date": "2021-09-13",
     "topic": "federal-budget",
     "source": "James Downie",
@@ -172,9 +174,6 @@
             "text": "Sticking to the two-track path is the best chance to ensure that not only does Manchin gets his, but also all Americans get theirs."
         }
     ],
-    "id": "STORY_51_DOCUMENT_1",
-    "old_id": "5963_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

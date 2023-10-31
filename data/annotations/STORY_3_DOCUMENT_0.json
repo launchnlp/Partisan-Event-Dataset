@@ -1,5 +1,7 @@
 {
     "title": "Trump signs executive order on immigration, but says 'zero tolerance' will continue",
+    "id": "STORY_3_DOCUMENT_0",
+    "split": "train",
     "date": "2018-06-20",
     "topic": "immigration",
     "source": "USA TODAY",
@@ -120,9 +122,6 @@
             "text": "he tweeted ."
         }
     ],
-    "id": "STORY_3_DOCUMENT_0",
-    "old_id": "TRIPLET_104_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

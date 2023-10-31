@@ -1,5 +1,7 @@
 {
     "title": "CNN Lost Their Mind (Again): Guess How Long Their Climate Change Town Hall Is",
+    "id": "STORY_29_DOCUMENT_1",
+    "split": "train",
     "date": "2019-09-04",
     "topic": "energy",
     "source": "Townhall",
@@ -112,9 +114,6 @@
             "text": "Their ratings are down the toilet and they need something to help revive them."
         }
     ],
-    "id": "STORY_29_DOCUMENT_1",
-    "old_id": "3951_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

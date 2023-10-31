@@ -1,5 +1,7 @@
 {
     "title": "Biden ready to invoke \u2018domestic mobilization\u2019 against climate crisis after Congress failed",
+    "id": "STORY_135_DOCUMENT_1",
+    "split": "test",
     "date": "2022-07-19",
     "topic": "climate-change",
     "source": "Washington Times",
@@ -148,9 +150,6 @@
             "text": "We\u2019re urging the administration to do things that it can do administratively, and we\u2019re going to look at everything that we can do.\u201d"
         }
     ],
-    "id": "STORY_135_DOCUMENT_1",
-    "old_id": "6864_0",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

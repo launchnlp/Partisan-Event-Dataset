@@ -1,5 +1,7 @@
 {
     "title": "Senate passes most sweeping gun bill in decades, setting up House vote",
+    "id": "STORY_101_DOCUMENT_1",
+    "split": "dev",
     "date": "2022-06-23",
     "topic": "gun",
     "source": "NBC News (Online)",
@@ -152,9 +154,6 @@
             "text": "The shootings were 10 days apart , and there have been more mass shootings since then ."
         }
     ],
-    "id": "STORY_101_DOCUMENT_1",
-    "old_id": "gun_11_2",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

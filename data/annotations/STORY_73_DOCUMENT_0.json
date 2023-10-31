@@ -1,5 +1,7 @@
 {
     "title": "Michigan Orders Faith-Based Adoption Agencies to Violate Their Religious Beliefs",
+    "id": "STORY_73_DOCUMENT_0",
+    "split": "train",
     "date": "2019-03-22",
     "topic": "LGBT",
     "source": "CBN",
@@ -64,9 +66,6 @@
             "text": "The 2015 law says child-placement agencies cannot be forced to provide services that conflict with their sincerely held religious beliefs."
         }
     ],
-    "id": "STORY_73_DOCUMENT_0",
-    "old_id": "3648_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

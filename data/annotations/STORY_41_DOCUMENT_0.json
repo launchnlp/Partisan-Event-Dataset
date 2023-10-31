@@ -1,5 +1,7 @@
 {
     "title": "Donald Trump relents over Paul Ryan re-election",
+    "id": "STORY_41_DOCUMENT_0",
+    "split": "train",
     "date": "2016-08-06",
     "topic": "elections",
     "source": "BBC News",
@@ -92,9 +94,6 @@
             "text": "There 's nothing the media like more than a good candidate comeback story ."
         }
     ],
-    "id": "STORY_41_DOCUMENT_0",
-    "old_id": "TRIPLET_096_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

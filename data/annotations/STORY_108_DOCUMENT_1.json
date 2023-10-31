@@ -1,5 +1,7 @@
 {
     "title": "Jackson: Having diverse Supreme Court \"enhances public confidence\"",
+    "id": "STORY_108_DOCUMENT_1",
+    "split": "dev",
     "date": "2022-03-24",
     "topic": "crime",
     "source": "Axios",
@@ -60,9 +62,6 @@
             "text": "\"I have been so touched by the numbers of people who have reached out to me in this period of time to say how much it has meant to their daughters, to their sons, to the next generation, that I've been appointed, nominated and hopefully confirmed,\" she said."
         }
     ],
-    "id": "STORY_108_DOCUMENT_1",
-    "old_id": "6503_0",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

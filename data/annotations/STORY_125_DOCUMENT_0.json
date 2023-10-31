@@ -1,5 +1,7 @@
 {
     "title": "Florida teacher under investigation for showing 'Strange World' says she didn't know LGBTQ restriction applied to her grade level",
+    "id": "STORY_125_DOCUMENT_0",
+    "split": "test",
     "date": "2023-05-16",
     "topic": "LGBT",
     "source": "CNN (Online News)",
@@ -180,9 +182,6 @@
             "text": "CNN has reached out to Rodriguez and the Hernando County School District for comment."
         }
     ],
-    "id": "STORY_125_DOCUMENT_0",
-    "old_id": "8027_0",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

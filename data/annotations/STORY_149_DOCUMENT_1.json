@@ -1,5 +1,7 @@
 {
     "title": "Biden Appears To Claim He Has Cancer From Oil Refineries; White House Responds",
+    "id": "STORY_149_DOCUMENT_1",
+    "split": "test",
     "date": "2022-07-20",
     "topic": "climate-change",
     "source": "The Daily Wire",
@@ -140,9 +142,6 @@
             "text": "The medical report you cited in your thread says he HAD skin cancers removed and has since had actinic keratoses frozen off since."
         }
     ],
-    "id": "STORY_149_DOCUMENT_1",
-    "old_id": "6871_0",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

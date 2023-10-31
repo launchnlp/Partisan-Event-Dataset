@@ -1,5 +1,7 @@
 {
     "title": "OPINION: Tillerson can survive this Russia trip. Really.",
+    "id": "STORY_2_DOCUMENT_1",
+    "split": "train",
     "date": "2017-04-10",
     "topic": "state_department",
     "source": "USA TODAY",
@@ -172,9 +174,6 @@
             "text": "Mark Simakovsky , also a fellow at the Atlantic Council and vice president at Beacon Global Strategies , served in the Bush and Obama administrations and most recently was chief of staff for NATO and Europe in the Office of the Secretary of Defense ."
         }
     ],
-    "id": "STORY_2_DOCUMENT_1",
-    "old_id": "TRIPLET_031_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

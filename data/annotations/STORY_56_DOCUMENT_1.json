@@ -1,5 +1,7 @@
 {
     "title": "Here\u2019s why black Americans were mad at Biden\u2019s comment \u2014 even if they\u2019d say the same thing themselves",
+    "id": "STORY_56_DOCUMENT_1",
+    "split": "train",
     "date": "2020-05-28",
     "topic": "race_and_racism",
     "source": "Washington Post",
@@ -168,9 +170,6 @@
             "text": "A black woman vice presidential nominee would be an effective signal only if black people themselves perceived her to be committed to the black community \u2019s interests ."
         }
     ],
-    "id": "STORY_56_DOCUMENT_1",
-    "old_id": "TRIPLET_146_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

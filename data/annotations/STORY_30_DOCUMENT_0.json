@@ -1,5 +1,7 @@
 {
     "title": "Top Dem admits ObamaCare could have been 'more precise'",
+    "id": "STORY_30_DOCUMENT_0",
+    "split": "train",
     "date": "2013-10-29",
     "topic": "healthcare",
     "source": "Fox News (Online News)",
@@ -132,9 +134,6 @@
             "text": "She still claimed , though , that \" Nothing in the Affordable Care Act forces people out of their health plans : the law allows plans that covered people at the time the law was enacted to continue to offer that same coverage to the same enrollees - nothing has changed and that coverage can continue into 2014 . \""
         }
     ],
-    "id": "STORY_30_DOCUMENT_0",
-    "old_id": "TRIPLET_206_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Trump\u2019s Plan To Stop Family Separations Is To Detain Families Together",
+    "id": "STORY_3_DOCUMENT_1",
+    "split": "train",
     "date": "2018-06-20",
     "topic": "immigration",
     "source": "HuffPost",
@@ -216,9 +218,6 @@
             "text": "\u201c To repeal that is not consistent with American values . \u201d"
         }
     ],
-    "id": "STORY_3_DOCUMENT_1",
-    "old_id": "TRIPLET_104_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

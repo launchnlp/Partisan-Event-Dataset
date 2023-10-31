@@ -1,5 +1,7 @@
 {
     "title": "Trump Moves Forward On Biggest Environmental Rollback To Date Amid Pandemic Chaos",
+    "id": "STORY_82_DOCUMENT_1",
+    "split": "train",
     "date": "2020-03-31",
     "topic": "climate-change",
     "source": "HuffPost",
@@ -108,9 +110,6 @@
             "text": "\u201cAll of us, especially young people, have to demand better of our government at every level and vote this fall.\u201d"
         }
     ],
-    "id": "STORY_82_DOCUMENT_1",
-    "old_id": "4436_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Black moms are more likely to die in childbirth. Will Congress do anything about it?",
+    "id": "STORY_93_DOCUMENT_0",
+    "split": "train",
     "date": "2021-05-10",
     "topic": "race-and-racism",
     "source": "Los Angeles Times",
@@ -136,9 +138,6 @@
             "text": "This is what being your own advocate looks like,\u201d Bush said."
         }
     ],
-    "id": "STORY_93_DOCUMENT_0",
-    "old_id": "5606_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

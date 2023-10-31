@@ -1,5 +1,7 @@
 {
     "title": "Trump Organization sentenced to pay $1.6M for felony convictions",
+    "id": "STORY_134_DOCUMENT_0",
+    "split": "test",
     "date": "2023-01-13",
     "topic": "tax",
     "source": "Fox Business",
@@ -72,9 +74,6 @@
             "text": "A spokesperson for the Trump Organization told FOX Business that the case was \"unprecedented and legally incorrect\" and said the Trump Organization would appeal the verdict."
         }
     ],
-    "id": "STORY_134_DOCUMENT_0",
-    "old_id": "7556_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

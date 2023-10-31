@@ -1,5 +1,7 @@
 {
     "title": "When does life begin? Religions don't agree",
+    "id": "STORY_100_DOCUMENT_0",
+    "split": "dev",
     "date": "2022-05-08",
     "topic": "abortion",
     "source": "NPR (Online News)",
@@ -188,9 +190,6 @@
             "text": "\" And it 'll go on the long list of unanswered questions . \""
         }
     ],
-    "id": "STORY_100_DOCUMENT_0",
-    "old_id": "abortion_10_2",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

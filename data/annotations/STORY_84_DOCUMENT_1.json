@@ -1,5 +1,7 @@
 {
     "title": "Sheldon Whitehouse doesn't denounce super-exclusive beach club his family belongs to",
+    "id": "STORY_84_DOCUMENT_1",
+    "split": "train",
     "date": "2021-06-21",
     "topic": "race-and-racism",
     "source": "Fox News (Online News)",
@@ -80,9 +82,6 @@
             "text": "Whitehouse, one of the most vocal Democrats on the high-profile Senate Judiciary Committee, said on the anniversary of George Floyd's death late last month that his committee is \"working\u2026 to bring lasting change\" on \"racial injustice.\""
         }
     ],
-    "id": "STORY_84_DOCUMENT_1",
-    "old_id": "5728_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

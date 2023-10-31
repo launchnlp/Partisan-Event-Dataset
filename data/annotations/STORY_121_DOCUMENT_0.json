@@ -1,5 +1,7 @@
 {
     "title": "CNN Boss Doubles Down on Disastrous Trump Town Hall",
+    "id": "STORY_121_DOCUMENT_0",
+    "split": "test",
     "date": "2023-05-11",
     "topic": "2024-election",
     "source": "Daily Beast",
@@ -124,9 +126,6 @@
             "text": "After the broadcast, Trump used his actual unhinged Truth Social feed to thank the \u201cAMAZING\u201d audience who attended, while MAGA figures including Rep. Marjorie Taylor Greene (R-GA) lavished Trump with praise and shared clips of his performance."
         }
     ],
-    "id": "STORY_121_DOCUMENT_0",
-    "old_id": "8009_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

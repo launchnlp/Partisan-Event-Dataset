@@ -1,5 +1,7 @@
 {
     "title": "Biden admin cancels massive oil and gas lease sale amid record-high gas prices",
+    "id": "STORY_99_DOCUMENT_0",
+    "split": "dev",
     "date": "2022-05-12",
     "topic": "energy",
     "source": "Fox Business",
@@ -164,9 +166,6 @@
             "text": "\"Together with an all-of-government approach, we can combat the effects of climate change while creating good-paying union jobs that can benefit underserved communities.\""
         }
     ],
-    "id": "STORY_99_DOCUMENT_0",
-    "old_id": "6644_2",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

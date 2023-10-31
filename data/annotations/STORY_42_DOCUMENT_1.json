@@ -1,5 +1,7 @@
 {
     "title": "Administration Considers Giving Honduran Youth Refugee Status",
+    "id": "STORY_42_DOCUMENT_1",
+    "split": "train",
     "date": "",
     "topic": "",
     "source": "Townhall",
@@ -104,9 +106,6 @@
             "text": "Update : Guy Benson weighed in on the issue on Fox News ' \" America 's Newsroom \" today ."
         }
     ],
-    "id": "STORY_42_DOCUMENT_1",
-    "old_id": "TRIPLET_176_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

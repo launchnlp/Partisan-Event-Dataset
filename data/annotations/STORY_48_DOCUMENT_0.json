@@ -1,5 +1,7 @@
 {
     "title": "Goya Foods' CEO said U.S. 'blessed' to have Trump as a leader, and calls for boycott quickly followed",
+    "id": "STORY_48_DOCUMENT_0",
+    "split": "train",
     "date": "2020-07-10",
     "topic": "race-and-racism",
     "source": "NBC News (Online)",
@@ -144,9 +146,6 @@
             "text": "\"All clear,\" he said."
         }
     ],
-    "id": "STORY_48_DOCUMENT_0",
-    "old_id": "4710_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

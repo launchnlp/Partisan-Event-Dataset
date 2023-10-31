@@ -1,5 +1,7 @@
 {
     "title": "Obama On Debt Ceiling: 'We Are Not A Deadbeat Nation'",
+    "id": "STORY_37_DOCUMENT_0",
+    "split": "train",
     "date": "2013-01-14",
     "topic": "federal_budget",
     "source": "HuffPost",
@@ -100,9 +102,6 @@
             "text": "But the White House has been reluctant to consider a unilateral action , maintaining that the 14th Amendment -- one such proposed option -- does not give the president the authority to ignore the debt ceiling ."
         }
     ],
-    "id": "STORY_37_DOCUMENT_0",
-    "old_id": "TRIPLET_210_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

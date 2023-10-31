@@ -1,5 +1,7 @@
 {
     "title": "'Fox & Friends' Host Falsely Claims Alexandria Ocasio-Cortez Will Tax 70 Percent Of Paychecks",
+    "id": "STORY_17_DOCUMENT_0",
+    "split": "train",
     "date": "2019-01-15",
     "topic": "tax",
     "source": "HuffPost",
@@ -160,9 +162,6 @@
             "text": "The newly elected representative tweeted that she got \u201cunder his skin\u201d and that she\u2019d \u201csay we\u2019d be taxing 70% of Trump\u2019s income, but he probably hasn\u2019t made more than $10 million in years - and that\u2019s the real reason he\u2019s hiding his taxes.\u201d"
         }
     ],
-    "id": "STORY_17_DOCUMENT_0",
-    "old_id": "3532_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

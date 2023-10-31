@@ -1,5 +1,7 @@
 {
     "title": "Obamacare spiked by federal judge in Texas",
+    "id": "STORY_28_DOCUMENT_0",
+    "split": "train",
     "date": "2018-12-15",
     "topic": "healthcare",
     "source": "Washington Times",
@@ -172,9 +174,6 @@
             "text": "The American Medical Association decried the ruling as \u201can incredible step backward\u201d for the U.S. health care system."
         }
     ],
-    "id": "STORY_28_DOCUMENT_0",
-    "old_id": "3467_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

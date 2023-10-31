@@ -1,5 +1,7 @@
 {
     "title": "Biden To Host George Floyd\u2019s Family At White House On Anniversary Of His Death",
+    "id": "STORY_7_DOCUMENT_1",
+    "split": "train",
     "date": "2021-05-23",
     "topic": "race-and-racism",
     "source": "The Daily Wire",
@@ -92,9 +94,6 @@
             "text": "Some Democrats (and many Republicans) have bristled at the concept of ending qualified immunity for police officers, leaving them open to civil suits for rights violations."
         }
     ],
-    "id": "STORY_7_DOCUMENT_1",
-    "old_id": "5646_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

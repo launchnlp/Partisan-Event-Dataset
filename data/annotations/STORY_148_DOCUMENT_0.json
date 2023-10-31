@@ -1,5 +1,7 @@
 {
     "title": "Pelosi says House Democrats are looking at legislation to protect personal data in reproductive apps and other actions post-Roe v. Wade",
+    "id": "STORY_148_DOCUMENT_0",
+    "split": "test",
     "date": "2022-06-27",
     "topic": "abortion",
     "source": "Insider",
@@ -100,9 +102,6 @@
             "text": "\" And so there 's a direct targeting that 's taking place into pro-life states . \""
         }
     ],
-    "id": "STORY_148_DOCUMENT_0",
-    "old_id": "abortion_13_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Opinion | Joe Biden: My Plan to Extend Medicare for Another Generation",
+    "id": "STORY_144_DOCUMENT_1",
+    "split": "test",
     "date": "2023-03-08",
     "topic": "tax",
     "source": "Joe Biden",
@@ -80,9 +82,6 @@
             "text": "When Medicare was passed, the wealthiest 1 percent of Americans didn\u2019t have more than five times the wealth of the bottom 50 percent combined, and it only makes sense that some adjustments be made to reflect that reality today."
         }
     ],
-    "id": "STORY_144_DOCUMENT_1",
-    "old_id": "7755_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "The Trump administration is finalizing plans to strip funding from Planned Parenthood",
+    "id": "STORY_4_DOCUMENT_1",
+    "split": "train",
     "date": "2019-02-22",
     "topic": "abortion",
     "source": "Vox",
@@ -176,9 +178,6 @@
             "text": "And with a potential challenge to Roe v. Wade on the horizon , Trump may see opposition to abortion \u2014 and to Planned Parenthood \u2014 as a winning strategy going into 2020 ."
         }
     ],
-    "id": "STORY_4_DOCUMENT_1",
-    "old_id": "TRIPLET_073_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

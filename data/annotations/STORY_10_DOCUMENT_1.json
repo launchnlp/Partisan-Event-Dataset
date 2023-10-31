@@ -1,5 +1,7 @@
 {
     "title": "Treasury report says tax-cut plan will more than pay for itself, add $300 billion in revenue",
+    "id": "STORY_10_DOCUMENT_1",
+    "split": "train",
     "date": "2017-12-12",
     "topic": "tax",
     "source": "Washington Times",
@@ -92,9 +94,6 @@
             "text": "\u2022 Dave Boyer can be reached at dboyer@washingtontimes.com."
         }
     ],
-    "id": "STORY_10_DOCUMENT_1",
-    "old_id": "2710_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

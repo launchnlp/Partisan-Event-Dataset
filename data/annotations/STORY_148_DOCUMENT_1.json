@@ -1,5 +1,7 @@
 {
     "title": "Pelosi tells House Democrats abortion legislation is forthcoming to codify Roe",
+    "id": "STORY_148_DOCUMENT_1",
+    "split": "test",
     "date": "2022-06-27",
     "topic": "abortion",
     "source": "Washington Examiner",
@@ -60,9 +62,6 @@
             "text": "\u201c It is essential that we protect and expand our pro-choice Majorities in the House and Senate in November so that we can eliminate the filibuster so that we can restore women \u2019s fundamental rights \u2013 and freedom for every American , \u201d she wrote ."
         }
     ],
-    "id": "STORY_148_DOCUMENT_1",
-    "old_id": "abortion_13_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

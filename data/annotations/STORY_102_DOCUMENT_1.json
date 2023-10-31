@@ -1,5 +1,7 @@
 {
     "title": "Mr. President, Do You Favor Third-Trimester Abortions?",
+    "id": "STORY_102_DOCUMENT_1",
+    "split": "dev",
     "date": "2022-05-04",
     "topic": "abortion",
     "source": "Andrew C. McCarthy",
@@ -104,9 +106,6 @@
             "text": "That would demonstrate who the real extremists are ."
         }
     ],
-    "id": "STORY_102_DOCUMENT_1",
-    "old_id": "abortion_8_1",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

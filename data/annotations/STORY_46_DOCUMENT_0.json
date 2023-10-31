@@ -1,5 +1,7 @@
 {
     "title": "New Hampshire Just Abolished the Death Penalty",
+    "id": "STORY_46_DOCUMENT_0",
+    "split": "train",
     "date": "2019-05-30",
     "topic": "politics",
     "source": "Reason",
@@ -52,9 +54,6 @@
             "text": "She recounted her own experience just before voting for the legislation , saying : \" My mother forgave whoever it was , and I will vote in favor of this bill . \""
         }
     ],
-    "id": "STORY_46_DOCUMENT_0",
-    "old_id": "TRIPLET_067_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

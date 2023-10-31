@@ -1,5 +1,7 @@
 {
     "title": "Twitter made it easier to harass transgender users",
+    "id": "STORY_142_DOCUMENT_1",
+    "split": "test",
     "date": "2023-04-19",
     "topic": "LGBT",
     "source": "The Verge",
@@ -40,9 +42,6 @@
             "text": "\u201cSocial media companies committed to maintaining safe environments for LGBTQ people should be working to improve hate speech policies, not deleting long-standing ones,\u201d said GLAAD president and CEO Sarah Kate Ellis in a statement."
         }
     ],
-    "id": "STORY_142_DOCUMENT_1",
-    "old_id": "7920_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

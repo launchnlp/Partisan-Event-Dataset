@@ -1,5 +1,7 @@
 {
     "title": "Trump praises Putin for refusing to retaliate on sanctions",
+    "id": "STORY_74_DOCUMENT_1",
+    "split": "train",
     "date": "2016-12-31",
     "topic": "politics",
     "source": "USA TODAY",
@@ -76,9 +78,6 @@
             "text": "The president - elect is scheduled to return to New York City on New Year 's Day ."
         }
     ],
-    "id": "STORY_74_DOCUMENT_1",
-    "old_id": "TRIPLET_089_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

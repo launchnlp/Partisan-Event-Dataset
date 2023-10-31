@@ -1,5 +1,7 @@
 {
     "title": "Illinois city approves first reparations program for Black residents",
+    "id": "STORY_65_DOCUMENT_0",
+    "split": "train",
     "date": "2021-03-23",
     "topic": "race-and-racism",
     "source": "The Guardian",
@@ -84,9 +86,6 @@
             "text": "Fleming said the approved expenditure is a \u201chousing program with the title reparations\u201d and noted that it did not allow people to \u201cdictate the terms of how they are repaired\u201d."
         }
     ],
-    "id": "STORY_65_DOCUMENT_0",
-    "old_id": "5465_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

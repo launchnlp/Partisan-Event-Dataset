@@ -1,5 +1,7 @@
 {
     "title": "Larry Klayman: Unethical for Cohen to Secretly Tape Trump",
+    "id": "STORY_89_DOCUMENT_1",
+    "split": "train",
     "date": "2018-07-20",
     "topic": "politics",
     "source": "Newsmax (News)",
@@ -92,9 +94,6 @@
             "text": "I 'd fight it . \""
         }
     ],
-    "id": "STORY_89_DOCUMENT_1",
-    "old_id": "TRIPLET_119_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

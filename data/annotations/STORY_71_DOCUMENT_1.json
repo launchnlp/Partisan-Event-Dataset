@@ -1,5 +1,7 @@
 {
     "title": "First Take: Can a 'wacko bird' take flight in the GOP?",
+    "id": "STORY_71_DOCUMENT_1",
+    "split": "train",
     "date": "2015-03-23",
     "topic": "elections",
     "source": "USA TODAY",
@@ -120,9 +122,6 @@
             "text": "At one point , he urged his audience to \" take out your cellphones \" and text the word \" Constitution \" or \" Liberty \" \u2014 \" we 're flexible , \" he said \u2014 to a number linked to his campaign ."
         }
     ],
-    "id": "STORY_71_DOCUMENT_1",
-    "old_id": "TRIPLET_021_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

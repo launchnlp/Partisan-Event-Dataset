@@ -1,5 +1,7 @@
 {
     "title": "Opinion | The IRS urgently needs more money and staff",
+    "id": "STORY_96_DOCUMENT_0",
+    "split": "dev",
     "date": "2022-04-18",
     "topic": "federal-budget",
     "source": "Washington Post",
@@ -116,9 +118,6 @@
             "text": "\u201cThis is my norm.\u201d IRS workers \u2014 and taxpayers \u2014 deserve better."
         }
     ],
-    "id": "STORY_96_DOCUMENT_0",
-    "old_id": "6572_0",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Biden Under Pressure to Declare Climate Emergency as Agenda Nosedives",
+    "id": "STORY_135_DOCUMENT_0",
+    "split": "test",
     "date": "2022-07-19",
     "topic": "climate-change",
     "source": "Vanity Fair",
@@ -120,9 +122,6 @@
             "text": "\u201cNow\u2019s the time to make good on that promise.\u201d"
         }
     ],
-    "id": "STORY_135_DOCUMENT_0",
-    "old_id": "6864_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

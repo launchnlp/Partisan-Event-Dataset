@@ -1,5 +1,7 @@
 {
     "title": "Rick Perry actually tried to argue that fossil fuels can help fight sexual assault",
+    "id": "STORY_32_DOCUMENT_1",
+    "split": "train",
     "date": "2017-11-02",
     "topic": "energy",
     "source": "Vox",
@@ -112,9 +114,6 @@
             "text": "When it comes to Perry, though, it means that his statements range from ridiculous and wrong to questionable."
         }
     ],
-    "id": "STORY_32_DOCUMENT_1",
-    "old_id": "2643_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

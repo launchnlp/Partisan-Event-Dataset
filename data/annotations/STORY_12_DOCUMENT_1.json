@@ -1,5 +1,7 @@
 {
     "title": "Sessions Targets California Immigrants Using a Ruling That Protected Them",
+    "id": "STORY_12_DOCUMENT_1",
+    "split": "train",
     "date": "2018-03-09",
     "topic": "immigration",
     "source": "New York Times (News)",
@@ -224,9 +226,6 @@
             "text": "\u201c The sound exercise of national power over immigration depends on the nation \u2019s meeting its responsibility to base its laws on a political will informed by searching , thoughtful , rational civic discourse . \u201d"
         }
     ],
-    "id": "STORY_12_DOCUMENT_1",
-    "old_id": "TRIPLET_125_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

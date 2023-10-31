@@ -1,5 +1,7 @@
 {
     "title": "Judge Puts Pennsylvania Voter ID Law On Hold Through Election",
+    "id": "STORY_76_DOCUMENT_0",
+    "split": "train",
     "date": "2012-10-02",
     "topic": "elections",
     "source": "NPR (Online News)",
@@ -68,9 +70,6 @@
             "text": "The Pittsburgh Post - Gazette explains Simpon 's ruling this way : \" The injunction would have the effect of extending the transition period of the law \u2014 when voters were asked for identification but could vote without it \u2014 through the November election . \""
         }
     ],
-    "id": "STORY_76_DOCUMENT_0",
-    "old_id": "TRIPLET_227_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

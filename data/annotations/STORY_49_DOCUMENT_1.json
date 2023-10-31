@@ -1,5 +1,7 @@
 {
     "title": "Republicans gush over Klobuchar",
+    "id": "STORY_49_DOCUMENT_1",
+    "split": "train",
     "date": "2019-02-11",
     "topic": "elections",
     "source": "Politico",
@@ -244,9 +246,6 @@
             "text": "\u2026 \u2018 Why ca n\u2019t you all work together to address the challenges facing this country ? \u2019 \u201d"
         }
     ],
-    "id": "STORY_49_DOCUMENT_1",
-    "old_id": "TRIPLET_078_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

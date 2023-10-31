@@ -1,5 +1,7 @@
 {
     "title": "Michael Hayden: President Obama to hold his ground",
+    "id": "STORY_15_DOCUMENT_0",
+    "split": "train",
     "date": "2014-01-17",
     "topic": "nsa",
     "source": "Politico",
@@ -72,9 +74,6 @@
             "text": "Before Hayden \u2019s interview , the White House had not confirmed what changes to the program Obama would suggest making ."
         }
     ],
-    "id": "STORY_15_DOCUMENT_0",
-    "old_id": "TRIPLET_170_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

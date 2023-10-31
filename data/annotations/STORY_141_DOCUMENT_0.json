@@ -1,5 +1,7 @@
 {
     "title": "Trump\u2019s indictment has united the Republican Party in apocalyptic rage",
+    "id": "STORY_141_DOCUMENT_0",
+    "split": "test",
     "date": "2023-04-03",
     "topic": "2024-election",
     "source": "Vox",
@@ -108,9 +110,6 @@
             "text": "But every high is eventually followed by a crash, and the question is whether Trump can keep the outrage pumping for the next two years \u2014 then again, he has done it for the past seven."
         }
     ],
-    "id": "STORY_141_DOCUMENT_0",
-    "old_id": "7854_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Big Oil profits aren\u2019t driving gas prices, experts say, despite Biden\u2019s \u2018price gouging\u2019 accusations",
+    "id": "STORY_117_DOCUMENT_0",
+    "split": "test",
     "date": "2022-07-07",
     "topic": "energy",
     "source": "Washington Times",
@@ -148,9 +150,6 @@
             "text": "\u201cThese actions are not beneficial to meeting the challenges we face and are not what the American people deserve.\u201d"
         }
     ],
-    "id": "STORY_117_DOCUMENT_0",
-    "old_id": "6827_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

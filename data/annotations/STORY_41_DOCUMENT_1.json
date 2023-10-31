@@ -1,5 +1,7 @@
 {
     "title": "Paul Ryan 1, Donald Trump 0",
+    "id": "STORY_41_DOCUMENT_1",
+    "split": "train",
     "date": "2016-08-06",
     "topic": "elections",
     "source": "Washington Post",
@@ -132,9 +134,6 @@
             "text": "But clearly , this was one case in which he bowed to the kind of political reality he usually shrugs at ."
         }
     ],
-    "id": "STORY_41_DOCUMENT_1",
-    "old_id": "TRIPLET_096_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

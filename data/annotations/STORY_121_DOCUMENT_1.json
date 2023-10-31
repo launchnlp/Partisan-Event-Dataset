@@ -1,5 +1,7 @@
 {
     "title": "CNN facing 'fury' from staffers over Trump town hall: 'It felt like 2016 all over again'",
+    "id": "STORY_121_DOCUMENT_1",
+    "split": "test",
     "date": "2023-05-11",
     "topic": "2024-election",
     "source": "Fox News (Online News)",
@@ -184,9 +186,6 @@
             "text": "It\u2019s about ratings and money,\" Fanone wrote in a scathing Rolling Stone column."
         }
     ],
-    "id": "STORY_121_DOCUMENT_1",
-    "old_id": "8009_0",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

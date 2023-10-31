@@ -1,5 +1,7 @@
 {
     "title": "Background checks brokered: Sens. Toomey and Manchin reach gun deal",
+    "id": "STORY_63_DOCUMENT_1",
+    "split": "train",
     "date": "2013-04-10",
     "topic": "gun_control_and_gun_rights",
     "source": "Washington Times",
@@ -52,9 +54,6 @@
             "text": "At least nine Republican senators have signaled they \u2019ll vote with Democrats to bring the bill to the floor , though it \u2019s unclear whether all Democrats will support the package ."
         }
     ],
-    "id": "STORY_63_DOCUMENT_1",
-    "old_id": "TRIPLET_214_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

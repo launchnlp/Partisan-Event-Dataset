@@ -1,5 +1,7 @@
 {
     "title": "Vatican says it will not bless same-sex unions, calling them a \u2018sin\u2019",
+    "id": "STORY_35_DOCUMENT_1",
+    "split": "train",
     "date": "2021-03-15",
     "topic": "LGBT",
     "source": "CNN (Online News)",
@@ -96,9 +98,6 @@
             "text": "A push alert with the incorrect wording was also sent."
         }
     ],
-    "id": "STORY_35_DOCUMENT_1",
-    "old_id": "5448_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Chris Christie: Parents Should Have 'Some Measure Of Choice' On Vaccinating Their Children",
+    "id": "STORY_45_DOCUMENT_1",
+    "split": "train",
     "date": "2015-02-02",
     "topic": "politics",
     "source": "HuffPost",
@@ -104,9 +106,6 @@
             "text": "It 's also been updated with clarification on Christie 's remarks from his spokesman ."
         }
     ],
-    "id": "STORY_45_DOCUMENT_1",
-    "old_id": "TRIPLET_041_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

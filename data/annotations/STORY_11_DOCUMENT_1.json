@@ -1,5 +1,7 @@
 {
     "title": "Op-Ed: Why face mask mandates for all should be back on the table",
+    "id": "STORY_11_DOCUMENT_1",
+    "split": "train",
     "date": "2021-07-21",
     "topic": "coronavirus",
     "source": "Los Angeles Times",
@@ -132,9 +134,6 @@
             "text": "To prevent more illnesses and deaths , more counties will again need to require everyone to mask up ."
         }
     ],
-    "id": "STORY_11_DOCUMENT_1",
-    "old_id": "TRIPLET_1056_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

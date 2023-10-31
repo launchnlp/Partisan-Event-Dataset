@@ -1,5 +1,7 @@
 {
     "title": "Bipartisan group of senators meet on gun safety legislation, may find consensus on red-flag measure",
+    "id": "STORY_115_DOCUMENT_1",
+    "split": "dev",
     "date": "2022-05-26",
     "topic": "gun",
     "source": "CBS News (Online)",
@@ -192,9 +194,6 @@
             "text": "\" I 'm actually interested in what we can do to make the terrible events that occurred in Uvalde less likely in the future . \""
         }
     ],
-    "id": "STORY_115_DOCUMENT_1",
-    "old_id": "gun_8_1",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Trump suggests he will send U.S. troops to the Mexican border",
+    "id": "STORY_55_DOCUMENT_1",
+    "split": "train",
     "date": "2018-04-04",
     "topic": "white_house",
     "source": "USA TODAY",
@@ -92,9 +94,6 @@
             "text": "\" The caravan makes me very sad that this could happen to the United States . \""
         }
     ],
-    "id": "STORY_55_DOCUMENT_1",
-    "old_id": "TRIPLET_113_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

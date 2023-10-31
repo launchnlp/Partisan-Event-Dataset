@@ -1,5 +1,7 @@
 {
     "title": "Donald Trump Tells N.R.A. Hillary Clinton Wants to Let Violent Criminals Go Free",
+    "id": "STORY_22_DOCUMENT_0",
+    "split": "train",
     "date": "2016-05-21",
     "topic": "gun_control_and_gun_rights",
     "source": "New York Times (News)",
@@ -200,9 +202,6 @@
             "text": "\u201c I think people are just terrified of his persona , but I think he has a lot of different personas , \u201d she said , \u201c and he can use the right one in the right situation . \u201d"
         }
     ],
-    "id": "STORY_22_DOCUMENT_0",
-    "old_id": "TRIPLET_092_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "DACA Participants Can Again Apply for Renewal, Immigration Agency Says",
+    "id": "STORY_72_DOCUMENT_1",
+    "split": "train",
     "date": "2018-01-14",
     "topic": "immigration",
     "source": "New York Times (News)",
@@ -112,9 +114,6 @@
             "text": "# AMERICA FIRST . \u201d"
         }
     ],
-    "id": "STORY_72_DOCUMENT_1",
-    "old_id": "TRIPLET_121_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

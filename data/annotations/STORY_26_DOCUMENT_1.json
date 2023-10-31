@@ -1,5 +1,7 @@
 {
     "title": "In Nevada caucuses, Trump gets a third straight win",
+    "id": "STORY_26_DOCUMENT_1",
+    "split": "train",
     "date": "2016-02-23",
     "topic": "elections",
     "source": "Washington Post",
@@ -244,9 +246,6 @@
             "text": "\u201c I really think he \u2019s got a shot at winning on Tuesday , \u201d Harrison told the Sunday night crowd ."
         }
     ],
-    "id": "STORY_26_DOCUMENT_1",
-    "old_id": "TRIPLET_082_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

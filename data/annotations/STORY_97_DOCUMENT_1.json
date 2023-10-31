@@ -1,5 +1,7 @@
 {
     "title": "Republicans Block Bill To Codify Roe v. Wade Once Again",
+    "id": "STORY_97_DOCUMENT_1",
+    "split": "dev",
     "date": "2022-05-11",
     "topic": "abortion",
     "source": "HuffPost",
@@ -144,9 +146,6 @@
             "text": "And if this is put into law , it changes the foundation of America . \u201d"
         }
     ],
-    "id": "STORY_97_DOCUMENT_1",
-    "old_id": "abortion_4_1",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

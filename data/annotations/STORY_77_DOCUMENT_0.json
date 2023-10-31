@@ -1,5 +1,7 @@
 {
     "title": "Energy Secretary Jennifer Granholm: Clock is ticking on infrastructure",
+    "id": "STORY_77_DOCUMENT_0",
+    "split": "train",
     "date": "2021-06-06",
     "topic": "economic_policy",
     "source": "Washington Times",
@@ -88,9 +90,6 @@
             "text": "They do , \u201d the energy secretary told CNN \u2019s Jake Tapper ."
         }
     ],
-    "id": "STORY_77_DOCUMENT_0",
-    "old_id": "TRIPLET_163_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

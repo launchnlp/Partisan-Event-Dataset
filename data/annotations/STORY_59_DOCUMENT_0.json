@@ -1,5 +1,7 @@
 {
     "title": "House Panel Seeks Private Talk With Hillary Clinton About Email",
+    "id": "STORY_59_DOCUMENT_0",
+    "split": "train",
     "date": "",
     "topic": "",
     "source": "New York Times (News)",
@@ -136,9 +138,6 @@
             "text": "\u201c We should keep our conclusions and speculation to a minimum and follow the facts . \u201d"
         }
     ],
-    "id": "STORY_59_DOCUMENT_0",
-    "old_id": "TRIPLET_001_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

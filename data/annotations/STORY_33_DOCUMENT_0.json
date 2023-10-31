@@ -1,5 +1,7 @@
 {
     "title": "Cruz Hotelier Caves to Big Gay McCarthy Hate Machine",
+    "id": "STORY_33_DOCUMENT_0",
+    "split": "train",
     "date": "2015-04-27",
     "topic": "LGBT",
     "source": "Breitbart News",
@@ -84,9 +86,6 @@
             "text": "By terrorizing dissent and individual thought, followed by immediate relief once the target speaks the approved opinion, an important public example is set that warns other not to stray from the Thought Plantation."
         }
     ],
-    "id": "STORY_33_DOCUMENT_0",
-    "old_id": "1434_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

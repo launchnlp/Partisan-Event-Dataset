@@ -1,5 +1,7 @@
 {
     "title": "DeSantis signs bill stripping Disney of self governing status",
+    "id": "STORY_106_DOCUMENT_0",
+    "split": "dev",
     "date": "2022-04-22",
     "topic": "race-and-racism",
     "source": "Fox News (Online News)",
@@ -148,9 +150,6 @@
             "text": "On Friday, the state of Florida released four examples from textbooks it has rejected from its school system amid concerns over the promotion of Critical Race Theory and common core principles."
         }
     ],
-    "id": "STORY_106_DOCUMENT_0",
-    "old_id": "6581_2",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Company drops contentious Keystone XL pipeline project",
+    "id": "STORY_94_DOCUMENT_0",
+    "split": "train",
     "date": "2021-06-11",
     "topic": "energy",
     "source": "Al Jazeera",
@@ -124,9 +126,6 @@
             "text": "The statement said the Alberta government is expected to incur a total cost of $1.3bn Canadian dollars ($1.07bn) for the project."
         }
     ],
-    "id": "STORY_94_DOCUMENT_0",
-    "old_id": "5710_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

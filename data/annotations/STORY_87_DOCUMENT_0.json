@@ -1,5 +1,7 @@
 {
     "title": "Hillary Clinton blasts Benghazi panel as \u2018partisan arm of the Republican National Committee\u2019",
+    "id": "STORY_87_DOCUMENT_0",
+    "split": "train",
     "date": "2015-10-18",
     "topic": "us_house",
     "source": "Washington Times",
@@ -124,9 +126,6 @@
             "text": "That \u2019s exactly what \u2019s happened . \u201d"
         }
     ],
-    "id": "STORY_87_DOCUMENT_0",
-    "old_id": "TRIPLET_029_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

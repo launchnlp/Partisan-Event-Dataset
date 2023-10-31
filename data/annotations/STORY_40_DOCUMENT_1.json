@@ -1,5 +1,7 @@
 {
     "title": "CDC changes to quarantine, isolation advice took local health officials by surprise",
+    "id": "STORY_40_DOCUMENT_1",
+    "split": "train",
     "date": "",
     "topic": "",
     "source": "CNN (Online News)",
@@ -188,9 +190,6 @@
             "text": "\u201c With CDC \u2019s new guidance , someone might easily want to say that they have not tested positive in the last five days , are without fever or symptoms , and therefore there is no need for a screening test , \u201d he said ."
         }
     ],
-    "id": "STORY_40_DOCUMENT_1",
-    "old_id": "TRIPLET_1055_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

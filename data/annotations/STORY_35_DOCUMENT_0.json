@@ -1,5 +1,7 @@
 {
     "title": "Vatican Denies the Possibility of Blessing Homosexual Couples",
+    "id": "STORY_35_DOCUMENT_0",
+    "split": "train",
     "date": "2021-03-15",
     "topic": "LGBT",
     "source": "Breitbart News",
@@ -72,9 +74,6 @@
             "text": "\u201cFor the above mentioned reasons, the Church does not have, and cannot have, the power to bless unions of persons of the same sex in the sense intended above,\u201d the document concludes, noting that Pope Francis \u201cgave his assent\u201d to the publication of the text."
         }
     ],
-    "id": "STORY_35_DOCUMENT_0",
-    "old_id": "5448_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

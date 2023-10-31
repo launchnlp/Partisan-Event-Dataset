@@ -1,5 +1,7 @@
 {
     "title": "Is Mitch McConnell next?",
+    "id": "STORY_69_DOCUMENT_1",
+    "split": "train",
     "date": "2015-09-26",
     "topic": "us_senate",
     "source": "CNN (Online News)",
@@ -176,9 +178,6 @@
             "text": "\u201c Squabbling and sanctimony may be tolerated in other venues \u2013 or perhaps on the campaign trail , \u201d Hatch said , \u201c but they have no place among colleagues in the United States Senate . \u201d"
         }
     ],
-    "id": "STORY_69_DOCUMENT_1",
-    "old_id": "TRIPLET_010_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Trump retreats from public view as government shutdown continues over border wall fight",
+    "id": "STORY_53_DOCUMENT_1",
+    "split": "train",
     "date": "2018-12-29",
     "topic": "federal_budget",
     "source": "Washington Post",
@@ -176,9 +178,6 @@
             "text": "How do Americans , not just those in politics , view someone who says , \u2018 I am not negotiating ? \u2019 \u201d Seung Min Kim , Felicia Sonmez and Erica Werner contributed to this report ."
         }
     ],
-    "id": "STORY_53_DOCUMENT_1",
-    "old_id": "TRIPLET_123_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "What would happen if Roe v. Wade were overturned",
+    "id": "STORY_105_DOCUMENT_1",
+    "split": "dev",
     "date": "2022-05-03",
     "topic": "abortion",
     "source": "Washington Post",
@@ -176,9 +178,6 @@
             "text": "\u201c Abortion is health care , plain and simple . \u201d"
         }
     ],
-    "id": "STORY_105_DOCUMENT_1",
-    "old_id": "abortion_6_1",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

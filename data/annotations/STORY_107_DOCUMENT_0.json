@@ -1,5 +1,7 @@
 {
     "title": "Biden administration to scrap Title 42 border policy by May 23 despite warnings: reports",
+    "id": "STORY_107_DOCUMENT_0",
+    "split": "dev",
     "date": "2022-03-31",
     "topic": "immigration",
     "source": "New York Post (News)",
@@ -156,9 +158,6 @@
             "text": "\u201c Illegal immigration is going to explode even more if Title 42 goes away , \u201d Judd told The Post , adding that 52 % of all immigrants at the southern border this month were directly expelled under the order ."
         }
     ],
-    "id": "STORY_107_DOCUMENT_0",
-    "old_id": "TRIPLET_1257_DOCUMENT_1",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

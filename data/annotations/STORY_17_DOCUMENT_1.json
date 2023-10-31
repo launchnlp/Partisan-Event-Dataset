@@ -1,5 +1,7 @@
 {
     "title": "Harry Reid Criticizes Ocasio-Cortez Tax Proposal As Too \u2018Rapid\u2019",
+    "id": "STORY_17_DOCUMENT_1",
+    "split": "train",
     "date": "2019-01-15",
     "topic": "tax",
     "source": "The Daily Caller",
@@ -60,9 +62,6 @@
             "text": "A more generous study conducted by the organization, however, found that a different proposal for the same tax hike idea for incomes over $10 million would raise $291 billion over the same time period \u2014 still only a fraction of the cost needed to pay for Ocasio-Cortez\u2019s ambitious agenda."
         }
     ],
-    "id": "STORY_17_DOCUMENT_1",
-    "old_id": "3532_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Graham's abortion ban stuns Senate GOP",
+    "id": "STORY_123_DOCUMENT_1",
+    "split": "test",
     "date": "2022-09-13",
     "topic": "abortion",
     "source": "Politico",
@@ -260,9 +262,6 @@
             "text": "\u201c I mean , what the hell is he talking about ? \u201d"
         }
     ],
-    "id": "STORY_123_DOCUMENT_1",
-    "old_id": "abortion_11_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

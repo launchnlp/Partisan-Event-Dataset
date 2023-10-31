@@ -1,5 +1,7 @@
 {
     "title": "Michael Cohen Tape Suggests Team Trump Lied About Karen McDougal",
+    "id": "STORY_89_DOCUMENT_0",
+    "split": "train",
     "date": "2018-07-20",
     "topic": "politics",
     "source": "HuffPost",
@@ -60,9 +62,6 @@
             "text": "The White House did not immediately respond to HuffPost \u2019s request for comment ."
         }
     ],
-    "id": "STORY_89_DOCUMENT_0",
-    "old_id": "TRIPLET_119_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

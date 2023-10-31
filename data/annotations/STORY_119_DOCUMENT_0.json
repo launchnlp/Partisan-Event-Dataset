@@ -1,5 +1,7 @@
 {
     "title": "Joe Biden says he will sign bill overriding D.C.'s new crime law that reduces sentences",
+    "id": "STORY_119_DOCUMENT_0",
+    "split": "test",
     "date": "2023-03-03",
     "topic": "crime",
     "source": "USA TODAY",
@@ -152,9 +154,6 @@
             "text": "Reducing violent crime should not be controversial.\""
         }
     ],
-    "id": "STORY_119_DOCUMENT_0",
-    "old_id": "7735_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

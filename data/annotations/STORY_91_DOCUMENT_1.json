@@ -1,5 +1,7 @@
 {
     "title": "Obama Administration Delays 2015 Obamacare Enrollment Period Until After 2014 Elections",
+    "id": "STORY_91_DOCUMENT_1",
+    "split": "train",
     "date": "2013-11-22",
     "topic": "healthcare",
     "source": "Townhall",
@@ -64,9 +66,6 @@
             "text": "Open enrollment prior to the 2014 elections , when consumers become very focused on the cost of their health insurance plans , would be another political nightmare for Obamacare supporters up for reelection as healthcare premiums continue to skyrocket ."
         }
     ],
-    "id": "STORY_91_DOCUMENT_1",
-    "old_id": "TRIPLET_199_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Trump Vetoes Bill To End U.S. Support For Saudis In Yemen War",
+    "id": "STORY_90_DOCUMENT_0",
+    "split": "train",
     "date": "2019-04-17",
     "topic": "white_house",
     "source": "HuffPost",
@@ -132,9 +134,6 @@
             "text": "Barring changes , the end is nigh . \u201d"
         }
     ],
-    "id": "STORY_90_DOCUMENT_0",
-    "old_id": "TRIPLET_070_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

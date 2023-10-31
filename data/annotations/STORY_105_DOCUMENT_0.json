@@ -1,5 +1,7 @@
 {
     "title": "26 states where abortion will be banned or restricted if Roe v. Wade is overturned",
+    "id": "STORY_105_DOCUMENT_0",
+    "split": "dev",
     "date": "2022-05-03",
     "topic": "abortion",
     "source": "New York Post (News)",
@@ -148,9 +150,6 @@
             "text": "The Supreme Court is expected to rule on the Mississippi case before its term ends in late June or early July ."
         }
     ],
-    "id": "STORY_105_DOCUMENT_0",
-    "old_id": "abortion_6_2",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

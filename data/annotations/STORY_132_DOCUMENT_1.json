@@ -1,5 +1,7 @@
 {
     "title": "Mississippi has banned gender-affirming healthcare for anyone under 18",
+    "id": "STORY_132_DOCUMENT_1",
+    "split": "test",
     "date": "2023-03-01",
     "topic": "healthcare",
     "source": "LGBTQ Nation",
@@ -104,9 +106,6 @@
             "text": "Previously the DOJ had filed a brief in 2021 supporting doctors and transgender families suing the state of Arkansas for a similar ban."
         }
     ],
-    "id": "STORY_132_DOCUMENT_1",
-    "old_id": "7714_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Nevada governor slams Biden for locking up mineral-rich land in new monuments",
+    "id": "STORY_136_DOCUMENT_1",
+    "split": "test",
     "date": "2023-03-22",
     "topic": "energy",
     "source": "Washington Examiner",
@@ -72,9 +74,6 @@
             "text": "In a separate action on Tuesday, Biden directed Commerce Secretary Gina Raimondo to consider initiating a new national marine sanctuary designation to protect all U.S. waters around the Pacific Remote Islands."
         }
     ],
-    "id": "STORY_136_DOCUMENT_1",
-    "old_id": "7812_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

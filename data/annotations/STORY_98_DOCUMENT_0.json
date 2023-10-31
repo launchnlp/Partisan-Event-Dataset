@@ -1,5 +1,7 @@
 {
     "title": "Biden calls for assault weapons ban, making gun manufacturers liable for shootings",
+    "id": "STORY_98_DOCUMENT_0",
+    "split": "dev",
     "date": "2022-06-02",
     "topic": "gun",
     "source": "Washington Times",
@@ -204,9 +206,6 @@
             "text": "\u201c It seems to me there are two broad categories that underscore the problem \u2014 mental illness and school safety , \u201d said Mr. McConnell , Kentucky Republican ."
         }
     ],
-    "id": "STORY_98_DOCUMENT_0",
-    "old_id": "gun_2_1",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

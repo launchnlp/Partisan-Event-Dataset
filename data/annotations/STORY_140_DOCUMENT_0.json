@@ -1,5 +1,7 @@
 {
     "title": "Biden student loan forgiveness will cost $400 billion over 10 years, CBO estimates",
+    "id": "STORY_140_DOCUMENT_0",
+    "split": "test",
     "date": "2022-09-26",
     "topic": "federal-budget",
     "source": "Washington Examiner",
@@ -60,9 +62,6 @@
             "text": "\"Rather than working with Congress to bring down college costs, President Biden has opted to bury the American people under our unsustainable debt,\" Foxx said."
         }
     ],
-    "id": "STORY_140_DOCUMENT_0",
-    "old_id": "7137_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

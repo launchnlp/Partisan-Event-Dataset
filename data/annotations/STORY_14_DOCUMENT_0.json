@@ -1,5 +1,7 @@
 {
     "title": "US begins formal withdrawal from Paris climate accord",
+    "id": "STORY_14_DOCUMENT_0",
+    "split": "train",
     "date": "2019-11-04",
     "topic": "climate-change",
     "source": "CNN (Online News)",
@@ -124,9 +126,6 @@
             "text": "But on Monday, Pompeo said in his statement: \u201cIn international climate discussions, we will continue to offer a realistic and pragmatic model \u2013 backed by a record of real world results \u2013 showing innovation and open markets lead to greater prosperity, fewer emissions, and more secure sources of energy.\u201d"
         }
     ],
-    "id": "STORY_14_DOCUMENT_0",
-    "old_id": "4090_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

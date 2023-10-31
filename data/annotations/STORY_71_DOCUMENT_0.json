@@ -1,5 +1,7 @@
 {
     "title": "12 Reasons Ted Cruz Is a Strong GOP 2016 Candidate ",
+    "id": "STORY_71_DOCUMENT_0",
+    "split": "train",
     "date": "2015-03-23",
     "topic": "elections",
     "source": "Newsmax (News)",
@@ -168,9 +170,6 @@
             "text": "She has taken an unpaid leave to help her husband 's campaign ."
         }
     ],
-    "id": "STORY_71_DOCUMENT_0",
-    "old_id": "TRIPLET_021_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

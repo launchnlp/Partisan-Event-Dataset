@@ -1,5 +1,7 @@
 {
     "title": "Punishing Disney, DeSantis Signals a Lasting G.O.P. Brawl With Business",
+    "id": "STORY_106_DOCUMENT_1",
+    "split": "dev",
     "date": "2022-04-22",
     "topic": "race-and-racism",
     "source": "New York Times (News)",
@@ -44,9 +46,6 @@
             "text": "The company is a major contributor to Floridian candidates from both political parties."
         }
     ],
-    "id": "STORY_106_DOCUMENT_1",
-    "old_id": "6581_0",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Rhetoric heats up on debt ceiling",
+    "id": "STORY_20_DOCUMENT_1",
+    "split": "train",
     "date": "2013-01-14",
     "topic": "federal-budget",
     "source": "Washington Times",
@@ -136,9 +138,6 @@
             "text": "The Bipartisan Policy Center says the Treasury will run out of options on meeting the government\u2019s bills between Feb. 15 and March 1."
         }
     ],
-    "id": "STORY_20_DOCUMENT_1",
-    "old_id": "307_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

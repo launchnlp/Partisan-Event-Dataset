@@ -1,5 +1,7 @@
 {
     "title": "Contraception could come under fire next if Roe v Wade is overturned",
+    "id": "STORY_111_DOCUMENT_1",
+    "split": "dev",
     "date": "2022-05-04",
     "topic": "abortion",
     "source": "The Guardian",
@@ -120,9 +122,6 @@
             "text": "\u201c That \u2019s where we \u2019re going if things do n\u2019t change . \u201d"
         }
     ],
-    "id": "STORY_111_DOCUMENT_1",
-    "old_id": "abortion_7_2",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

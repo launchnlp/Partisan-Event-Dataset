@@ -1,5 +1,7 @@
 {
     "title": "Trump loses temper over border wall funding",
+    "id": "STORY_62_DOCUMENT_1",
+    "split": "train",
     "date": "2018-06-19",
     "topic": "immigration",
     "source": "Politico",
@@ -140,9 +142,6 @@
             "text": "Shelby said he views $ 1.6 billion as a floor in negotiations , which could increase if Democrats want to do some horse - trading ."
         }
     ],
-    "id": "STORY_62_DOCUMENT_1",
-    "old_id": "TRIPLET_116_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

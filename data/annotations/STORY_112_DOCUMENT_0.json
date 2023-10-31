@@ -1,5 +1,7 @@
 {
     "title": "gun_6_1",
+    "id": "STORY_112_DOCUMENT_0",
+    "split": "dev",
     "date": "",
     "topic": "",
     "source": "New York Post (Opinion)",
@@ -84,9 +86,6 @@
             "text": "This was a star using his fame in true public service ."
         }
     ],
-    "id": "STORY_112_DOCUMENT_0",
-    "old_id": "gun_6_1",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Donald Trump floats Obamacare repeal vote after 2020 election",
+    "id": "STORY_19_DOCUMENT_1",
+    "split": "train",
     "date": "2019-04-02",
     "topic": "healthcare",
     "source": "Washington Times",
@@ -156,9 +158,6 @@
             "text": "\u201cYou can sit idly by while the president strips your constituents of their health care,\u201d she said, \u201cor you can work with us to protect Americans\u2019 care and improve the system.\u201d"
         }
     ],
-    "id": "STORY_19_DOCUMENT_1",
-    "old_id": "3674_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

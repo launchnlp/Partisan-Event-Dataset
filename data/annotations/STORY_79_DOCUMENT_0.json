@@ -1,5 +1,7 @@
 {
     "title": "Obama\u2019s Attorney General: Planned Parenthood Attack \u2018A Crime Against Women\u2019",
+    "id": "STORY_79_DOCUMENT_0",
+    "split": "train",
     "date": "2015-11-29",
     "topic": "violence_in_america",
     "source": "Breitbart News",
@@ -40,9 +42,6 @@
             "text": "According to reports , the shooter mentioned \u201c baby parts \u201d in interviews with local law enforcement after he was taken into custody ."
         }
     ],
-    "id": "STORY_79_DOCUMENT_0",
-    "old_id": "TRIPLET_012_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

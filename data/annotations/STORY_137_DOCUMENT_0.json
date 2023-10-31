@@ -1,5 +1,7 @@
 {
     "title": "Trump\u2019s tax returns released, launching fresh scrutiny of his finances",
+    "id": "STORY_137_DOCUMENT_0",
+    "split": "test",
     "date": "2022-12-30",
     "topic": "tax",
     "source": "Politico",
@@ -152,9 +154,6 @@
             "text": "Rep. Kevin Brady, the top Republican on Ways and Means, said, \u201cDemocrats have charged forward with an unprecedented decision to unleash a dangerous new political weapon that reaches far beyond the former president, overturning decades of privacy protections for average Americans that have existed since Watergate.\u201d"
         }
     ],
-    "id": "STORY_137_DOCUMENT_0",
-    "old_id": "7510_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

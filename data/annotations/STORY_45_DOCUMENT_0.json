@@ -1,5 +1,7 @@
 {
     "title": "In U.K., Christie advocates for \u2018balance\u2019 in vaccination debate",
+    "id": "STORY_45_DOCUMENT_0",
+    "split": "train",
     "date": "2015-02-02",
     "topic": "politics",
     "source": "Washington Times",
@@ -48,9 +50,6 @@
             "text": "In an interview with NBC \u2019s Savannah Guthrie , President Obama advised parents to get their kids vaccinated , saying that measles is \u201c preventable \u201d and that the science is \u201c pretty indisputable . \u201d"
         }
     ],
-    "id": "STORY_45_DOCUMENT_0",
-    "old_id": "TRIPLET_041_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

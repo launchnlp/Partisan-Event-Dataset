@@ -1,5 +1,7 @@
 {
     "title": "Trump blasts Biden DOJ amid lawsuit against Georgia voter integrity law",
+    "id": "STORY_23_DOCUMENT_1",
+    "split": "train",
     "date": "2021-06-26",
     "topic": "race-and-racism",
     "source": "New York Post (News)",
@@ -108,9 +110,6 @@
             "text": "Many GOP lawmakers in Georgia and elsewhere have insisted the changes are needed to restore voters\u2019 confidence after the 2020 election."
         }
     ],
-    "id": "STORY_23_DOCUMENT_1",
-    "old_id": "5747_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

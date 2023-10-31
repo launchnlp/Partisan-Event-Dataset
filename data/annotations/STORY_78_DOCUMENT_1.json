@@ -1,5 +1,7 @@
 {
     "title": "Trump\u2019s 1776 Commission defends nation\u2019s founding, compares progressivism to racism",
+    "id": "STORY_78_DOCUMENT_1",
+    "split": "train",
     "date": "2021-01-19",
     "topic": "race-and-racism",
     "source": "The Hill",
@@ -76,9 +78,6 @@
             "text": "While Trump\u2019s appointments on the commission are for two years, it is unclear if the group will meet again once President-elect Joe Biden takes office."
         }
     ],
-    "id": "STORY_78_DOCUMENT_1",
-    "old_id": "5276_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Runaway Oregon Republicans prepared to stay away until legislative session ends",
+    "id": "STORY_64_DOCUMENT_0",
+    "split": "train",
     "date": "2019-06-22",
     "topic": "climate-change",
     "source": "Washington Times",
@@ -124,9 +126,6 @@
             "text": "\u201cNope, nope, nope.\u201d"
         }
     ],
-    "id": "STORY_64_DOCUMENT_0",
-    "old_id": "3806_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

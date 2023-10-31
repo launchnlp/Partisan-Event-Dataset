@@ -1,5 +1,7 @@
 {
     "title": "Judge blocks Pa.\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2s new voter ID requirement ",
+    "id": "STORY_76_DOCUMENT_1",
+    "split": "train",
     "date": "2012-10-02",
     "topic": "elections",
     "source": "Washington Times",
@@ -120,9 +122,6 @@
             "text": "The percentage was even higher in Philadelphia , where Democrats outnumber Republicans about 6 - to - 1 ."
         }
     ],
-    "id": "STORY_76_DOCUMENT_1",
-    "old_id": "TRIPLET_227_DOCUMENT_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

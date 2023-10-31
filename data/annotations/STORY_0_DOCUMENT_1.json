@@ -1,5 +1,7 @@
 {
     "title": "Marijuana Industry Braces For Looming Federal Crackdown From Sessions",
+    "id": "STORY_0_DOCUMENT_1",
+    "split": "train",
     "date": "2017-07-24",
     "topic": "public-health",
     "source": "The Daily Caller",
@@ -104,9 +106,6 @@
             "text": "For any questions about our guidelines or partnering with us, please contact licensing@dailycallernewsfoundation.org."
         }
     ],
-    "id": "STORY_0_DOCUMENT_1",
-    "old_id": "2476_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Will the Supreme Court Let Trump Hide His Tax Returns? - The New York Times",
+    "id": "STORY_39_DOCUMENT_1",
+    "split": "train",
     "date": "2020-05-13",
     "topic": "tax",
     "source": "New York Times (Opinion)",
@@ -40,9 +42,6 @@
             "text": "But soon, he promised."
         }
     ],
-    "id": "STORY_39_DOCUMENT_1",
-    "old_id": "4545_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

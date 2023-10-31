@@ -1,5 +1,7 @@
 {
     "title": "Texas Follows Through With Gross Stunt of Dumping Migrants in D.C.",
+    "id": "STORY_122_DOCUMENT_1",
+    "split": "test",
     "date": "2022-04-13",
     "topic": "immigration",
     "source": "Daily Beast",
@@ -68,9 +70,6 @@
             "text": "Multiple advocacy groups had decried Abbott \u2019s stunt as callous , pointless and possibly illegal as states can\u2019t enforce federal immigration law ."
         }
     ],
-    "id": "STORY_122_DOCUMENT_1",
-    "old_id": "TRIPLET_1262_DOCUMENT_0",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

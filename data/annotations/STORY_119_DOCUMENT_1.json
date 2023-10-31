@@ -1,5 +1,7 @@
 {
     "title": "House Democrat says \u2018heads should roll\u2019 at White House over Biden\u2019s support to nix DC crime bill",
+    "id": "STORY_119_DOCUMENT_1",
+    "split": "test",
     "date": "2023-03-03",
     "topic": "crime",
     "source": "New York Post (News)",
@@ -104,9 +106,6 @@
             "text": "\u201cHe should apply the same reasoning to drug trafficking, defunding the police, and illegal immigration,\u201d the Arkansas Republican added."
         }
     ],
-    "id": "STORY_119_DOCUMENT_1",
-    "old_id": "7735_0",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

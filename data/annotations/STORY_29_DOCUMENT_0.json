@@ -1,5 +1,7 @@
 {
     "title": "CNN is giving 2020 Democrats 7 hours to talk about climate change",
+    "id": "STORY_29_DOCUMENT_0",
+    "split": "train",
     "date": "2019-09-04",
     "topic": "energy",
     "source": "Vox",
@@ -192,9 +194,6 @@
             "text": "But is it just empty calories?"
         }
     ],
-    "id": "STORY_29_DOCUMENT_0",
-    "old_id": "3951_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

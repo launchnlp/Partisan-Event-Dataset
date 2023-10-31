@@ -1,5 +1,7 @@
 {
     "title": "Biden says the 'right to choose is fundamental,' but is 'not prepared' to call for change to filibuster to protect abortion rights",
+    "id": "STORY_102_DOCUMENT_0",
+    "split": "dev",
     "date": "2022-05-03",
     "topic": "abortion",
     "source": "CNN (Online News)",
@@ -160,9 +162,6 @@
             "text": "He said these laws were extreme and in violation of Roe v. Wade ."
         }
     ],
-    "id": "STORY_102_DOCUMENT_0",
-    "old_id": "abortion_8_2",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Trump unveils new education policy loaded with culture war proposals",
+    "id": "STORY_130_DOCUMENT_1",
+    "split": "test",
     "date": "2023-01-30",
     "topic": "2024-election",
     "source": "Politico",
@@ -60,9 +62,6 @@
             "text": "Trump said he would also remove \u201cthe radical zealots and Marxists\u201d he claims have \u201cinfiltrated\u201d the Department of Education."
         }
     ],
-    "id": "STORY_130_DOCUMENT_1",
-    "old_id": "7612_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

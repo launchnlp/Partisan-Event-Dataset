@@ -1,5 +1,7 @@
 {
     "title": "Biden's Build Back Better bill: What made it in and what was stripped out",
+    "id": "STORY_44_DOCUMENT_0",
+    "split": "train",
     "date": "2021-10-29",
     "topic": "tax",
     "source": "NBC News (Online)",
@@ -220,9 +222,6 @@
             "text": "It also provides money for community violence intervention, maternal health, pandemic preparedness and combating supply chain disruptions."
         }
     ],
-    "id": "STORY_44_DOCUMENT_0",
-    "old_id": "6095_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

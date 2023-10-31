@@ -1,5 +1,7 @@
 {
     "title": "Trump: 2nd Amendment \u2018under a threat like never before\u2019",
+    "id": "STORY_22_DOCUMENT_1",
+    "split": "train",
     "date": "2016-05-21",
     "topic": "gun_control_and_gun_rights",
     "source": "Washington Times",
@@ -96,9 +98,6 @@
             "text": "I will protect our country , \u201d he said ."
         }
     ],
-    "id": "STORY_22_DOCUMENT_1",
-    "old_id": "TRIPLET_092_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

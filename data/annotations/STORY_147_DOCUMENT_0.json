@@ -1,5 +1,7 @@
 {
     "title": "Biden admin review of Afghanistan withdrawal repeatedly blames Trump",
+    "id": "STORY_147_DOCUMENT_0",
+    "split": "test",
     "date": "2023-04-07",
     "topic": "national_defense",
     "source": "Fox News (Online News)",
@@ -128,9 +130,6 @@
             "text": "\"Thus, President Biden's choice was stark: either withdrawal of our forces or resume fighting with the Taliban."
         }
     ],
-    "id": "STORY_147_DOCUMENT_0",
-    "old_id": "7874_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

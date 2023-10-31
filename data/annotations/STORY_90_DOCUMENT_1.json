@@ -1,5 +1,7 @@
 {
     "title": "Trump Vetoes Measure to End US Involvement in Yemen War",
+    "id": "STORY_90_DOCUMENT_1",
+    "split": "train",
     "date": "2019-04-17",
     "topic": "white_house",
     "source": "Newsmax (News)",
@@ -88,9 +90,6 @@
             "text": "Congress voted to block the emergency declaration and Trump vetoed that measure ."
         }
     ],
-    "id": "STORY_90_DOCUMENT_1",
-    "old_id": "TRIPLET_070_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

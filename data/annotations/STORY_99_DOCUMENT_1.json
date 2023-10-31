@@ -1,5 +1,7 @@
 {
     "title": "Biden administration cancels Alaska oil and gas lease sale",
+    "id": "STORY_99_DOCUMENT_1",
+    "split": "dev",
     "date": "2022-05-12",
     "topic": "energy",
     "source": "CBS News (Online)",
@@ -196,9 +198,6 @@
             "text": "We need to end offshore oil leasing.\""
         }
     ],
-    "id": "STORY_99_DOCUMENT_1",
-    "old_id": "6644_0",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

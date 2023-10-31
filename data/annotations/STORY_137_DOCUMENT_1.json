@@ -1,5 +1,7 @@
 {
     "title": "Trump tax returns released to public after multiyear battle by Democrats",
+    "id": "STORY_137_DOCUMENT_1",
+    "split": "test",
     "date": "2022-12-30",
     "topic": "tax",
     "source": "Washington Examiner",
@@ -80,9 +82,6 @@
             "text": "In a statement, the former president blasted the move and said Democrats have \"weaponized everything, but remember that is a dangerous two-way street.\""
         }
     ],
-    "id": "STORY_137_DOCUMENT_1",
-    "old_id": "7510_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

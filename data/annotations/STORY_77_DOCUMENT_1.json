@@ -1,5 +1,7 @@
 {
     "title": "\u2018Perplexing\u2019: Granholm slams Senate Republicans\u2019 infrastructure position",
+    "id": "STORY_77_DOCUMENT_1",
+    "split": "train",
     "date": "2021-06-06",
     "topic": "economic_policy",
     "source": "Politico",
@@ -124,9 +126,6 @@
             "text": "\u201c But right now , there are good faith efforts on both sides , and we \u2019re going to continue the work of doing our job and trying to get a bipartisan agreement . \u201d"
         }
     ],
-    "id": "STORY_77_DOCUMENT_1",
-    "old_id": "TRIPLET_163_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

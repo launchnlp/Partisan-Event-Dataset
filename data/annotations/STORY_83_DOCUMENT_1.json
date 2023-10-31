@@ -1,5 +1,7 @@
 {
     "title": "Pope Francis Said He Supports Civil Unions For Same-Sex Couples",
+    "id": "STORY_83_DOCUMENT_1",
+    "split": "train",
     "date": "2020-10-21",
     "topic": "LGBT",
     "source": "BuzzFeed News",
@@ -96,9 +98,6 @@
             "text": "Francesco makes its US premiere on Sunday at the Savannah Film Festival."
         }
     ],
-    "id": "STORY_83_DOCUMENT_1",
-    "old_id": "5016_0",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

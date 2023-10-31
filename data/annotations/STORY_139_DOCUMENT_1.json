@@ -1,5 +1,7 @@
 {
     "title": "Opinion: NPR Makes Outrageous Claim About Trans Athletes",
+    "id": "STORY_139_DOCUMENT_1",
+    "split": "test",
     "date": "2023-03-28",
     "topic": "LGBT",
     "source": "Isaac Schorr",
@@ -100,9 +102,6 @@
             "text": "The views expressed in this article are those of just the author."
         }
     ],
-    "id": "STORY_139_DOCUMENT_1",
-    "old_id": "7832_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

@@ -1,5 +1,7 @@
 {
     "title": "Paul Ryan caves to the wingnuts: He\u2019s already looking like a hostage of the insanity caucus",
+    "id": "STORY_25_DOCUMENT_1",
+    "split": "train",
     "date": "2015-10-26",
     "topic": "us_house",
     "source": "Salon",
@@ -124,9 +126,6 @@
             "text": "If Ryan \u2019s compromise with himself to hold the Speaker \u2019s gavel involves allowing the right wing to continue running wild and wreaking havoc , his tenure will be even rockier and worse for the country than Boehner \u2019s has been ."
         }
     ],
-    "id": "STORY_25_DOCUMENT_1",
-    "old_id": "TRIPLET_006_DOCUMENT_2",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

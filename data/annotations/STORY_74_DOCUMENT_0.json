@@ -1,5 +1,7 @@
 {
     "title": "Trump: Putin \u2018very smart\u2019 for not retaliating against U.S. over latest round of sanctions",
+    "id": "STORY_74_DOCUMENT_0",
+    "split": "train",
     "date": "2016-12-31",
     "topic": "politics",
     "source": "Washington Times",
@@ -40,9 +42,6 @@
             "text": "The parting shot at Russia was the latest rift between Mr. Obama and Mr. Trump , who urged the administration to move on from the hacking allegations ."
         }
     ],
-    "id": "STORY_74_DOCUMENT_0",
-    "old_id": "TRIPLET_089_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

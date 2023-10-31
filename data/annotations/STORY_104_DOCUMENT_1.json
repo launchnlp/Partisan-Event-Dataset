@@ -1,5 +1,7 @@
 {
     "title": "abortion_9_1",
+    "id": "STORY_104_DOCUMENT_1",
+    "split": "dev",
     "date": "",
     "topic": "",
     "source": "Fox News (Opinion)",
@@ -148,9 +150,6 @@
             "text": "The Court \u2019s capacity to perform its vital constitutional role demands nothing less ."
         }
     ],
-    "id": "STORY_104_DOCUMENT_1",
-    "old_id": "abortion_9_1",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

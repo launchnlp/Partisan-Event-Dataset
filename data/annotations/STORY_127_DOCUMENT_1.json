@@ -1,5 +1,7 @@
 {
     "title": "What to know about the controversial Willow oil drilling project in Alaska",
+    "id": "STORY_127_DOCUMENT_1",
+    "split": "test",
     "date": "2023-03-07",
     "topic": "energy",
     "source": "CNN (Online News)",
@@ -156,9 +158,6 @@
             "text": "It could also decide to deny the Willow Project all together."
         }
     ],
-    "id": "STORY_127_DOCUMENT_1",
-    "old_id": "7748_2",
-    "split": "test",
     "events": [
         {
             "e_id": 0,

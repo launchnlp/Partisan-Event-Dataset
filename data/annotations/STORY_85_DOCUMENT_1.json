@@ -1,5 +1,7 @@
 {
     "title": "Republicans eye slim Senate majority",
+    "id": "STORY_85_DOCUMENT_1",
+    "split": "train",
     "date": "2014-11-02",
     "topic": "elections",
     "source": "CNN (Online News)",
@@ -96,9 +98,6 @@
             "text": "Two Senate races , in Louisiana and Georgia could trigger run-off elections , so it is possible the fate of the chamber will be in limbo for weeks ."
         }
     ],
-    "id": "STORY_85_DOCUMENT_1",
-    "old_id": "TRIPLET_177_DOCUMENT_1",
-    "split": "train",
     "events": [
         {
             "e_id": 0,

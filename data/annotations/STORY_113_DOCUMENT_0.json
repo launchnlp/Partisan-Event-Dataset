@@ -1,5 +1,7 @@
 {
     "title": "abortion_3_2",
+    "id": "STORY_113_DOCUMENT_0",
+    "split": "dev",
     "date": "",
     "topic": "",
     "source": "Fox News (Online News)",
@@ -72,9 +74,6 @@
             "text": "\" Whoever committed this lawless act knew exactly what it could bring about . \""
         }
     ],
-    "id": "STORY_113_DOCUMENT_0",
-    "old_id": "abortion_3_2",
-    "split": "dev",
     "events": [
         {
             "e_id": 0,

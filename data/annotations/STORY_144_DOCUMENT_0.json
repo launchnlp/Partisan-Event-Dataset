@@ -1,5 +1,7 @@
 {
     "title": "Biden set to unveil more than $2 trillion in tax hikes in budget",
+    "id": "STORY_144_DOCUMENT_0",
+    "split": "test",
     "date": "2023-03-08",
     "topic": "tax",
     "source": "The Hill",
@@ -68,9 +70,6 @@
             "text": "\u201cWe continue to wait and wait and wait for Speaker McCarthy\u2019s plan on debt ceiling,\u201d he said."
         }
     ],
-    "id": "STORY_144_DOCUMENT_0",
-    "old_id": "7755_1",
-    "split": "test",
     "events": [
         {
             "e_id": 0,
