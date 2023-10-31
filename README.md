@@ -20,7 +20,7 @@ The annotation file in `data/annotations/` is formatted as follows:
   "relative_ideology":
   "absolute_ideology":
   "news":[{"id":, "text"}...]
-  "events":[{"e_id":, "token":, "sentence_id":,"start":, "end":,"remove","partisanship":, "entity":}...]
+  "events":[{"e_id":, "token":, "sentence_id":,"start":, "end":,"remove":,"partisanship":, "entity":}...]
   "entity_list":[{"text":, "ideology":, "id":, "events":[]}...]
 }
 ```
