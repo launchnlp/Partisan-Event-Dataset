@@ -38,7 +38,8 @@ The data JSON file in `data` is formatted as follows:
 ```
 ## Updates ##
 - **(10/31)**: Initial Data Release
-- **In Progress**: Release individual annotations and merge entity annotations
+- **(02/07)**: Release individual annotations and merge entity annotations
+- **In Progress**: Revise any found mistakes.
 
 ## Citation
 Please cite our paper if you find our dataset useful:
