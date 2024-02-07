@@ -1,0 +1,1295 @@
+{
+    "title": "Michigan deal bars LGBTQ discrimination in state adoptions",
+    "id": "STORY_73_DOCUMENT_1",
+    "old_id": "3648_1",
+    "split": "train",
+    "date": "2019-03-22",
+    "topic": "LGBT",
+    "source": "NBC News (Online)",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Faith-based adoption agencies that are paid by the state of Michigan will no longer be able to turn away LGBTQ couples or individuals because of religious objections under a legal settlement announced Friday."
+        },
+        {
+            "id": 1,
+            "text": "The agreement was reached between Democratic Attorney General Dana Nessel's office and lawyers for the American Civil Liberties Union, which sued in 2017 on behalf of two lesbian couples and a woman who was in foster care in her teens."
+        },
+        {
+            "id": 2,
+            "text": "\"Discrimination in the provision of foster care case management and adoption services is illegal, no matter the rationale,\" Nessel, who pursued settlement talks after taking office in January, said in a statement."
+        },
+        {
+            "id": 3,
+            "text": "\"Limiting the opportunity for a child to be adopted or fostered by a loving home not only goes against the state's goal of finding a home for every child, it is a direct violation of the contract every child-placing agency enters into with the state.\""
+        },
+        {
+            "id": 4,
+            "text": "Michigan, like most states, contracts with private agencies to place children from troubled homes with new families."
+        },
+        {
+            "id": 5,
+            "text": "The lawsuit alleged that the same-sex couples were turned away by Catholic Charities and Bethany Christian Services because they are gay."
+        },
+        {
+            "id": 6,
+            "text": "A 2015 Republican-enacted law says child-placement agencies are not required to provide services that conflict with their sincerely held religious beliefs."
+        },
+        {
+            "id": 7,
+            "text": "But the definition of services does not include those provided under a contract with the state Department of Health and Human Services, according to the suit and resulting settlement."
+        },
+        {
+            "id": 8,
+            "text": "The Becket Fund for Religious Liberty, which intervened in the case on behalf of St. Vincent Catholic Charities and others, accused Nessel and the ACLU of trying to stop the state from working with faith-based adoption agencies."
+        },
+        {
+            "id": 9,
+            "text": "\"The result of that will be tragic,\" attorney Lori Windham said in a statement."
+        },
+        {
+            "id": 10,
+            "text": "\"Thousands of children will be kept from finding the loving homes they deserve."
+        },
+        {
+            "id": 11,
+            "text": "This settlement violates the state law protecting religious adoption agencies.\""
+        },
+        {
+            "id": 12,
+            "text": "Two plaintiffs, Kristy and Dana Dumont of Dimondale near Lansing, issued a statement saying they are \"so happy\" for same-sex couples who are interested in fostering or adopting children."
+        },
+        {
+            "id": 13,
+            "text": "\"We are hopeful that this will mean more families for children, especially those who have been waiting years for a family to adopt them,\" they said."
+        },
+        {
+            "id": 14,
+            "text": "\"And we can't wait to welcome one of those children into our family.\""
+        },
+        {
+            "id": 15,
+            "text": "The ACLU has said the suit was filed after the office of former GOP Attorney General Bill Schuette declined to speak to it about possible discrimination."
+        },
+        {
+            "id": 16,
+            "text": "Nessel, who is gay, has criticized the law."
+        },
+        {
+            "id": 17,
+            "text": "As a private attorney, she successfully fought to overturn Michigan's ban on gay marriage."
+        },
+        {
+            "id": 18,
+            "text": "As of 2015, Catholic Charities and Bethany Christian Services were on average doing 25 to 30 percent of the state's foster care adoptions."
+        },
+        {
+            "id": 19,
+            "text": "Under the settlement, the state must enforce non-discrimination provisions in its contracts in cases where an agency accepts a referral but refuses to work with LGBTQ people interested in fostering or adopting any of the children it has accepted."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "paid",
+            "sentence_id": 0,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "turn",
+            "sentence_id": 0,
+            "start": 95,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Faith-based adoption agencies",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "LGBTQ couples",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "settlement",
+            "sentence_id": 0,
+            "start": 180,
+            "end": 190,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "announced",
+            "sentence_id": 0,
+            "start": 191,
+            "end": 200,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "agreement",
+            "sentence_id": 1,
+            "start": 4,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "reached",
+            "sentence_id": 1,
+            "start": 18,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "sued",
+            "sentence_id": 1,
+            "start": 141,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "pursued",
+            "sentence_id": 2,
+            "start": 136,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "talks",
+            "sentence_id": 2,
+            "start": 155,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "taking",
+            "sentence_id": 2,
+            "start": 167,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 193,
+            "end": 197,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "Limiting",
+            "sentence_id": 3,
+            "start": 1,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Faith-based adoption agencies",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "child adoption",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "adopted",
+            "sentence_id": 3,
+            "start": 44,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "goes",
+            "sentence_id": 3,
+            "start": 90,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Faith-based adoption agencies",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "child adoption",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "finding",
+            "sentence_id": 3,
+            "start": 123,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "violation",
+            "sentence_id": 3,
+            "start": 170,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Faith-based adoption agencies",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "contract",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "enters",
+            "sentence_id": 3,
+            "start": 223,
+            "end": 229,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "contracts",
+            "sentence_id": 4,
+            "start": 28,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "place",
+            "sentence_id": 4,
+            "start": 63,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "alleged",
+            "sentence_id": 5,
+            "start": 12,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "turned",
+            "sentence_id": 5,
+            "start": 51,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "LGBTQ couples",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Catholic Charities and Bethany Christian Services",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "enacted",
+            "sentence_id": 6,
+            "start": 18,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "says",
+            "sentence_id": 6,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "2015 Republican-enacted law",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Faith-based adoption agencies",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "required",
+            "sentence_id": 6,
+            "start": 68,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "provide",
+            "sentence_id": 6,
+            "start": 80,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "conflict",
+            "sentence_id": 6,
+            "start": 102,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "provided",
+            "sentence_id": 7,
+            "start": 54,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "according",
+            "sentence_id": 7,
+            "start": 136,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "suit",
+            "sentence_id": 7,
+            "start": 153,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "2015 Republican-enacted law",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "American Civil Liberties Union",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Faith-based adoption agencies",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "settlement",
+            "sentence_id": 7,
+            "start": 172,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "intervened",
+            "sentence_id": 8,
+            "start": 45,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "accused",
+            "sentence_id": 8,
+            "start": 124,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Becket Fund for Religious Liberty",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Dana Nessel",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "American Civil Liberties Union",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 32,
+            "token": "trying",
+            "sentence_id": 8,
+            "start": 155,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "stop",
+            "sentence_id": 8,
+            "start": 165,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "American Civil Liberties Union",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Faith-based adoption agencies",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 34,
+            "token": "working",
+            "sentence_id": 8,
+            "start": 185,
+            "end": 192,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 59,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "kept",
+            "sentence_id": 10,
+            "start": 31,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 20,
+                    "text": "children",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "American Civil Liberties Union",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 37,
+            "token": "finding",
+            "sentence_id": 10,
+            "start": 41,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "deserve",
+            "sentence_id": 10,
+            "start": 71,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "violates",
+            "sentence_id": 11,
+            "start": 16,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "state law",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "Faith-based adoption agencies that are paid by the state of Michigan will no longer be able to turn away LGBTQ couples or individuals",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "American Civil Liberties Union",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 40,
+            "token": "issued",
+            "sentence_id": 12,
+            "start": 66,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "saying",
+            "sentence_id": 12,
+            "start": 85,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "happy",
+            "sentence_id": 12,
+            "start": 105,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 23,
+                    "text": "Kristy and Dana Dumont",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "LGBTQ couples",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Faith-based adoption agencies",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 43,
+            "token": "interested",
+            "sentence_id": 12,
+            "start": 141,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "hopeful",
+            "sentence_id": 13,
+            "start": 8,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "mean",
+            "sentence_id": 13,
+            "start": 31,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "child adoption",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "American Civil Liberties Union",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "waiting",
+            "sentence_id": 13,
+            "start": 95,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "adopt",
+            "sentence_id": 13,
+            "start": 125,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 143,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "wait",
+            "sentence_id": 14,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "welcome",
+            "sentence_id": 14,
+            "start": 22,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 23,
+                    "text": "Kristy and Dana Dumont",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "children",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "American Civil Liberties Union",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "said",
+            "sentence_id": 15,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "filed",
+            "sentence_id": 15,
+            "start": 31,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "declined",
+            "sentence_id": 15,
+            "start": 99,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 26,
+                    "text": "Bill Schuette",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 27,
+                    "text": "discrimination",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 54,
+            "token": "speak",
+            "sentence_id": 15,
+            "start": 111,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "criticized",
+            "sentence_id": 16,
+            "start": 24,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Dana Nessel",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "2015 Republican-enacted law",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 56,
+            "token": "fought",
+            "sentence_id": 17,
+            "start": 40,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Dana Nessel",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Michigan's ban on gay marriage",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 57,
+            "token": "overturn",
+            "sentence_id": 17,
+            "start": 50,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "ban",
+            "sentence_id": 17,
+            "start": 70,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "doing",
+            "sentence_id": 18,
+            "start": 78,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "enforce",
+            "sentence_id": 19,
+            "start": 37,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "accepts",
+            "sentence_id": 19,
+            "start": 117,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "refuses",
+            "sentence_id": 19,
+            "start": 140,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Faith-based adoption agencies",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "LGBTQ couples",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 63,
+            "token": "work",
+            "sentence_id": 19,
+            "start": 151,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "adopting",
+            "sentence_id": 19,
+            "start": 201,
+            "end": 209,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "accepted",
+            "sentence_id": 19,
+            "start": 237,
+            "end": 245,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Faith-based adoption agencies",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                28,
+                1,
+                11,
+                13,
+                33,
+                62,
+                22,
+                42
+            ]
+        },
+        {
+            "text": "contract",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                15
+            ]
+        },
+        {
+            "text": "2015 Republican-enacted law",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                28,
+                55,
+                22
+            ]
+        },
+        {
+            "text": "American Civil Liberties Union",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                28,
+                33,
+                36,
+                39,
+                45,
+                50
+            ]
+        },
+        {
+            "text": "Becket Fund for Religious Liberty",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                31
+            ]
+        },
+        {
+            "text": "Dana Nessel",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                31,
+                55,
+                56
+            ]
+        },
+        {
+            "text": "state law",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                39
+            ]
+        },
+        {
+            "text": "Michigan's ban on gay marriage",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                56
+            ]
+        },
+        {
+            "text": "LGBTQ couples",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                1,
+                20,
+                62,
+                42
+            ]
+        },
+        {
+            "text": "child adoption",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                11,
+                13,
+                45
+            ]
+        },
+        {
+            "text": "Catholic Charities and Bethany Christian Services",
+            "ideology": "Right",
+            "id": 15,
+            "events": [
+                20
+            ]
+        },
+        {
+            "text": "children",
+            "ideology": "Neutral",
+            "id": 20,
+            "events": [
+                36,
+                50
+            ]
+        },
+        {
+            "text": "Faith-based adoption agencies that are paid by the state of Michigan will no longer be able to turn away LGBTQ couples or individuals",
+            "ideology": "Left",
+            "id": 21,
+            "events": [
+                39
+            ]
+        },
+        {
+            "text": "Kristy and Dana Dumont",
+            "ideology": "Neutral",
+            "id": 23,
+            "events": [
+                42,
+                50
+            ]
+        },
+        {
+            "text": "Bill Schuette",
+            "ideology": "Right",
+            "id": 26,
+            "events": [
+                53
+            ]
+        },
+        {
+            "text": "discrimination",
+            "ideology": "Neutral",
+            "id": 27,
+            "events": [
+                53
+            ]
+        }
+    ]
+}

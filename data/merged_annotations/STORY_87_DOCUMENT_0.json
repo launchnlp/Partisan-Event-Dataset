@@ -1,0 +1,1677 @@
+{
+    "title": "Hillary Clinton blasts Benghazi panel as \u2018partisan arm of the Republican National Committee\u2019",
+    "id": "STORY_87_DOCUMENT_0",
+    "old_id": "TRIPLET_029_DOCUMENT_1",
+    "split": "train",
+    "date": "2015-10-18",
+    "topic": "us_house",
+    "source": "Washington Times",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Hillary Rodham Clinton expects to encounter a partisan witch hunt this week when she testifies before a House panel investigating the 2012 Benghazi terrorist attacks , but the committee \u2019s leader is downplaying Mrs. Clinton \u2019s upcoming appearance and casting her as just another witness ."
+        },
+        {
+            "id": 1,
+            "text": "Ahead of Thursday \u2019s highly anticipated session , Mrs. Clinton and Republican leaders on the House Select Committee on Benghazi painted very different pictures Sunday of the panel \u2019s intentions and motives ."
+        },
+        {
+            "id": 2,
+            "text": "Committee chairman Rep. Trey Gowdy , South Carolina Republican , said he simply wants to find the truth behind the 2012 terrorist attacks on a U.S. diplomatic compound and CIA annex in Libya that killed Ambassador J. Christopher Stevens and three other Americans ."
+        },
+        {
+            "id": 3,
+            "text": "But Mrs. Clinton , the Democratic Party \u2019s presidential front - runner , said Mr. Gowdy \u2019s panel simply wants to destroy her political career ."
+        },
+        {
+            "id": 4,
+            "text": "The panel last week spent five hours behind closed doors questioning Mrs. Clinton \u2019s top aide , Huma Abedin , a prequel to this week \u2019s appearance by the former secretary of state ."
+        },
+        {
+            "id": 5,
+            "text": "\u201c I really do n\u2019t know what to expect , \u201d Mrs. Clinton said on CNN \u2019s \u201c State of the Union . \u201d"
+        },
+        {
+            "id": 6,
+            "text": "\u201c I think it is pretty clear [ that ] whatever they might have thought they were doing , they ended up becoming a partisan arm of the Republican National Committee with an overwhelming focus on , as they admitted , [ to ] drive down my poll numbers ."
+        },
+        {
+            "id": 7,
+            "text": "I \u2019ve already testified about Benghazi \u2026"
+        },
+        {
+            "id": 8,
+            "text": "I do n\u2019t know that I have very much to add . \u201d"
+        },
+        {
+            "id": 9,
+            "text": "Mrs. Clinton was referencing comments by House Majority Leader Kevin McCarthy and other Republicans , who have suggested the Benghazi committee is designed to drive down her poll numbers and raise more questions about her use of a private email account while secretary of state ."
+        },
+        {
+            "id": 10,
+            "text": "Mr. Gowdy has vehemently denied that characterization and insisted Sunday that Mrs. Clinton will be treated fairly ."
+        },
+        {
+            "id": 11,
+            "text": "\u201c She \u2019s a witness ."
+        },
+        {
+            "id": 12,
+            "text": "She was the secretary of state , you have to talk to her ."
+        },
+        {
+            "id": 13,
+            "text": "But we \u2019ve already talked to 50 people not named Clinton ."
+        },
+        {
+            "id": 14,
+            "text": "We \u2019re going to talk to another couple of dozen not named Clinton , \u201d he said on \u201c Face the Nation \u201d on CBS ."
+        },
+        {
+            "id": 15,
+            "text": "\u201c So I understand there \u2019s more attention associated with her ."
+        },
+        {
+            "id": 16,
+            "text": "But , from my perspective , I \u2019m much more interested in Chris Stevens \u2019 emails than her emails , which we just received . \u201d"
+        },
+        {
+            "id": 17,
+            "text": "Mr. Gowdy said the panel now is examining Stevens \u2019 emails to and those from other State Department officials , in which he made clear the U.S. compound in Libya needed additional security ."
+        },
+        {
+            "id": 18,
+            "text": "As for Mr. McCarthy \u2019s comments and the words of other Republicans hinting the committee wants to sabotage the Clinton presidential campaign , Mr. Gowdy fired back , saying they \u201c do n\u2019t have any idea what they \u2019re talking about . \u201d"
+        },
+        {
+            "id": 19,
+            "text": "Meanwhile , Ms. Abedin \u2019s testimony focused entirely on Benghazi , lawmakers said after the meeting ."
+        },
+        {
+            "id": 20,
+            "text": "Her close working and personal relationship with Mrs. Clinton has made her a key figure in the ongoing email scandal , including recent revelations that she apparently had access to her boss \u2019 account at the State Department ."
+        },
+        {
+            "id": 21,
+            "text": "Mrs. Clinton exclusively used a private email server to conduct State Department business during her tenure as secretary ."
+        },
+        {
+            "id": 22,
+            "text": "Ms. Abedin also has come under scrutiny for pocketing a $ 33,000 payout from the State Department for unused leave and using her simultaneous employment inside and outside of government to cater to the Clintons \u2019 friends and associates ."
+        },
+        {
+            "id": 23,
+            "text": "Mrs. Abedin remained tight - lipped , brushing past reporters during occasional breaks from the interview last week ."
+        },
+        {
+            "id": 24,
+            "text": "Top House Democrats say the focus on Mrs. Clinton , Ms. Abedin and others in the Clinton circle has been a mistake , and they believe Thursday \u2019s testimony will be another unfortunate episode in Republicans \u2019 flawed investigation ."
+        },
+        {
+            "id": 25,
+            "text": "\u201c I think it \u2019s a sad day for all of us , \u201d Rep. Elijah E. Cummings of Maryland , the ranking Democrat on the Benghazi committee , told CBS News on Sunday ."
+        },
+        {
+            "id": 26,
+            "text": "\u201c We made a commitment to the families [ of the Benghazi victims ] ."
+        },
+        {
+            "id": 27,
+            "text": "The families came in with tears in their eyes , literally , and said , \u2018 Please do not make this a political football . \u2019"
+        },
+        {
+            "id": 28,
+            "text": "That \u2019s exactly what \u2019s happened . \u201d"
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "expects",
+            "sentence_id": 0,
+            "start": 23,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Hillary Rodham Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "encounter",
+            "sentence_id": 0,
+            "start": 34,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "testifies",
+            "sentence_id": 0,
+            "start": 85,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "investigating",
+            "sentence_id": 0,
+            "start": 116,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "attacks",
+            "sentence_id": 0,
+            "start": 158,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "downplaying",
+            "sentence_id": 0,
+            "start": 199,
+            "end": 210,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Hillary Rodham Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "appearance",
+            "sentence_id": 0,
+            "start": 236,
+            "end": 246,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "casting",
+            "sentence_id": 0,
+            "start": 251,
+            "end": 258,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Hillary Rodham Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "session",
+            "sentence_id": 1,
+            "start": 40,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "painted",
+            "sentence_id": 1,
+            "start": 128,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 65,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "wants",
+            "sentence_id": 2,
+            "start": 80,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "find",
+            "sentence_id": 2,
+            "start": 89,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "2012 Benghazi terrorist attacks",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "attacks",
+            "sentence_id": 2,
+            "start": 130,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "killed",
+            "sentence_id": 2,
+            "start": 196,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 73,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "wants",
+            "sentence_id": 3,
+            "start": 104,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Hillary Rodham Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "destroy",
+            "sentence_id": 3,
+            "start": 113,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Hillary Rodham Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 18,
+            "token": "spent",
+            "sentence_id": 4,
+            "start": 20,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "questioning",
+            "sentence_id": 4,
+            "start": 57,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "appearance",
+            "sentence_id": 4,
+            "start": 136,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "know",
+            "sentence_id": 5,
+            "start": 18,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "expect",
+            "sentence_id": 5,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 55,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "think",
+            "sentence_id": 6,
+            "start": 4,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "thought",
+            "sentence_id": 6,
+            "start": 63,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "doing",
+            "sentence_id": 6,
+            "start": 81,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "ended",
+            "sentence_id": 6,
+            "start": 94,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "becoming",
+            "sentence_id": 6,
+            "start": 103,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "Republican National Committee",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 29,
+            "token": "admitted",
+            "sentence_id": 6,
+            "start": 204,
+            "end": 212,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "drive",
+            "sentence_id": 6,
+            "start": 222,
+            "end": 227,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "testified",
+            "sentence_id": 7,
+            "start": 14,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "know",
+            "sentence_id": 8,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "add",
+            "sentence_id": 8,
+            "start": 39,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "referencing",
+            "sentence_id": 9,
+            "start": 17,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "comments",
+            "sentence_id": 9,
+            "start": 29,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "suggested",
+            "sentence_id": 9,
+            "start": 111,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "designed",
+            "sentence_id": 9,
+            "start": 147,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "House Select Committee on Benghazi",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "drive",
+            "sentence_id": 9,
+            "start": 159,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "House Select Committee on Benghazi",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Hillary Rodham Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 39,
+            "token": "raise",
+            "sentence_id": 9,
+            "start": 191,
+            "end": 196,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "House Select Committee on Benghazi",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Hillary Rodham Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "use",
+            "sentence_id": 9,
+            "start": 222,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "denied",
+            "sentence_id": 10,
+            "start": 25,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Hillary Rodham Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "insisted",
+            "sentence_id": 10,
+            "start": 58,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Hillary Rodham Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 43,
+            "token": "treated",
+            "sentence_id": 10,
+            "start": 100,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Hillary Rodham Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 44,
+            "token": "talk",
+            "sentence_id": 12,
+            "start": 45,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "talked",
+            "sentence_id": 13,
+            "start": 19,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "talk",
+            "sentence_id": 14,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "said",
+            "sentence_id": 14,
+            "start": 73,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 48,
+            "token": "understand",
+            "sentence_id": 15,
+            "start": 7,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "interested",
+            "sentence_id": 16,
+            "start": 43,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "received",
+            "sentence_id": 16,
+            "start": 112,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "examining",
+            "sentence_id": 17,
+            "start": 32,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "made",
+            "sentence_id": 17,
+            "start": 124,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "needed",
+            "sentence_id": 17,
+            "start": 162,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "comments",
+            "sentence_id": 18,
+            "start": 23,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "hinting",
+            "sentence_id": 18,
+            "start": 67,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "House Select Committee on Benghazi",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 57,
+            "token": "wants",
+            "sentence_id": 18,
+            "start": 89,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "sabotage",
+            "sentence_id": 18,
+            "start": 98,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "fired",
+            "sentence_id": 18,
+            "start": 153,
+            "end": 158,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 60,
+            "token": "saying",
+            "sentence_id": 18,
+            "start": 166,
+            "end": 172,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "talking",
+            "sentence_id": 18,
+            "start": 215,
+            "end": 222,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "testimony",
+            "sentence_id": 19,
+            "start": 26,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "focused",
+            "sentence_id": 19,
+            "start": 36,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 64,
+            "token": "said",
+            "sentence_id": 19,
+            "start": 77,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 65,
+            "token": "meeting",
+            "sentence_id": 19,
+            "start": 92,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "made",
+            "sentence_id": 20,
+            "start": 66,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "scandal",
+            "sentence_id": 20,
+            "start": 109,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "Huma Abedin",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Hillary Rodham Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 68,
+            "token": "revelations",
+            "sentence_id": 20,
+            "start": 136,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "had",
+            "sentence_id": 20,
+            "start": 168,
+            "end": 171,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "used",
+            "sentence_id": 21,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Hillary Rodham Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "private email server",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 71,
+            "token": "conduct",
+            "sentence_id": 21,
+            "start": 56,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "tenure",
+            "sentence_id": 21,
+            "start": 101,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "come",
+            "sentence_id": 22,
+            "start": 20,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "pocketing",
+            "sentence_id": 22,
+            "start": 44,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "Huma Abedin",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 75,
+            "token": "payout",
+            "sentence_id": 22,
+            "start": 65,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "using",
+            "sentence_id": 22,
+            "start": 119,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "Huma Abedin",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Hillary Rodham Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 77,
+            "token": "cater",
+            "sentence_id": 22,
+            "start": 189,
+            "end": 194,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "Huma Abedin",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Hillary Rodham Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 78,
+            "token": "remained",
+            "sentence_id": 23,
+            "start": 12,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "Huma Abedin",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 79,
+            "token": "brushing",
+            "sentence_id": 23,
+            "start": 38,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "Huma Abedin",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "reporters",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 80,
+            "token": "breaks",
+            "sentence_id": 23,
+            "start": 80,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "interview",
+            "sentence_id": 23,
+            "start": 96,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "say",
+            "sentence_id": 24,
+            "start": 20,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "focus",
+            "sentence_id": 24,
+            "start": 28,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 84,
+            "token": "mistake",
+            "sentence_id": 24,
+            "start": 107,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "Top House Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Hillary Rodham Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "Huma Abedin",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 85,
+            "token": "believe",
+            "sentence_id": 24,
+            "start": 126,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "testimony",
+            "sentence_id": 24,
+            "start": 146,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 87,
+            "token": "investigation",
+            "sentence_id": 24,
+            "start": 216,
+            "end": 229,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 88,
+            "token": "think",
+            "sentence_id": 25,
+            "start": 4,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "told",
+            "sentence_id": 25,
+            "start": 131,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 90,
+            "token": "made",
+            "sentence_id": 26,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 91,
+            "token": "commitment",
+            "sentence_id": 26,
+            "start": 12,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 92,
+            "token": "came",
+            "sentence_id": 27,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 93,
+            "token": "said",
+            "sentence_id": 27,
+            "start": 64,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 94,
+            "token": "make",
+            "sentence_id": 27,
+            "start": 87,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 95,
+            "token": "happened",
+            "sentence_id": 28,
+            "start": 24,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Trey Gowdy",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                12,
+                17,
+                46,
+                16,
+                5,
+                7,
+                41,
+                42
+            ]
+        },
+        {
+            "text": "2012 Benghazi terrorist attacks",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                12
+            ]
+        },
+        {
+            "text": "Hillary Rodham Clinton",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                0,
+                7,
+                41,
+                42,
+                67,
+                76,
+                17,
+                38,
+                16,
+                39,
+                84
+            ]
+        },
+        {
+            "text": "House Select Committee on Benghazi",
+            "ideology": "Right",
+            "id": 13,
+            "events": [
+                37,
+                39,
+                38,
+                56
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 16,
+            "events": [
+                59,
+                56,
+                87,
+                0,
+                0,
+                95
+            ]
+        },
+        {
+            "text": "Huma Abedin",
+            "ideology": "Left",
+            "id": 18,
+            "events": [
+                67,
+                76,
+                78,
+                79,
+                84
+            ]
+        },
+        {
+            "text": "private email server",
+            "ideology": "Neutral",
+            "id": 19,
+            "events": [
+                70
+            ]
+        },
+        {
+            "text": "reporters",
+            "ideology": "Neutral",
+            "id": 21,
+            "events": [
+                79
+            ]
+        },
+        {
+            "text": "Top House Democrats",
+            "ideology": "Left",
+            "id": 22,
+            "events": [
+                84
+            ]
+        },
+        {
+            "text": "Republican National Committee",
+            "ideology": "Right",
+            "id": 24,
+            "events": [
+                28
+            ]
+        }
+    ]
+}

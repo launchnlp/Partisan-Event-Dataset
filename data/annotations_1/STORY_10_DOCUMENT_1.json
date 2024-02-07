@@ -1,0 +1,1195 @@
+{
+    "title": "Treasury report says tax-cut plan will more than pay for itself, add $300 billion in revenue",
+    "id": "STORY_10_DOCUMENT_1",
+    "old_id": "2710_0",
+    "split": "train",
+    "date": "2017-12-12",
+    "topic": "tax",
+    "source": "Washington Times",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Treasury Department said Monday that the Senate-approved tax reform plan would pay for itself and more, actually boosting revenue by $300 billion over 10 years."
+        },
+        {
+            "id": 1,
+            "text": "The one-page analysis by Treasury counters a congressional forecast that the tax cuts would add about $1 trillion in deficits over the next decade."
+        },
+        {
+            "id": 2,
+            "text": "Treasury said the legislation, which cuts corporate and individual taxes, would result in $1.8 trillion in additional tax revenue over a decade by spurring stronger economic growth."
+        },
+        {
+            "id": 3,
+            "text": "Subtracting tax cuts of $1.5 trillion from the measure under current law, the administration said, adds up to a gain."
+        },
+        {
+            "id": 4,
+            "text": "\u201cThe administration has been focused on tax reform and broader economic policies to stimulate growth, which will generate significant long-term revenue for the government,\u201d said Treasury Secretary Steven T. Mnuchin."
+        },
+        {
+            "id": 5,
+            "text": "Treasury\u2019s analysis forecasts annual economic growth of at least 2.9 percent, higher than the 2.2 percent estimates used by the congressional Joint Committee on Taxation."
+        },
+        {
+            "id": 6,
+            "text": "\u201cTreasury expects approximately half of this 0.7 percent increase in growth to come from changes to corporate taxation,\u201d the report said."
+        },
+        {
+            "id": 7,
+            "text": "\u201cWe expect the other half to come from changes to pass-through taxation and individual tax reform, as well as from a combination of regulatory reform, infrastructure development, and welfare reform as proposed in the administration\u2019s fiscal year 2018 budget.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "But the nonpartisan Committee for a Responsible Federal Budget said Treasury\u2019s analysis is flawed, and seems to be geared to reaching a pro-administration conclusion."
+        },
+        {
+            "id": 9,
+            "text": "\u201cThe Treasury Department doesn\u2019t estimate the tax bill will help get us to 2.9 percent sustained growth, it just assumes it,\u201d said CRFB President Maya MacGuineas."
+        },
+        {
+            "id": 10,
+            "text": "\u201cRather than modeling the macroeconomic effects of the Senate tax bill, they simply take the same fantastical assumptions they made in the president\u2019s budget and apply them to the tax bill.\u201d"
+        },
+        {
+            "id": 11,
+            "text": "She said any accurate government forecast \u201crelies on sophisticated models to determine the effect of tax changes on labor, investment, interest rates, and income growth.\u201d"
+        },
+        {
+            "id": 12,
+            "text": "Every \u201ctrue\u201d estimate by Congress has found that the tax cuts \u201cwill have a much more modest effect on the economy than what the Treasury claims,\u201d Ms. MacGuineas said."
+        },
+        {
+            "id": 13,
+            "text": "Before the Senate narrowly approved the tax-cut plan a week ago, Republican leaders criticized the JCT analysis for underestimating growth."
+        },
+        {
+            "id": 14,
+            "text": "Gross domestic product has topped 3 percent in each of the past two quarters."
+        },
+        {
+            "id": 15,
+            "text": "Senate Majority Leader Mitch McConnell, Kentucky Republican, said he was confident the Senate bill was \u201crevenue-neutral\u201d or would actually become a \u201crevenue producer.\u201d"
+        },
+        {
+            "id": 16,
+            "text": "House and Senate negotiators are working to complete the package within the next two weeks."
+        },
+        {
+            "id": 17,
+            "text": "The liberal super PAC American Bridge called Treasury\u2019s analysis \u201ca joke.\u201d"
+        },
+        {
+            "id": 18,
+            "text": "\u201c\u200bI\u200bt\u2019s like saying, \u2018I could fly if I could grow wings,\u200b\u2019\u200b \u201d said American Bridge Vice President Shripal Shah."
+        },
+        {
+            "id": 19,
+            "text": "\u201cThe fact that the Trump administration had to doctor a study with fake calculations about major plans that don\u2019t even exist yet is a glaring admission of guilt.\u201d"
+        },
+        {
+            "id": 20,
+            "text": "\u2022 Dave Boyer can be reached at dboyer@washingtontimes.com."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "said",
+            "sentence_id": 0,
+            "start": 24,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "pay",
+            "sentence_id": 0,
+            "start": 83,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "boosting",
+            "sentence_id": 0,
+            "start": 117,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "tax reform plan",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "revenue",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "counters",
+            "sentence_id": 1,
+            "start": 34,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "forecast",
+            "sentence_id": 1,
+            "start": 59,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "add",
+            "sentence_id": 1,
+            "start": 92,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "cuts",
+            "sentence_id": 2,
+            "start": 37,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "tax reform plan",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "taxes",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "result",
+            "sentence_id": 2,
+            "start": 80,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "spurring",
+            "sentence_id": 2,
+            "start": 147,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "tax reform plan",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "economic growth",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 93,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "adds",
+            "sentence_id": 3,
+            "start": 99,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "gain",
+            "sentence_id": 3,
+            "start": 112,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "focused",
+            "sentence_id": 4,
+            "start": 29,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "stimulate",
+            "sentence_id": 4,
+            "start": 84,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "tax reform plan",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "economic growth",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "generate",
+            "sentence_id": 4,
+            "start": 113,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 173,
+            "end": 177,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "forecasts",
+            "sentence_id": 5,
+            "start": 20,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "expects",
+            "sentence_id": 6,
+            "start": 10,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "tax reform plan",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Treasury Department",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "economic growth",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "increase",
+            "sentence_id": 6,
+            "start": 57,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "come",
+            "sentence_id": 6,
+            "start": 79,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "changes",
+            "sentence_id": 6,
+            "start": 89,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 132,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "expect",
+            "sentence_id": 7,
+            "start": 4,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "come",
+            "sentence_id": 7,
+            "start": 29,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "changes",
+            "sentence_id": 7,
+            "start": 39,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "proposed",
+            "sentence_id": 7,
+            "start": 201,
+            "end": 209,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 63,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "flawed",
+            "sentence_id": 8,
+            "start": 91,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Treasury Department",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "tax reform plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 29,
+            "token": "seems",
+            "sentence_id": 8,
+            "start": 103,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "geared",
+            "sentence_id": 8,
+            "start": 115,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "reaching",
+            "sentence_id": 8,
+            "start": 125,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "estimate",
+            "sentence_id": 9,
+            "start": 33,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "help",
+            "sentence_id": 9,
+            "start": 60,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "get",
+            "sentence_id": 9,
+            "start": 65,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "assumes",
+            "sentence_id": 9,
+            "start": 113,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Treasury Department",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "economic growth",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "tax reform plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 36,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 126,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "modeling",
+            "sentence_id": 10,
+            "start": 13,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "take",
+            "sentence_id": 10,
+            "start": 84,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "made",
+            "sentence_id": 10,
+            "start": 127,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "apply",
+            "sentence_id": 10,
+            "start": 162,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "said",
+            "sentence_id": 11,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "relies",
+            "sentence_id": 11,
+            "start": 43,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "determine",
+            "sentence_id": 11,
+            "start": 77,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "estimate",
+            "sentence_id": 12,
+            "start": 13,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "found",
+            "sentence_id": 12,
+            "start": 38,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "have",
+            "sentence_id": 12,
+            "start": 68,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "claims",
+            "sentence_id": 12,
+            "start": 137,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 161,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Maya MacGuineas",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Treasury Department",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "tax reform plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 49,
+            "token": "approved",
+            "sentence_id": 13,
+            "start": 27,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "criticized",
+            "sentence_id": 13,
+            "start": 84,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "JCT analysis",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "tax reform plan",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "underestimating",
+            "sentence_id": 13,
+            "start": 116,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "topped",
+            "sentence_id": 14,
+            "start": 27,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "said",
+            "sentence_id": 15,
+            "start": 61,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "confident",
+            "sentence_id": 15,
+            "start": 73,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Mitch McConnell",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "tax reform plan",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "become",
+            "sentence_id": 15,
+            "start": 139,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "working",
+            "sentence_id": 16,
+            "start": 33,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "complete",
+            "sentence_id": 16,
+            "start": 44,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "called",
+            "sentence_id": 17,
+            "start": 38,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "PAC American Bridge",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Treasury Department",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "tax reform plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 59,
+            "token": "saying",
+            "sentence_id": 18,
+            "start": 13,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "fly",
+            "sentence_id": 18,
+            "start": 30,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "grow",
+            "sentence_id": 18,
+            "start": 45,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "said",
+            "sentence_id": 18,
+            "start": 62,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Shripal Shah",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "tax reform plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Treasury Department",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 63,
+            "token": "doctor",
+            "sentence_id": 19,
+            "start": 47,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "fake calculations",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 64,
+            "token": "exist",
+            "sentence_id": 19,
+            "start": 119,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "admission",
+            "sentence_id": 19,
+            "start": 142,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "tax reform plan",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                2,
+                7,
+                9,
+                35,
+                28,
+                48,
+                50,
+                54,
+                58,
+                62,
+                18,
+                14
+            ]
+        },
+        {
+            "text": "revenue",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "taxes",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                7
+            ]
+        },
+        {
+            "text": "economic growth",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                9,
+                35,
+                18,
+                14
+            ]
+        },
+        {
+            "text": "Treasury Department",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                35,
+                28,
+                48,
+                58,
+                62,
+                18
+            ]
+        },
+        {
+            "text": "Maya MacGuineas",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                48
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                50
+            ]
+        },
+        {
+            "text": "JCT analysis",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                50
+            ]
+        },
+        {
+            "text": "Mitch McConnell",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                54
+            ]
+        },
+        {
+            "text": "PAC American Bridge",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                58
+            ]
+        },
+        {
+            "text": "Shripal Shah",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                62
+            ]
+        },
+        {
+            "text": "Trump administration",
+            "ideology": "Right",
+            "id": 11,
+            "events": [
+                63
+            ]
+        },
+        {
+            "text": "fake calculations",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                63
+            ]
+        }
+    ]
+}

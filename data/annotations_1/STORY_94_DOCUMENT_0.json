@@ -1,0 +1,1253 @@
+{
+    "title": "Company drops contentious Keystone XL pipeline project",
+    "id": "STORY_94_DOCUMENT_0",
+    "old_id": "5710_1",
+    "split": "train",
+    "date": "2021-06-11",
+    "topic": "energy",
+    "source": "Al Jazeera",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Critics welcome announcement as a \u2018victory\u2019 just months after US President Joe Biden revoked a permit for the pipeline."
+        },
+        {
+            "id": 1,
+            "text": "The company behind a contentious oil pipeline that would have stretched between Canada and the United States has officially abandoned the project, months after US President Joe Biden revoked its permit."
+        },
+        {
+            "id": 2,
+            "text": "In a statement on Wednesday, TC Energy said it had terminated the Keystone XL project \u201cafter a comprehensive review of its options\u201d and in consultation with its partner, the government of Alberta, an oil-rich province in western Canada."
+        },
+        {
+            "id": 3,
+            "text": "\u201cThe Company will continue to coordinate with regulators, stakeholders and Indigenous groups to meet its environmental and regulatory commitments and ensure a safe termination of and exit from the Project,\u201d TC Energy said."
+        },
+        {
+            "id": 4,
+            "text": "Right-wing Alberta Premier Jason Kenney\u2019s government invested 1.5 billion Canadian dollars ($1.1bn) in the Keystone project last year, saying the pipeline was necessary to support the provincial economy."
+        },
+        {
+            "id": 5,
+            "text": "But the project faced years of staunch opposition from environmental groups, landowners and Indigenous communities in both Canada and the US, who argued it threatened their lands and waters and would worsen the climate crisis."
+        },
+        {
+            "id": 6,
+            "text": "In January, just hours after he was inaugurated, Biden fulfilled a campaign promise and revoked the presidential permit for the project issued by former President Donald Trump."
+        },
+        {
+            "id": 7,
+            "text": "The 1,947km (1,210-mile) Keystone XL pipeline was set to stretch from the Canadian province of Alberta to the US state of Nebraska, and would have shipped 830,000 barrels of oil per day between the two countries."
+        },
+        {
+            "id": 8,
+            "text": "\u201cThis is great news for the Tribes who have been fighting to protect our people and our lands,\u201d Rosebud Sioux Tribe President Rodney M Bordeaux said in a statement about the pipeline\u2019s cancellation on Wednesday."
+        },
+        {
+            "id": 9,
+            "text": "\u201cThe treaties and laws guarantee us protections, and we are committed to see that those laws are upheld.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "The Indigenous Environmental Network, a US-based Indigenous advocacy group, also welcomed the news."
+        },
+        {
+            "id": 11,
+            "text": "\u201cAfter more than 10 years \u2014 we have finally defeated an oil and gas giant!"
+        },
+        {
+            "id": 12,
+            "text": "Keystone XL is DEAD!"
+        },
+        {
+            "id": 13,
+            "text": "We are dancing in our hearts for this victory!\u201d the group tweeted."
+        },
+        {
+            "id": 14,
+            "text": "\u201cFrom the Tar Sands to the Gulf \u2014 we stood in hand-in-hand to protect the next seven generations of life, the water and our communities."
+        },
+        {
+            "id": 15,
+            "text": "This is not the end \u2013 but merely the beginning of further victories."
+        },
+        {
+            "id": 16,
+            "text": "We know this in our hearts.\u201d"
+        },
+        {
+            "id": 17,
+            "text": "After more than 10 years \u2014 we have finally defeated an oil and gas giant!"
+        },
+        {
+            "id": 18,
+            "text": "Keystone XL is DEAD!"
+        },
+        {
+            "id": 19,
+            "text": "We are dancing in our hearts for this victory!"
+        },
+        {
+            "id": 20,
+            "text": "#NoKXL #NoTarSands"
+        },
+        {
+            "id": 21,
+            "text": "https://t.co/q5lkfKatft \u2014 Indigenous Environmental Network (@IENearth) June 9, 2021"
+        },
+        {
+            "id": 22,
+            "text": "\u201cWe\u2019re hopeful that the Biden administration will continue to shift this country in the right direction by opposing fossil fuel projects that threaten our climate, our waters and imperiled wildlife."
+        },
+        {
+            "id": 23,
+            "text": "Good riddance to Keystone XL!\u201d said Jared Margolis of the Center for Biological Diversity, another US-based group."
+        },
+        {
+            "id": 24,
+            "text": "Canadian Prime Minister Justin Trudeau\u2019s government had supported Keystone XL, but Trudeau said in January that he accepted Biden\u2019s decision to cancel the project."
+        },
+        {
+            "id": 25,
+            "text": "Kenney, the Alberta premier, said in a statement on Wednesday that his government remained \u201cdisappointed and frustrated with the circumstances surrounding the Keystone XL project, including the cancellation of the presidential permit for the pipeline\u2019s border crossing\u201d."
+        },
+        {
+            "id": 26,
+            "text": "\u201cHaving said this, Alberta will continue to play an important role in a reliable, affordable North American energy system."
+        },
+        {
+            "id": 27,
+            "text": "We will work with our U.S. partners to ensure that we are able to meet U.S. energy demands through the responsible development and transportation of our resources.\u201d"
+        },
+        {
+            "id": 28,
+            "text": "The statement said the Alberta government is expected to incur a total cost of $1.3bn Canadian dollars ($1.07bn) for the project."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "announcement",
+            "sentence_id": 0,
+            "start": 16,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "victory",
+            "sentence_id": 0,
+            "start": 35,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Keystone XL project",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "revoked",
+            "sentence_id": 0,
+            "start": 85,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "stretched",
+            "sentence_id": 1,
+            "start": 62,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "abandoned",
+            "sentence_id": 1,
+            "start": 124,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "revoked",
+            "sentence_id": 1,
+            "start": 183,
+            "end": 190,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "terminated",
+            "sentence_id": 2,
+            "start": 51,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "review",
+            "sentence_id": 2,
+            "start": 109,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "continue",
+            "sentence_id": 3,
+            "start": 18,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "coordinate",
+            "sentence_id": 3,
+            "start": 30,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "meet",
+            "sentence_id": 3,
+            "start": 96,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "ensure",
+            "sentence_id": 3,
+            "start": 150,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "termination",
+            "sentence_id": 3,
+            "start": 164,
+            "end": 175,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "exit",
+            "sentence_id": 3,
+            "start": 183,
+            "end": 187,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 217,
+            "end": 221,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "invested",
+            "sentence_id": 4,
+            "start": 53,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "saying",
+            "sentence_id": 4,
+            "start": 135,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "support",
+            "sentence_id": 4,
+            "start": 172,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "faced",
+            "sentence_id": 5,
+            "start": 16,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "opposition",
+            "sentence_id": 5,
+            "start": 39,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Keystone XL project",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "environmental groups",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Indigenous communities",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "landowners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "argued",
+            "sentence_id": 5,
+            "start": 146,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "threatened",
+            "sentence_id": 5,
+            "start": 156,
+            "end": 166,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Keystone XL project",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "lands and waters",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "worsen",
+            "sentence_id": 5,
+            "start": 200,
+            "end": 206,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Keystone XL project",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "climate crisis",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "crisis",
+            "sentence_id": 5,
+            "start": 219,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "inaugurated",
+            "sentence_id": 6,
+            "start": 36,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "fulfilled",
+            "sentence_id": 6,
+            "start": 55,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "campaign promise",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "promise",
+            "sentence_id": 6,
+            "start": 76,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "revoked",
+            "sentence_id": 6,
+            "start": 88,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "issued",
+            "sentence_id": 6,
+            "start": 136,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "set",
+            "sentence_id": 7,
+            "start": 50,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "stretch",
+            "sentence_id": 7,
+            "start": 57,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "shipped",
+            "sentence_id": 7,
+            "start": 147,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "fighting",
+            "sentence_id": 8,
+            "start": 49,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "protect",
+            "sentence_id": 8,
+            "start": 61,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 144,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "cancellation",
+            "sentence_id": 8,
+            "start": 185,
+            "end": 197,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "guarantee",
+            "sentence_id": 9,
+            "start": 23,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "committed",
+            "sentence_id": 9,
+            "start": 60,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "see",
+            "sentence_id": 9,
+            "start": 73,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "upheld",
+            "sentence_id": 9,
+            "start": 97,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "welcomed",
+            "sentence_id": 10,
+            "start": 81,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "defeated",
+            "sentence_id": 11,
+            "start": 44,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "DEAD",
+            "sentence_id": 12,
+            "start": 15,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "dancing",
+            "sentence_id": 13,
+            "start": 7,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "victory",
+            "sentence_id": 13,
+            "start": 38,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "tweeted",
+            "sentence_id": 13,
+            "start": 58,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "stood",
+            "sentence_id": 14,
+            "start": 37,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "protect",
+            "sentence_id": 14,
+            "start": 62,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "victories",
+            "sentence_id": 15,
+            "start": 58,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "know",
+            "sentence_id": 16,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "defeated",
+            "sentence_id": 17,
+            "start": 43,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "DEAD",
+            "sentence_id": 18,
+            "start": 15,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "dancing",
+            "sentence_id": 19,
+            "start": 7,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "victory",
+            "sentence_id": 19,
+            "start": 38,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "hopeful",
+            "sentence_id": 22,
+            "start": 7,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "continue",
+            "sentence_id": 22,
+            "start": 50,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "shift",
+            "sentence_id": 22,
+            "start": 62,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "opposing",
+            "sentence_id": 22,
+            "start": 107,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "fossil fuel projects",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 59,
+            "token": "threaten",
+            "sentence_id": 22,
+            "start": 142,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "said",
+            "sentence_id": 23,
+            "start": 31,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "supported",
+            "sentence_id": 24,
+            "start": 56,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "said",
+            "sentence_id": 24,
+            "start": 91,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "accepted",
+            "sentence_id": 24,
+            "start": 115,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "decision",
+            "sentence_id": 24,
+            "start": 132,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "cancel",
+            "sentence_id": 24,
+            "start": 144,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "said",
+            "sentence_id": 25,
+            "start": 29,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "remained",
+            "sentence_id": 25,
+            "start": 82,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "disappointed",
+            "sentence_id": 25,
+            "start": 92,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Jason Kenney",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 69,
+            "token": "frustrated",
+            "sentence_id": 25,
+            "start": 109,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Jason Kenney",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 70,
+            "token": "cancellation",
+            "sentence_id": 25,
+            "start": 194,
+            "end": 206,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "said",
+            "sentence_id": 26,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "continue",
+            "sentence_id": 26,
+            "start": 32,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "play",
+            "sentence_id": 26,
+            "start": 44,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "work",
+            "sentence_id": 27,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "ensure",
+            "sentence_id": 27,
+            "start": 39,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "able",
+            "sentence_id": 27,
+            "start": 58,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "meet",
+            "sentence_id": 27,
+            "start": 66,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "said",
+            "sentence_id": 28,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "expected",
+            "sentence_id": 28,
+            "start": 45,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "incur",
+            "sentence_id": 28,
+            "start": 57,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Joe Biden",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                1,
+                26,
+                58,
+                68,
+                69
+            ]
+        },
+        {
+            "text": "Keystone XL project",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                1,
+                20,
+                22,
+                23
+            ]
+        },
+        {
+            "text": "campaign promise",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                26
+            ]
+        },
+        {
+            "text": "environmental groups",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                20
+            ]
+        },
+        {
+            "text": "Indigenous communities",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                20
+            ]
+        },
+        {
+            "text": "landowners",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                20
+            ]
+        },
+        {
+            "text": "lands and waters",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                22
+            ]
+        },
+        {
+            "text": "climate crisis",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                23
+            ]
+        },
+        {
+            "text": "fossil fuel projects",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                58
+            ]
+        },
+        {
+            "text": "Jason Kenney",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                68,
+                69
+            ]
+        }
+    ]
+}

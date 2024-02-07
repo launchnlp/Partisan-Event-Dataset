@@ -1,0 +1,1106 @@
+{
+    "title": "Opinion | Joe Biden: My Plan to Extend Medicare for Another Generation",
+    "id": "STORY_144_DOCUMENT_1",
+    "old_id": "7755_2",
+    "split": "test",
+    "date": "2023-03-08",
+    "topic": "tax",
+    "source": "Joe Biden",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Affordable Care Act embraced smart reforms to make our health care system more efficient while improving Medicare coverage for seniors."
+        },
+        {
+            "id": 1,
+            "text": "The Inflation Reduction Act ended the absurd ban on Medicare negotiating lower drug prices, required drug companies to pay rebates to Medicare if they increase prices faster than inflation and capped seniors\u2019 total prescription drug costs \u2014 saving seniors up to thousands of dollars a year."
+        },
+        {
+            "id": 2,
+            "text": "These negotiations, combined with the law\u2019s rebates for excessive price hikes, will reduce the deficit by $159 billion."
+        },
+        {
+            "id": 3,
+            "text": "We have seen a significant slowdown in the growth of health care spending since the Affordable Care Act was passed."
+        },
+        {
+            "id": 4,
+            "text": "In the decade after the A.C.A., Medicare actually spent about $1 trillion less than the nonpartisan Congressional Budget Office projected before the A.C.A. reforms were in place."
+        },
+        {
+            "id": 5,
+            "text": "In 2009, before the A.C.A., the Medicare trustees projected that Medicare\u2019s trust fund would be exhausted in 2017; their latest projection is 2028."
+        },
+        {
+            "id": 6,
+            "text": "But we should do better than that and extend Medicare\u2019s solvency beyond 2050."
+        },
+        {
+            "id": 7,
+            "text": "So first, let\u2019s expand on that progress."
+        },
+        {
+            "id": 8,
+            "text": "My budget will build on drug price reforms by strengthening Medicare\u2019s newly established negotiation power, allowing Medicare to negotiate prices for more drugs and bringing drugs into negotiation sooner after they launch."
+        },
+        {
+            "id": 9,
+            "text": "That\u2019s another $200 billion in deficit reduction."
+        },
+        {
+            "id": 10,
+            "text": "We will then take those savings and put them directly into the Medicare trust fund."
+        },
+        {
+            "id": 11,
+            "text": "Lowering drug prices while extending Medicare\u2019s solvency sure makes a lot more sense than cutting benefits."
+        },
+        {
+            "id": 12,
+            "text": "Second, let\u2019s ask the wealthiest to pay just a little bit more of their fair share, to strengthen Medicare for everyone over the long term."
+        },
+        {
+            "id": 13,
+            "text": "My budget proposes to increase the Medicare tax rate on earned and unearned income above $400,000 to 5 percent from 3.8 percent."
+        },
+        {
+            "id": 14,
+            "text": "As I proposed in the past, my budget will also ensure that the tax that supports Medicare can\u2019t be avoided altogether."
+        },
+        {
+            "id": 15,
+            "text": "This modest increase in Medicare contributions from those with the highest incomes will help keep the Medicare program strong for decades to come."
+        },
+        {
+            "id": 16,
+            "text": "My budget will make sure the money goes directly into the Medicare trust fund, protecting taxpayers\u2019 investment and the future of the program."
+        },
+        {
+            "id": 17,
+            "text": "When Medicare was passed, the wealthiest 1 percent of Americans didn\u2019t have more than five times the wealth of the bottom 50 percent combined, and it only makes sense that some adjustments be made to reflect that reality today."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "embraced",
+            "sentence_id": 0,
+            "start": 24,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "reforms",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "make",
+            "sentence_id": 0,
+            "start": 50,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "health care system",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "improving",
+            "sentence_id": 0,
+            "start": 99,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Medicare coverage for seniors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "ended",
+            "sentence_id": 1,
+            "start": 28,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Inflation Reduction Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "ban on Medicare",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "negotiating",
+            "sentence_id": 1,
+            "start": 61,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "required",
+            "sentence_id": 1,
+            "start": 92,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "pay",
+            "sentence_id": 1,
+            "start": 119,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "increase",
+            "sentence_id": 1,
+            "start": 151,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "capped",
+            "sentence_id": 1,
+            "start": 193,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "saving",
+            "sentence_id": 1,
+            "start": 241,
+            "end": 247,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Inflation Reduction Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "thousands of dollars a year",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "negotiations",
+            "sentence_id": 2,
+            "start": 6,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "hikes",
+            "sentence_id": 2,
+            "start": 72,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "reduce",
+            "sentence_id": 2,
+            "start": 84,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Inflation Reduction Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "deficit",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "seen",
+            "sentence_id": 3,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "slowdown",
+            "sentence_id": 3,
+            "start": 27,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "health care spending",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "growth",
+            "sentence_id": 3,
+            "start": 43,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "passed",
+            "sentence_id": 3,
+            "start": 108,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "spent",
+            "sentence_id": 4,
+            "start": 50,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "projected",
+            "sentence_id": 4,
+            "start": 128,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "projected",
+            "sentence_id": 5,
+            "start": 50,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "exhausted",
+            "sentence_id": 5,
+            "start": 96,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "projection",
+            "sentence_id": 5,
+            "start": 128,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "do",
+            "sentence_id": 6,
+            "start": 14,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "extend",
+            "sentence_id": 6,
+            "start": 38,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "expand",
+            "sentence_id": 7,
+            "start": 16,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "progress",
+            "sentence_id": 7,
+            "start": 31,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "build",
+            "sentence_id": 8,
+            "start": 15,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "strengthening",
+            "sentence_id": 8,
+            "start": 46,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Biden's budget",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Medicare\u2019s newly established negotiation power",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "allowing",
+            "sentence_id": 8,
+            "start": 108,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "negotiate",
+            "sentence_id": 8,
+            "start": 129,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "bringing",
+            "sentence_id": 8,
+            "start": 165,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "launch",
+            "sentence_id": 8,
+            "start": 215,
+            "end": 221,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "take",
+            "sentence_id": 10,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "put",
+            "sentence_id": 10,
+            "start": 36,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "Lowering",
+            "sentence_id": 11,
+            "start": 0,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "drug prices",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "extending",
+            "sentence_id": 11,
+            "start": 27,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "Medicare\u2019s solvency",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 36,
+            "token": "makes",
+            "sentence_id": 11,
+            "start": 62,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "cutting",
+            "sentence_id": 11,
+            "start": 90,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "ask",
+            "sentence_id": 12,
+            "start": 14,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "pay",
+            "sentence_id": 12,
+            "start": 36,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "strengthen",
+            "sentence_id": 12,
+            "start": 87,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Medicare",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "proposes",
+            "sentence_id": 13,
+            "start": 10,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "increase",
+            "sentence_id": 13,
+            "start": 22,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "proposed",
+            "sentence_id": 14,
+            "start": 5,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "ensure",
+            "sentence_id": 14,
+            "start": 47,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Biden's budget",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Medicare tax",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "avoided",
+            "sentence_id": 14,
+            "start": 99,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "increase",
+            "sentence_id": 15,
+            "start": 12,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "help",
+            "sentence_id": 15,
+            "start": 88,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Biden's budget",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Medicare",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 48,
+            "token": "keep",
+            "sentence_id": 15,
+            "start": 93,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "make",
+            "sentence_id": 16,
+            "start": 15,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "goes",
+            "sentence_id": 16,
+            "start": 35,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "protecting",
+            "sentence_id": 16,
+            "start": 79,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Biden's budget",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "taxpayers\u2019 investment",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "passed",
+            "sentence_id": 17,
+            "start": 18,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "have",
+            "sentence_id": 17,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "adjustments",
+            "sentence_id": 17,
+            "start": 177,
+            "end": 188,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Biden's budget",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "made",
+            "sentence_id": 17,
+            "start": 192,
+            "end": 196,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "reflect",
+            "sentence_id": 17,
+            "start": 200,
+            "end": 207,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Affordable Care Act",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                2,
+                1,
+                14,
+                34,
+                35,
+                40,
+                0
+            ]
+        },
+        {
+            "text": "Medicare coverage for seniors",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "health care system",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                1
+            ]
+        },
+        {
+            "text": "Inflation Reduction Act",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                3,
+                9,
+                12
+            ]
+        },
+        {
+            "text": "ban on Medicare",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                3
+            ]
+        },
+        {
+            "text": "thousands of dollars a year",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                9
+            ]
+        },
+        {
+            "text": "deficit",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                12
+            ]
+        },
+        {
+            "text": "health care spending",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                14
+            ]
+        },
+        {
+            "text": "Biden's budget",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                27,
+                44,
+                47,
+                51,
+                54
+            ]
+        },
+        {
+            "text": "Medicare\u2019s newly established negotiation power",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                27
+            ]
+        },
+        {
+            "text": "drug prices",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                34
+            ]
+        },
+        {
+            "text": "Medicare\u2019s solvency",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                35
+            ]
+        },
+        {
+            "text": "Medicare",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                40,
+                47
+            ]
+        },
+        {
+            "text": "Medicare tax",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": [
+                44
+            ]
+        },
+        {
+            "text": "taxpayers\u2019 investment",
+            "ideology": "Neutral",
+            "id": 14,
+            "events": [
+                51
+            ]
+        },
+        {
+            "text": "reforms",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "Joe Biden",
+            "ideology": "Left",
+            "id": 16,
+            "events": [
+                54
+            ]
+        }
+    ]
+}

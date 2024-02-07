@@ -1,0 +1,1124 @@
+{
+    "title": "House GOP: No one's blinking",
+    "id": "STORY_20_DOCUMENT_0",
+    "old_id": "307_2",
+    "split": "train",
+    "date": "2013-01-14",
+    "topic": "federal-budget",
+    "source": "CNN (Online News)",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "10 years ago"
+        },
+        {
+            "id": 1,
+            "text": "In a high-stakes game of chicken, House Republican leaders appear more willing than before to allow the country to default on its loans and shut the government down, in order to force the president and Democrats to agree to spending cuts."
+        },
+        {
+            "id": 2,
+            "text": "In conversations with House GOP leadership aides, it was clear they want to try to reclaim the upper hand in this debate over slashing government spending."
+        },
+        {
+            "id": 3,
+            "text": "\"If the White House continues to pretend that hoping is a strategy then I don't see how we make progress,\" said one House GOP leadership aide."
+        },
+        {
+            "id": 4,
+            "text": "One member of the leadership, Rep. Cathy McMorris Rodgers, R-Washington, told Politico that its \"possible that we would shut the government to make sure president Obama understands we're serious.\""
+        },
+        {
+            "id": 5,
+            "text": "That quote \u2013 and the story it was in \u2013 appears to be a deliberate attempt to raise the stakes and send the president a message."
+        },
+        {
+            "id": 6,
+            "text": "\"If that story sparks the White House to abandon their strategy of sticking their fingers in their ears and hoping real hard we pass a debt limit increase without real spending cuts \u2013that's a good thing."
+        },
+        {
+            "id": 7,
+            "text": "That's not a realistic strategy,\" said the House Republican leadership aide."
+        },
+        {
+            "id": 8,
+            "text": "House GOP leaders argue their position hasn't changed from the last time the country hit the debt ceiling in 2011 \u2013 they want a dollar of spending cuts for every dollar the debt limit is increased."
+        },
+        {
+            "id": 9,
+            "text": "The same senior Republican aide says that with the White House ruling out other options \u2013 minting a trillion coin or using the authority under 14th Amendment \u2013 the only option is for Congress to pass legislation and it is possible that unless the President changes his position, Congress won't agree to raise the debt limit."
+        },
+        {
+            "id": 10,
+            "text": "One option, if they cannot agree to a bigger package, is that Congress could just raise the debt limit for short period of time instead of a full year."
+        },
+        {
+            "id": 11,
+            "text": "\"The White House knows our position - we need spending cuts or reforms equal to the debt limit increase \u2013 if they can only find a month or two, then that's what they get.\""
+        },
+        {
+            "id": 12,
+            "text": "Despite this bravado, other House GOP leadership aides tell CNN they do not think the Speaker is willing make good on these threats \u2013 and put the credit of the United States on the line with the debt ceiling."
+        },
+        {
+            "id": 13,
+            "text": "Shutting down the government may have fewer long term consequences with regard to the health of the economy, but some House Republican leadership aides say even that is too politically risky."
+        },
+        {
+            "id": 14,
+            "text": "The issue, however, is that there are a number of rank and file House Republicans who bit their tongues in and around the fiscal cliff debate, believing the debt ceiling and potential government shut down is where their leverage is."
+        },
+        {
+            "id": 15,
+            "text": "How far House Republicans are willing to go will no doubt be a big topic at this week's House GOP retreat in Williamsburg, Virginia."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "game",
+            "sentence_id": 1,
+            "start": 17,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "appear",
+            "sentence_id": 1,
+            "start": 59,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "willing",
+            "sentence_id": 1,
+            "start": 71,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "allow",
+            "sentence_id": 1,
+            "start": 94,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "House Republican leaders",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "government",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "default",
+            "sentence_id": 1,
+            "start": 115,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "government",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "House Republican leaders",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "shut",
+            "sentence_id": 1,
+            "start": 140,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "government",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "House Republican leaders",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "force",
+            "sentence_id": 1,
+            "start": 178,
+            "end": 183,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "House Republican leaders",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "agree",
+            "sentence_id": 1,
+            "start": 215,
+            "end": 220,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "conversations",
+            "sentence_id": 2,
+            "start": 3,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "want",
+            "sentence_id": 2,
+            "start": 68,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "try",
+            "sentence_id": 2,
+            "start": 76,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "reclaim",
+            "sentence_id": 2,
+            "start": 83,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "House Republican leaders",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "government spending",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "debate",
+            "sentence_id": 2,
+            "start": 114,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "slashing",
+            "sentence_id": 2,
+            "start": 126,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "House Republican leaders",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "government spending",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "continues",
+            "sentence_id": 3,
+            "start": 20,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "pretend",
+            "sentence_id": 3,
+            "start": 33,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "government spending",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 16,
+            "token": "hoping",
+            "sentence_id": 3,
+            "start": 46,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "see",
+            "sentence_id": 3,
+            "start": 80,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "make",
+            "sentence_id": 3,
+            "start": 91,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 107,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "told",
+            "sentence_id": 4,
+            "start": 73,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "shut",
+            "sentence_id": 4,
+            "start": 120,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "House Republican leaders",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "government",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "make",
+            "sentence_id": 4,
+            "start": 143,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "understands",
+            "sentence_id": 4,
+            "start": 169,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "appears",
+            "sentence_id": 5,
+            "start": 39,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "attempt",
+            "sentence_id": 5,
+            "start": 66,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "raise",
+            "sentence_id": 5,
+            "start": 77,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "send",
+            "sentence_id": 5,
+            "start": 98,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "sparks",
+            "sentence_id": 6,
+            "start": 15,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "abandon",
+            "sentence_id": 6,
+            "start": 41,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "sticking",
+            "sentence_id": 6,
+            "start": 67,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "White House",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "government spending",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 31,
+            "token": "hoping",
+            "sentence_id": 6,
+            "start": 108,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "White House",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "government spending",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 32,
+            "token": "pass",
+            "sentence_id": 6,
+            "start": 128,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "increase",
+            "sentence_id": 6,
+            "start": 146,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "cuts",
+            "sentence_id": 6,
+            "start": 177,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 34,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "argue",
+            "sentence_id": 8,
+            "start": 18,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "changed",
+            "sentence_id": 8,
+            "start": 46,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "hit",
+            "sentence_id": 8,
+            "start": 85,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "want",
+            "sentence_id": 8,
+            "start": 121,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "House Republican leaders",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "government spending",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "increased",
+            "sentence_id": 8,
+            "start": 187,
+            "end": 196,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "says",
+            "sentence_id": 9,
+            "start": 32,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "ruling",
+            "sentence_id": 9,
+            "start": 63,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "minting",
+            "sentence_id": 9,
+            "start": 90,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "using",
+            "sentence_id": 9,
+            "start": 117,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "pass",
+            "sentence_id": 9,
+            "start": 195,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "changes",
+            "sentence_id": 9,
+            "start": 257,
+            "end": 264,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "president Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "government spending",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 47,
+            "token": "agree",
+            "sentence_id": 9,
+            "start": 294,
+            "end": 299,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "raise",
+            "sentence_id": 9,
+            "start": 303,
+            "end": 308,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "agree",
+            "sentence_id": 10,
+            "start": 27,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "raise",
+            "sentence_id": 10,
+            "start": 82,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "knows",
+            "sentence_id": 11,
+            "start": 17,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "need",
+            "sentence_id": 11,
+            "start": 41,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "cuts",
+            "sentence_id": 11,
+            "start": 55,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "increase",
+            "sentence_id": 11,
+            "start": 95,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "find",
+            "sentence_id": 11,
+            "start": 123,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "tell",
+            "sentence_id": 12,
+            "start": 55,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "think",
+            "sentence_id": 12,
+            "start": 76,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "willing",
+            "sentence_id": 12,
+            "start": 97,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "make",
+            "sentence_id": 12,
+            "start": 105,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "put",
+            "sentence_id": 12,
+            "start": 138,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "Shutting",
+            "sentence_id": 13,
+            "start": 0,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "say",
+            "sentence_id": 13,
+            "start": 152,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "bit",
+            "sentence_id": 14,
+            "start": 86,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "debate",
+            "sentence_id": 14,
+            "start": 135,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "believing",
+            "sentence_id": 14,
+            "start": 143,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "shut",
+            "sentence_id": 14,
+            "start": 195,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "willing",
+            "sentence_id": 15,
+            "start": 30,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "House Republican leaders",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "government spending",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 68,
+            "token": "go",
+            "sentence_id": 15,
+            "start": 41,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "retreat",
+            "sentence_id": 15,
+            "start": 98,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "House Republican leaders",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                3,
+                4,
+                5,
+                6,
+                11,
+                13,
+                21,
+                39,
+                67
+            ]
+        },
+        {
+            "text": "government",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                3,
+                4,
+                5,
+                21
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                6,
+                15
+            ]
+        },
+        {
+            "text": "government spending",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                11,
+                13,
+                15,
+                30,
+                31,
+                39,
+                46,
+                67
+            ]
+        },
+        {
+            "text": "White House",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                30,
+                31
+            ]
+        },
+        {
+            "text": "president Obama",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                46
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1404 @@
+{
+    "title": "Mississippi has banned gender-affirming healthcare for anyone under 18",
+    "id": "STORY_132_DOCUMENT_1",
+    "old_id": "7714_1",
+    "split": "test",
+    "date": "2023-03-01",
+    "topic": "healthcare",
+    "source": "LGBTQ Nation",
+    "media_ideology": "Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "On Tuesday, Mississippi Governor Tate Reeves (R) signed H.B. 1125, known as the \u201cRegulate Experimental Adolescent Procedures (REAP) Act\u201d into law."
+        },
+        {
+            "id": 1,
+            "text": "As Axios notes, the law, which went into effect immediately, prohibits the provision of \u201cgender transition procedures,\u201d including puberty blockers and gender reassignment surgeries, to anyone under the age of 18."
+        },
+        {
+            "id": 2,
+            "text": "Under the new law, healthcare workers who provide gender-affirming care to minors will have their licenses revoked."
+        },
+        {
+            "id": 3,
+            "text": "It also allows patients to sue healthcare providers up to 30 years after receiving treatment, and denies state or federal funding to state organizations that provide gender-affirming care to minors."
+        },
+        {
+            "id": 4,
+            "text": "Gender-affirming care for both adolescents and adults has been endorsed by the American Medical Association, the American Academy of Pediatrics, the American Psychiatric Association, and many other professional groups as necessary and frequently lifesaving for transgender individuals."
+        },
+        {
+            "id": 5,
+            "text": "Recent research suggests that gender-affirming care like hormone therapy improves the mental health of transgender youth experiencing gender dysphoria."
+        },
+        {
+            "id": 6,
+            "text": "During a signing ceremony on Tuesday, Reeves parroted anti-trans claims that have been largely debunked by the American Academy of Pediatrics."
+        },
+        {
+            "id": 7,
+            "text": "\u201cThere is a dangerous movement spreading across America today."
+        },
+        {
+            "id": 8,
+            "text": "It\u2019s advancing under the guise of a false ideology and pseudo-science."
+        },
+        {
+            "id": 9,
+            "text": "It\u2019s being pushed onto our children through radical activists, social media, and online influencers,\u201d Reeves claimed."
+        },
+        {
+            "id": 10,
+            "text": "\u201cIt\u2019s trying to convince our children that they are in the wrong body."
+        },
+        {
+            "id": 11,
+            "text": "This dangerous movement attempts to convince these children that they are just a surgery away from happiness.\u201d"
+        },
+        {
+            "id": 12,
+            "text": "\u201cThis is truly scary stuff that\u2019s being pushed upon our kids and, yes, their loving parents,\u201d Reeves continued."
+        },
+        {
+            "id": 13,
+            "text": "\u201cThey\u2019re being taken advantage of, all so some can push their warped view on gender or appear to be \u2018woke\u2019 for their friends.\u201d"
+        },
+        {
+            "id": 14,
+            "text": "Anti-transgender advocates often claim that young people who are only coming out as transgender or nonbinary in greater numbers because of \u201csocial contagion,\u201d that is, social pressure to do so."
+        },
+        {
+            "id": 15,
+            "text": "However, a 2022 study found that this hasn\u2019t actually increased the number of trans-identifying adolescents who live in 16 different U.S. states."
+        },
+        {
+            "id": 16,
+            "text": "Reeves was joined at the ceremony by anti-trans filmmaker and Daily Wire columnist Matt Walsh as well as activists from Alliance Defending Freedom and Madison County Moms for Liberty, two organizations that oppose the expansion of LGBTQ+ civil rights."
+        },
+        {
+            "id": 17,
+            "text": "In a statement released on Tuesday, Mickie Stratos, president of The Spectrum Center of Hattiesburg, Mississippi, which provides health services and advocacy for LGBTQ+ people, characterized Reeves\u2019s decision to sign the bill as \u201can act of violence.\u201d"
+        },
+        {
+            "id": 18,
+            "text": "\u201cHe and the lawmakers who pushed this bill in Mississippi are willfully ignoring the unique needs of transgender young people, interfering with their medical care and sending a stigmatizing, exclusionary message,\u201d Stratos said."
+        },
+        {
+            "id": 19,
+            "text": "Mississippi is now the third state to ban gender-affirming care for minors."
+        },
+        {
+            "id": 20,
+            "text": "Utah and South Dakota passed similar legislation earlier this year."
+        },
+        {
+            "id": 21,
+            "text": "Other similar laws passed in Arkansas and Alabama have been halted by court challenges."
+        },
+        {
+            "id": 22,
+            "text": "Last April, the Department of Justice (DOJ) sued Alabama to block S.B. 184, a state law signed by Gov. Kay Ivey last year that would criminalize gender-affirming medical care for trans youth."
+        },
+        {
+            "id": 23,
+            "text": "Previously the DOJ had filed a brief in 2021 supporting doctors and transgender families suing the state of Arkansas for a similar ban."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "signed",
+            "sentence_id": 0,
+            "start": 49,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "notes",
+            "sentence_id": 1,
+            "start": 9,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "went",
+            "sentence_id": 1,
+            "start": 31,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "prohibits",
+            "sentence_id": 1,
+            "start": 61,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "provision",
+            "sentence_id": 1,
+            "start": 75,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "provide",
+            "sentence_id": 2,
+            "start": 42,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "revoked",
+            "sentence_id": 2,
+            "start": 107,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "healthcare workers who provide gender-affirming care to minors",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Regulate Experimental Adolescent Procedures (REAP) Act",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "allows",
+            "sentence_id": 3,
+            "start": 8,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Regulate Experimental Adolescent Procedures (REAP) Act",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "sue",
+            "sentence_id": 3,
+            "start": 27,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "receiving",
+            "sentence_id": 3,
+            "start": 73,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "denies",
+            "sentence_id": 3,
+            "start": 98,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "state organizations that provide gender-affirming care to minors",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Regulate Experimental Adolescent Procedures (REAP) Act",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "provide",
+            "sentence_id": 3,
+            "start": 158,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "endorsed",
+            "sentence_id": 4,
+            "start": 63,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Gender-affirming care",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "American Medical Association",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "American Academy of Pediatrics",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "American Psychiatric Association",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 13,
+            "token": "suggests",
+            "sentence_id": 5,
+            "start": 16,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "improves",
+            "sentence_id": 5,
+            "start": 73,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Gender-affirming care",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "experiencing",
+            "sentence_id": 5,
+            "start": 121,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "signing",
+            "sentence_id": 6,
+            "start": 9,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "ceremony",
+            "sentence_id": 6,
+            "start": 17,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "parroted",
+            "sentence_id": 6,
+            "start": 45,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Mississippi Governor Tate Reeves",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "anti-trans claims",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "debunked",
+            "sentence_id": 6,
+            "start": 95,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Mississippi Governor Tate Reeves",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "American Academy of Pediatrics",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "spreading",
+            "sentence_id": 7,
+            "start": 31,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Gender-affirming care",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 21,
+            "token": "advancing",
+            "sentence_id": 8,
+            "start": 5,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Gender-affirming care",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 22,
+            "token": "pushed",
+            "sentence_id": 9,
+            "start": 11,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Gender-affirming care",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "radical activists",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 25,
+                    "text": "social media",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 26,
+                    "text": "online influencers",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 23,
+            "token": "claimed",
+            "sentence_id": 9,
+            "start": 109,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "trying",
+            "sentence_id": 10,
+            "start": 6,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "convince",
+            "sentence_id": 10,
+            "start": 16,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Gender-affirming care",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 26,
+            "token": "attempts",
+            "sentence_id": 11,
+            "start": 24,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Gender-affirming care",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 27,
+            "token": "convince",
+            "sentence_id": 11,
+            "start": 36,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "pushed",
+            "sentence_id": 12,
+            "start": 40,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Gender-affirming care",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 29,
+            "token": "continued",
+            "sentence_id": 12,
+            "start": 101,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "taken",
+            "sentence_id": 13,
+            "start": 15,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "children",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "radical activists",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 31,
+            "token": "push",
+            "sentence_id": 13,
+            "start": 51,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 24,
+                    "text": "radical activists",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "children",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 32,
+            "token": "appear",
+            "sentence_id": 13,
+            "start": 87,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "claim",
+            "sentence_id": 14,
+            "start": 33,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "coming",
+            "sentence_id": 14,
+            "start": 70,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "do",
+            "sentence_id": 14,
+            "start": 187,
+            "end": 189,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 24,
+                    "text": "radical activists",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "children",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 36,
+            "token": "found",
+            "sentence_id": 15,
+            "start": 22,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "2022 study",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "increased",
+            "sentence_id": 15,
+            "start": 54,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Gender-affirming care",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "joined",
+            "sentence_id": 16,
+            "start": 11,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "ceremony",
+            "sentence_id": 16,
+            "start": 25,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "oppose",
+            "sentence_id": 16,
+            "start": 207,
+            "end": 213,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "LGBTQ+ civil rights",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Alliance Defending Freedom",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "Madison County Moms for Liberty",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 41,
+            "token": "expansion",
+            "sentence_id": 16,
+            "start": 218,
+            "end": 227,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "released",
+            "sentence_id": 17,
+            "start": 15,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "characterized",
+            "sentence_id": 17,
+            "start": 177,
+            "end": 190,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "Mickie Stratos, president of The Spectrum Center of Hattiesburg, Mississippi",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Mississippi Governor Tate Reeves",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 44,
+            "token": "decision",
+            "sentence_id": 17,
+            "start": 200,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "sign",
+            "sentence_id": 17,
+            "start": 212,
+            "end": 216,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "act",
+            "sentence_id": 17,
+            "start": 233,
+            "end": 236,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Mississippi Governor Tate Reeves",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "pushed",
+            "sentence_id": 18,
+            "start": 26,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "ignoring",
+            "sentence_id": 18,
+            "start": 72,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Mississippi Governor Tate Reeves",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "transgender youth",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 49,
+            "token": "interfering",
+            "sentence_id": 18,
+            "start": 127,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "transgender youth",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 50,
+            "token": "sending",
+            "sentence_id": 18,
+            "start": 167,
+            "end": 174,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Mississippi Governor Tate Reeves",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "said",
+            "sentence_id": 18,
+            "start": 222,
+            "end": 226,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "ban",
+            "sentence_id": 19,
+            "start": 38,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "passed",
+            "sentence_id": 20,
+            "start": 22,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "passed",
+            "sentence_id": 21,
+            "start": 19,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "halted",
+            "sentence_id": 21,
+            "start": 60,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "challenges",
+            "sentence_id": 21,
+            "start": 76,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "sued",
+            "sentence_id": 22,
+            "start": 44,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 27,
+                    "text": "Department of Justice",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 30,
+                    "text": "S.B. 184",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "block",
+            "sentence_id": 22,
+            "start": 60,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "signed",
+            "sentence_id": 22,
+            "start": 88,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "criminalize",
+            "sentence_id": 22,
+            "start": 133,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Gender-affirming care",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 30,
+                    "text": "S.B. 184",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 61,
+            "token": "filed",
+            "sentence_id": 23,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "supporting",
+            "sentence_id": 23,
+            "start": 45,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "suing",
+            "sentence_id": 23,
+            "start": 89,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 27,
+                    "text": "Department of Justice",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 29,
+                    "text": "state of Arkansas",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 64,
+            "token": "ban",
+            "sentence_id": 23,
+            "start": 131,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "healthcare workers who provide gender-affirming care to minors",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                6
+            ]
+        },
+        {
+            "text": "Regulate Experimental Adolescent Procedures (REAP) Act",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                6,
+                10,
+                7
+            ]
+        },
+        {
+            "text": "state organizations that provide gender-affirming care to minors",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                10
+            ]
+        },
+        {
+            "text": "Gender-affirming care",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                12,
+                14,
+                60,
+                20,
+                21,
+                22,
+                25,
+                26,
+                28,
+                37,
+                64
+            ]
+        },
+        {
+            "text": "transgender youth",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                48,
+                49
+            ]
+        },
+        {
+            "text": "Mississippi Governor Tate Reeves",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                43,
+                46,
+                48,
+                18,
+                19,
+                50
+            ]
+        },
+        {
+            "text": "American Academy of Pediatrics",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                12
+            ]
+        },
+        {
+            "text": "children",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                35,
+                30,
+                31
+            ]
+        },
+        {
+            "text": "2022 study",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                36
+            ]
+        },
+        {
+            "text": "LGBTQ+ civil rights",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                40
+            ]
+        },
+        {
+            "text": "Alliance Defending Freedom",
+            "ideology": "Right",
+            "id": 13,
+            "events": [
+                40
+            ]
+        },
+        {
+            "text": "Madison County Moms for Liberty",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                40
+            ]
+        },
+        {
+            "text": "Mickie Stratos, president of The Spectrum Center of Hattiesburg, Mississippi",
+            "ideology": "Left",
+            "id": 15,
+            "events": [
+                43
+            ]
+        },
+        {
+            "text": "American Medical Association",
+            "ideology": "Neutral",
+            "id": 18,
+            "events": [
+                12
+            ]
+        },
+        {
+            "text": "American Psychiatric Association",
+            "ideology": "Neutral",
+            "id": 19,
+            "events": [
+                12
+            ]
+        },
+        {
+            "text": "anti-trans claims",
+            "ideology": "Right",
+            "id": 21,
+            "events": [
+                18
+            ]
+        },
+        {
+            "text": "radical activists",
+            "ideology": "Left",
+            "id": 24,
+            "events": [
+                22,
+                30,
+                31,
+                35
+            ]
+        },
+        {
+            "text": "social media",
+            "ideology": "Neutral",
+            "id": 25,
+            "events": [
+                22
+            ]
+        },
+        {
+            "text": "online influencers",
+            "ideology": "Neutral",
+            "id": 26,
+            "events": [
+                22
+            ]
+        },
+        {
+            "text": "Department of Justice",
+            "ideology": "Neutral",
+            "id": 27,
+            "events": [
+                57,
+                63
+            ]
+        },
+        {
+            "text": "state of Arkansas",
+            "ideology": "Right",
+            "id": 29,
+            "events": [
+                63
+            ]
+        },
+        {
+            "text": "S.B. 184",
+            "ideology": "Right",
+            "id": 30,
+            "events": [
+                57,
+                60
+            ]
+        }
+    ]
+}

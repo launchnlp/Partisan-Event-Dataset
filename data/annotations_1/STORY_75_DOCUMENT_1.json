@@ -1,0 +1,1276 @@
+{
+    "title": "Abolish the Police? Those Who Survived the Chaos in Seattle Aren\u2019t So Sure",
+    "id": "STORY_75_DOCUMENT_1",
+    "old_id": "4802_2",
+    "split": "train",
+    "date": "2020-08-11",
+    "topic": "race-and-racism",
+    "source": "New York Times (News)",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "After President Trump took aim at the governor of Washington State and Seattle\u2019s mayor on June 11, Ms. Durkan defended the occupation on Twitter as \u201ca peaceful expression of our community\u2019s collective grief and their desire to build a better world,\u201d she wrote, pointing to the \u201cfood trucks, spaghetti potlucks, teach-ins, and movies.\u201d"
+        },
+        {
+            "id": 1,
+            "text": "The lawsuit by the small-business owners, filed by the firm Calfo Eakes on June 24, seizes on such language, pointing out that the city knew what was happening and provided material support for the occupation."
+        },
+        {
+            "id": 2,
+            "text": "Matthew Ploszaj, a Capitol Hill resident, is one of the complainants."
+        },
+        {
+            "id": 3,
+            "text": "He said his apartment building, blocks from Mr. Khan\u2019s shop, was broken into four times during the occupation."
+        },
+        {
+            "id": 4,
+            "text": "The Seattle Police were called each time and never came to his apartment, according to Mr. Ploszaj."
+        },
+        {
+            "id": 5,
+            "text": "When he and another resident called the police after one burglary, they told him to meet them outside the occupation zone, about eight blocks away."
+        },
+        {
+            "id": 6,
+            "text": "He and other residents spent nights at a friend\u2019s house outside the area during the height of the protests."
+        },
+        {
+            "id": 7,
+            "text": "The employees of Bergman\u2019s Lock and Key say they were followed by demonstrators with baseball bats."
+        },
+        {
+            "id": 8,
+            "text": "Cure Cocktail, a local bar and charcuterie, said its workers were asked by protesters to pledge loyalty to the movement: \u201cAre you for the CHOP or are you for the police?\u201d they were asked, according to the lawsuit."
+        },
+        {
+            "id": 9,
+            "text": "The business owners also found that trying to get help from the Seattle Police, who declined to comment for this article, made them targets of activists."
+        },
+        {
+            "id": 10,
+            "text": "Across from Cafe Argento is a funky old auto repair shop called Car Tender run by John McDermott, a big soft-spoken man."
+        },
+        {
+            "id": 11,
+            "text": "On June 14, Mr. McDermott was driving his wife home from their anniversary dinner when he received a call from a neighbor who saw someone trying to break into his shop."
+        },
+        {
+            "id": 12,
+            "text": "Mr. McDermott and his 27-year-old son, Mason, raced over."
+        },
+        {
+            "id": 13,
+            "text": "A man who was inside the shop, Mr. McDermott said, had emptied the cash drawer and was in the midst of setting the building on fire."
+        },
+        {
+            "id": 14,
+            "text": "Mr. McDermott said he and his son wrestled the man down and planned to hold him until the police arrived."
+        },
+        {
+            "id": 15,
+            "text": "But officers never showed up."
+        },
+        {
+            "id": 16,
+            "text": "A group of several hundred protesters did, according to Mr. McDermott, breaking down the chain-link fence around his shop and claiming that Mr. McDermott had kidnapped the man."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "took",
+            "sentence_id": 0,
+            "start": 22,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "governor of Washington State",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Seattle\u2019s mayor",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "defended",
+            "sentence_id": 0,
+            "start": 110,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "occupation",
+            "sentence_id": 0,
+            "start": 123,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "expression",
+            "sentence_id": 0,
+            "start": 160,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "occupation",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "community\u2019s collective grief",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "build",
+            "sentence_id": 0,
+            "start": 227,
+            "end": 232,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "occupation",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "better world",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "wrote",
+            "sentence_id": 0,
+            "start": 254,
+            "end": 259,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "pointing",
+            "sentence_id": 0,
+            "start": 261,
+            "end": 269,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "filed",
+            "sentence_id": 1,
+            "start": 42,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "seizes",
+            "sentence_id": 1,
+            "start": 84,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "pointing",
+            "sentence_id": 1,
+            "start": 109,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "knew",
+            "sentence_id": 1,
+            "start": 136,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "occupation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Seattle\u2019s mayor",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "governor of Washington State",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "happening",
+            "sentence_id": 1,
+            "start": 150,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "provided",
+            "sentence_id": 1,
+            "start": 164,
+            "end": 172,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Seattle\u2019s mayor",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "governor of Washington State",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "occupation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "occupation",
+            "sentence_id": 1,
+            "start": 198,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "broken",
+            "sentence_id": 3,
+            "start": 65,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "occupation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Matthew Ploszaj",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "occupation",
+            "sentence_id": 3,
+            "start": 99,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "called",
+            "sentence_id": 4,
+            "start": 24,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "came",
+            "sentence_id": 4,
+            "start": 51,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "The Seattle Police",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Matthew Ploszaj",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "occupation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "according",
+            "sentence_id": 4,
+            "start": 74,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "called",
+            "sentence_id": 5,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "burglary",
+            "sentence_id": 5,
+            "start": 57,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "told",
+            "sentence_id": 5,
+            "start": 72,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "meet",
+            "sentence_id": 5,
+            "start": 84,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "The Seattle Police",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Matthew Ploszaj",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "occupation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "spent",
+            "sentence_id": 6,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Matthew Ploszaj",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "occupation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "protests",
+            "sentence_id": 6,
+            "start": 98,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "say",
+            "sentence_id": 7,
+            "start": 40,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "followed",
+            "sentence_id": 7,
+            "start": 54,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "demonstrators with baseball bats",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "employees of Bergman\u2019s Lock and Key",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "occupation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 44,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "asked",
+            "sentence_id": 8,
+            "start": 66,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "pledge",
+            "sentence_id": 8,
+            "start": 89,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "protesters",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "occupation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "asked",
+            "sentence_id": 8,
+            "start": 181,
+            "end": 186,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "according",
+            "sentence_id": 8,
+            "start": 188,
+            "end": 197,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "found",
+            "sentence_id": 9,
+            "start": 25,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "trying",
+            "sentence_id": 9,
+            "start": 36,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "Seattle business owners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "The Seattle Police",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "occupation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "get",
+            "sentence_id": 9,
+            "start": 46,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "help",
+            "sentence_id": 9,
+            "start": 50,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "declined",
+            "sentence_id": 9,
+            "start": 84,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "comment",
+            "sentence_id": 9,
+            "start": 96,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "made",
+            "sentence_id": 9,
+            "start": 122,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "The Seattle Police",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "Seattle business owners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "occupation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "driving",
+            "sentence_id": 11,
+            "start": 30,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "received",
+            "sentence_id": 11,
+            "start": 90,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "call",
+            "sentence_id": 11,
+            "start": 101,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "saw",
+            "sentence_id": 11,
+            "start": 126,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "trying",
+            "sentence_id": 11,
+            "start": 138,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "break",
+            "sentence_id": 11,
+            "start": 148,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "raced",
+            "sentence_id": 12,
+            "start": 46,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 45,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "emptied",
+            "sentence_id": 13,
+            "start": 55,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "protesters",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "Seattle business owners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "occupation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "setting",
+            "sentence_id": 13,
+            "start": 103,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "protesters",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "Seattle business owners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "occupation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 50,
+            "token": "said",
+            "sentence_id": 14,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "wrestled",
+            "sentence_id": 14,
+            "start": 34,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "Seattle business owners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "protesters",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "occupation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "planned",
+            "sentence_id": 14,
+            "start": 60,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "hold",
+            "sentence_id": 14,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "arrived",
+            "sentence_id": 14,
+            "start": 97,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "showed",
+            "sentence_id": 15,
+            "start": 19,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "The Seattle Police",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "Seattle business owners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "occupation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 56,
+            "token": "according",
+            "sentence_id": 16,
+            "start": 43,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "breaking",
+            "sentence_id": 16,
+            "start": 71,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "protesters",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "Seattle business owners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "occupation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "claiming",
+            "sentence_id": 16,
+            "start": 126,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "protesters",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "Seattle business owners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 59,
+            "token": "kidnapped",
+            "sentence_id": 16,
+            "start": 158,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "President Trump",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "governor of Washington State",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                0,
+                10,
+                12
+            ]
+        },
+        {
+            "text": "Seattle\u2019s mayor",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                0,
+                10,
+                12
+            ]
+        },
+        {
+            "text": "occupation",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                3,
+                4,
+                10,
+                12,
+                15,
+                18,
+                23,
+                24,
+                27,
+                30,
+                34,
+                39,
+                48,
+                49,
+                51,
+                55,
+                57
+            ]
+        },
+        {
+            "text": "community\u2019s collective grief",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                3
+            ]
+        },
+        {
+            "text": "better world",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "Matthew Ploszaj",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                15,
+                18,
+                23,
+                24
+            ]
+        },
+        {
+            "text": "The Seattle Police",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                18,
+                23,
+                34,
+                39,
+                55
+            ]
+        },
+        {
+            "text": "demonstrators with baseball bats",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                27
+            ]
+        },
+        {
+            "text": "employees of Bergman\u2019s Lock and Key",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                27
+            ]
+        },
+        {
+            "text": "protesters",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                30,
+                48,
+                49,
+                51,
+                57,
+                58
+            ]
+        },
+        {
+            "text": "Seattle business owners",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                34,
+                39,
+                48,
+                49,
+                51,
+                55,
+                57,
+                58
+            ]
+        }
+    ]
+}

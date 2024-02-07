@@ -1,0 +1,1537 @@
+{
+    "title": "Biden admin to lift Title 42 Covid restriction on border in May, officials say",
+    "id": "STORY_107_DOCUMENT_1",
+    "old_id": "TRIPLET_1257_DOCUMENT_2",
+    "split": "dev",
+    "date": "2022-03-31",
+    "topic": "immigration",
+    "source": "NBC News (Online)",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Biden administration is preparing to lift Title 42 , the public health authority the U.S. has used since the spring of 2020 to stop the spread of Covid by preventing immigrants from crossing the U.S. - Mexico border to claim asylum , say two officials familiar with the planning ."
+        },
+        {
+            "id": 1,
+            "text": "The policy , which the officials say will be lifted on May 23 , has blocked more than 1.7 million attempts by immigrants to cross the border since its start during the Trump administration in March 2020 , often turning them around and sending them back into poor conditions in Mexico ."
+        },
+        {
+            "id": 2,
+            "text": "Early in the Biden administration , the U.S. Border Patrol stopped enforcing Title 42 against children crossing alone and immigration advocates sued to afford the same protections to families crossing together ."
+        },
+        {
+            "id": 3,
+            "text": "Now , according to the sources , all immigrants \u2014 even single adults \u2014 will be allowed to enter the United States ."
+        },
+        {
+            "id": 4,
+            "text": "Plans to end Title 42 were first reported by the Wall Street Journal ."
+        },
+        {
+            "id": 5,
+            "text": "U.S. officials , state governors and local officials have warned of a potential surge of more than 170,000 migrants across the border if Title 42 is lifted ."
+        },
+        {
+            "id": 6,
+            "text": "Thousands of would - be asylum seekers have been waiting in camps on the Mexican side of the border while Title 42 has been in effect ."
+        },
+        {
+            "id": 7,
+            "text": "One senior Department of Homeland Security official said there is concern inside the agency that setting a date to lift Title 42 for over a month away will incentivize more would - be immigrants to leave their homes now in hopes of being allowed into the United States in May ."
+        },
+        {
+            "id": 8,
+            "text": "Sources familiar with the internal planning say the Centers for Disease Control informed DHS on Tuesday that it planned to lift the title ; the health agency was due to review the policy on Wednesday as part of a 60 - day schedule ."
+        },
+        {
+            "id": 9,
+            "text": "They say DHS is working to surge resources to the border and begin a \u201c phased approach \u201d toward allowing all migrants who enter to claim asylum ."
+        },
+        {
+            "id": 10,
+            "text": "The Biden administration has not officially announced the end of the policy , but sources say planning is underway to lift Title 42 by May 23 , in keeping with the CDC guidance ."
+        },
+        {
+            "id": 11,
+            "text": "The Biden administration will also allow asylum officers , not just judges , to adjudicate asylum claims at the border in order to speed up the process starting in late May ."
+        },
+        {
+            "id": 12,
+            "text": "Immigration advocates say the lifting of Title 42 is long overdue ."
+        },
+        {
+            "id": 13,
+            "text": "\u201c Title 42 was never justified by public health and has caused grave harm to thousands of asylum seekers over the past two years , \u201d said Lee Gelernt , an immigration attorney for the ACLU who is leading the lawsuit against the Biden administration over Title 42 ."
+        },
+        {
+            "id": 14,
+            "text": "\u201c It is highly regrettable that the Biden administration kept this Trump policy in place for more than a year despite a clear consensus among public health experts that the policy was unjustified . \u201d"
+        },
+        {
+            "id": 15,
+            "text": "One argument used by both administrations for keeping Title 42 in place was that asylum seekers are placed in detention as they await processing and decisions in their immigration cases ."
+        },
+        {
+            "id": 16,
+            "text": "They argued Covid would more easily spread in those environments ."
+        },
+        {
+            "id": 17,
+            "text": "But as Covid restrictions began to lift nationwide , that argument was criticized ."
+        },
+        {
+            "id": 18,
+            "text": "\u201c The fact is that after more than a year in office , this administration \u2019s Covid policies remain deeply hypocritical : falsely scapegoating asylum seekers at the border for the spread of the pandemic while simultaneously removing Covid restrictions across the country ."
+        },
+        {
+            "id": 19,
+            "text": "This approach continues to show that Title 42 has nothing to do with public health and everything to do with the xenophobia and racism embedded in our immigration system , \u201d said Noah Gottschalk , global policy lead at Oxfam America ."
+        },
+        {
+            "id": 20,
+            "text": "DHS did not immediately respond to a request for comment ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "preparing",
+            "sentence_id": 0,
+            "start": 28,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "lift",
+            "sentence_id": 0,
+            "start": 41,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Title 42",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "used",
+            "sentence_id": 0,
+            "start": 98,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "stop",
+            "sentence_id": 0,
+            "start": 131,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "spread",
+            "sentence_id": 0,
+            "start": 140,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "preventing",
+            "sentence_id": 0,
+            "start": 159,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "crossing",
+            "sentence_id": 0,
+            "start": 186,
+            "end": 194,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "claim",
+            "sentence_id": 0,
+            "start": 223,
+            "end": 228,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "say",
+            "sentence_id": 0,
+            "start": 238,
+            "end": 241,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "planning",
+            "sentence_id": 0,
+            "start": 274,
+            "end": 282,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "say",
+            "sentence_id": 1,
+            "start": 33,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "lifted",
+            "sentence_id": 1,
+            "start": 45,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "blocked",
+            "sentence_id": 1,
+            "start": 68,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "attempts",
+            "sentence_id": 1,
+            "start": 98,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "cross",
+            "sentence_id": 1,
+            "start": 124,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "start",
+            "sentence_id": 1,
+            "start": 151,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "1",
+                    "text": "Title 42",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 16,
+            "token": "turning",
+            "sentence_id": 1,
+            "start": 211,
+            "end": 218,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "sending",
+            "sentence_id": 1,
+            "start": 235,
+            "end": 242,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "stopped",
+            "sentence_id": 2,
+            "start": 59,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "U.S. Border Patrol",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "1",
+                    "text": "Title 42",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "enforcing",
+            "sentence_id": 2,
+            "start": 67,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "crossing",
+            "sentence_id": 2,
+            "start": 103,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "sued",
+            "sentence_id": 2,
+            "start": 144,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "immigration advocates",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "3",
+                    "text": "U.S. Border Patrol",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 22,
+            "token": "afford",
+            "sentence_id": 2,
+            "start": 152,
+            "end": 158,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "crossing",
+            "sentence_id": 2,
+            "start": 192,
+            "end": 200,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "according",
+            "sentence_id": 3,
+            "start": 6,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "allowed",
+            "sentence_id": 3,
+            "start": 79,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "enter",
+            "sentence_id": 3,
+            "start": 90,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "end",
+            "sentence_id": 4,
+            "start": 9,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "reported",
+            "sentence_id": 4,
+            "start": 33,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "warned",
+            "sentence_id": 5,
+            "start": 58,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "U.S. officials",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "state governors",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "local officials",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "1",
+                    "text": "Title 42",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 30,
+            "token": "surge",
+            "sentence_id": 5,
+            "start": 80,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "lifted",
+            "sentence_id": 5,
+            "start": 149,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "waiting",
+            "sentence_id": 6,
+            "start": 49,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 52,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "setting",
+            "sentence_id": 7,
+            "start": 97,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "lift",
+            "sentence_id": 7,
+            "start": 115,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "incentivize",
+            "sentence_id": 7,
+            "start": 156,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "immigrants",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "senior Department of Homeland Security official",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "leave",
+            "sentence_id": 7,
+            "start": 198,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "allowed",
+            "sentence_id": 7,
+            "start": 238,
+            "end": 245,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "planning",
+            "sentence_id": 8,
+            "start": 35,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "say",
+            "sentence_id": 8,
+            "start": 44,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "informed",
+            "sentence_id": 8,
+            "start": 80,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "planned",
+            "sentence_id": 8,
+            "start": 112,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "lift",
+            "sentence_id": 8,
+            "start": 123,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Centers for Disease Control",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "1",
+                    "text": "Title 42",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 44,
+            "token": "due",
+            "sentence_id": 8,
+            "start": 162,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "review",
+            "sentence_id": 8,
+            "start": 169,
+            "end": 175,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "say",
+            "sentence_id": 9,
+            "start": 5,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "working",
+            "sentence_id": 9,
+            "start": 16,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "surge",
+            "sentence_id": 9,
+            "start": 27,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "begin",
+            "sentence_id": 9,
+            "start": 61,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "DHS",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "1",
+                    "text": "Title 42",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 50,
+            "token": "allowing",
+            "sentence_id": 9,
+            "start": 96,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "enter",
+            "sentence_id": 9,
+            "start": 122,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "claim",
+            "sentence_id": 9,
+            "start": 131,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "announced",
+            "sentence_id": 10,
+            "start": 44,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "end",
+            "sentence_id": 10,
+            "start": 58,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "say",
+            "sentence_id": 10,
+            "start": 90,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "planning",
+            "sentence_id": 10,
+            "start": 94,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "underway",
+            "sentence_id": 10,
+            "start": 106,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "lift",
+            "sentence_id": 10,
+            "start": 118,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "1",
+                    "text": "Title 42",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 59,
+            "token": "allow",
+            "sentence_id": 11,
+            "start": 35,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "asylum claims",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 60,
+            "token": "adjudicate",
+            "sentence_id": 11,
+            "start": 80,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "speed",
+            "sentence_id": 11,
+            "start": 131,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "starting",
+            "sentence_id": 11,
+            "start": 152,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "say",
+            "sentence_id": 12,
+            "start": 22,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "lifting",
+            "sentence_id": 12,
+            "start": 30,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "4",
+                    "text": "immigration advocates",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "1",
+                    "text": "Title 42",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 65,
+            "token": "justified",
+            "sentence_id": 13,
+            "start": 21,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "1",
+                    "text": "Title 42",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 66,
+            "token": "caused",
+            "sentence_id": 13,
+            "start": 56,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "1",
+                    "text": "Title 42",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 67,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 133,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "leading",
+            "sentence_id": 13,
+            "start": 196,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "lawsuit",
+            "sentence_id": 13,
+            "start": 208,
+            "end": 215,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "Lee Gelernt",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "1",
+                    "text": "Title 42",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": "0",
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 70,
+            "token": "kept",
+            "sentence_id": 14,
+            "start": 57,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "1",
+                    "text": "Title 42",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 71,
+            "token": "used",
+            "sentence_id": 15,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "keeping",
+            "sentence_id": 15,
+            "start": 46,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "1",
+                    "text": "Title 42",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 73,
+            "token": "placed",
+            "sentence_id": 15,
+            "start": 100,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "await",
+            "sentence_id": 15,
+            "start": 128,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "processing",
+            "sentence_id": 15,
+            "start": 134,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "decisions",
+            "sentence_id": 15,
+            "start": 149,
+            "end": 158,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "argued",
+            "sentence_id": 16,
+            "start": 5,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "spread",
+            "sentence_id": 16,
+            "start": 36,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "began",
+            "sentence_id": 17,
+            "start": 26,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "lift",
+            "sentence_id": 17,
+            "start": 35,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "criticized",
+            "sentence_id": 17,
+            "start": 71,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 82,
+            "token": "remain",
+            "sentence_id": 18,
+            "start": 92,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 83,
+            "token": "scapegoating",
+            "sentence_id": 18,
+            "start": 129,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 84,
+            "token": "spread",
+            "sentence_id": 18,
+            "start": 179,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "removing",
+            "sentence_id": 18,
+            "start": 223,
+            "end": 231,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "continues",
+            "sentence_id": 19,
+            "start": 14,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 87,
+            "token": "show",
+            "sentence_id": 19,
+            "start": 27,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Noah Gottschalk",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "1",
+                    "text": "Title 42",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 88,
+            "token": "said",
+            "sentence_id": 19,
+            "start": 174,
+            "end": 178,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "respond",
+            "sentence_id": 20,
+            "start": 24,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 90,
+            "token": "request",
+            "sentence_id": 20,
+            "start": 37,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Biden administration",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                1
+            ]
+        },
+        {
+            "text": "Title 42",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                1
+            ]
+        },
+        {
+            "text": "Trump administration",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                15
+            ]
+        },
+        {
+            "text": "U.S. Border Patrol",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                18
+            ]
+        },
+        {
+            "text": "immigration advocates",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                21
+            ]
+        },
+        {
+            "text": "U.S. officials",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                29
+            ]
+        },
+        {
+            "text": "state governors",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                29
+            ]
+        },
+        {
+            "text": "local officials",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                29
+            ]
+        },
+        {
+            "text": "immigrants",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                36
+            ]
+        },
+        {
+            "text": "senior Department of Homeland Security official",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                36
+            ]
+        },
+        {
+            "text": "Centers for Disease Control",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                43
+            ]
+        },
+        {
+            "text": "DHS",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                49
+            ]
+        },
+        {
+            "text": "asylum claims",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                59
+            ]
+        },
+        {
+            "text": "Lee Gelernt",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                69
+            ]
+        },
+        {
+            "text": "Noah Gottschalk",
+            "ideology": "Left",
+            "id": 14,
+            "events": [
+                87
+            ]
+        }
+    ]
+}

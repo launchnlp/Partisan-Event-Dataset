@@ -1,0 +1,990 @@
+{
+    "title": "Opinion | The IRS urgently needs more money and staff",
+    "id": "STORY_96_DOCUMENT_0",
+    "old_id": "6572_0",
+    "split": "dev",
+    "date": "2022-04-18",
+    "topic": "federal-budget",
+    "source": "Washington Post",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "This is not a normal tax year for the Internal Revenue Service."
+        },
+        {
+            "id": 1,
+            "text": "As millions of American households scramble to meet the April 18 filing deadline, it\u2019s easy to view this as just another tax season that causes temporary annoyance and then fades in the headlines and minds of most people."
+        },
+        {
+            "id": 2,
+            "text": "But there\u2019s a lot more at stake."
+        },
+        {
+            "id": 3,
+            "text": "The IRS is currently limping along without enough staff or funding."
+        },
+        {
+            "id": 4,
+            "text": "Congress, especially Republicans, needs to face up to reality."
+        },
+        {
+            "id": 5,
+            "text": "The IRS still manually enters the information on paper tax returns into its computing system because its technology is so outdated."
+        },
+        {
+            "id": 6,
+            "text": "There\u2019s a massive backlog of more than 7 million unprocessed individual tax returns from last year, largely because the IRS doesn\u2019t have enough staff and resources."
+        },
+        {
+            "id": 7,
+            "text": "Getting anyone at the IRS to answer the phone is practically miraculous."
+        },
+        {
+            "id": 8,
+            "text": "These delays have caused serious hardships for families waiting for thousands of dollars in refunds or trying to apply for loans but not having last year\u2019s tax returns available."
+        },
+        {
+            "id": 9,
+            "text": "It\u2019s not a mystery how the IRS deteriorated."
+        },
+        {
+            "id": 10,
+            "text": "While the pandemic certainly caused additional strain on the agency, the core problem is that Republicans slashed the IRS budget about 18 percent in the past decade."
+        },
+        {
+            "id": 11,
+            "text": "That\u2019s not belt-tightening, it\u2019s gutting an agency."
+        },
+        {
+            "id": 12,
+            "text": "It\u2019s no wonder staffing declined 20 percent, and the IRS now has the fewest auditors since 1953."
+        },
+        {
+            "id": 13,
+            "text": "Having a fully functioning tax collection agency is fundamental to American democracy and the economy."
+        },
+        {
+            "id": 14,
+            "text": "Taxes are the main funding source for everything from the U.S. military to Medicare and Social Security."
+        },
+        {
+            "id": 15,
+            "text": "Individual income taxes alone make up half of federal revenue."
+        },
+        {
+            "id": 16,
+            "text": "Fixing the IRS should be as urgent \u2014 if not more \u2014 than rebuilding crumbling roads and bridges."
+        },
+        {
+            "id": 17,
+            "text": "It\u2019s telling that IRS Commissioner Charles P. Rettig, who was appointed by a Republican president, is begging Congress for more \u201cstable, multi-year funding\u201d so the agency can upgrade its systems, go after tax cheats and hire more staff."
+        },
+        {
+            "id": 18,
+            "text": "Congress did approve more funding ($12.6 billion) for the IRS for the rest of this fiscal year and gave the agency the ability to fast-track hires, but it won\u2019t be enough."
+        },
+        {
+            "id": 19,
+            "text": "The IRS not only needs to overhaul its technology, it also needs to hire for thousands of positions right now \u2014 and prepare for the fact that more than 50,000 IRS employees are likely to retire in the next six years."
+        },
+        {
+            "id": 20,
+            "text": "The Biden administration is rightly asking for a big increase for 2023 (a request of $14.1 billion)."
+        },
+        {
+            "id": 21,
+            "text": "This isn\u2019t some Democratic wish list item; it\u2019s about restoring the basic functions of America\u2019s tax collection agency."
+        },
+        {
+            "id": 22,
+            "text": "IRS employees deserve applause for trying to do their best in a tough situation, including many working overtime."
+        },
+        {
+            "id": 23,
+            "text": "It\u2019s encouraging that as of April 1, the IRS has processed more than 89 million tax returns, up from 83.7 million at the same point last year."
+        },
+        {
+            "id": 24,
+            "text": "But Amanda Walters, a tax examiner who was hired 18 months ago, summarized the situation at the IRS in simple, yet ominous, terms."
+        },
+        {
+            "id": 25,
+            "text": "\u201cI don\u2019t know how many times I\u2019ve heard, \u2018This is not the norm,\u2019\u201d Walters told The Post."
+        },
+        {
+            "id": 26,
+            "text": "\u201cThis is my norm.\u201d IRS workers \u2014 and taxpayers \u2014 deserve better."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "scramble",
+            "sentence_id": 1,
+            "start": 35,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "meet",
+            "sentence_id": 1,
+            "start": 47,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "view",
+            "sentence_id": 1,
+            "start": 95,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "causes",
+            "sentence_id": 1,
+            "start": 137,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "fades",
+            "sentence_id": 1,
+            "start": 173,
+            "end": 178,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "limping",
+            "sentence_id": 3,
+            "start": 21,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "needs",
+            "sentence_id": 4,
+            "start": 34,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "face",
+            "sentence_id": 4,
+            "start": 43,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The IRS",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "enters",
+            "sentence_id": 5,
+            "start": 23,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The IRS",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "have",
+            "sentence_id": 6,
+            "start": 132,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The IRS",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "answer",
+            "sentence_id": 7,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The IRS",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "delays",
+            "sentence_id": 8,
+            "start": 6,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The IRS",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "families",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "caused",
+            "sentence_id": 8,
+            "start": 18,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "waiting",
+            "sentence_id": 8,
+            "start": 56,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "trying",
+            "sentence_id": 8,
+            "start": 103,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "apply",
+            "sentence_id": 8,
+            "start": 113,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "deteriorated",
+            "sentence_id": 9,
+            "start": 31,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The IRS",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "caused",
+            "sentence_id": 10,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "slashed",
+            "sentence_id": 10,
+            "start": 106,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The IRS",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "tightening",
+            "sentence_id": 11,
+            "start": 16,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "gutting",
+            "sentence_id": 11,
+            "start": 33,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The IRS",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "declined",
+            "sentence_id": 12,
+            "start": 24,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "make",
+            "sentence_id": 15,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "Fixing",
+            "sentence_id": 16,
+            "start": 0,
+            "end": 6,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "rebuilding",
+            "sentence_id": 16,
+            "start": 56,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "appointed",
+            "sentence_id": 17,
+            "start": 62,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "begging",
+            "sentence_id": 17,
+            "start": 102,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The IRS",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Congress",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "upgrade",
+            "sentence_id": 17,
+            "start": 175,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "go",
+            "sentence_id": 17,
+            "start": 196,
+            "end": 198,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "hire",
+            "sentence_id": 17,
+            "start": 220,
+            "end": 224,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "approve",
+            "sentence_id": 18,
+            "start": 13,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "gave",
+            "sentence_id": 18,
+            "start": 99,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "track",
+            "sentence_id": 18,
+            "start": 135,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "needs",
+            "sentence_id": 19,
+            "start": 17,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "overhaul",
+            "sentence_id": 19,
+            "start": 26,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "needs",
+            "sentence_id": 19,
+            "start": 59,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "hire",
+            "sentence_id": 19,
+            "start": 68,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "prepare",
+            "sentence_id": 19,
+            "start": 116,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "retire",
+            "sentence_id": 19,
+            "start": 187,
+            "end": 193,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "asking",
+            "sentence_id": 20,
+            "start": 36,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The IRS",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 40,
+            "token": "increase",
+            "sentence_id": 20,
+            "start": 53,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "request",
+            "sentence_id": 20,
+            "start": 74,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "restoring",
+            "sentence_id": 21,
+            "start": 54,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The IRS",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 43,
+            "token": "deserve",
+            "sentence_id": 22,
+            "start": 14,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "trying",
+            "sentence_id": 22,
+            "start": 35,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "do",
+            "sentence_id": 22,
+            "start": 45,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "working",
+            "sentence_id": 22,
+            "start": 96,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "encouraging",
+            "sentence_id": 23,
+            "start": 5,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "processed",
+            "sentence_id": 23,
+            "start": 49,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "hired",
+            "sentence_id": 24,
+            "start": 43,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "summarized",
+            "sentence_id": 24,
+            "start": 64,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "situation",
+            "sentence_id": 24,
+            "start": 79,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "know",
+            "sentence_id": 25,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "heard",
+            "sentence_id": 25,
+            "start": 34,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "told",
+            "sentence_id": 25,
+            "start": 74,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "deserve",
+            "sentence_id": 26,
+            "start": 49,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                7,
+                8,
+                9,
+                10,
+                11,
+                16,
+                18,
+                20,
+                26
+            ]
+        },
+        {
+            "text": "The IRS",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                7,
+                8,
+                9,
+                10,
+                11,
+                16,
+                18,
+                26,
+                39,
+                42
+            ]
+        },
+        {
+            "text": "families",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "Congress",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                26
+            ]
+        },
+        {
+            "text": "The Biden administration",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                39,
+                42
+            ]
+        }
+    ]
+}

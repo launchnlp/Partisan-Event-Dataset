@@ -1,0 +1,469 @@
+{
+    "title": "Clinton Foundation to continue accepting foreign money during Hillary's run",
+    "id": "STORY_67_DOCUMENT_0",
+    "old_id": "TRIPLET_002_DOCUMENT_1",
+    "split": "train",
+    "date": "2015-04-16",
+    "topic": "elections",
+    "source": "CNN (Online News)",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Clinton Foundation will accept donations from foreign governments while Hillary Clinton runs for president , the organization announced Wednesday evening ."
+        },
+        {
+            "id": 1,
+            "text": "Clinton , who resigned from her philanthropy \u2019s board of directors immediately after declaring her presidential campaign on Sunday , has drawn fire for her family foundation \u2019s acceptance of money from countries considered hostile to the United States ."
+        },
+        {
+            "id": 2,
+            "text": "The Foundation will now only accept funding from Australia , Canada , Germany , the Netherlands , Norway and the United Kingdom , according to new foundation policies that will be posted online but was obtained by CNN ."
+        },
+        {
+            "id": 3,
+            "text": "The foundation also pledges to disclose its donors quarterly beginning in July \u2013 as opposed to annually \u2013 and to not hold any more Clinton Global Initiative events overseas following an international conference in May ."
+        },
+        {
+            "id": 4,
+            "text": "\u201c While it \u2019s common for global charities to receive international support , it \u2019s rare to find an organization as transparent as the Clinton Foundation , \u201d said Craig Minassian , a foundation spokesman ."
+        },
+        {
+            "id": 5,
+            "text": "\u201c By implementing this new , even stronger and more transparent policy , the Clinton Foundation is reinforcing its commitment to accountability while protecting programs that are improving the lives of millions of people around the world , \u201d he said ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "accept",
+            "sentence_id": 0,
+            "start": 28,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "runs",
+            "sentence_id": 0,
+            "start": 92,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "announced",
+            "sentence_id": 0,
+            "start": 130,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "resigned",
+            "sentence_id": 1,
+            "start": 14,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "declaring",
+            "sentence_id": 1,
+            "start": 85,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "campaign",
+            "sentence_id": 1,
+            "start": 112,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "drawn",
+            "sentence_id": 1,
+            "start": 137,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "acceptance",
+            "sentence_id": 1,
+            "start": 177,
+            "end": 187,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "money from countries considered hostile to the United States",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Clinton Foundation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 8,
+            "token": "considered",
+            "sentence_id": 1,
+            "start": 212,
+            "end": 222,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "accept",
+            "sentence_id": 2,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "according",
+            "sentence_id": 2,
+            "start": 130,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "posted",
+            "sentence_id": 2,
+            "start": 180,
+            "end": 186,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "obtained",
+            "sentence_id": 2,
+            "start": 202,
+            "end": 210,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "pledges",
+            "sentence_id": 3,
+            "start": 20,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Clinton Foundation",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "disclose its donors",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "disclose",
+            "sentence_id": 3,
+            "start": 31,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "hold",
+            "sentence_id": 3,
+            "start": 117,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "events",
+            "sentence_id": 3,
+            "start": 157,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "conference",
+            "sentence_id": 3,
+            "start": 200,
+            "end": 210,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "receive",
+            "sentence_id": 4,
+            "start": 45,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "find",
+            "sentence_id": 4,
+            "start": 91,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 157,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Clinton Foundation",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "implementing",
+            "sentence_id": 5,
+            "start": 5,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Clinton Foundation",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "policy",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 22,
+            "token": "reinforcing",
+            "sentence_id": 5,
+            "start": 99,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Clinton Foundation",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "commitment to accountability",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 23,
+            "token": "protecting",
+            "sentence_id": 5,
+            "start": 150,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "improving",
+            "sentence_id": 5,
+            "start": 179,
+            "end": 188,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Clinton Foundation",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "lives of millions of people around the world",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 25,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 245,
+            "end": 249,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "money from countries considered hostile to the United States",
+            "ideology": "Neutral",
+            "id": 0,
+            "events": [
+                7
+            ]
+        },
+        {
+            "text": "The Clinton Foundation",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                7,
+                13,
+                20,
+                22,
+                24,
+                21
+            ]
+        },
+        {
+            "text": "disclose its donors",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                13
+            ]
+        },
+        {
+            "text": "commitment to accountability",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                22
+            ]
+        },
+        {
+            "text": "lives of millions of people around the world",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                24
+            ]
+        },
+        {
+            "text": "policy",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                21
+            ]
+        }
+    ]
+}

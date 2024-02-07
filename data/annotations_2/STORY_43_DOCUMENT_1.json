@@ -1,0 +1,877 @@
+{
+    "title": "Idaho's gay marriage ban voided",
+    "id": "STORY_43_DOCUMENT_1",
+    "old_id": "950_0",
+    "split": "train",
+    "date": "2014-05-14",
+    "topic": "LGBT",
+    "source": "Politico",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "U.S. District Magistrate Judge Candy"
+        },
+        {
+            "id": 1,
+            "text": "Dale wrote in the decision that Idaho\u2019s laws banning same-sex marriage unconstitutionally deny gay and lesbian citizens their fundamental right to marry."
+        },
+        {
+            "id": 2,
+            "text": "Dale said marriage works a fundamental change on the lives of all who experience it, and it holds immense personal and spiritual significance."
+        },
+        {
+            "id": 3,
+            "text": "Idaho\u2019s laws wrongly stigmatize gay and lesbian couples and relegate their families to second-class status without sufficient reason, she said."
+        },
+        {
+            "id": 4,
+            "text": "Gov. C.L. \u201cButch\u201d Otter already has said he intends to appeal the case."
+        },
+        {
+            "id": 5,
+            "text": "\u201cIn 2006, the people of Idaho exercised their fundamental right, reaffirming that marriage is the union of a man and a woman,\u201d Otter said in a statement."
+        },
+        {
+            "id": 6,
+            "text": "\u201cToday\u2019s decision, while disappointing, is a small setback in a long-term battle that will end at the U.S. Supreme Court."
+        },
+        {
+            "id": 7,
+            "text": "I am firmly committed to upholding the will of the people and defending our Constitution.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "Idaho Attorney General Lawrence Wasden said he would consult with the governor on the state\u2019s appeal."
+        },
+        {
+            "id": 9,
+            "text": "Four Idaho couples filed the lawsuit challenging the marriage ban in November, against the governor and Ada County Clerk Chris Rich."
+        },
+        {
+            "id": 10,
+            "text": "The couples are Sue Latta and Traci Ehlers; Lori and Sharene Watsen; Shelia Robertson and Andrea Altmayer; and Amber Beierle and Rachael Robertson."
+        },
+        {
+            "id": 11,
+            "text": "Latta and Ehlers married in 2008 in California, and the Watsens married in 2011 in New York."
+        },
+        {
+            "id": 12,
+            "text": "Both couples have children and say Idaho wrongly treats Ehlers as a legal stranger to her grandchildren and requires Lori Watsen to obtain a new power of attorney every six months so she can have legal authority to consent to medical treatment for her son."
+        },
+        {
+            "id": 13,
+            "text": "Their attorney, Deborah Ferguson, said the ruling recognized that the families are part of Idaho\u2019s community and that they deserved the same protections and respect as other Idaho families."
+        },
+        {
+            "id": 14,
+            "text": "\u201cThe court\u2019s ruling is a victory not only for the courageous couples who brought this case, but for everyone who cares about freedom and fairness,\u201d Ferguson said in a statement."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "wrote",
+            "sentence_id": 1,
+            "start": 5,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "decision",
+            "sentence_id": 1,
+            "start": 18,
+            "end": 26,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "banning",
+            "sentence_id": 1,
+            "start": 45,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "deny",
+            "sentence_id": 1,
+            "start": 90,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Idaho's gay marriage ban",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "same-sex marriage",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "marry",
+            "sentence_id": 1,
+            "start": 147,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "works",
+            "sentence_id": 2,
+            "start": 19,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "experience",
+            "sentence_id": 2,
+            "start": 70,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "holds",
+            "sentence_id": 2,
+            "start": 92,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "stigmatize",
+            "sentence_id": 3,
+            "start": 21,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Idaho's gay marriage ban",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 10,
+            "token": "relegate",
+            "sentence_id": 3,
+            "start": 60,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Idaho's gay marriage ban",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 11,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 138,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 36,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "intends",
+            "sentence_id": 4,
+            "start": 44,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "appeal",
+            "sentence_id": 4,
+            "start": 55,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "exercised",
+            "sentence_id": 5,
+            "start": 30,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "the people of Idaho",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Idaho's gay marriage ban",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 16,
+            "token": "reaffirming",
+            "sentence_id": 5,
+            "start": 65,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "the people of Idaho",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Idaho's gay marriage ban",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 17,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 133,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "decision",
+            "sentence_id": 6,
+            "start": 9,
+            "end": 17,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "setback",
+            "sentence_id": 6,
+            "start": 51,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "The court\u2019s ruling",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "same-sex marriage",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 20,
+            "token": "battle",
+            "sentence_id": 6,
+            "start": 74,
+            "end": 80,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "end",
+            "sentence_id": 6,
+            "start": 91,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "committed",
+            "sentence_id": 7,
+            "start": 12,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Gov. C.L. \u201cButch\u201d Otter",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "same-sex marriage",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 23,
+            "token": "upholding",
+            "sentence_id": 7,
+            "start": 25,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Gov. C.L. \u201cButch\u201d Otter",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Idaho's gay marriage ban",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "same-sex marriage",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 24,
+            "token": "defending",
+            "sentence_id": 7,
+            "start": 62,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Gov. C.L. \u201cButch\u201d Otter",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Idaho's gay marriage ban",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "same-sex marriage",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 25,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "consult",
+            "sentence_id": 8,
+            "start": 53,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "appeal",
+            "sentence_id": 8,
+            "start": 94,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "filed",
+            "sentence_id": 9,
+            "start": 19,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "challenging",
+            "sentence_id": 9,
+            "start": 37,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "ban",
+            "sentence_id": 9,
+            "start": 62,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "married",
+            "sentence_id": 11,
+            "start": 17,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "married",
+            "sentence_id": 11,
+            "start": 64,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "say",
+            "sentence_id": 12,
+            "start": 31,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "treats",
+            "sentence_id": 12,
+            "start": 49,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Idaho's gay marriage ban",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 35,
+            "token": "requires",
+            "sentence_id": 12,
+            "start": 108,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Idaho's gay marriage ban",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 36,
+            "token": "obtain",
+            "sentence_id": 12,
+            "start": 132,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "consent",
+            "sentence_id": 12,
+            "start": 215,
+            "end": 222,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 34,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "ruling",
+            "sentence_id": 13,
+            "start": 43,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "recognized",
+            "sentence_id": 13,
+            "start": 50,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "The court\u2019s ruling",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "same-sex marriage",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 41,
+            "token": "deserved",
+            "sentence_id": 13,
+            "start": 123,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "same-sex marriage",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "The court\u2019s ruling",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 42,
+            "token": "ruling",
+            "sentence_id": 14,
+            "start": 13,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "victory",
+            "sentence_id": 14,
+            "start": 25,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "The court\u2019s ruling",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 44,
+            "token": "brought",
+            "sentence_id": 14,
+            "start": 73,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "cares",
+            "sentence_id": 14,
+            "start": 113,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "everyone",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "same-sex marriage",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 46,
+            "token": "said",
+            "sentence_id": 14,
+            "start": 157,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Idaho's gay marriage ban",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                9,
+                10,
+                15,
+                16,
+                23,
+                24,
+                34,
+                35,
+                3
+            ]
+        },
+        {
+            "text": "the people of Idaho",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                15,
+                16
+            ]
+        },
+        {
+            "text": "The court\u2019s ruling",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                19,
+                40,
+                41,
+                43
+            ]
+        },
+        {
+            "text": "same-sex marriage",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                19,
+                22,
+                23,
+                24,
+                40,
+                41,
+                45,
+                3
+            ]
+        },
+        {
+            "text": "Gov. C.L. \u201cButch\u201d Otter",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                22,
+                23,
+                24
+            ]
+        },
+        {
+            "text": "everyone",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                45
+            ]
+        }
+    ]
+}

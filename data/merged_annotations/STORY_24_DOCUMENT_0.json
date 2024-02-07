@@ -1,0 +1,1128 @@
+{
+    "title": "Unreal: Labor Department May Delay Jobs Report Until After Election ",
+    "id": "STORY_24_DOCUMENT_0",
+    "old_id": "TRIPLET_226_DOCUMENT_0",
+    "split": "train",
+    "date": "2012-10-29",
+    "topic": "elections",
+    "source": "Townhall",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "This breaking , astonishing news comes via the Wall Street Journal : The U.S. Labor Department on Monday said it has n\u2019t made a decision yet on whether to delay Friday \u2019s October jobs report , the final reading on the labor market before next week \u2019s federal elections ."
+        },
+        {
+            "id": 1,
+            "text": "A Labor official said the agency will assess the schedule for all its data releases this week when the \u201c weather emergency \u201d is over ."
+        },
+        {
+            "id": 2,
+            "text": "Labor is scheduled to release the employment report on Friday , third quarter employment costs on Wednesday and weekly jobless claims on Thursday ."
+        },
+        {
+            "id": 3,
+            "text": "The U.S. Census Bureau also said it has n\u2019t made a decision on whether to delay economic reports it plans to release this week , including construction spending on Thursday and factory orders on Friday ."
+        },
+        {
+            "id": 4,
+            "text": "Ah yes , the \" weather emergency ."
+        },
+        {
+            "id": 5,
+            "text": "\" Look , the majority of the Townhall editorial team will be affected by this storm ."
+        },
+        {
+            "id": 6,
+            "text": "We 're bracing for power outages and other major disruptions , so the seriousness of the situation is not lost on us ."
+        },
+        {
+            "id": 7,
+            "text": "Indeed , the Romney campaign just announced that they are postponing or canceling two rallies tonight , and all campaign events tomorrow , \" out of sensitivity for the millions of Americans in the path of Hurricane Sandy ."
+        },
+        {
+            "id": 8,
+            "text": "\" I can understand the decision to avoid the optics of stumping for election while millions of citizens are in peril , but I 'm blown away that the Department of Labor is considering using the severe weather as a handy excuse to push off its final pre-election unemployment report until after November 6th ."
+        },
+        {
+            "id": 9,
+            "text": "The Journal 's write up suggests that this move would be a judgment call rather than a necessity ."
+        },
+        {
+            "id": 10,
+            "text": "Unless and until overwhelming evidence is produced that this course of action is absolutely unavoidable , Labor 's potential shift should be viewed as an unacceptable , abjectly political maneuver ."
+        },
+        {
+            "id": 11,
+            "text": "It does n't take a conspiratorial mind to imagine that the executive branch may have a political interest in pushing back the release of data that may prove .... unhelpful to their boss : George Stephanopoulos asked former Obama administration economist Austan Goolsbee about the political impact of the jobs report coming up this Friday , just four days before most voters cast their ballots ."
+        },
+        {
+            "id": 12,
+            "text": "Goolsbee notes that only \u201c unbelievable outliers \u2026 crack through the shell \u201d of the electorate \u2019s consciousness for a single - month \u2019s report ."
+        },
+        {
+            "id": 13,
+            "text": "Goolsbee then admits that last month \u2019s jobs report was \u201c artificially too optimistic \u201d \u2014 an \u201c unbelievable outlier , \u201d in other words ."
+        },
+        {
+            "id": 14,
+            "text": "So why admit that now ?"
+        },
+        {
+            "id": 15,
+            "text": "Well , that \u201c unbelievable outlier \u201d is likely to get corrected in this month \u2019s household survey , and that will drive the jobless rate up ."
+        },
+        {
+            "id": 16,
+            "text": "In short , Team Obama is already circling the wagons to lower expectations for what could be a damaging jobs report -- a fate they 've feared for some time ."
+        },
+        {
+            "id": 17,
+            "text": "Would n't it be \" convenient \" if the wind and heavy rains washed this information away for a few days ?"
+        },
+        {
+            "id": 18,
+            "text": "Parting quotation : \" Never let a serious crisis go to waste . \""
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "comes",
+            "sentence_id": 0,
+            "start": 33,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "said",
+            "sentence_id": 0,
+            "start": 105,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "made",
+            "sentence_id": 0,
+            "start": 121,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "decision",
+            "sentence_id": 0,
+            "start": 128,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "delay",
+            "sentence_id": 0,
+            "start": 155,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "elections",
+            "sentence_id": 0,
+            "start": 259,
+            "end": 268,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 17,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "assess",
+            "sentence_id": 1,
+            "start": 38,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "releases",
+            "sentence_id": 1,
+            "start": 75,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "scheduled",
+            "sentence_id": 2,
+            "start": 9,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "release",
+            "sentence_id": 2,
+            "start": 22,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 28,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "made",
+            "sentence_id": 3,
+            "start": 44,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "U.S. Census Bureau",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "decision",
+            "sentence_id": 3,
+            "start": 51,
+            "end": 59,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "delay",
+            "sentence_id": 3,
+            "start": 74,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "plans",
+            "sentence_id": 3,
+            "start": 100,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "release",
+            "sentence_id": 3,
+            "start": 109,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "emergency",
+            "sentence_id": 4,
+            "start": 23,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "affected",
+            "sentence_id": 5,
+            "start": 61,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "bracing",
+            "sentence_id": 6,
+            "start": 7,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "outages",
+            "sentence_id": 6,
+            "start": 25,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "disruptions",
+            "sentence_id": 6,
+            "start": 49,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "lost",
+            "sentence_id": 6,
+            "start": 106,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "announced",
+            "sentence_id": 7,
+            "start": 34,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Romney campaign",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Hurricane Sandy",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "rallies",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "postponing",
+            "sentence_id": 7,
+            "start": 58,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "canceling",
+            "sentence_id": 7,
+            "start": 72,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "rallies",
+            "sentence_id": 7,
+            "start": 86,
+            "end": 93,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "events",
+            "sentence_id": 7,
+            "start": 121,
+            "end": 127,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "understand",
+            "sentence_id": 8,
+            "start": 8,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Romney campaign",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "decision",
+            "sentence_id": 8,
+            "start": 23,
+            "end": 31,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "avoid",
+            "sentence_id": 8,
+            "start": 35,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "stumping",
+            "sentence_id": 8,
+            "start": 55,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "blown",
+            "sentence_id": 8,
+            "start": 128,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "U.S. Labor Department",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 33,
+            "token": "considering",
+            "sentence_id": 8,
+            "start": 171,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "using",
+            "sentence_id": 8,
+            "start": 183,
+            "end": 188,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "U.S. Labor Department",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Hurricane Sandy",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 35,
+            "token": "push",
+            "sentence_id": 8,
+            "start": 229,
+            "end": 233,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "U.S. Labor Department",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "pre-election unemployment report",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 36,
+            "token": "suggests",
+            "sentence_id": 9,
+            "start": 24,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Wall Street Journal",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Romney campaign",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "U.S. Labor Department",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "move",
+            "sentence_id": 9,
+            "start": 43,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "call",
+            "sentence_id": 9,
+            "start": 68,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "produced",
+            "sentence_id": 10,
+            "start": 42,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "unavoidable",
+            "sentence_id": 10,
+            "start": 92,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "shift",
+            "sentence_id": 10,
+            "start": 125,
+            "end": 130,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "viewed",
+            "sentence_id": 10,
+            "start": 141,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Wall Street Journal",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "U.S. Labor Department",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 43,
+            "token": "maneuver",
+            "sentence_id": 10,
+            "start": 188,
+            "end": 196,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "U.S. Labor Department",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "imagine",
+            "sentence_id": 11,
+            "start": 42,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "U.S. Labor Department",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "have",
+            "sentence_id": 11,
+            "start": 80,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "pushing",
+            "sentence_id": 11,
+            "start": 109,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "U.S. Labor Department",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "pre-election unemployment report",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "release",
+            "sentence_id": 11,
+            "start": 126,
+            "end": 133,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "prove",
+            "sentence_id": 11,
+            "start": 151,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "pre-election unemployment report",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "asked",
+            "sentence_id": 11,
+            "start": 210,
+            "end": 215,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 50,
+            "token": "coming",
+            "sentence_id": 11,
+            "start": 316,
+            "end": 322,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "cast",
+            "sentence_id": 11,
+            "start": 374,
+            "end": 378,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "notes",
+            "sentence_id": 12,
+            "start": 9,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "crack",
+            "sentence_id": 12,
+            "start": 51,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "admits",
+            "sentence_id": 13,
+            "start": 14,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Austan Goolsbee",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 55,
+            "token": "admit",
+            "sentence_id": 14,
+            "start": 7,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Austan Goolsbee",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 56,
+            "token": "corrected",
+            "sentence_id": 15,
+            "start": 54,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "drive",
+            "sentence_id": 15,
+            "start": 114,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "circling",
+            "sentence_id": 16,
+            "start": 33,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 59,
+            "token": "lower",
+            "sentence_id": 16,
+            "start": 56,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "pre-election unemployment report",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 60,
+            "token": "feared",
+            "sentence_id": 16,
+            "start": 135,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "washed",
+            "sentence_id": 17,
+            "start": 59,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 62,
+            "token": "let",
+            "sentence_id": 18,
+            "start": 28,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "go",
+            "sentence_id": 18,
+            "start": 49,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "U.S. Labor Department",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                34,
+                35,
+                9,
+                43,
+                46
+            ]
+        },
+        {
+            "text": "U.S. Census Bureau",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                12
+            ]
+        },
+        {
+            "text": "Romney campaign",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                23
+            ]
+        },
+        {
+            "text": "Hurricane Sandy",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                34
+            ]
+        },
+        {
+            "text": "Wall Street Journal",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                36
+            ]
+        },
+        {
+            "text": "Obama administration",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                48,
+                59,
+                54,
+                58,
+                61
+            ]
+        },
+        {
+            "text": "Austan Goolsbee",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                49
+            ]
+        },
+        {
+            "text": "George Stephanopoulos",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                49
+            ]
+        },
+        {
+            "text": "rallies",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                23
+            ]
+        },
+        {
+            "text": "pre-election unemployment report",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                35,
+                46,
+                59,
+                48
+            ]
+        }
+    ]
+}

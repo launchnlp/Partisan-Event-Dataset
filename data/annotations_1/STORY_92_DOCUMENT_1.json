@@ -1,0 +1,544 @@
+{
+    "title": "Cost of New E.P.A. Coal Rules: Up to 1,400 More Deaths a Year",
+    "id": "STORY_92_DOCUMENT_1",
+    "old_id": "3185_0",
+    "split": "train",
+    "date": "2018-08-21",
+    "topic": "energy",
+    "source": "New York Times (News)",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Trump administration has made deregulation a centerpiece of its political strategy, and the E.P.A. has led the charge."
+        },
+        {
+            "id": 1,
+            "text": "The proposed weakening of the rules on coal-burning plants follows a plan to let cars emit more pollution."
+        },
+        {
+            "id": 2,
+            "text": "Transportation and the power sector are the two largest contributors of carbon emissions."
+        },
+        {
+            "id": 3,
+            "text": "The data detailing the health effects of the coal-plant rules is the product of a longstanding E.P.A. requirement that new regulatory proposals go through a rigorous assessment."
+        },
+        {
+            "id": 4,
+            "text": "But as the agency works to roll back regulations on industry, it has also taken steps to sharply restrict the way it uses data to assess its own proposals."
+        },
+        {
+            "id": 5,
+            "text": "Critics say that these changes could make it more difficult to perform calculations like the one that the E.P.A. made public on Tuesday."
+        },
+        {
+            "id": 6,
+            "text": "As a result, the costs and benefits of sweeping new rules like these would be harder to assess."
+        },
+        {
+            "id": 7,
+            "text": "The numbers in both the analysis of the Clean Power Plan and its likely successor, the Affordable Clean Energy rule, are derived from an intricate three-part modeling system that the E.P.A. has used for decades to calculate the benefits and drawbacks of pollution regulation."
+        },
+        {
+            "id": 8,
+            "text": "The premature mortality numbers used in those models draw from a landmark Harvard University study, known as Six Cities, that definitively linked air pollution to premature deaths."
+        },
+        {
+            "id": 9,
+            "text": "Ultimately that study formed the backbone of the kind of federal air pollution regulations now being weakened."
+        },
+        {
+            "id": 10,
+            "text": "Today, however, the Six Cities study itself is under attack at the E.P.A."
+        },
+        {
+            "id": 11,
+            "text": "The agency is considering a separate rule that would restrict the use of any study for which the raw, underlying data cannot be made public for review."
+        },
+        {
+            "id": 12,
+            "text": "The argument for the rule is that the research work isn\u2019t sufficiently transparent if the data behind it isn\u2019t available for analysis."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "made",
+            "sentence_id": 0,
+            "start": 29,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "deregulation",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "led",
+            "sentence_id": 0,
+            "start": 107,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "charge",
+            "sentence_id": 0,
+            "start": 115,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "weakening",
+            "sentence_id": 1,
+            "start": 13,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "rules on coal-burning plants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "follows",
+            "sentence_id": 1,
+            "start": 59,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "plan",
+            "sentence_id": 1,
+            "start": 69,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "let",
+            "sentence_id": 1,
+            "start": 77,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "emit",
+            "sentence_id": 1,
+            "start": 86,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Affordable Clean Energy rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "pollution",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "go",
+            "sentence_id": 3,
+            "start": 144,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "works",
+            "sentence_id": 4,
+            "start": 18,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "roll",
+            "sentence_id": 4,
+            "start": 27,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "taken",
+            "sentence_id": 4,
+            "start": 74,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "steps",
+            "sentence_id": 4,
+            "start": 80,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "restrict",
+            "sentence_id": 4,
+            "start": 97,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "uses",
+            "sentence_id": 4,
+            "start": 117,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "assess",
+            "sentence_id": 4,
+            "start": 130,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "say",
+            "sentence_id": 5,
+            "start": 8,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "changes",
+            "sentence_id": 5,
+            "start": 23,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "make",
+            "sentence_id": 5,
+            "start": 37,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "perform",
+            "sentence_id": 5,
+            "start": 63,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "made",
+            "sentence_id": 5,
+            "start": 113,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "assess",
+            "sentence_id": 6,
+            "start": 88,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "derived",
+            "sentence_id": 7,
+            "start": 121,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "used",
+            "sentence_id": 7,
+            "start": 194,
+            "end": 198,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "calculate",
+            "sentence_id": 7,
+            "start": 214,
+            "end": 223,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "draw",
+            "sentence_id": 8,
+            "start": 53,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "linked",
+            "sentence_id": 8,
+            "start": 139,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "formed",
+            "sentence_id": 9,
+            "start": 22,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "weakened",
+            "sentence_id": 9,
+            "start": 101,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "attack",
+            "sentence_id": 10,
+            "start": 53,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "considering",
+            "sentence_id": 11,
+            "start": 14,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "restrict",
+            "sentence_id": 11,
+            "start": 53,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "use",
+            "sentence_id": 11,
+            "start": 66,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "made",
+            "sentence_id": 11,
+            "start": 128,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "available",
+            "sentence_id": 12,
+            "start": 111,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Affordable Clean Energy rule",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                7
+            ]
+        },
+        {
+            "text": "pollution",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                7
+            ]
+        },
+        {
+            "text": "Trump administration",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                0,
+                3
+            ]
+        },
+        {
+            "text": "deregulation",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "rules on coal-burning plants",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                3
+            ]
+        }
+    ]
+}

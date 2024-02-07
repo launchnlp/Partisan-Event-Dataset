@@ -1,0 +1,831 @@
+{
+    "title": "Sheldon Whitehouse doesn't denounce super-exclusive beach club his family belongs to",
+    "id": "STORY_84_DOCUMENT_1",
+    "old_id": "5728_1",
+    "split": "train",
+    "date": "2021-06-21",
+    "topic": "race-and-racism",
+    "source": "Fox News (Online News)",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Sen. Sheldon Whitehouse last week refused to apologize for his family's membership in a reportedly all-White beach club in his home state of Rhode Island, calling beach clubs \"a long tradition\" and saying he hopes the club will admit minority members soon."
+        },
+        {
+            "id": 1,
+            "text": "The senator's office on Monday denied that the club has discriminatory policies and said it does have minority members."
+        },
+        {
+            "id": 2,
+            "text": "Whitehouse, D-R.I., was asked about his family's membership in Bailey's Beach Club, officially known as Spouting Rock Beach Association, by GoLocalProv in a video that was posted on Saturday."
+        },
+        {
+            "id": 3,
+            "text": "The interviewer cited comments"
+        },
+        {
+            "id": 4,
+            "text": "Whitehouse made in 2017 that he hoped the highly-exclusive club would begin to accept minority members and asked Whitehouse's reaction to it allegedly not doing so."
+        },
+        {
+            "id": 5,
+            "text": "\"I think the people who are running the place are still working on that and I'm sorry it hasn't happened yet,\" Whitehouse said."
+        },
+        {
+            "id": 6,
+            "text": "GoLocalProv asked Whitehouse whether exclusive clubs with all White members should \"continue to exist.\""
+        },
+        {
+            "id": 7,
+            "text": "\"It's a long tradition in Rhode Island and there are many of them and we just need to work our way through the issues,\" Whitehouse said."
+        },
+        {
+            "id": 8,
+            "text": "In 2017, Whitehouse told GoLocalProv \"it would be nice if the membership changed a little but it's not my position.\""
+        },
+        {
+            "id": 9,
+            "text": "In response to a query on the senator's comments from Fox News, Whitehouse Communications Director Richard Davidson said, \"The club has no such restrictive policies."
+        },
+        {
+            "id": 10,
+            "text": "The club has had and has members of color.\""
+        },
+        {
+            "id": 11,
+            "text": "Bailey's, according to a 2003 New York Times profile of the club, has been \"long considered the queen of American resorts.\""
+        },
+        {
+            "id": 12,
+            "text": "The Times further reported that Bailey's is \"a world of emerald-barnacled dinosaurs attended by uniformed retainers and underwritten by ironclad fiduciary trusts\" where \"diversity\u2026 has made scant inroads.\""
+        },
+        {
+            "id": 13,
+            "text": "According to the paper, the biracial grandchildren of one member sometimes visited the resort, and it did allow Jewish members."
+        },
+        {
+            "id": 14,
+            "text": "But, according to one lifelong member quoted by The Times, Black people were \"not really\" welcome."
+        },
+        {
+            "id": 15,
+            "text": "The Spouting Rock Beach Association's employment page describes itself as \"an exclusive private beach club in Newport, Rhode Island.\""
+        },
+        {
+            "id": 16,
+            "text": "GoLocalProv, meanwhile, described Bailey's as \"the most exclusive club in America\" and reported that the senator's wife goes to the club on most days during the summer."
+        },
+        {
+            "id": 17,
+            "text": "Whitehouse, one of the most vocal Democrats on the high-profile Senate Judiciary Committee, said on the anniversary of George Floyd's death late last month that his committee is \"working\u2026 to bring lasting change\" on \"racial injustice.\""
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "refused",
+            "sentence_id": 0,
+            "start": 34,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "apologize",
+            "sentence_id": 0,
+            "start": 45,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Sen. Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "family's membership in Bailey's Beach Club",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "calling",
+            "sentence_id": 0,
+            "start": 155,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "saying",
+            "sentence_id": 0,
+            "start": 198,
+            "end": 204,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "hopes",
+            "sentence_id": 0,
+            "start": 208,
+            "end": 213,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "admit",
+            "sentence_id": 0,
+            "start": 228,
+            "end": 233,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "denied",
+            "sentence_id": 1,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 84,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "have",
+            "sentence_id": 1,
+            "start": 97,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "asked",
+            "sentence_id": 2,
+            "start": 24,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "posted",
+            "sentence_id": 2,
+            "start": 172,
+            "end": 178,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "cited",
+            "sentence_id": 3,
+            "start": 16,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "comments",
+            "sentence_id": 3,
+            "start": 22,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "made",
+            "sentence_id": 4,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "hoped",
+            "sentence_id": 4,
+            "start": 32,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Sen. Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Bailey's Beach Club",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 15,
+            "token": "begin",
+            "sentence_id": 4,
+            "start": 70,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "accept",
+            "sentence_id": 4,
+            "start": 79,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "asked",
+            "sentence_id": 4,
+            "start": 107,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "doing",
+            "sentence_id": 4,
+            "start": 155,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "think",
+            "sentence_id": 5,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "running",
+            "sentence_id": 5,
+            "start": 28,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "working",
+            "sentence_id": 5,
+            "start": 56,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "sorry",
+            "sentence_id": 5,
+            "start": 80,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Sen. Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Bailey's Beach Club",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 23,
+            "token": "happened",
+            "sentence_id": 5,
+            "start": 96,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 122,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "asked",
+            "sentence_id": 6,
+            "start": 12,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "continue",
+            "sentence_id": 6,
+            "start": 84,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "exist",
+            "sentence_id": 6,
+            "start": 96,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "need",
+            "sentence_id": 7,
+            "start": 78,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "work",
+            "sentence_id": 7,
+            "start": 86,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 131,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "told",
+            "sentence_id": 8,
+            "start": 20,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "changed",
+            "sentence_id": 8,
+            "start": 73,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Bailey's Beach Club",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Sen. Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 33,
+            "token": "query",
+            "sentence_id": 9,
+            "start": 17,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "comments",
+            "sentence_id": 9,
+            "start": 40,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 116,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "had",
+            "sentence_id": 10,
+            "start": 13,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "according",
+            "sentence_id": 11,
+            "start": 10,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "considered",
+            "sentence_id": 11,
+            "start": 81,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "reported",
+            "sentence_id": 12,
+            "start": 18,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "attended",
+            "sentence_id": 12,
+            "start": 84,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "made",
+            "sentence_id": 12,
+            "start": 185,
+            "end": 189,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "According",
+            "sentence_id": 13,
+            "start": 0,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "visited",
+            "sentence_id": 13,
+            "start": 75,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "allow",
+            "sentence_id": 13,
+            "start": 106,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "according",
+            "sentence_id": 14,
+            "start": 5,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "quoted",
+            "sentence_id": 14,
+            "start": 38,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "welcome",
+            "sentence_id": 14,
+            "start": 90,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "describes",
+            "sentence_id": 15,
+            "start": 54,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "described",
+            "sentence_id": 16,
+            "start": 24,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "reported",
+            "sentence_id": 16,
+            "start": 87,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "goes",
+            "sentence_id": 16,
+            "start": 120,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 92,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "anniversary",
+            "sentence_id": 17,
+            "start": 104,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "death",
+            "sentence_id": 17,
+            "start": 134,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "working",
+            "sentence_id": 17,
+            "start": 179,
+            "end": 186,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Sen. Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "racial injustice",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 56,
+            "token": "bring",
+            "sentence_id": 17,
+            "start": 191,
+            "end": 196,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Sen. Sheldon Whitehouse",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                1,
+                22,
+                55,
+                32,
+                14
+            ]
+        },
+        {
+            "text": "family's membership in Bailey's Beach Club",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                1
+            ]
+        },
+        {
+            "text": "Bailey's Beach Club",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                22,
+                32,
+                14
+            ]
+        },
+        {
+            "text": "racial injustice",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                55
+            ]
+        }
+    ]
+}

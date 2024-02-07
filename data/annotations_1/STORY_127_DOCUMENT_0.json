@@ -1,0 +1,1060 @@
+{
+    "title": "Biden's decision on massive Alaska oil project looms",
+    "id": "STORY_127_DOCUMENT_0",
+    "old_id": "7748_1",
+    "split": "test",
+    "date": "2023-03-07",
+    "topic": "energy",
+    "source": "Fox Business",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Joe Biden is weighing whether to approve a massive oil and gas drilling project in Alaska that has the bipartisan backing of the state\u2019s congressional delegation but is drawing fierce opposition from environmental groups."
+        },
+        {
+            "id": 1,
+            "text": "A decision is expected to come sometime this week."
+        },
+        {
+            "id": 2,
+            "text": "The uproar concerns what\u2019s known as the Willow Project \u2013 the largest pending oil and gas project in the U.S. \u2013 which is a proposal by ConocoPhillips to develop energy resources in a small portion of what\u2019s known as the National Petroleum Reserve-Alaska on Alaska\u2019s North Slope."
+        },
+        {
+            "id": 3,
+            "text": "Alaska\u2019s bipartisan delegation to Congress \u2013 Republican Sens. Lisa Murkowski and Dan Sullivan plus Democratic Rep. Mary Peltola \u2013 met with the president last week and emphasized their support for the project."
+        },
+        {
+            "id": 4,
+            "text": "The Bureau of Land Management (BLM) recently issued a decision narrowing the scope of the Willow Project from the five drilling pads requested by ConocoPhillips to three."
+        },
+        {
+            "id": 5,
+            "text": "The company said that three is the minimum required to make the project economically viable and would be prepared to start drilling \"immediately\" if the three were approved."
+        },
+        {
+            "id": 6,
+            "text": "Environmental groups oppose even a scaled-down version of the project."
+        },
+        {
+            "id": 7,
+            "text": "The Sierra Club said in a press release last month, \"The Willow project would have a devastating effect on public lands and our climate, and approving it after passing the largest climate bill in history would be a giant step in reverse.\""
+        },
+        {
+            "id": 8,
+            "text": "Fox News\u2019 Peter Doocy pressed White House press secretary Karine Jean-Pierre on the Willow Project during a briefing Monday, asking whether energy security or reducing fossil fuels is more important to President Biden."
+        },
+        {
+            "id": 9,
+            "text": "Jean-Pierre responded, \"It doesn\u2019t have to be one or the other, we can try to do both.\""
+        },
+        {
+            "id": 10,
+            "text": "Doocy noted Biden\u2019s 2019 pledge \u2013 \"I guarantee you, we\u2019re going to end fossil fuel\" \u2013 and asked whether that means the project will be dead."
+        },
+        {
+            "id": 11,
+            "text": "Jean-Pierre explained that the president appreciated hearing from the Alaska delegation to \"understand what their concerns are\" but that she\u2019s not going to get ahead of Interior Secretary Deb Haaland\u2019s pending decision on the project."
+        },
+        {
+            "id": 12,
+            "text": "Scrutiny of Biden\u2019s decision on the Willow Project comes after a recent controversy involving another energy project in Alaska."
+        },
+        {
+            "id": 13,
+            "text": "Last week, the Biden administration\u2019s Interior Department mistakenly released an internal memo regarding a different energy project in Alaska \u2013 Cook Inlet Lease Sale 258 \u2013 that was mandated by the Inflation Reduction Act."
+        },
+        {
+            "id": 14,
+            "text": "The memo revealed that the Bureau of Ocean Energy Management (BOEM) was emphasizing the climate change impact of the project despite the energy security and tax revenue it would deliver."
+        },
+        {
+            "id": 15,
+            "text": "\"If a Cook Inlet prospect would be developed, there would be additional government revenues and greater energy security for the State of Alaska, especially if development of natural gas resources in the Cook Inlet ameliorated the long-term supply challenges facing the Anchorage area,\" the memo said."
+        },
+        {
+            "id": 16,
+            "text": "\"Nevertheless, because of serious challenges facing the Nation from climate change and the impact of [greenhouse gases] from fossil fuels, BOEM is not recommending this option since it would not include an appropriate surcharge to account for those impacts,\" BOEM continued."
+        },
+        {
+            "id": 17,
+            "text": "The agency recommended increasing royalty rates from 16 and two-thirds percent to 18 and three-quarters percent \u2013 the maximum amount allowed under the Inflation Reduction Act."
+        },
+        {
+            "id": 18,
+            "text": "Senate Energy and Natural Resources Committee Chairman Joe Manchin, D-W.Va., slammed the BOEM for the memo, saying in a press release, \"I am appalled by its contents, which make crystal clear that this administration is literally putting their radical climate agenda ahead of the needs of the people of Alaska and the United States.\""
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "weighing",
+            "sentence_id": 0,
+            "start": 23,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "approve",
+            "sentence_id": 0,
+            "start": 43,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "drawing",
+            "sentence_id": 0,
+            "start": 179,
+            "end": 186,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "decision",
+            "sentence_id": 1,
+            "start": 2,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "expected",
+            "sentence_id": 1,
+            "start": 14,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "come",
+            "sentence_id": 1,
+            "start": 26,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "uproar",
+            "sentence_id": 2,
+            "start": 4,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "develop",
+            "sentence_id": 2,
+            "start": 152,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "met",
+            "sentence_id": 3,
+            "start": 130,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "emphasized",
+            "sentence_id": 3,
+            "start": 167,
+            "end": 177,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "support",
+            "sentence_id": 3,
+            "start": 184,
+            "end": 191,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "issued",
+            "sentence_id": 4,
+            "start": 45,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "decision",
+            "sentence_id": 4,
+            "start": 54,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "narrowing",
+            "sentence_id": 4,
+            "start": 63,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "requested",
+            "sentence_id": 4,
+            "start": 133,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "make",
+            "sentence_id": 5,
+            "start": 55,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "prepared",
+            "sentence_id": 5,
+            "start": 105,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "start",
+            "sentence_id": 5,
+            "start": 117,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "drilling",
+            "sentence_id": 5,
+            "start": 123,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "approved",
+            "sentence_id": 5,
+            "start": 164,
+            "end": 172,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "oppose",
+            "sentence_id": 6,
+            "start": 21,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "have",
+            "sentence_id": 7,
+            "start": 78,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "approving",
+            "sentence_id": 7,
+            "start": 141,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "passing",
+            "sentence_id": 7,
+            "start": 160,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "step",
+            "sentence_id": 7,
+            "start": 221,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "pressed",
+            "sentence_id": 8,
+            "start": 22,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "briefing",
+            "sentence_id": 8,
+            "start": 108,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "asking",
+            "sentence_id": 8,
+            "start": 125,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "reducing",
+            "sentence_id": 8,
+            "start": 159,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "responded",
+            "sentence_id": 9,
+            "start": 12,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "try",
+            "sentence_id": 9,
+            "start": 71,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "energy security",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "fossil fuels",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "do",
+            "sentence_id": 9,
+            "start": 78,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "noted",
+            "sentence_id": 10,
+            "start": 6,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "pledge",
+            "sentence_id": 10,
+            "start": 25,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "guarantee",
+            "sentence_id": 10,
+            "start": 37,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "end",
+            "sentence_id": 10,
+            "start": 67,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "fossil fuels",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "asked",
+            "sentence_id": 10,
+            "start": 90,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "means",
+            "sentence_id": 10,
+            "start": 109,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "dead",
+            "sentence_id": 10,
+            "start": 135,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "explained",
+            "sentence_id": 11,
+            "start": 12,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "appreciated",
+            "sentence_id": 11,
+            "start": 41,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Alaska delegation",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 43,
+            "token": "hearing",
+            "sentence_id": 11,
+            "start": 53,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "understand",
+            "sentence_id": 11,
+            "start": 92,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "get",
+            "sentence_id": 11,
+            "start": 156,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "decision",
+            "sentence_id": 11,
+            "start": 210,
+            "end": 218,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "decision",
+            "sentence_id": 12,
+            "start": 20,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "comes",
+            "sentence_id": 12,
+            "start": 51,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "controversy",
+            "sentence_id": 12,
+            "start": 72,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "released",
+            "sentence_id": 13,
+            "start": 69,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Cook Inlet Lease Sale 258",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "mandated",
+            "sentence_id": 13,
+            "start": 181,
+            "end": 189,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "revealed",
+            "sentence_id": 14,
+            "start": 9,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "emphasizing",
+            "sentence_id": 14,
+            "start": 72,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "deliver",
+            "sentence_id": 14,
+            "start": 178,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "developed",
+            "sentence_id": 15,
+            "start": 35,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "development",
+            "sentence_id": 15,
+            "start": 159,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "ameliorated",
+            "sentence_id": 15,
+            "start": 214,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "said",
+            "sentence_id": 15,
+            "start": 295,
+            "end": 299,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "recommending",
+            "sentence_id": 16,
+            "start": 151,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "include",
+            "sentence_id": 16,
+            "start": 195,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "account",
+            "sentence_id": 16,
+            "start": 231,
+            "end": 238,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "continued",
+            "sentence_id": 16,
+            "start": 264,
+            "end": 273,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "recommended",
+            "sentence_id": 17,
+            "start": 11,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "increasing",
+            "sentence_id": 17,
+            "start": 23,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "slammed",
+            "sentence_id": 18,
+            "start": 77,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Joe Manchin",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "BOEM",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 66,
+            "token": "saying",
+            "sentence_id": 18,
+            "start": 108,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "appalled",
+            "sentence_id": 18,
+            "start": 141,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Joe Manchin",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "BOEM",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 68,
+            "token": "make",
+            "sentence_id": 18,
+            "start": 173,
+            "end": 177,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "putting",
+            "sentence_id": 18,
+            "start": 230,
+            "end": 237,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "climate agenda",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Joe Biden",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                32,
+                37,
+                42
+            ]
+        },
+        {
+            "text": "energy security",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                32
+            ]
+        },
+        {
+            "text": "fossil fuels",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                32,
+                37
+            ]
+        },
+        {
+            "text": "Alaska delegation",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                42
+            ]
+        },
+        {
+            "text": "Biden administration",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                50,
+                69
+            ]
+        },
+        {
+            "text": "Cook Inlet Lease Sale 258",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                50
+            ]
+        },
+        {
+            "text": "Joe Manchin",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                65,
+                67
+            ]
+        },
+        {
+            "text": "BOEM",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                65,
+                67
+            ]
+        },
+        {
+            "text": "climate agenda",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                69
+            ]
+        }
+    ]
+}

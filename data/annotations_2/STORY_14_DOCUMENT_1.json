@@ -1,0 +1,1128 @@
+{
+    "title": "Trump takes formal step to pull out of Paris climate agreement",
+    "id": "STORY_14_DOCUMENT_1",
+    "old_id": "4090_0",
+    "split": "train",
+    "date": "2019-11-04",
+    "topic": "climate-change",
+    "source": "New York Post (News)",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Center",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Trump administration notified the United Nations on Monday that it will formally withdraw the US from the Paris Agreement, marking the first step in a one-year process to exit the global pact to fight climate change."
+        },
+        {
+            "id": 1,
+            "text": "The move would leave the US as the only country outside the accord, a decision President Trump promised early in his term to unfetter America\u2019s domestic oil, gas and coal industries."
+        },
+        {
+            "id": 2,
+            "text": "\u201cWhat we won\u2019t do is punish the American people while enriching foreign polluters,\u201d Trump said at a shale gas industry conference in Pennsylvania on Oct. 23, referring to his planned withdrawal from the agreement."
+        },
+        {
+            "id": 3,
+            "text": "The US had signed onto the 2015 pact during the Obama administration, promising a 26-28 percent cut in greenhouse gas emissions by 2025 from 2005 levels."
+        },
+        {
+            "id": 4,
+            "text": "Trump campaigned on a promise to rescind that pledge, saying it would unfairly hurt the US economy while leaving other big polluters like China to increase emissions, but he was bound by UN rules to wait until Monday to file the exit papers."
+        },
+        {
+            "id": 5,
+            "text": "Climate change, he asserted, was a \u201choax\u201d cooked up by the Chinese to damage the US."
+        },
+        {
+            "id": 6,
+            "text": "The State Department gave the letter to UN Secretary General Antonio Guterres, starting the clock on a process that would be completed just one day after the 2020 presidential election, on November 4, 2020."
+        },
+        {
+            "id": 7,
+            "text": "All of the top Democratic presidential hopefuls seeking to unseat Trump in next year\u2019s election have promised to re-engage the in the Paris Agreement if they win."
+        },
+        {
+            "id": 8,
+            "text": "But Trump\u2019s withdrawal from the Paris Accord could still leave a lasting mark, said Andrew Light, a senior fellow at the World Resources Institute and former adviser to the climate envoy under President Obama."
+        },
+        {
+            "id": 9,
+            "text": "\u201cWhile it serves the political needs of the Trump administration, we will lose a lot of traction with respect to US influence globally,\u201d he said, adding it could take time for the international community \u201cto trust the US as a consistent partner.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "Until its formal exit, the US will continue to participate in negotiations over the technical aspects of the agreement, represented by a small team of career State Department officials."
+        },
+        {
+            "id": 11,
+            "text": "The US and China, the world\u2019s two largest carbon emitters, have recently been leading negotiations of the Paris \u201crule book\u201d that outlines transparency and reporting rules for signatories."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "notified",
+            "sentence_id": 0,
+            "start": 25,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "withdraw",
+            "sentence_id": 0,
+            "start": 85,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "marking",
+            "sentence_id": 0,
+            "start": 127,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "process",
+            "sentence_id": 0,
+            "start": 164,
+            "end": 171,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "exit",
+            "sentence_id": 0,
+            "start": 175,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Paris climate agreement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 5,
+            "token": "fight",
+            "sentence_id": 0,
+            "start": 199,
+            "end": 204,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Paris climate agreement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 6,
+            "token": "move",
+            "sentence_id": 1,
+            "start": 4,
+            "end": 8,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "leave",
+            "sentence_id": 1,
+            "start": 15,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Trump\u2019s withdrawal from the Paris Accord",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 8,
+            "token": "decision",
+            "sentence_id": 1,
+            "start": 70,
+            "end": 78,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "promised",
+            "sentence_id": 1,
+            "start": 95,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "unfetter",
+            "sentence_id": 1,
+            "start": 125,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 11,
+            "token": "do",
+            "sentence_id": 2,
+            "start": 15,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "punish",
+            "sentence_id": 2,
+            "start": 21,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Paris climate agreement",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 13,
+            "token": "enriching",
+            "sentence_id": 2,
+            "start": 54,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Paris climate agreement",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 14,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 90,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "conference",
+            "sentence_id": 2,
+            "start": 119,
+            "end": 129,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "referring",
+            "sentence_id": 2,
+            "start": 158,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "withdrawal",
+            "sentence_id": 2,
+            "start": 183,
+            "end": 193,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "signed",
+            "sentence_id": 3,
+            "start": 11,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "promising",
+            "sentence_id": 3,
+            "start": 70,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "cut",
+            "sentence_id": 3,
+            "start": 96,
+            "end": 99,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "campaigned",
+            "sentence_id": 4,
+            "start": 6,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "promise",
+            "sentence_id": 4,
+            "start": 22,
+            "end": 29,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "rescind",
+            "sentence_id": 4,
+            "start": 33,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "saying",
+            "sentence_id": 4,
+            "start": 54,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "hurt",
+            "sentence_id": 4,
+            "start": 79,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Paris climate agreement",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 26,
+            "token": "leaving",
+            "sentence_id": 4,
+            "start": 105,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Paris climate agreement",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 27,
+            "token": "increase",
+            "sentence_id": 4,
+            "start": 147,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "other big polluters like China",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Paris climate agreement",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 28,
+            "token": "bound",
+            "sentence_id": 4,
+            "start": 178,
+            "end": 183,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "wait",
+            "sentence_id": 4,
+            "start": 199,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "file",
+            "sentence_id": 4,
+            "start": 220,
+            "end": 224,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "asserted",
+            "sentence_id": 5,
+            "start": 19,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Paris climate agreement",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "other big polluters like China",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "cooked",
+            "sentence_id": 5,
+            "start": 42,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "climate change",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "other big polluters like China",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Paris climate agreement",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 33,
+            "token": "damage",
+            "sentence_id": 5,
+            "start": 70,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "climate change",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Paris climate agreement",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 34,
+            "token": "gave",
+            "sentence_id": 6,
+            "start": 21,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "starting",
+            "sentence_id": 6,
+            "start": 79,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "process",
+            "sentence_id": 6,
+            "start": 103,
+            "end": 110,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "completed",
+            "sentence_id": 6,
+            "start": 125,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "election",
+            "sentence_id": 6,
+            "start": 176,
+            "end": 184,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "seeking",
+            "sentence_id": 7,
+            "start": 48,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Democratic presidential hopefuls",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 40,
+            "token": "unseat",
+            "sentence_id": 7,
+            "start": 59,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Democratic presidential hopefuls",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 41,
+            "token": "election",
+            "sentence_id": 7,
+            "start": 87,
+            "end": 95,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "promised",
+            "sentence_id": 7,
+            "start": 101,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Democratic presidential hopefuls",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Paris climate agreement",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 43,
+            "token": "re-engage",
+            "sentence_id": 7,
+            "start": 113,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "win",
+            "sentence_id": 7,
+            "start": 158,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "withdrawal",
+            "sentence_id": 8,
+            "start": 12,
+            "end": 22,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "leave",
+            "sentence_id": 8,
+            "start": 57,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Trump\u2019s withdrawal from the Paris Accord",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 47,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 79,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "serves",
+            "sentence_id": 9,
+            "start": 10,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Trump\u2019s withdrawal from the Paris Accord",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 49,
+            "token": "lose",
+            "sentence_id": 9,
+            "start": 74,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the US",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Trump\u2019s withdrawal from the Paris Accord",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 50,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 140,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "adding",
+            "sentence_id": 9,
+            "start": 146,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "take",
+            "sentence_id": 9,
+            "start": 162,
+            "end": 166,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the US",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Trump\u2019s withdrawal from the Paris Accord",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 53,
+            "token": "trust",
+            "sentence_id": 9,
+            "start": 208,
+            "end": 213,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the US",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Trump\u2019s withdrawal from the Paris Accord",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 54,
+            "token": "exit",
+            "sentence_id": 10,
+            "start": 17,
+            "end": 21,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "continue",
+            "sentence_id": 10,
+            "start": 35,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "participate",
+            "sentence_id": 10,
+            "start": 47,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "negotiations",
+            "sentence_id": 10,
+            "start": 62,
+            "end": 74,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "represented",
+            "sentence_id": 10,
+            "start": 120,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "leading",
+            "sentence_id": 11,
+            "start": 78,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "negotiations",
+            "sentence_id": 11,
+            "start": 86,
+            "end": 98,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Paris climate agreement",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                4,
+                5,
+                12,
+                13,
+                25,
+                26,
+                27,
+                31,
+                32,
+                33,
+                42
+            ]
+        },
+        {
+            "text": "The Trump administration",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                4,
+                12,
+                13,
+                48
+            ]
+        },
+        {
+            "text": "President Trump",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                9,
+                10,
+                25,
+                31,
+                39,
+                40
+            ]
+        },
+        {
+            "text": "other big polluters like China",
+            "ideology": "Uncertain",
+            "id": 3,
+            "events": [
+                27,
+                31,
+                32
+            ]
+        },
+        {
+            "text": "climate change",
+            "ideology": "N/A",
+            "id": 4,
+            "events": [
+                32,
+                33
+            ]
+        },
+        {
+            "text": "Democratic presidential hopefuls",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                39,
+                40,
+                42
+            ]
+        },
+        {
+            "text": "Trump\u2019s withdrawal from the Paris Accord",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                46,
+                7,
+                48,
+                49,
+                52,
+                53
+            ]
+        },
+        {
+            "text": "the US",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                49,
+                52,
+                53
+            ]
+        }
+    ]
+}

@@ -1,0 +1,694 @@
+{
+    "title": "Background checks brokered: Sens. Toomey and Manchin reach gun deal",
+    "id": "STORY_63_DOCUMENT_1",
+    "old_id": "TRIPLET_214_DOCUMENT_0",
+    "split": "train",
+    "date": "2013-04-10",
+    "topic": "gun_control_and_gun_rights",
+    "source": "Washington Times",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "With a Senate gun-control showdown looming , Sens . Joe Manchin and Pat Toomey have reached a deal on background checks for firearm purchases , NBC News reported Wednesday morning ."
+        },
+        {
+            "id": 1,
+            "text": "Mr. Manchin , West Virginia Democrat , and Mr. Toomey , Pennsylvania Republican , both have \u201c A \u201d ratings from the National Rifle Association , potentially giving the the deal the kind of political weight needed to achieve a bipartisan vote capable of overcoming a filibuster ."
+        },
+        {
+            "id": 2,
+            "text": "The details of the package are n\u2019t yet clear and will be announced later on Wednesday , according to NBC ."
+        },
+        {
+            "id": 3,
+            "text": "The agreement comes as Senate Majority Leader Harry Reid sets a Senate vote on gun-control measures for Thursday ."
+        },
+        {
+            "id": 4,
+            "text": "It will be first such vote in either chamber of Congress since the December massacre at Sandy Hook Elementary School in Newtown , Conn ."
+        },
+        {
+            "id": 5,
+            "text": "While Mr. Toomey , a first - term senator and former Club For Growth president , has reached across the aisle on guns , other Republicans are plotting a different course ."
+        },
+        {
+            "id": 6,
+            "text": "A number of senators , including Rand Paul , Ted Cruz and Marco Rubio , may filibuster any gun-control measures ."
+        },
+        {
+            "id": 7,
+            "text": "Senate Minority Leader Mitch McConnell has also indicated he may be join the filibuster ."
+        },
+        {
+            "id": 8,
+            "text": "Democrats and some Republicans oppose such a strategy ."
+        },
+        {
+            "id": 9,
+            "text": "\u201c I think it \u2019s disgraceful for anyone to say we \u2019re going to filibuster a gun bill , \u201d Sen . Kirsten Gillibrand , New York Democrat , said during an appearance on MSNBC \u2019s \u201c Morning Joe \u201d on Wednesday morning ."
+        },
+        {
+            "id": 10,
+            "text": "At least nine Republican senators have signaled they \u2019ll vote with Democrats to bring the bill to the floor , though it \u2019s unclear whether all Democrats will support the package ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "showdown",
+            "sentence_id": 0,
+            "start": 26,
+            "end": 34,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "looming",
+            "sentence_id": 0,
+            "start": 35,
+            "end": 42,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "reached",
+            "sentence_id": 0,
+            "start": 84,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Manchin",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Pat Toomey",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "background checks for firearm purchases",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "deal",
+            "sentence_id": 0,
+            "start": 94,
+            "end": 98,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "reported",
+            "sentence_id": 0,
+            "start": 153,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "giving",
+            "sentence_id": 1,
+            "start": 156,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "achieve",
+            "sentence_id": 1,
+            "start": 215,
+            "end": 222,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "vote",
+            "sentence_id": 1,
+            "start": 236,
+            "end": 240,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "overcoming",
+            "sentence_id": 1,
+            "start": 252,
+            "end": 262,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "Joe Manchin",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "1",
+                    "text": "Pat Toomey",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "filibuster",
+            "sentence_id": 1,
+            "start": 265,
+            "end": 275,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "announced",
+            "sentence_id": 2,
+            "start": 57,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "according",
+            "sentence_id": 2,
+            "start": 88,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "agreement",
+            "sentence_id": 3,
+            "start": 4,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "comes",
+            "sentence_id": 3,
+            "start": 14,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "sets",
+            "sentence_id": 3,
+            "start": 57,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "vote",
+            "sentence_id": 3,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "vote",
+            "sentence_id": 4,
+            "start": 22,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "massacre",
+            "sentence_id": 4,
+            "start": 76,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "reached",
+            "sentence_id": 5,
+            "start": 85,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "1",
+                    "text": "Pat Toomey",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "background checks for firearm purchases",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "plotting",
+            "sentence_id": 5,
+            "start": 142,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "background checks for firearm purchases",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "filibuster",
+            "sentence_id": 6,
+            "start": 76,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Rand Paul",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Marco Rubio",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "background checks for firearm purchases",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 21,
+            "token": "indicated",
+            "sentence_id": 7,
+            "start": 48,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "join",
+            "sentence_id": 7,
+            "start": 68,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "filibuster",
+            "sentence_id": 7,
+            "start": 77,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Mitch McConnell",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "background checks for firearm purchases",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "oppose",
+            "sentence_id": 8,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "3",
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "10",
+                    "text": "filibuster a gun bill",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "think",
+            "sentence_id": 9,
+            "start": 4,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "say",
+            "sentence_id": 9,
+            "start": 42,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Kirsten Gillibrand",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "filibuster a gun bill",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 27,
+            "token": "filibuster",
+            "sentence_id": 9,
+            "start": 62,
+            "end": 72,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 135,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "appearance",
+            "sentence_id": 9,
+            "start": 150,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "signaled",
+            "sentence_id": 10,
+            "start": 39,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "3",
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "background checks for firearm purchases",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 31,
+            "token": "vote",
+            "sentence_id": 10,
+            "start": 57,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "bring",
+            "sentence_id": 10,
+            "start": 80,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "support",
+            "sentence_id": 10,
+            "start": 158,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Joe Manchin",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "Pat Toomey",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "background checks for firearm purchases",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                19
+            ]
+        },
+        {
+            "text": "Rand Paul",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                20
+            ]
+        },
+        {
+            "text": "Ted Cruz",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                20
+            ]
+        },
+        {
+            "text": "Marco Rubio",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                20
+            ]
+        },
+        {
+            "text": "Mitch McConnell",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                23
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                24
+            ]
+        },
+        {
+            "text": "Kirsten Gillibrand",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                26
+            ]
+        },
+        {
+            "text": "filibuster a gun bill",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                26
+            ]
+        }
+    ]
+}

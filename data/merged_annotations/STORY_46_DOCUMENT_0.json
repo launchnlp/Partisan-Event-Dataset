@@ -1,0 +1,625 @@
+{
+    "title": "New Hampshire Just Abolished the Death Penalty",
+    "id": "STORY_46_DOCUMENT_0",
+    "old_id": "TRIPLET_067_DOCUMENT_2",
+    "split": "train",
+    "date": "2019-05-30",
+    "topic": "politics",
+    "source": "Reason",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "New Hampshire has just repealed capital punishment , the last of the New England states to do so ."
+        },
+        {
+            "id": 1,
+            "text": "Today the state Senate voted to override Gov. Chris Sununu 's veto of an anti\u2013death penalty bill ."
+        },
+        {
+            "id": 2,
+            "text": "The state House did the same last week , so the legislation will now become law ."
+        },
+        {
+            "id": 3,
+            "text": "Sununu belongs to the GOP , but this effort to end the death penalty was bipartisan ."
+        },
+        {
+            "id": 4,
+            "text": "\" Ending New Hampshire 's death penalty would not have been possible without significant Republican support , \" says Hannah Cox , national manager of Conservatives Concerned About the Death Penalty ."
+        },
+        {
+            "id": 5,
+            "text": "\" Increasing numbers of GOP state lawmakers believe capital punishment does not align with their conservative values of limited government , fiscal responsibility , and valuing life . \""
+        },
+        {
+            "id": 6,
+            "text": "\" I believe more states across the nation , inspired by what New Hampshire accomplished , will recognize that the death penalty cannot exist in a society that aspires to true justice , \" adds Shari Silberstein , executive director of Equal Justice USA ."
+        },
+        {
+            "id": 7,
+            "text": "At least two of the bill 's backers have experienced the murder of a loved one ."
+        },
+        {
+            "id": 8,
+            "text": "State Rep. Renny Cushing ( D\u2013Rockingham ) lost both his father and brother - in - law to criminals , but he calls the death penalty \" ritual killing by government employees \" that does nothing beyond filling \" another coffin and widen[ ing ] the pain . \""
+        },
+        {
+            "id": 9,
+            "text": "State Sen. Ruth Ward ( R\u2013Stoddard ) lost her father to a murderer when she was very young ."
+        },
+        {
+            "id": 10,
+            "text": "She recounted her own experience just before voting for the legislation , saying : \" My mother forgave whoever it was , and I will vote in favor of this bill . \""
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "repealed",
+            "sentence_id": 0,
+            "start": 23,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "do",
+            "sentence_id": 0,
+            "start": 91,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "voted",
+            "sentence_id": 1,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "override",
+            "sentence_id": 1,
+            "start": 32,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "veto",
+            "sentence_id": 1,
+            "start": 62,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "did",
+            "sentence_id": 2,
+            "start": 16,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "become",
+            "sentence_id": 2,
+            "start": 69,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "belongs",
+            "sentence_id": 3,
+            "start": 7,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "effort",
+            "sentence_id": 3,
+            "start": 37,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "end",
+            "sentence_id": 3,
+            "start": 47,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "Ending",
+            "sentence_id": 4,
+            "start": 2,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Republican support",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "capital punishment",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "possible",
+            "sentence_id": 4,
+            "start": 60,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "support",
+            "sentence_id": 4,
+            "start": 100,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "capital punishment",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Republican support",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 13,
+            "token": "says",
+            "sentence_id": 4,
+            "start": 112,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "believe",
+            "sentence_id": 5,
+            "start": 44,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "GOP",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "capital punishment",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "align",
+            "sentence_id": 5,
+            "start": 80,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "capital punishment",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "GOP",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "believe",
+            "sentence_id": 6,
+            "start": 4,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "inspired",
+            "sentence_id": 6,
+            "start": 44,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "accomplished",
+            "sentence_id": 6,
+            "start": 75,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "recognize",
+            "sentence_id": 6,
+            "start": 95,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "exist",
+            "sentence_id": 6,
+            "start": 135,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "adds",
+            "sentence_id": 6,
+            "start": 187,
+            "end": 191,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "experienced",
+            "sentence_id": 7,
+            "start": 41,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "murder",
+            "sentence_id": 7,
+            "start": 57,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "lost",
+            "sentence_id": 8,
+            "start": 42,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "calls",
+            "sentence_id": 8,
+            "start": 108,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Renny Cushin",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "capital punishment",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "killing",
+            "sentence_id": 8,
+            "start": 141,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "filling",
+            "sentence_id": 8,
+            "start": 200,
+            "end": 207,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "widen[",
+            "sentence_id": 8,
+            "start": 229,
+            "end": 235,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "lost",
+            "sentence_id": 9,
+            "start": 36,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "recounted",
+            "sentence_id": 10,
+            "start": 4,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "experience",
+            "sentence_id": 10,
+            "start": 22,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "voting",
+            "sentence_id": 10,
+            "start": 45,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "Ruth Ward",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "capital punishment",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "saying",
+            "sentence_id": 10,
+            "start": 74,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "forgave",
+            "sentence_id": 10,
+            "start": 95,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "vote",
+            "sentence_id": 10,
+            "start": 131,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "Ruth Ward",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "capital punishment",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "capital punishment",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                10,
+                12,
+                35
+            ]
+        },
+        {
+            "text": "GOP",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                15
+            ]
+        },
+        {
+            "text": "Renny Cushin",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                25
+            ]
+        },
+        {
+            "text": "Ruth Ward",
+            "ideology": "Right",
+            "id": 11,
+            "events": [
+                32,
+                35
+            ]
+        },
+        {
+            "text": "Republican support",
+            "ideology": "Right",
+            "id": 12,
+            "events": [
+                12
+            ]
+        },
+        {
+            "text": "Chris Sununu",
+            "ideology": "Right",
+            "id": 17,
+            "events": [
+                8
+            ]
+        }
+    ]
+}

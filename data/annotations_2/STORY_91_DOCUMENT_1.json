@@ -1,0 +1,932 @@
+{
+    "title": "Obama Administration Delays 2015 Obamacare Enrollment Period Until After 2014 Elections",
+    "id": "STORY_91_DOCUMENT_1",
+    "old_id": "TRIPLET_199_DOCUMENT_0",
+    "split": "train",
+    "date": "2013-11-22",
+    "topic": "healthcare",
+    "source": "Townhall",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Obama administration has announced a delay in next year 's Obamacare enrollment period ( known as open enrollment in the private sector ) until after the 2014 midterm elections are over ."
+        },
+        {
+            "id": 1,
+            "text": "This change does not effect those trying to sign up now and does not delay a fine from going into effect for those who do n't sign up for some kind health insurance by early next year ."
+        },
+        {
+            "id": 2,
+            "text": "The Obama administration plans to delay the start of next year 's ObamaCare enrollment period , a move pitched as a way to give consumers and insurance companies more time to study their options -- but which also conveniently pushes the second round of enrollment past the 2014 midterm elections ."
+        },
+        {
+            "id": 3,
+            "text": "A Department of Health and Human Services official confirmed the change to Fox News ."
+        },
+        {
+            "id": 4,
+            "text": "The decision does not affect those trying to enroll this year , despite the myriad problems with the launch of the law and HealthCare.gov ."
+        },
+        {
+            "id": 5,
+            "text": "Rather , it affects those who will sign up late next year for 2015 coverage ."
+        },
+        {
+            "id": 6,
+            "text": "The administration will allow consumers to start signing up on Nov. 15 , 2014 , as opposed to Oct. 15 ."
+        },
+        {
+            "id": 7,
+            "text": "Enrollment will last until Jan. 15 , 2015 , instead of Dec. 7 ."
+        },
+        {
+            "id": 8,
+            "text": "An HHS official told Fox News the move will give insurers \" the benefit of more time to evaluate their experiences during the 2014 plan year \" and let them take into account late - filing customers when setting their 2015 rates ."
+        },
+        {
+            "id": 9,
+            "text": "The official added : \" This change is good news for consumers , who will have more time to learn about plans before enrolling and an open enrollment period that 's a week longer . \""
+        },
+        {
+            "id": 10,
+            "text": "Despite claiming this move is about give consumers \" more time \" to make a decision about a health plan , this delay in sign up is purely to further protect vulnerable Democrats who are up for re-election in 2014 ."
+        },
+        {
+            "id": 11,
+            "text": "Healthcare experts have warned rate shock for 2015 will be worst than for 2014 ."
+        },
+        {
+            "id": 12,
+            "text": "Those rates will be submitted to Health and Human Services in April 2014 ."
+        },
+        {
+            "id": 13,
+            "text": "Open enrollment prior to the 2014 elections , when consumers become very focused on the cost of their health insurance plans , would be another political nightmare for Obamacare supporters up for reelection as healthcare premiums continue to skyrocket ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "announced",
+            "sentence_id": 0,
+            "start": 29,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "delay",
+            "sentence_id": 0,
+            "start": 41,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "The Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "change",
+            "sentence_id": 1,
+            "start": 5,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "effect",
+            "sentence_id": 1,
+            "start": 21,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "trying",
+            "sentence_id": 1,
+            "start": 34,
+            "end": 40,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "sign",
+            "sentence_id": 1,
+            "start": 44,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "delay",
+            "sentence_id": 1,
+            "start": 69,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "going",
+            "sentence_id": 1,
+            "start": 87,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "sign",
+            "sentence_id": 1,
+            "start": 126,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "plans",
+            "sentence_id": 2,
+            "start": 25,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "delay",
+            "sentence_id": 2,
+            "start": 34,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "The Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "start",
+            "sentence_id": 2,
+            "start": 44,
+            "end": 49,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "move",
+            "sentence_id": 2,
+            "start": 98,
+            "end": 102,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "give",
+            "sentence_id": 2,
+            "start": 123,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "study",
+            "sentence_id": 2,
+            "start": 175,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "consumers and insurance companies",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Obamacare",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": "3",
+                    "text": "a delay in next year 's Obamacare enrollment period",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 15,
+            "token": "pushes",
+            "sentence_id": 2,
+            "start": 226,
+            "end": 232,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "The Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 16,
+            "token": "confirmed",
+            "sentence_id": 3,
+            "start": 51,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "change",
+            "sentence_id": 3,
+            "start": 65,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "decision",
+            "sentence_id": 4,
+            "start": 4,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "affect",
+            "sentence_id": 4,
+            "start": 22,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "a delay in next year 's Obamacare enrollment period",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "0",
+                    "text": "The Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "trying",
+            "sentence_id": 4,
+            "start": 35,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "enroll",
+            "sentence_id": 4,
+            "start": 45,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "launch",
+            "sentence_id": 4,
+            "start": 101,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "affects",
+            "sentence_id": 5,
+            "start": 12,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "3",
+                    "text": "a delay in next year 's Obamacare enrollment period",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "0",
+                    "text": "The Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "sign",
+            "sentence_id": 5,
+            "start": 35,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "allow",
+            "sentence_id": 6,
+            "start": 24,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "start",
+            "sentence_id": 6,
+            "start": 43,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "signing",
+            "sentence_id": 6,
+            "start": 49,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "Enrollment",
+            "sentence_id": 7,
+            "start": 0,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "last",
+            "sentence_id": 7,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "told",
+            "sentence_id": 8,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "move",
+            "sentence_id": 8,
+            "start": 34,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "give",
+            "sentence_id": 8,
+            "start": 44,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "evaluate",
+            "sentence_id": 8,
+            "start": 88,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "1",
+                    "text": "consumers and insurance companies",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "3",
+                    "text": "a delay in next year 's Obamacare enrollment period",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 34,
+            "token": "experiences",
+            "sentence_id": 8,
+            "start": 103,
+            "end": 114,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "let",
+            "sentence_id": 8,
+            "start": 147,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "take",
+            "sentence_id": 8,
+            "start": 156,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "1",
+                    "text": "consumers and insurance companies",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "3",
+                    "text": "a delay in next year 's Obamacare enrollment period",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 37,
+            "token": "setting",
+            "sentence_id": 8,
+            "start": 203,
+            "end": 210,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "added",
+            "sentence_id": 9,
+            "start": 13,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "change",
+            "sentence_id": 9,
+            "start": 28,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "learn",
+            "sentence_id": 9,
+            "start": 91,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "1",
+                    "text": "consumers and insurance companies",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "3",
+                    "text": "a delay in next year 's Obamacare enrollment period",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 41,
+            "token": "claiming",
+            "sentence_id": 10,
+            "start": 8,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "The Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 42,
+            "token": "move",
+            "sentence_id": 10,
+            "start": 22,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "give",
+            "sentence_id": 10,
+            "start": 36,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "make",
+            "sentence_id": 10,
+            "start": 68,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "delay",
+            "sentence_id": 10,
+            "start": 111,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "The Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "protect",
+            "sentence_id": 10,
+            "start": 149,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "The Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Democrats who are up for re-election",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": "3",
+                    "text": "a delay in next year 's Obamacare enrollment period",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 47,
+            "token": "warned",
+            "sentence_id": 11,
+            "start": 24,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Healthcare experts",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "Obamacare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 48,
+            "token": "shock",
+            "sentence_id": 11,
+            "start": 36,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "2",
+                    "text": "Obamacare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 49,
+            "token": "submitted",
+            "sentence_id": 12,
+            "start": 20,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "elections",
+            "sentence_id": 13,
+            "start": 34,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "become",
+            "sentence_id": 13,
+            "start": 61,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "continue",
+            "sentence_id": 13,
+            "start": 230,
+            "end": 238,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "skyrocket",
+            "sentence_id": 13,
+            "start": 242,
+            "end": 251,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "healthcare premiums",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "Obamacare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "The Obama administration",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                1
+            ]
+        },
+        {
+            "text": "consumers and insurance companies",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                14
+            ]
+        },
+        {
+            "text": "Obamacare",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                14
+            ]
+        },
+        {
+            "text": "a delay in next year 's Obamacare enrollment period",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                19
+            ]
+        },
+        {
+            "text": "Democrats who are up for re-election",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                46
+            ]
+        },
+        {
+            "text": "Healthcare experts",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                47
+            ]
+        },
+        {
+            "text": "healthcare premiums",
+            "ideology": "N/A",
+            "id": 6,
+            "events": [
+                53
+            ]
+        }
+    ]
+}

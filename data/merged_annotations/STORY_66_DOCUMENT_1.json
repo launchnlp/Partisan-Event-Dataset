@@ -1,0 +1,2308 @@
+{
+    "title": "House votes for delays on Obamacare; some Democrats give support to GOP move",
+    "id": "STORY_66_DOCUMENT_1",
+    "old_id": "TRIPLET_200_DOCUMENT_1",
+    "split": "train",
+    "date": "2013-07-18",
+    "topic": "healthcare",
+    "source": "Washington Times",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "The House voted Wednesday to delay mandates in the federal health care law requiring individuals and large employers to have coverage , with dozens of Democrats joining Republicans in poking a symbolic hole in the president \u2019s signature achievement ."
+        },
+        {
+            "id": 1,
+            "text": "Both votes left Democratic leaders struggling to grapple with the health care law , which they powered through in 2010 but now are struggling to keep on track amid complaints from businesses that they are having a tough time understanding it , and fears that individuals wo n\u2019t sign up ."
+        },
+        {
+            "id": 2,
+            "text": "Boxed in by what they said were Republican tricks , 35 Democrats joined with Republicans to give large businesses a one - year reprieve on following the law , helping pass that provision on a 264 - 161 vote ."
+        },
+        {
+            "id": 3,
+            "text": "Moments later , the House voted 251 - 174 to give individuals the same one - year break ."
+        },
+        {
+            "id": 4,
+            "text": "In that vote , 22 Democrats joined Republicans ."
+        },
+        {
+            "id": 5,
+            "text": "\u201c This law is imploding , this law is unnecessary , \u201d said Rep. Paul Ryan , Wisconsin Republican and former vice presidential candidate ."
+        },
+        {
+            "id": 6,
+            "text": "Senate Republicans said the bipartisan nature of the House votes should push Senate Democrats to bring up the bills for votes in their chamber , too ."
+        },
+        {
+            "id": 7,
+            "text": "But that is unlikely , and Mr. Obama has said he will veto both bills if they reach his desk ."
+        },
+        {
+            "id": 8,
+            "text": "He said the bill to enshrine his one - year delay for businesses is unnecessary , and that the delay on the individual mandate would hurt the insurance exchanges set up to offer markets for individuals who do n\u2019t have coverage ."
+        },
+        {
+            "id": 9,
+            "text": "Democrats said the votes amounted to a political sideshow ."
+        },
+        {
+            "id": 10,
+            "text": "\u201c This bill and the other bill are not real ."
+        },
+        {
+            "id": 11,
+            "text": "They are purely partisan politics , \u201d said House Minority Whip Steny H. Hoyer , Maryland Democrat ."
+        },
+        {
+            "id": 12,
+            "text": "Democrats said Republicans are inflating the impact of delaying the employer mandate , since 95 percent of companies with more than 50 full - time workers already offer insurance ."
+        },
+        {
+            "id": 13,
+            "text": "Without the individual mandate , Democrats said , healthier Americans may shirk coverage and leave only the sickest patients in the risk pool , dooming the insurance market ."
+        },
+        {
+            "id": 14,
+            "text": "Mr. Obama created the conundrum for his party earlier this month when he announced that he would delay the employer mandate , which requires businesses with 50 or more workers to offer health care coverage or else pay fines ."
+        },
+        {
+            "id": 15,
+            "text": "The administration said it was trying to give businesses more time to comply ."
+        },
+        {
+            "id": 16,
+            "text": "Some Democrats and Republicans have questioned whether he had the legal authority to implement a delay on his own , and Republicans saw a political opportunity , putting two bills on the floor : one to enshrine the president \u2019s move into law , which would make Democrats have to either agree or disagree with Mr. Obama , and the other to extend the delay to average Americans , too ."
+        },
+        {
+            "id": 17,
+            "text": "Rep. Kyrsten Sinema , an Arizona Democrat who voted for both delays , said she does n\u2019t want to repeal the law but that a one - year break is worthwhile to let businesses and families figure out what they need to do ."
+        },
+        {
+            "id": 18,
+            "text": "\u201c Arizona \u2019s hardworking families and businesses need transparency and certainty about this health care law and its implementation , \u201d she said ."
+        },
+        {
+            "id": 19,
+            "text": "\u201c A one - year delay will ensure that Arizonans get that certainty . \u201d"
+        },
+        {
+            "id": 20,
+            "text": "Mr. Obama is scheduled to give a speech Thursday touting the benefits Americans are already seeing from the law , including news from New York , where officials this week said individuals buying insurance on the state - based health care exchange in 2014 will see their premiums drop by an average of 50 percent compared with last year \u2019s direct - pay individual rates ."
+        },
+        {
+            "id": 21,
+            "text": "Those figures do not account for government subsidies that will drive down costs further ."
+        },
+        {
+            "id": 22,
+            "text": "Supporters of the law said reduced rates in the Empire State and several others are proof that Mr. Obama \u2019s reforms are increasing competition and benefiting consumers ."
+        },
+        {
+            "id": 23,
+            "text": "The Treasury and White House used a pair of blog posts July 2 to announce the delay of the employer mandate ."
+        },
+        {
+            "id": 24,
+            "text": "They said business leaders were concerned about the mandate \u2019s complex reporting requirements , and that it was more important to implement the law correctly than quickly ."
+        },
+        {
+            "id": 25,
+            "text": "\u201c Some of this stuff is a little bit complicated , \u201d Rep. Ron Kind , Wisconsin Democrat , said Wednesday at a hearing on the delay ."
+        },
+        {
+            "id": 26,
+            "text": "But Republican leaders seized on the announcement as proof that the law is flawed \u2014 and that the president knows it ."
+        },
+        {
+            "id": 27,
+            "text": "They applauded the delay , while criticizing the administration for \u201c unilaterally \u201d deciding to put off a provision written into law ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "voted",
+            "sentence_id": 0,
+            "start": 10,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "delay",
+            "sentence_id": 0,
+            "start": 29,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "The House",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "mandates in the federal health care law",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "joining",
+            "sentence_id": 0,
+            "start": 161,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "mandates in the federal health care law",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "poking",
+            "sentence_id": 0,
+            "start": 184,
+            "end": 190,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "mandates in the federal health care law",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 4,
+            "token": "votes",
+            "sentence_id": 1,
+            "start": 5,
+            "end": 10,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "left",
+            "sentence_id": 1,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "struggling",
+            "sentence_id": 1,
+            "start": 35,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "mandates in the federal health care law",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 7,
+            "token": "grapple",
+            "sentence_id": 1,
+            "start": 49,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "mandates in the federal health care law",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 8,
+            "token": "powered",
+            "sentence_id": 1,
+            "start": 95,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "mandates in the federal health care law",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 9,
+            "token": "struggling",
+            "sentence_id": 1,
+            "start": 131,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "health care law",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 10,
+            "token": "keep",
+            "sentence_id": 1,
+            "start": 145,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "complaints",
+            "sentence_id": 1,
+            "start": 164,
+            "end": 174,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "businesses",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "mandates in the federal health care law",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "understanding",
+            "sentence_id": 1,
+            "start": 225,
+            "end": 238,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "mandates in the federal health care law",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "businesses",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "sign",
+            "sentence_id": 1,
+            "start": 278,
+            "end": 282,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "Boxed",
+            "sentence_id": 2,
+            "start": 0,
+            "end": 5,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 15,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 22,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "joined",
+            "sentence_id": 2,
+            "start": 65,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "give",
+            "sentence_id": 2,
+            "start": 92,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 18,
+            "token": "reprieve",
+            "sentence_id": 2,
+            "start": 127,
+            "end": 135,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "following",
+            "sentence_id": 2,
+            "start": 139,
+            "end": 148,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "helping",
+            "sentence_id": 2,
+            "start": 159,
+            "end": 166,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "pass",
+            "sentence_id": 2,
+            "start": 167,
+            "end": 171,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "vote",
+            "sentence_id": 2,
+            "start": 202,
+            "end": 206,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "voted",
+            "sentence_id": 3,
+            "start": 26,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "give",
+            "sentence_id": 3,
+            "start": 45,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "vote",
+            "sentence_id": 4,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "joined",
+            "sentence_id": 4,
+            "start": 28,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "imploding",
+            "sentence_id": 5,
+            "start": 14,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "mandates in the federal health care law",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 28,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 54,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "votes",
+            "sentence_id": 6,
+            "start": 59,
+            "end": 64,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "push",
+            "sentence_id": 6,
+            "start": 72,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "bring",
+            "sentence_id": 6,
+            "start": 97,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "votes",
+            "sentence_id": 6,
+            "start": 120,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 41,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "veto",
+            "sentence_id": 7,
+            "start": 54,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 36,
+            "token": "reach",
+            "sentence_id": 7,
+            "start": 78,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 38,
+            "token": "enshrine",
+            "sentence_id": 8,
+            "start": 20,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "delay",
+            "sentence_id": 8,
+            "start": 44,
+            "end": 49,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "delay",
+            "sentence_id": 8,
+            "start": 95,
+            "end": 100,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "hurt",
+            "sentence_id": 8,
+            "start": 133,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "the delay on the individual mandate",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 26,
+                    "text": "insurance market",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 42,
+            "token": "set",
+            "sentence_id": 8,
+            "start": 162,
+            "end": 165,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "votes",
+            "sentence_id": 9,
+            "start": 19,
+            "end": 24,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "amounted",
+            "sentence_id": 9,
+            "start": 25,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 46,
+            "token": "said",
+            "sentence_id": 11,
+            "start": 38,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "inflating",
+            "sentence_id": 12,
+            "start": 31,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "the employer mandate",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 49,
+            "token": "delaying",
+            "sentence_id": 12,
+            "start": 55,
+            "end": 63,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "offer",
+            "sentence_id": 12,
+            "start": 163,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 43,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "shirk",
+            "sentence_id": 13,
+            "start": 74,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "the individual mandate",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 53,
+            "token": "leave",
+            "sentence_id": 13,
+            "start": 93,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "dooming",
+            "sentence_id": 13,
+            "start": 144,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "the delay on the individual mandate",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 26,
+                    "text": "insurance market",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 55,
+            "token": "created",
+            "sentence_id": 14,
+            "start": 10,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 56,
+            "token": "announced",
+            "sentence_id": 14,
+            "start": 73,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "delay",
+            "sentence_id": 14,
+            "start": 97,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "requires",
+            "sentence_id": 14,
+            "start": 132,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "offer",
+            "sentence_id": 14,
+            "start": 179,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "pay",
+            "sentence_id": 14,
+            "start": 214,
+            "end": 217,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "said",
+            "sentence_id": 15,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "trying",
+            "sentence_id": 15,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "give",
+            "sentence_id": 15,
+            "start": 41,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "The Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "businesses",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 64,
+            "token": "comply",
+            "sentence_id": 15,
+            "start": 70,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "The Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "businesses",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 65,
+            "token": "questioned",
+            "sentence_id": 16,
+            "start": 36,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 66,
+            "token": "implement",
+            "sentence_id": 16,
+            "start": 85,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "large businesses one-year reprieve",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 67,
+            "token": "delay",
+            "sentence_id": 16,
+            "start": 97,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "saw",
+            "sentence_id": 16,
+            "start": 132,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "putting",
+            "sentence_id": 16,
+            "start": 162,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "enshrine",
+            "sentence_id": 16,
+            "start": 202,
+            "end": 210,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "move",
+            "sentence_id": 16,
+            "start": 228,
+            "end": 232,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "make",
+            "sentence_id": 16,
+            "start": 256,
+            "end": 260,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "agree",
+            "sentence_id": 16,
+            "start": 286,
+            "end": 291,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "disagree",
+            "sentence_id": 16,
+            "start": 295,
+            "end": 303,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "extend",
+            "sentence_id": 16,
+            "start": 338,
+            "end": 344,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "delay",
+            "sentence_id": 16,
+            "start": 349,
+            "end": 354,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "voted",
+            "sentence_id": 17,
+            "start": 46,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "Kyrsten Sinema",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "the delay on the individual mandate",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 78,
+            "token": "delays",
+            "sentence_id": 17,
+            "start": 61,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 70,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "want",
+            "sentence_id": 17,
+            "start": 88,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "repeal",
+            "sentence_id": 17,
+            "start": 96,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "break",
+            "sentence_id": 17,
+            "start": 133,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "large businesses one-year reprieve",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 83,
+            "token": "let",
+            "sentence_id": 17,
+            "start": 156,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 84,
+            "token": "figure",
+            "sentence_id": 17,
+            "start": 184,
+            "end": 190,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "do",
+            "sentence_id": 17,
+            "start": 213,
+            "end": 215,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "need",
+            "sentence_id": 18,
+            "start": 49,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "businesses",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "the delay on the individual mandate",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "large businesses one-year reprieve",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 87,
+            "token": "said",
+            "sentence_id": 18,
+            "start": 139,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 88,
+            "token": "delay",
+            "sentence_id": 19,
+            "start": 15,
+            "end": 20,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "ensure",
+            "sentence_id": 19,
+            "start": 26,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "large businesses one-year reprieve",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 90,
+            "token": "get",
+            "sentence_id": 19,
+            "start": 48,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 91,
+            "token": "scheduled",
+            "sentence_id": 20,
+            "start": 13,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 92,
+            "token": "give",
+            "sentence_id": 20,
+            "start": 26,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 93,
+            "token": "speech",
+            "sentence_id": 20,
+            "start": 33,
+            "end": 39,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 94,
+            "token": "touting",
+            "sentence_id": 20,
+            "start": 49,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "mandates in the federal health care law",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 95,
+            "token": "seeing",
+            "sentence_id": 20,
+            "start": 92,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "mandates in the federal health care law",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 96,
+            "token": "said",
+            "sentence_id": 20,
+            "start": 171,
+            "end": 175,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 97,
+            "token": "see",
+            "sentence_id": 20,
+            "start": 260,
+            "end": 263,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 98,
+            "token": "drop",
+            "sentence_id": 20,
+            "start": 279,
+            "end": 283,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 99,
+            "token": "account",
+            "sentence_id": 21,
+            "start": 21,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 100,
+            "token": "drive",
+            "sentence_id": 21,
+            "start": 64,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 101,
+            "token": "said",
+            "sentence_id": 22,
+            "start": 22,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 102,
+            "token": "increasing",
+            "sentence_id": 22,
+            "start": 120,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "mandates in the federal health care law",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "competition",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 103,
+            "token": "benefiting",
+            "sentence_id": 22,
+            "start": 147,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "mandates in the federal health care law",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 25,
+                    "text": "consumers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 104,
+            "token": "used",
+            "sentence_id": 23,
+            "start": 29,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 105,
+            "token": "announce",
+            "sentence_id": 23,
+            "start": 65,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 106,
+            "token": "delay",
+            "sentence_id": 23,
+            "start": 78,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 107,
+            "token": "said",
+            "sentence_id": 24,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 108,
+            "token": "concerned",
+            "sentence_id": 24,
+            "start": 32,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "businesses",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "mandates in the federal health care law",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 109,
+            "token": "implement",
+            "sentence_id": 24,
+            "start": 130,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 110,
+            "token": "said",
+            "sentence_id": 25,
+            "start": 90,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 111,
+            "token": "hearing",
+            "sentence_id": 25,
+            "start": 110,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 112,
+            "token": "delay",
+            "sentence_id": 25,
+            "start": 125,
+            "end": 130,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 113,
+            "token": "seized",
+            "sentence_id": 26,
+            "start": 23,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "mandates in the federal health care law",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 114,
+            "token": "announcement",
+            "sentence_id": 26,
+            "start": 37,
+            "end": 49,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 115,
+            "token": "flawed",
+            "sentence_id": 26,
+            "start": 75,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "mandates in the federal health care law",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 116,
+            "token": "knows",
+            "sentence_id": 26,
+            "start": 107,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "mandates in the federal health care law",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 117,
+            "token": "applauded",
+            "sentence_id": 27,
+            "start": 5,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "the delay on the individual mandate",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 118,
+            "token": "delay",
+            "sentence_id": 27,
+            "start": 19,
+            "end": 24,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 119,
+            "token": "criticizing",
+            "sentence_id": 27,
+            "start": 33,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 120,
+            "token": "deciding",
+            "sentence_id": 27,
+            "start": 85,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 121,
+            "token": "put",
+            "sentence_id": 27,
+            "start": 97,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "The Obama administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 122,
+            "token": "written",
+            "sentence_id": 27,
+            "start": 117,
+            "end": 124,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "The House",
+            "ideology": "Neutral",
+            "id": 0,
+            "events": [
+                1
+            ]
+        },
+        {
+            "text": "mandates in the federal health care law",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                2,
+                3,
+                108,
+                6,
+                7,
+                8,
+                12,
+                94,
+                95,
+                102,
+                103,
+                113,
+                115,
+                116,
+                11
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                65,
+                2,
+                6,
+                7,
+                8,
+                14,
+                15,
+                16,
+                26,
+                45
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                65,
+                2,
+                15,
+                48,
+                113,
+                52,
+                117,
+                14,
+                16,
+                26,
+                45,
+                54
+            ]
+        },
+        {
+            "text": "businesses",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                64,
+                11,
+                108,
+                12,
+                86,
+                63
+            ]
+        },
+        {
+            "text": "Barack Obama",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                65,
+                66,
+                35,
+                102,
+                103,
+                82,
+                116,
+                55,
+                94,
+                37
+            ]
+        },
+        {
+            "text": "the delay on the individual mandate",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                41,
+                54,
+                77,
+                86,
+                117
+            ]
+        },
+        {
+            "text": "the employer mandate",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                48
+            ]
+        },
+        {
+            "text": "the individual mandate",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                52
+            ]
+        },
+        {
+            "text": "The Obama administration",
+            "ideology": "Left",
+            "id": 15,
+            "events": [
+                63,
+                64,
+                121
+            ]
+        },
+        {
+            "text": "Kyrsten Sinema",
+            "ideology": "Left",
+            "id": 16,
+            "events": [
+                77
+            ]
+        },
+        {
+            "text": "Americans",
+            "ideology": "Neutral",
+            "id": 18,
+            "events": [
+                95
+            ]
+        },
+        {
+            "text": "health care law",
+            "ideology": "Neutral",
+            "id": 19,
+            "events": [
+                9
+            ]
+        },
+        {
+            "text": "large businesses one-year reprieve",
+            "ideology": "Left",
+            "id": 21,
+            "events": [
+                66,
+                82,
+                89,
+                86
+            ]
+        },
+        {
+            "text": "competition",
+            "ideology": "Neutral",
+            "id": 24,
+            "events": [
+                102
+            ]
+        },
+        {
+            "text": "consumers",
+            "ideology": "Neutral",
+            "id": 25,
+            "events": [
+                103
+            ]
+        },
+        {
+            "text": "insurance market",
+            "ideology": "Neutral",
+            "id": 26,
+            "events": [
+                41,
+                54
+            ]
+        }
+    ]
+}

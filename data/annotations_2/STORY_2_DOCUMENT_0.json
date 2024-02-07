@@ -1,0 +1,866 @@
+{
+    "title": "Tillerson, G7 ministers look to pressure Russia to reconsider Assad support",
+    "id": "STORY_2_DOCUMENT_0",
+    "old_id": "TRIPLET_031_DOCUMENT_2",
+    "split": "train",
+    "date": "2017-04-10",
+    "topic": "state_department",
+    "source": "Fox News (Online News)",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Secretary of State Rex Tillerson , along with six other Group of Seven foreign ministers , aims to send Russia a \u201c clear and coordinated message \u201d in the wake of the U.S. \u2019 response to a gas attack in Syria that left scores dead ."
+        },
+        {
+            "id": 1,
+            "text": "Tillerson , British Foreign Secretary Boris Johnson , Japanese Foreign Minister Fumio Kishida and the other ministers aim to pressure Russia to end its support for Syrian President Bashar al - Assad after a tumultuous week , which included the nerve gas attack and the U.S. \u2019 airstrikes on a Syrian air base ."
+        },
+        {
+            "id": 2,
+            "text": "The U.S. received broad support from Europe after the airstrikes ."
+        },
+        {
+            "id": 3,
+            "text": "Italian Foreign Minister Angelino Alfano , who is hosting the meeting , said the missile strike contributed to a \u201c renewed harmony \u201d between the U.S. and its partners ahead of the first meeting of G7 foreign ministers since President Trump took office ."
+        },
+        {
+            "id": 4,
+            "text": "\" We need to remember that not 10 years ago , but 100 or 120 days ago , the concern in Europe was that the United States and the EU were moving apart , \" Alfano told Sky TG24 Sunday ."
+        },
+        {
+            "id": 5,
+            "text": "\" I welcome this renewed harmony . \""
+        },
+        {
+            "id": 6,
+            "text": "With ties between the U.S. and Europe seemingly getting better , there has been no indication President Vladimir Putin was going to move from his position on the Assad regime in Syria ."
+        },
+        {
+            "id": 7,
+            "text": "Russia and Iran said in a joint statement Sunday that the countries would \u201c respond to any aggression \u201d in wake of the airstrikes in Syria ."
+        },
+        {
+            "id": 8,
+            "text": "\u201c What America waged in an aggression on Syria is a crossing of red lines , \u201d the countries said , The Sun reported ."
+        },
+        {
+            "id": 9,
+            "text": "\u201c From now on we will respond with force to any aggressor or any breach of red lines from whoever it is and America knows our ability to respond well . \u201d"
+        },
+        {
+            "id": 10,
+            "text": "H.R. McMaster , President Trump \u2019s national security adviser , said in an interview on \u201c Fox News Sunday \u201d that Russia should re-evaluate its support for Assad ."
+        },
+        {
+            "id": 11,
+            "text": "He added that Russia will have to decide whether it wanted to continue backing a \u201c murderous regime \u201d as Trump weighed the next steps against Syria ."
+        },
+        {
+            "id": 12,
+            "text": "Tillerson is expected to meet with Russian Foreign Minister Sergey Lavrov after the G7 meeting ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "aims",
+            "sentence_id": 0,
+            "start": 91,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "send",
+            "sentence_id": 0,
+            "start": 99,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Secretary of State Rex Tillerson",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Russia",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "response",
+            "sentence_id": 0,
+            "start": 173,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "attack",
+            "sentence_id": 0,
+            "start": 191,
+            "end": 197,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "left",
+            "sentence_id": 0,
+            "start": 212,
+            "end": 216,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "aim",
+            "sentence_id": 1,
+            "start": 118,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "pressure",
+            "sentence_id": 1,
+            "start": 125,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "end",
+            "sentence_id": 1,
+            "start": 144,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "support",
+            "sentence_id": 1,
+            "start": 152,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "attack",
+            "sentence_id": 1,
+            "start": 254,
+            "end": 260,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "airstrikes",
+            "sentence_id": 1,
+            "start": 276,
+            "end": 286,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "received",
+            "sentence_id": 2,
+            "start": 9,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "The U.S.",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Europe",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "support",
+            "sentence_id": 2,
+            "start": 24,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "airstrikes",
+            "sentence_id": 2,
+            "start": 54,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "hosting",
+            "sentence_id": 3,
+            "start": 50,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "meeting",
+            "sentence_id": 3,
+            "start": 62,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 72,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "strike",
+            "sentence_id": 3,
+            "start": 89,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "contributed",
+            "sentence_id": 3,
+            "start": 96,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "U.S. \u2019 airstrikes on a Syrian air base",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "\u201c renewed harmony \u201d between the U.S. and its partners",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "meeting",
+            "sentence_id": 3,
+            "start": 186,
+            "end": 193,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "took",
+            "sentence_id": 3,
+            "start": 240,
+            "end": 244,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "need",
+            "sentence_id": 4,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "remember",
+            "sentence_id": 4,
+            "start": 13,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "moving",
+            "sentence_id": 4,
+            "start": 137,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "told",
+            "sentence_id": 4,
+            "start": 161,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "welcome",
+            "sentence_id": 5,
+            "start": 4,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Italian Foreign Minister Angelino Alfano",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "\u201c renewed harmony \u201d between the U.S. and its partners",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "getting",
+            "sentence_id": 6,
+            "start": 48,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "move",
+            "sentence_id": 6,
+            "start": 132,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "respond",
+            "sentence_id": 7,
+            "start": 76,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "aggression",
+            "sentence_id": 7,
+            "start": 91,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "airstrikes",
+            "sentence_id": 7,
+            "start": 119,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "waged",
+            "sentence_id": 8,
+            "start": 15,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "aggression",
+            "sentence_id": 8,
+            "start": 27,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "The U.S.",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "U.S. \u2019 airstrikes on a Syrian air base",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 34,
+            "token": "crossing",
+            "sentence_id": 8,
+            "start": 52,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "The U.S.",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "red lines",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 92,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "reported",
+            "sentence_id": 8,
+            "start": 107,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "respond",
+            "sentence_id": 9,
+            "start": 22,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "breach",
+            "sentence_id": 9,
+            "start": 65,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "knows",
+            "sentence_id": 9,
+            "start": 116,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "respond",
+            "sentence_id": 9,
+            "start": 137,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "said",
+            "sentence_id": 10,
+            "start": 63,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "interview",
+            "sentence_id": 10,
+            "start": 74,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "re-evaluate",
+            "sentence_id": 10,
+            "start": 126,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "support",
+            "sentence_id": 10,
+            "start": 142,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "added",
+            "sentence_id": 11,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "decide",
+            "sentence_id": 11,
+            "start": 34,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "wanted",
+            "sentence_id": 11,
+            "start": 52,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "continue",
+            "sentence_id": 11,
+            "start": 62,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "backing",
+            "sentence_id": 11,
+            "start": 71,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "weighed",
+            "sentence_id": 11,
+            "start": 111,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "expected",
+            "sentence_id": 12,
+            "start": 13,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "meet",
+            "sentence_id": 12,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "meeting",
+            "sentence_id": 12,
+            "start": 87,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Secretary of State Rex Tillerson",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                1
+            ]
+        },
+        {
+            "text": "Russia",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                1
+            ]
+        },
+        {
+            "text": "The U.S.",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                11,
+                33,
+                34
+            ]
+        },
+        {
+            "text": "Europe",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "President Trump",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                11,
+                25,
+                33,
+                34
+            ]
+        },
+        {
+            "text": "U.S. \u2019 airstrikes on a Syrian air base",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                18,
+                33
+            ]
+        },
+        {
+            "text": "\u201c renewed harmony \u201d between the U.S. and its partners",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                18,
+                25
+            ]
+        },
+        {
+            "text": "Italian Foreign Minister Angelino Alfano",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                25
+            ]
+        },
+        {
+            "text": "red lines",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                34
+            ]
+        }
+    ]
+}

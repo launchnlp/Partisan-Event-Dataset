@@ -1,0 +1,1961 @@
+{
+    "title": "Biden admin review of Afghanistan withdrawal repeatedly blames Trump",
+    "id": "STORY_147_DOCUMENT_0",
+    "old_id": "7874_2",
+    "split": "test",
+    "date": "2023-04-07",
+    "topic": "national_defense",
+    "source": "Fox News (Online News)",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "The White House on Thursday released its review of President Biden's fumbled withdrawal from Afghanistan in 2021, dropping the long-awaited report days before the Easter holiday while former President Donald Trump's indictment dominates headlines."
+        },
+        {
+            "id": 1,
+            "text": "In a 12-page outline, Biden officials defend the president's decision to withdraw, calling his decision to end the two decades-long war \"the right thing for the country.\""
+        },
+        {
+            "id": 2,
+            "text": "The report does not appear to acknowledge any mistakes made by Biden."
+        },
+        {
+            "id": 3,
+            "text": "However, the document repeatedly criticizes the Trump administration for constraining the conditions of American evacuation, during which 13 American soldiers died in a suicide bombing while protecting the Kabul airport."
+        },
+        {
+            "id": 4,
+            "text": "The review does acknowledge that the evacuation of Americans and allies from Afghanistan should have started sooner, but blames the delays on the Afghan government and military, and on U.S. military and intelligence community assessments."
+        },
+        {
+            "id": 5,
+            "text": "\"President Biden\u2019s choices for how to execute a withdrawal from Afghanistan were severely constrained by conditions created by his predecessor,\" the document states."
+        },
+        {
+            "id": 6,
+            "text": "The White House accuses Trump of emboldening the Taliban by engaging in peace talks without consulting U.S. allies and partners in the region."
+        },
+        {
+            "id": 7,
+            "text": "The document emphasizes that at the same time, Trump was decreasing the U.S. military presence in Afghanistan with a series of drawdowns throughout 2020."
+        },
+        {
+            "id": 8,
+            "text": "\"During the transition from the Trump Administration to the Biden Administration, the outgoing Administration provided no plans for how to conduct the final withdrawal or to evacuate Americans and Afghan allies,\" the White House says."
+        },
+        {
+            "id": 9,
+            "text": "\"Indeed, there were no such plans in place when President Biden came into office, even with the agreed upon full withdrawal just over three months away.\""
+        },
+        {
+            "id": 10,
+            "text": "The U.S. withdrawal from Afghanistan precipitated the disastrous collapse of the Afghan National Security Forces and the Taliban's takeover of Kabul on Aug. 15, 2021."
+        },
+        {
+            "id": 11,
+            "text": "Biden oversaw evacuation efforts for U.S. allies, translators and Afghan refugees considered at risk of retribution from the radical Islamist forces overtaking the country."
+        },
+        {
+            "id": 12,
+            "text": "Nearly 1,000 American citizens were left behind and later evacuated."
+        },
+        {
+            "id": 13,
+            "text": "Thousands of Afghan allies remain in the country."
+        },
+        {
+            "id": 14,
+            "text": "The document released by the White House gives a broad overview of the administration's actions and recounts the details of the Afghanistan withdrawal from their perspective."
+        },
+        {
+            "id": 15,
+            "text": "\"As you all know, over these many months, departments and agencies key to the withdrawal conducted thorough internal after-action reviews, each of them examining their decision-making processes, as well as how those decisions were executed,\" White House national security spokesman John Kirby said Thursday."
+        },
+        {
+            "id": 16,
+            "text": "\"Today, they are making those reviews available to relevant committees in the Senate and in the House, as previewed by Secretaries [Antony] Blinken and [Lloyd] Austin in testimony last month,\" he added."
+        },
+        {
+            "id": 17,
+            "text": "BIDEN ADMIN ACCUSED OF \u2018STONEWALLING\u2019 GOP ON KEY AFGHANISTAN WITHDRAWAL CABLE: \u2018IT RAISES MY SUSPICION\u2019"
+        },
+        {
+            "id": 18,
+            "text": "By the time Biden assumed office, the White House says, \"the Taliban were in the strongest military position that they had been in since 2001, controlling or contesting nearly half of the country.\""
+        },
+        {
+            "id": 19,
+            "text": "\"While it was always the president's intent to end that war, it is also undeniable that decisions made and the lack of planning done by the previous administration significantly limited options available to him,\" Kirby told reporters at Thursday's White House press briefing."
+        },
+        {
+            "id": 20,
+            "text": "\"President Biden inherited a force presence in Afghanistan of some 2,500 troops."
+        },
+        {
+            "id": 21,
+            "text": "That was the lowest since 2001."
+        },
+        {
+            "id": 22,
+            "text": "He inherited a special immigrant visa program that had been starved of resources."
+        },
+        {
+            "id": 23,
+            "text": "And he inherited a deal struck between the previous administration and the Taliban that called for the complete removal of all U.S. troops by May of 2021, or else the Taliban, which had stopped its attacks while the deal was in place, would go back to war against the United States.\""
+        },
+        {
+            "id": 24,
+            "text": "Kirby said the Trump administration failed to provide any plans to remove U.S. troops, to transition security to the Afghan government or to increase processing for special immigrant visas for Afghan allies."
+        },
+        {
+            "id": 25,
+            "text": "ENEMIES NO LONGER FEAR US RESPONSE AFTER BIDEN BOTCHED AFGHANISTAN, EXPERTS SAY AMID BALLOON, DRONE CLASHES"
+        },
+        {
+            "id": 26,
+            "text": "\"Transitions matter."
+        },
+        {
+            "id": 27,
+            "text": "That's the first lesson learned here."
+        },
+        {
+            "id": 28,
+            "text": "And the incoming administration wasn't much of one,\" he said."
+        },
+        {
+            "id": 29,
+            "text": "\"Thus, President Biden's choice was stark: either withdrawal of our forces or resume fighting with the Taliban."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "released",
+            "sentence_id": 0,
+            "start": 28,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "withdrawal",
+            "sentence_id": 0,
+            "start": 77,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "withdrawal from Afghanistan",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "dropping",
+            "sentence_id": 0,
+            "start": 114,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "indictment",
+            "sentence_id": 0,
+            "start": 216,
+            "end": 226,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "dominates",
+            "sentence_id": 0,
+            "start": 227,
+            "end": 236,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "former President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "headlines",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "defend",
+            "sentence_id": 1,
+            "start": 38,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Biden officials",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "withdrawal from Afghanistan",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "decision",
+            "sentence_id": 1,
+            "start": 61,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "withdraw",
+            "sentence_id": 1,
+            "start": 73,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "calling",
+            "sentence_id": 1,
+            "start": 83,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "decision",
+            "sentence_id": 1,
+            "start": 95,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Biden officials",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "withdrawal from Afghanistan",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "end",
+            "sentence_id": 1,
+            "start": 107,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "war",
+            "sentence_id": 1,
+            "start": 132,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "appear",
+            "sentence_id": 2,
+            "start": 20,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "acknowledge",
+            "sentence_id": 2,
+            "start": 30,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Biden officials",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "mistakes",
+            "sentence_id": 2,
+            "start": 46,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "made",
+            "sentence_id": 2,
+            "start": 55,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "mistakes",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "criticizes",
+            "sentence_id": 3,
+            "start": 33,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Biden admin review",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "former President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "constraining",
+            "sentence_id": 3,
+            "start": 73,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "evacuation",
+            "sentence_id": 3,
+            "start": 113,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "died",
+            "sentence_id": 3,
+            "start": 159,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "bombing",
+            "sentence_id": 3,
+            "start": 177,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "protecting",
+            "sentence_id": 3,
+            "start": 191,
+            "end": 201,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "acknowledge",
+            "sentence_id": 4,
+            "start": 16,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "evacuation",
+            "sentence_id": 4,
+            "start": 37,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "started",
+            "sentence_id": 4,
+            "start": 101,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "blames",
+            "sentence_id": 4,
+            "start": 121,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "delays",
+            "sentence_id": 4,
+            "start": 132,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "execute",
+            "sentence_id": 5,
+            "start": 38,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "withdrawal",
+            "sentence_id": 5,
+            "start": 48,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "constrained",
+            "sentence_id": 5,
+            "start": 90,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "withdrawal from Afghanistan",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "former President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 30,
+            "token": "created",
+            "sentence_id": 5,
+            "start": 116,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "states",
+            "sentence_id": 5,
+            "start": 158,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "accuses",
+            "sentence_id": 6,
+            "start": 16,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Biden officials",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "former President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "emboldening",
+            "sentence_id": 6,
+            "start": 33,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "engaging",
+            "sentence_id": 6,
+            "start": 60,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "former President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "peace talks",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "talks",
+            "sentence_id": 6,
+            "start": 78,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "consulting",
+            "sentence_id": 6,
+            "start": 92,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "emphasizes",
+            "sentence_id": 7,
+            "start": 13,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "decreasing",
+            "sentence_id": 7,
+            "start": 57,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "drawdowns",
+            "sentence_id": 7,
+            "start": 127,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "transition",
+            "sentence_id": 8,
+            "start": 12,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "provided",
+            "sentence_id": 8,
+            "start": 110,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "former President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "withdrawal from Afghanistan",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 42,
+            "token": "conduct",
+            "sentence_id": 8,
+            "start": 139,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "withdrawal",
+            "sentence_id": 8,
+            "start": 157,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "evacuate",
+            "sentence_id": 8,
+            "start": 174,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "former President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "withdrawal from Afghanistan",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 45,
+            "token": "says",
+            "sentence_id": 8,
+            "start": 229,
+            "end": 233,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "came",
+            "sentence_id": 9,
+            "start": 64,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "withdrawal",
+            "sentence_id": 9,
+            "start": 113,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "former President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 48,
+            "token": "withdrawal",
+            "sentence_id": 10,
+            "start": 9,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "precipitated",
+            "sentence_id": 10,
+            "start": 37,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "collapse",
+            "sentence_id": 10,
+            "start": 65,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "takeover",
+            "sentence_id": 10,
+            "start": 131,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "oversaw",
+            "sentence_id": 11,
+            "start": 6,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "evacuation",
+            "sentence_id": 11,
+            "start": 14,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "efforts",
+            "sentence_id": 11,
+            "start": 25,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "considered",
+            "sentence_id": 11,
+            "start": 82,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "retribution",
+            "sentence_id": 11,
+            "start": 104,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "overtaking",
+            "sentence_id": 11,
+            "start": 149,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "left",
+            "sentence_id": 12,
+            "start": 36,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "evacuated",
+            "sentence_id": 12,
+            "start": 58,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "remain",
+            "sentence_id": 13,
+            "start": 27,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "released",
+            "sentence_id": 14,
+            "start": 13,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "gives",
+            "sentence_id": 14,
+            "start": 41,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "actions",
+            "sentence_id": 14,
+            "start": 88,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "recounts",
+            "sentence_id": 14,
+            "start": 100,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "withdrawal",
+            "sentence_id": 14,
+            "start": 140,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "know",
+            "sentence_id": 15,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "withdrawal",
+            "sentence_id": 15,
+            "start": 78,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "conducted",
+            "sentence_id": 15,
+            "start": 89,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "reviews",
+            "sentence_id": 15,
+            "start": 130,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "examining",
+            "sentence_id": 15,
+            "start": 152,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "decisions",
+            "sentence_id": 15,
+            "start": 216,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "executed",
+            "sentence_id": 15,
+            "start": 231,
+            "end": 239,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "said",
+            "sentence_id": 15,
+            "start": 293,
+            "end": 297,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "making",
+            "sentence_id": 16,
+            "start": 17,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "previewed",
+            "sentence_id": 16,
+            "start": 106,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "testimony",
+            "sentence_id": 16,
+            "start": 170,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "added",
+            "sentence_id": 16,
+            "start": 196,
+            "end": 201,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "ACCUSED",
+            "sentence_id": 17,
+            "start": 12,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Biden officials",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "GOP",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 79,
+            "token": "RAISES",
+            "sentence_id": 17,
+            "start": 83,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "assumed",
+            "sentence_id": 18,
+            "start": 18,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "says",
+            "sentence_id": 18,
+            "start": 50,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "controlling",
+            "sentence_id": 18,
+            "start": 143,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "contesting",
+            "sentence_id": 18,
+            "start": 158,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 84,
+            "token": "end",
+            "sentence_id": 19,
+            "start": 47,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "war",
+            "sentence_id": 19,
+            "start": 56,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "decisions",
+            "sentence_id": 19,
+            "start": 88,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "withdrawal from Afghanistan",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 87,
+            "token": "planning",
+            "sentence_id": 19,
+            "start": 119,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "withdrawal from Afghanistan",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 88,
+            "token": "limited",
+            "sentence_id": 19,
+            "start": 178,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "told",
+            "sentence_id": 19,
+            "start": 219,
+            "end": 223,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 90,
+            "token": "briefing",
+            "sentence_id": 19,
+            "start": 266,
+            "end": 274,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 91,
+            "token": "inherited",
+            "sentence_id": 20,
+            "start": 17,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "former President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 92,
+            "token": "inherited",
+            "sentence_id": 22,
+            "start": 3,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "former President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 93,
+            "token": "starved",
+            "sentence_id": 22,
+            "start": 60,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 94,
+            "token": "inherited",
+            "sentence_id": 23,
+            "start": 7,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "former President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 95,
+            "token": "deal",
+            "sentence_id": 23,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 96,
+            "token": "struck",
+            "sentence_id": 23,
+            "start": 24,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 97,
+            "token": "called",
+            "sentence_id": 23,
+            "start": 88,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 98,
+            "token": "removal",
+            "sentence_id": 23,
+            "start": 112,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "former President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "withdrawal from Afghanistan",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 99,
+            "token": "stopped",
+            "sentence_id": 23,
+            "start": 186,
+            "end": 193,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 100,
+            "token": "attacks",
+            "sentence_id": 23,
+            "start": 198,
+            "end": 205,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 101,
+            "token": "deal",
+            "sentence_id": 23,
+            "start": 216,
+            "end": 220,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 102,
+            "token": "go",
+            "sentence_id": 23,
+            "start": 241,
+            "end": 243,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 103,
+            "token": "war",
+            "sentence_id": 23,
+            "start": 252,
+            "end": 255,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 104,
+            "token": "said",
+            "sentence_id": 24,
+            "start": 6,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 105,
+            "token": "failed",
+            "sentence_id": 24,
+            "start": 36,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "former President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "withdrawal from Afghanistan",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 106,
+            "token": "provide",
+            "sentence_id": 24,
+            "start": 46,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 107,
+            "token": "remove",
+            "sentence_id": 24,
+            "start": 67,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 108,
+            "token": "transition",
+            "sentence_id": 24,
+            "start": 90,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "former President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "security to the Afghan government",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 109,
+            "token": "increase",
+            "sentence_id": 24,
+            "start": 141,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "former President Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "special immigrant visas",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 110,
+            "token": "processing",
+            "sentence_id": 24,
+            "start": 150,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 111,
+            "token": "FEAR",
+            "sentence_id": 25,
+            "start": 18,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 112,
+            "token": "BOTCHED",
+            "sentence_id": 25,
+            "start": 47,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "withdrawal from Afghanistan",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 113,
+            "token": "SAY",
+            "sentence_id": 25,
+            "start": 76,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 114,
+            "token": "CLASHES",
+            "sentence_id": 25,
+            "start": 100,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 115,
+            "token": "learned",
+            "sentence_id": 27,
+            "start": 24,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 116,
+            "token": "said",
+            "sentence_id": 28,
+            "start": 56,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 117,
+            "token": "withdrawal",
+            "sentence_id": 29,
+            "start": 50,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 118,
+            "token": "resume",
+            "sentence_id": 29,
+            "start": 78,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 119,
+            "token": "fighting",
+            "sentence_id": 29,
+            "start": 85,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "President Biden",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                1,
+                13,
+                15,
+                47,
+                86,
+                87,
+                91,
+                92,
+                94,
+                112
+            ]
+        },
+        {
+            "text": "withdrawal from Afghanistan",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                1,
+                5,
+                9,
+                29,
+                41,
+                44,
+                86,
+                87,
+                98,
+                105,
+                112
+            ]
+        },
+        {
+            "text": "former President Donald Trump",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                4,
+                16,
+                29,
+                32,
+                34,
+                41,
+                44,
+                47,
+                91,
+                92,
+                94,
+                98,
+                105,
+                108,
+                109
+            ]
+        },
+        {
+            "text": "headlines",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "Biden officials",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                5,
+                9,
+                13,
+                32,
+                78
+            ]
+        },
+        {
+            "text": "mistakes",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                15
+            ]
+        },
+        {
+            "text": "Biden admin review",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                16
+            ]
+        },
+        {
+            "text": "peace talks",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                34
+            ]
+        },
+        {
+            "text": "GOP",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                78
+            ]
+        },
+        {
+            "text": "security to the Afghan government",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                108
+            ]
+        },
+        {
+            "text": "special immigrant visas",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                109
+            ]
+        }
+    ]
+}

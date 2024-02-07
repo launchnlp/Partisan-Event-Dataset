@@ -1,0 +1,659 @@
+{
+    "title": "Twitter made it easier to harass transgender users",
+    "id": "STORY_142_DOCUMENT_1",
+    "old_id": "7920_1",
+    "split": "test",
+    "date": "2023-04-19",
+    "topic": "LGBT",
+    "source": "The Verge",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Twitter has quietly altered its Hateful Conduct Policy to remove long-standing protections for its transgender users, as spotted by the nonprofit organization Gay & Lesbian Alliance Against Defamation (GLAAD)."
+        },
+        {
+            "id": 1,
+            "text": "In a section that prohibits attacking other users with \u201crepeated slurs, tropes or other content that intends to dehumanize, degrade or reinforce negative or harmful stereotypes about a protected category,\u201d Twitter removed a line that specifically includes the \u201ctargeted misgendering or deadnaming of transgender individuals.\u201d"
+        },
+        {
+            "id": 2,
+            "text": "According to Wayback Machine, the inclusion of misgendering and deadnaming was removed on April 8th \u2014 the day after Twitter announced it had updated the policy to clarify how it defines targeted harassment."
+        },
+        {
+            "id": 3,
+            "text": "The company had initially adjusted the same policy back in 2018 to better clarify that its protections against abuse applied to misgendering and deadnaming."
+        },
+        {
+            "id": 4,
+            "text": "GLAAD describes the adjustments as \u201cthe latest example of just how unsafe the company is for users and advertisers alike.\u201d"
+        },
+        {
+            "id": 5,
+            "text": "Twitter\u2019s modified policy is a step back for the platform, especially when Instagram, Facebook, and YouTube don\u2019t even maintain the same protections for trans people that Twitter once had."
+        },
+        {
+            "id": 6,
+            "text": "Last year, GLAAD gave each of these platforms fairly low scores in regard to LGBTQ safety, privacy, and expression but noted that Twitter and TikTok were the only two platforms out of the bunch that had specific policies against deadnaming and misgendering trans users."
+        },
+        {
+            "id": 7,
+            "text": "\u201cSocial media companies committed to maintaining safe environments for LGBTQ people should be working to improve hate speech policies, not deleting long-standing ones,\u201d said GLAAD president and CEO Sarah Kate Ellis in a statement."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "altered",
+            "sentence_id": 0,
+            "start": 20,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "remove",
+            "sentence_id": 0,
+            "start": 58,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "spotted",
+            "sentence_id": 0,
+            "start": 121,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "prohibits",
+            "sentence_id": 1,
+            "start": 18,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "attacking",
+            "sentence_id": 1,
+            "start": 28,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "intends",
+            "sentence_id": 1,
+            "start": 101,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "degrade",
+            "sentence_id": 1,
+            "start": 124,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "reinforce",
+            "sentence_id": 1,
+            "start": 135,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "removed",
+            "sentence_id": 1,
+            "start": 214,
+            "end": 221,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Twitter",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "the inclusion of misgendering and deadnaming",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Twitter\u2019s modified policy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "misgendering",
+            "sentence_id": 1,
+            "start": 270,
+            "end": 282,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "deadnaming",
+            "sentence_id": 1,
+            "start": 286,
+            "end": 296,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "According",
+            "sentence_id": 2,
+            "start": 0,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "misgendering",
+            "sentence_id": 2,
+            "start": 47,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "removed",
+            "sentence_id": 2,
+            "start": 79,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "announced",
+            "sentence_id": 2,
+            "start": 124,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "updated",
+            "sentence_id": 2,
+            "start": 141,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "clarify",
+            "sentence_id": 2,
+            "start": 163,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Twitter",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Twitter\u2019s modified policy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "defines",
+            "sentence_id": 2,
+            "start": 178,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "adjusted",
+            "sentence_id": 3,
+            "start": 26,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "clarify",
+            "sentence_id": 3,
+            "start": 74,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "applied",
+            "sentence_id": 3,
+            "start": 117,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "misgendering",
+            "sentence_id": 3,
+            "start": 128,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "deadnaming",
+            "sentence_id": 3,
+            "start": 145,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "describes",
+            "sentence_id": 4,
+            "start": 6,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Gay & Lesbian Alliance Against Defamation (GLAAD)",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Twitter\u2019s modified policy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "adjustments",
+            "sentence_id": 4,
+            "start": 20,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "maintain",
+            "sentence_id": 5,
+            "start": 119,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Social media companies",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "protections for trans people",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Twitter\u2019s modified policy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "gave",
+            "sentence_id": 6,
+            "start": 17,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Social media companies",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "protections for trans people",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Gay & Lesbian Alliance Against Defamation (GLAAD)",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "noted",
+            "sentence_id": 6,
+            "start": 119,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "had",
+            "sentence_id": 6,
+            "start": 199,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "deadnaming",
+            "sentence_id": 6,
+            "start": 229,
+            "end": 239,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "misgendering",
+            "sentence_id": 6,
+            "start": 244,
+            "end": 256,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "maintaining",
+            "sentence_id": 7,
+            "start": 37,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "working",
+            "sentence_id": 7,
+            "start": 94,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "improve",
+            "sentence_id": 7,
+            "start": 105,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Social media companies",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Twitter\u2019s modified policy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 34,
+            "token": "deleting",
+            "sentence_id": 7,
+            "start": 139,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Social media companies",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "the inclusion of misgendering and deadnaming",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 169,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "step",
+            "sentence_id": 5,
+            "start": 31,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Twitter\u2019s modified policy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Twitter",
+            "ideology": "N/A",
+            "id": 0,
+            "events": [
+                16,
+                8
+            ]
+        },
+        {
+            "text": "the inclusion of misgendering and deadnaming",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                8,
+                34
+            ]
+        },
+        {
+            "text": "Twitter\u2019s modified policy",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                8,
+                16,
+                36,
+                25,
+                33,
+                23
+            ]
+        },
+        {
+            "text": "Social media companies",
+            "ideology": "Uncertain",
+            "id": 3,
+            "events": [
+                25,
+                26,
+                33,
+                34
+            ]
+        },
+        {
+            "text": "protections for trans people",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                25,
+                26
+            ]
+        },
+        {
+            "text": "Gay & Lesbian Alliance Against Defamation (GLAAD)",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                23,
+                26
+            ]
+        }
+    ]
+}

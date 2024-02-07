@@ -1,0 +1,1024 @@
+{
+    "title": "DACA Renewal Applications Resume After Judge's Ruling",
+    "id": "STORY_72_DOCUMENT_0",
+    "old_id": "TRIPLET_121_DOCUMENT_1",
+    "split": "train",
+    "date": "2018-01-14",
+    "topic": "immigration",
+    "source": "Townhall",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "",
+    "news": [
+        {
+            "id": 0,
+            "text": "Yesterday , the Department of Homeland Security announced that it would resume the application renewal process for illegal aliens seeking protection from deportation after being brought into the United States as children ."
+        },
+        {
+            "id": 1,
+            "text": "These \u201c Dreamers \u201d , as they are known in some circles , had previously been shielded from deportation under President Barack Obama \u2019s executive order known as the Deferred Action for Childhood Arrivals program ( DACA ) ."
+        },
+        {
+            "id": 2,
+            "text": "On Tuesday January 9th , U.S. District Judge William Allsup ruled that President Donald J. Trump did not have the legal authority to rescind some parts of the program ."
+        },
+        {
+            "id": 3,
+            "text": "In September 2017 , Trump pledged to end DACA altogether unless Democrats and Republicans in Congress could craft a bill addressing serious legal and immigration issues that he could sign ."
+        },
+        {
+            "id": 4,
+            "text": "Allsup ruled that the DHS must accept applications from individuals seeking to renew their \" Dreamer \" status , but did not have to accept new applications from individuals applying for the first time ."
+        },
+        {
+            "id": 5,
+            "text": "\" These individuals had submitted substantial personal identifying information to the government , paid hefty fees and planned their lives according to the dictates of DACA , \" the Judge wrote ."
+        },
+        {
+            "id": 6,
+            "text": "\" The administrative record includes no consideration to the disruption a rescission would have on the lives of DACA recipients , let alone their families , employers and employees , schools and communities . \""
+        },
+        {
+            "id": 7,
+            "text": "He added that the government 's arguments were \" arbitrary , capricious and an abuse of discretion . \""
+        },
+        {
+            "id": 8,
+            "text": "After hearing Allsup \u2019s decision , the White House strongly condemned what some may say is judicial overreach . \""
+        },
+        {
+            "id": 9,
+            "text": "An issue of this magnitude must go through the normal legislative process , \" White House Press Secretary Sarah Huckabee Sanders said ."
+        },
+        {
+            "id": 10,
+            "text": "\" President Trump is committed to the rule of law , and will work with members of both parties to reach a permanent solution that corrects the unconstitutional actions taken by the last administration . \""
+        },
+        {
+            "id": 11,
+            "text": "And President Trump tweeted on Wednesday , \" It just shows everyone how broken and unfair our Court System is when the opposing side in a case ( such as DACA ) always runs to the 9th Circuit and almost always wins before being reversed by higher courts . \u201d"
+        },
+        {
+            "id": 12,
+            "text": "On Sunday morning , President Trump once again took to Twitter to slam America \u2019s immigration policy ."
+        },
+        {
+            "id": 13,
+            "text": "\" DACA is probably dead because the Democrats do n\u2019t really want it , they just want to talk and take desperately needed money away from our Military , \u201d he proclaimed ."
+        },
+        {
+            "id": 14,
+            "text": "Moments the president later called for a merit based immigration system ."
+        },
+        {
+            "id": 15,
+            "text": "\u201c I , as President , want people coming into our Country who are going to help us become strong and great again , people coming in through a system based on MERIT ."
+        },
+        {
+            "id": 16,
+            "text": "No more Lotteries !"
+        },
+        {
+            "id": 17,
+            "text": "# AMERICA FIRST , \u201d he added ."
+        },
+        {
+            "id": 18,
+            "text": "So far , Republicans and Democrats have not been able to compromise on an immigration reform bill that would also address the problem of illegal aliens and \" Dreamers \" currently in the United States ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "announced",
+            "sentence_id": 0,
+            "start": 48,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "resume",
+            "sentence_id": 0,
+            "start": 72,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "deferred action for childhood arrivals program",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 2,
+            "token": "seeking",
+            "sentence_id": 0,
+            "start": 130,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "brought",
+            "sentence_id": 0,
+            "start": 178,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "shielded",
+            "sentence_id": 1,
+            "start": 77,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "ruled",
+            "sentence_id": 2,
+            "start": 60,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "rescind",
+            "sentence_id": 2,
+            "start": 133,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "donald j. trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "deferred action for childhood arrivals program",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 7,
+            "token": "pledged",
+            "sentence_id": 3,
+            "start": 26,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "end",
+            "sentence_id": 3,
+            "start": 37,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "craft",
+            "sentence_id": 3,
+            "start": 108,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "addressing",
+            "sentence_id": 3,
+            "start": 121,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "serious legal and immigration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "sign",
+            "sentence_id": 3,
+            "start": 183,
+            "end": 187,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "ruled",
+            "sentence_id": 4,
+            "start": 7,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "accept",
+            "sentence_id": 4,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "seeking",
+            "sentence_id": 4,
+            "start": 68,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "renew",
+            "sentence_id": 4,
+            "start": 79,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "accept",
+            "sentence_id": 4,
+            "start": 132,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "applying",
+            "sentence_id": 4,
+            "start": 173,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "submitted",
+            "sentence_id": 5,
+            "start": 24,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "paid",
+            "sentence_id": 5,
+            "start": 99,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "planned",
+            "sentence_id": 5,
+            "start": 119,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "dreamer",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "donald j. trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 21,
+            "token": "wrote",
+            "sentence_id": 5,
+            "start": 187,
+            "end": 192,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "includes",
+            "sentence_id": 6,
+            "start": 28,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "disruption",
+            "sentence_id": 6,
+            "start": 61,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "donald j. trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "deferred action for childhood arrivals program",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 24,
+            "token": "rescission",
+            "sentence_id": 6,
+            "start": 74,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "have",
+            "sentence_id": 6,
+            "start": 91,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "added",
+            "sentence_id": 7,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "donald j. trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "allsup",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 27,
+            "token": "hearing",
+            "sentence_id": 8,
+            "start": 6,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "decision",
+            "sentence_id": 8,
+            "start": 24,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "condemned",
+            "sentence_id": 8,
+            "start": 60,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "say",
+            "sentence_id": 8,
+            "start": 84,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "overreach",
+            "sentence_id": 8,
+            "start": 100,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "allsup",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "donald j. trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "go",
+            "sentence_id": 9,
+            "start": 32,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "allsup",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 129,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "committed",
+            "sentence_id": 10,
+            "start": 21,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "work",
+            "sentence_id": 10,
+            "start": 61,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "reach",
+            "sentence_id": 10,
+            "start": 98,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "corrects",
+            "sentence_id": 10,
+            "start": 130,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "actions",
+            "sentence_id": 10,
+            "start": 160,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "taken",
+            "sentence_id": 10,
+            "start": 168,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "tweeted",
+            "sentence_id": 11,
+            "start": 20,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "shows",
+            "sentence_id": 11,
+            "start": 53,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "runs",
+            "sentence_id": 11,
+            "start": 167,
+            "end": 171,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "wins",
+            "sentence_id": 11,
+            "start": 209,
+            "end": 213,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "deferred action for childhood arrivals program",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "donald j. trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 44,
+            "token": "reversed",
+            "sentence_id": 11,
+            "start": 227,
+            "end": 235,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "took",
+            "sentence_id": 12,
+            "start": 47,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "slam",
+            "sentence_id": 12,
+            "start": 66,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "america \u2019s immigration policy",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "donald j. trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 47,
+            "token": "dead",
+            "sentence_id": 13,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "deferred action for childhood arrivals program",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 48,
+            "token": "want",
+            "sentence_id": 13,
+            "start": 60,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "want",
+            "sentence_id": 13,
+            "start": 80,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "talk",
+            "sentence_id": 13,
+            "start": 88,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "take",
+            "sentence_id": 13,
+            "start": 97,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "proclaimed",
+            "sentence_id": 13,
+            "start": 157,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "called",
+            "sentence_id": 14,
+            "start": 28,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "want",
+            "sentence_id": 15,
+            "start": 21,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "coming",
+            "sentence_id": 15,
+            "start": 33,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "help",
+            "sentence_id": 15,
+            "start": 74,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "become",
+            "sentence_id": 15,
+            "start": 82,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "coming",
+            "sentence_id": 15,
+            "start": 121,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "merit based immigration system",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 59,
+            "token": "added",
+            "sentence_id": 17,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "able",
+            "sentence_id": 18,
+            "start": 49,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "compromise",
+            "sentence_id": 18,
+            "start": 57,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "address",
+            "sentence_id": 18,
+            "start": 114,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "deferred action for childhood arrivals program",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                1,
+                6,
+                23,
+                43,
+                47
+            ]
+        },
+        {
+            "text": "donald j. trump",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                6,
+                20,
+                23,
+                26,
+                31,
+                43,
+                46
+            ]
+        },
+        {
+            "text": "serious legal and immigration",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                10
+            ]
+        },
+        {
+            "text": "dreamer",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                20
+            ]
+        },
+        {
+            "text": "allsup",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                26,
+                31,
+                32
+            ]
+        },
+        {
+            "text": "democrats",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                47
+            ]
+        },
+        {
+            "text": "merit based immigration system",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                58
+            ]
+        },
+        {
+            "text": "america \u2019s immigration policy",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                46
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1308 @@
+{
+    "title": "Trump suggests he will send U.S. troops to the Mexican border",
+    "id": "STORY_55_DOCUMENT_1",
+    "old_id": "TRIPLET_113_DOCUMENT_0",
+    "split": "train",
+    "date": "2018-04-04",
+    "topic": "white_house",
+    "source": "USA TODAY",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Center",
+    "news": [
+        {
+            "id": 0,
+            "text": "WASHINGTON \u2014 President Trump suggested Tuesday he might try to put U.S. troops on the Mexican border until his anti-migration wall is built ."
+        },
+        {
+            "id": 1,
+            "text": "Saying he has spoken with Defense Secretary Jim Mattis \u2014 \" we 're going to be doing this militarily \" \u2014 Trump told reporters : \" Until we can have a wall and proper security , we 're going to be guarding our border with the military ..."
+        },
+        {
+            "id": 2,
+            "text": "that 's a big step . \""
+        },
+        {
+            "id": 3,
+            "text": "But Trump did not elaborate on the plan when asked at a press conference two hours later ."
+        },
+        {
+            "id": 4,
+            "text": "\" The Mexican border is very unprotected by our laws , \" he said , suggesting that Congress would need to take up the issue ."
+        },
+        {
+            "id": 5,
+            "text": "Congressional lawmakers have blocked funding for Trump 's wall , saying it is unnecessary and likely to be ineffective ."
+        },
+        {
+            "id": 6,
+            "text": "Sending troops to the border would not be unprecedented ."
+        },
+        {
+            "id": 7,
+            "text": "President George W Bush sent 6,000 National Guard troops to the Mexican border under an agreement with the governors of California , Arizona , New Mexico and Texas in 2006 ."
+        },
+        {
+            "id": 8,
+            "text": "Those troops supported the U.S. Border Patrol but did not engage in law enforcement for legal reasons ."
+        },
+        {
+            "id": 9,
+            "text": "Operation Jump Start , as it was known , lasted about two years ."
+        },
+        {
+            "id": 10,
+            "text": "Then in 2010 , President Barack Obama sent 1,200 National Guard troops to the border in an effort to win GOP support for an immigration bill ."
+        },
+        {
+            "id": 11,
+            "text": "Republicans insisted that Obama \" secure the border \" before they would vote to overhaul the immigration system ."
+        },
+        {
+            "id": 12,
+            "text": "Now Republicans control the White House and Congress , but with Democrats having enough numbers to filibuster in the Senate ."
+        },
+        {
+            "id": 13,
+            "text": "Trump has become increasingly exasperated with bipartisan immigration talks , blaming Democrats for not making a deal ."
+        },
+        {
+            "id": 14,
+            "text": "And he 's stepped up his anti-immigration rhetoric , targeting asylum - seekers from Central America passing through Mexico en route to the United States ."
+        },
+        {
+            "id": 15,
+            "text": "\" We cannot have people flowing into our country illegally , disappearing , and , by the way , never showing up to court , \" Trump said ."
+        },
+        {
+            "id": 16,
+            "text": "It 's a policy that the White House has repeatedly criticized , calling it \" catch - and - release . \""
+        },
+        {
+            "id": 17,
+            "text": "Trump took credit for stopping the caravan , saying pressure on Mexico helped to turn it back ."
+        },
+        {
+            "id": 18,
+            "text": "He also alluded to his threat to kill off the North American Free Trade Agreement with Mexico and Canada , saying \" NAFTA 's been a terrible deal for the United States . \""
+        },
+        {
+            "id": 19,
+            "text": "The caravan in and of itself \" does n't irritate me , \" Trump said ."
+        },
+        {
+            "id": 20,
+            "text": "\" The caravan makes me very sad that this could happen to the United States . \""
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "suggested",
+            "sentence_id": 0,
+            "start": 29,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "try",
+            "sentence_id": 0,
+            "start": 56,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "put",
+            "sentence_id": 0,
+            "start": 63,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "built",
+            "sentence_id": 0,
+            "start": 134,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "Saying",
+            "sentence_id": 1,
+            "start": 0,
+            "end": 6,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "spoken",
+            "sentence_id": 1,
+            "start": 14,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "doing",
+            "sentence_id": 1,
+            "start": 78,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "told",
+            "sentence_id": 1,
+            "start": 110,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "guarding",
+            "sentence_id": 1,
+            "start": 195,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Mexican border",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 9,
+            "token": "elaborate",
+            "sentence_id": 3,
+            "start": 18,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "anti-immigration rhetoric",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "asked",
+            "sentence_id": 3,
+            "start": 45,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "conference",
+            "sentence_id": 3,
+            "start": 62,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "unprotected",
+            "sentence_id": 4,
+            "start": 29,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Mexican border",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "our laws",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "anti-immigration rhetoric",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 13,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 60,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "suggesting",
+            "sentence_id": 4,
+            "start": 67,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "need",
+            "sentence_id": 4,
+            "start": 98,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "take",
+            "sentence_id": 4,
+            "start": 106,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "blocked",
+            "sentence_id": 5,
+            "start": 29,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Congressional lawmakers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "funding for Trump 's wall",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 18,
+            "token": "saying",
+            "sentence_id": 5,
+            "start": 65,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Congressional lawmakers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "funding for Trump 's wall",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "Sending",
+            "sentence_id": 6,
+            "start": 0,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "sent",
+            "sentence_id": 7,
+            "start": 24,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "agreement",
+            "sentence_id": 7,
+            "start": 88,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "supported",
+            "sentence_id": 8,
+            "start": 13,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "engage",
+            "sentence_id": 8,
+            "start": 58,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "lasted",
+            "sentence_id": 9,
+            "start": 41,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "sent",
+            "sentence_id": 10,
+            "start": 38,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "effort",
+            "sentence_id": 10,
+            "start": 91,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "win",
+            "sentence_id": 10,
+            "start": 101,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "insisted",
+            "sentence_id": 11,
+            "start": 12,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "President Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "secure",
+            "sentence_id": 11,
+            "start": 34,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "President Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Mexican border",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 30,
+            "token": "vote",
+            "sentence_id": 11,
+            "start": 72,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "overhaul",
+            "sentence_id": 11,
+            "start": 80,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "immigration system",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "control",
+            "sentence_id": 12,
+            "start": 16,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "White House and Congress",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "filibuster",
+            "sentence_id": 12,
+            "start": 99,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "Senate",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 34,
+            "token": "become",
+            "sentence_id": 13,
+            "start": 10,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "exasperated",
+            "sentence_id": 13,
+            "start": 30,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "bipartisan immigration talks",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 36,
+            "token": "talks",
+            "sentence_id": 13,
+            "start": 70,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "blaming",
+            "sentence_id": 13,
+            "start": 78,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "making",
+            "sentence_id": 13,
+            "start": 104,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "deal",
+            "sentence_id": 13,
+            "start": 113,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "stepped",
+            "sentence_id": 14,
+            "start": 10,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "anti-immigration rhetoric",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "targeting",
+            "sentence_id": 14,
+            "start": 53,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "asylum - seekers",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "passing",
+            "sentence_id": 14,
+            "start": 101,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "flowing",
+            "sentence_id": 15,
+            "start": 24,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "asylum - seekers",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "United States",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 44,
+            "token": "disappearing",
+            "sentence_id": 15,
+            "start": 61,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "asylum - seekers",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "United States",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 45,
+            "token": "showing",
+            "sentence_id": 15,
+            "start": 101,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "asylum - seekers",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "court",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 46,
+            "token": "said",
+            "sentence_id": 15,
+            "start": 131,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "criticized",
+            "sentence_id": 16,
+            "start": 51,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 48,
+            "token": "calling",
+            "sentence_id": 16,
+            "start": 64,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "took",
+            "sentence_id": 17,
+            "start": 6,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "asylum - seekers",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 50,
+            "token": "stopping",
+            "sentence_id": 17,
+            "start": 22,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "saying",
+            "sentence_id": 17,
+            "start": 45,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "pressure",
+            "sentence_id": 17,
+            "start": 52,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "helped",
+            "sentence_id": 17,
+            "start": 71,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "asylum - seekers",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 54,
+            "token": "turn",
+            "sentence_id": 17,
+            "start": 81,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "alluded",
+            "sentence_id": 18,
+            "start": 8,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "threat",
+            "sentence_id": 18,
+            "start": 23,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "North American Free Trade Agreement",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 57,
+            "token": "kill",
+            "sentence_id": 18,
+            "start": 33,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "North American Free Trade Agreement",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "saying",
+            "sentence_id": 18,
+            "start": 107,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "irritate",
+            "sentence_id": 19,
+            "start": 40,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "asylum - seekers",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 60,
+            "token": "said",
+            "sentence_id": 19,
+            "start": 62,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "happen",
+            "sentence_id": 20,
+            "start": 48,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "asylum - seekers",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "United States",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "President Trump",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                35,
+                8,
+                40,
+                41,
+                49,
+                56,
+                57,
+                59,
+                9
+            ]
+        },
+        {
+            "text": "Mexican border",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                8,
+                12,
+                29
+            ]
+        },
+        {
+            "text": "Congressional lawmakers",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                17,
+                18
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                32,
+                28,
+                31
+            ]
+        },
+        {
+            "text": "President Barack Obama",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                29
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                33
+            ]
+        },
+        {
+            "text": "North American Free Trade Agreement",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                56,
+                57
+            ]
+        },
+        {
+            "text": "our laws",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                12
+            ]
+        },
+        {
+            "text": "immigration system",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                31
+            ]
+        },
+        {
+            "text": "White House and Congress",
+            "ideology": "Right",
+            "id": 10,
+            "events": []
+        },
+        {
+            "text": "bipartisan immigration talks",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                35
+            ]
+        },
+        {
+            "text": "anti-immigration rhetoric",
+            "ideology": "Right",
+            "id": 12,
+            "events": [
+                40,
+                9,
+                12
+            ]
+        },
+        {
+            "text": "asylum - seekers",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                41,
+                53,
+                59,
+                43,
+                44,
+                45,
+                49,
+                61
+            ]
+        },
+        {
+            "text": "United States",
+            "ideology": "Neutral",
+            "id": 17,
+            "events": [
+                43,
+                44,
+                61
+            ]
+        },
+        {
+            "text": "funding for Trump 's wall",
+            "ideology": "Right",
+            "id": 22,
+            "events": [
+                17,
+                18
+            ]
+        },
+        {
+            "text": "Senate",
+            "ideology": "Left",
+            "id": 23,
+            "events": [
+                33
+            ]
+        },
+        {
+            "text": "court",
+            "ideology": "Neutral",
+            "id": 24,
+            "events": [
+                45
+            ]
+        }
+    ]
+}

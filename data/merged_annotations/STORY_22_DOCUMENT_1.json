@@ -1,0 +1,1473 @@
+{
+    "title": "Trump: 2nd Amendment \u2018under a threat like never before\u2019",
+    "id": "STORY_22_DOCUMENT_1",
+    "old_id": "TRIPLET_092_DOCUMENT_2",
+    "split": "train",
+    "date": "2016-05-21",
+    "topic": "gun_control_and_gun_rights",
+    "source": "Washington Times",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "LOUISVILLE \u2014 Likely GOP presidential nominee Donald Trump on Friday slammed Democratic front - runner Hillary Clinton as historically hostile to gun rights and warned that Mrs. Clinton will get the chance to appoint up to five U.S. Supreme Court justices if she \u2019s elected president ."
+        },
+        {
+            "id": 1,
+            "text": "\u201c The Second Amendment is under a threat like never before , \u201d Mr. Trump said at the NRA - ILA Leadership Forum at the National Rifle Association \u2019s annual meetings here ."
+        },
+        {
+            "id": 2,
+            "text": "\u201c Crooked Hillary Clinton is the most anti-gun , anti-Second Amendment candidate ever to run for office ."
+        },
+        {
+            "id": 3,
+            "text": "\u201c And as I said before , she wants to abolish the Second Amendment , \u201d he said ."
+        },
+        {
+            "id": 4,
+            "text": "\u201c She wants to take your guns away . \u201d"
+        },
+        {
+            "id": 5,
+            "text": "Before he spoke , Mr. Trump was officially endorsed by the NRA , which he called a \u201c fantastic honor . \u201d"
+        },
+        {
+            "id": 6,
+            "text": "Mr. Trump said Mrs. Clinton wants to reverse the 2008 District of Columbia v. Heller U.S. Supreme Court decision that affirmed the individual right to keep and bear arms ."
+        },
+        {
+            "id": 7,
+            "text": "\u201c Hillary said the Supreme Court is wrong on the Second Amendment ."
+        },
+        {
+            "id": 8,
+            "text": "That \u2019s bad , \u201d he said ."
+        },
+        {
+            "id": 9,
+            "text": "Congressional Republicans have said they do not plan to hold hearings or a vote this year on Judge Merrick Garland , President Obama \u2019s pick to fill the vacancy on the Supreme Court left by the death of Justice Antonin Scalia ."
+        },
+        {
+            "id": 10,
+            "text": "Mr. Trump said \u201c it could even be five \u201d judges that the next president will nominate for the high court ."
+        },
+        {
+            "id": 11,
+            "text": "\u201c If she gets to appoint her judges , she will as part of it abolish the Second Amendment , \u201d he said ."
+        },
+        {
+            "id": 12,
+            "text": "Mr. Trump said he plans to add to a list of 11 potential Supreme Court picks he recently released , and said he \u2019d like to call on Mrs. Clinton to release a list of her own ."
+        },
+        {
+            "id": 13,
+            "text": "\u201c I think that in addition to calling for them to name judges , we \u2019ll also call them and let their bodyguards immediately disarm , \u201d he said ."
+        },
+        {
+            "id": 14,
+            "text": "\u201c They should immediately disarm ."
+        },
+        {
+            "id": 15,
+            "text": "And let \u2019s see how good they do ."
+        },
+        {
+            "id": 16,
+            "text": "Let \u2019s see how they feel walking around without their guns [ on ] their bodyguards . \u201d"
+        },
+        {
+            "id": 17,
+            "text": "Mr. Trump said the Second Amendment is \u201c on the ballot \u201d in November ."
+        },
+        {
+            "id": 18,
+            "text": "\u201c The only way to save our Second Amendment is to vote for a person that you all know named Donald Trump , \u201d he said ."
+        },
+        {
+            "id": 19,
+            "text": "\u201c I will never let you down ."
+        },
+        {
+            "id": 20,
+            "text": "I will protect our Second Amendment ."
+        },
+        {
+            "id": 21,
+            "text": "I will protect our country , \u201d he said ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "slammed",
+            "sentence_id": 0,
+            "start": 68,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 1,
+            "token": "warned",
+            "sentence_id": 0,
+            "start": 160,
+            "end": 166,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "get",
+            "sentence_id": 0,
+            "start": 190,
+            "end": 193,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "appoint",
+            "sentence_id": 0,
+            "start": 208,
+            "end": 215,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "elected",
+            "sentence_id": 0,
+            "start": 265,
+            "end": 272,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 73,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Second Amendment",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "meetings",
+            "sentence_id": 1,
+            "start": 156,
+            "end": 164,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "run",
+            "sentence_id": 2,
+            "start": 89,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 8,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "wants",
+            "sentence_id": 3,
+            "start": 29,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "abolish",
+            "sentence_id": 3,
+            "start": 38,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Second Amendment",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 11,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 74,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 12,
+            "token": "wants",
+            "sentence_id": 4,
+            "start": 6,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "gun rights",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "take",
+            "sentence_id": 4,
+            "start": 15,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "gun rights",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "spoke",
+            "sentence_id": 5,
+            "start": 10,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "endorsed",
+            "sentence_id": 5,
+            "start": 43,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "National Rifle Association",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "called",
+            "sentence_id": 5,
+            "start": 74,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "National Rifle Association",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 18,
+            "token": "wants",
+            "sentence_id": 6,
+            "start": 28,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "reverse",
+            "sentence_id": 6,
+            "start": 37,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "2008 District of Columbia v. Heller",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "decision",
+            "sentence_id": 6,
+            "start": 104,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "affirmed",
+            "sentence_id": 6,
+            "start": 118,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "2008 District of Columbia v. Heller",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "gun rights",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "keep",
+            "sentence_id": 6,
+            "start": 151,
+            "end": 155,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "2008 District of Columbia v. Heller",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 24,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 31,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "Congressional Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "Merrick Garland",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "plan",
+            "sentence_id": 9,
+            "start": 48,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "hold",
+            "sentence_id": 9,
+            "start": 56,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "hearings",
+            "sentence_id": 9,
+            "start": 61,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "vote",
+            "sentence_id": 9,
+            "start": 75,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "fill",
+            "sentence_id": 9,
+            "start": 144,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 19,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "Merrick Garland",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 31,
+            "token": "vacancy",
+            "sentence_id": 9,
+            "start": 153,
+            "end": 160,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "left",
+            "sentence_id": 9,
+            "start": 182,
+            "end": 186,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "death",
+            "sentence_id": 9,
+            "start": 194,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "said",
+            "sentence_id": 10,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "nominate",
+            "sentence_id": 10,
+            "start": 77,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "gets",
+            "sentence_id": 11,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "appoint",
+            "sentence_id": 11,
+            "start": 17,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "abolish",
+            "sentence_id": 11,
+            "start": 61,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Second Amendment",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 39,
+            "token": "said",
+            "sentence_id": 11,
+            "start": 97,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 40,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "plans",
+            "sentence_id": 12,
+            "start": 18,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "add",
+            "sentence_id": 12,
+            "start": 27,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "released",
+            "sentence_id": 12,
+            "start": 89,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 104,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "like",
+            "sentence_id": 12,
+            "start": 115,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "call",
+            "sentence_id": 12,
+            "start": 123,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "release",
+            "sentence_id": 12,
+            "start": 147,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "think",
+            "sentence_id": 13,
+            "start": 4,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "calling",
+            "sentence_id": 13,
+            "start": 30,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "name",
+            "sentence_id": 13,
+            "start": 50,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "call",
+            "sentence_id": 13,
+            "start": 76,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "let",
+            "sentence_id": 13,
+            "start": 90,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "disarm",
+            "sentence_id": 13,
+            "start": 123,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 137,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "disarm",
+            "sentence_id": 14,
+            "start": 26,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "see",
+            "sentence_id": 15,
+            "start": 11,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "do",
+            "sentence_id": 15,
+            "start": 29,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "see",
+            "sentence_id": 16,
+            "start": 7,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 59,
+            "token": "feel",
+            "sentence_id": 16,
+            "start": 20,
+            "end": 24,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "walking",
+            "sentence_id": 16,
+            "start": 25,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "save",
+            "sentence_id": 18,
+            "start": 18,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Second Amendment",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 63,
+            "token": "vote",
+            "sentence_id": 18,
+            "start": 50,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "know",
+            "sentence_id": 18,
+            "start": 81,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "said",
+            "sentence_id": 18,
+            "start": 112,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 66,
+            "token": "let",
+            "sentence_id": 19,
+            "start": 15,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 67,
+            "token": "protect",
+            "sentence_id": 20,
+            "start": 7,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Second Amendment",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 68,
+            "token": "protect",
+            "sentence_id": 21,
+            "start": 7,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "U.S.",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 69,
+            "token": "said",
+            "sentence_id": 21,
+            "start": 34,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 70,
+            "token": "threat",
+            "sentence_id": 1,
+            "start": 34,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Second Amendment",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 71,
+            "token": "hostile",
+            "sentence_id": 0,
+            "start": 134,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "gun rights",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 72,
+            "token": "is",
+            "sentence_id": 2,
+            "start": 26,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the Second Amendment",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "gun rights",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "the Second Amendment",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                5,
+                70,
+                72
+            ]
+        },
+        {
+            "text": "National Rifle Association",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                15,
+                16
+            ]
+        },
+        {
+            "text": "2008 District of Columbia v. Heller",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                19,
+                21,
+                23
+            ]
+        },
+        {
+            "text": "Donald Trump",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                5,
+                16,
+                1,
+                11,
+                17,
+                24,
+                39,
+                54,
+                65,
+                66,
+                69,
+                68
+            ]
+        },
+        {
+            "text": "Hillary Clinton",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                71,
+                72,
+                23,
+                58,
+                1,
+                70,
+                7,
+                12,
+                24,
+                38,
+                54,
+                11,
+                17,
+                39
+            ]
+        },
+        {
+            "text": "gun rights",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                71,
+                13,
+                72,
+                12,
+                21
+            ]
+        },
+        {
+            "text": "Congressional Republicans",
+            "ideology": "Right",
+            "id": 17,
+            "events": [
+                25
+            ]
+        },
+        {
+            "text": "Merrick Garland",
+            "ideology": "Left",
+            "id": 18,
+            "events": [
+                25,
+                30
+            ]
+        },
+        {
+            "text": "Barack Obama",
+            "ideology": "Left",
+            "id": 19,
+            "events": [
+                30
+            ]
+        },
+        {
+            "text": "U.S.",
+            "ideology": "Neutral",
+            "id": 20,
+            "events": [
+                68
+            ]
+        }
+    ]
+}

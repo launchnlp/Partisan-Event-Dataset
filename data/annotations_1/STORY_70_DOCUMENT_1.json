@@ -1,0 +1,1000 @@
+{
+    "title": "Trump vetoes $740 billion defense legislation",
+    "id": "STORY_70_DOCUMENT_1",
+    "old_id": "5206_1",
+    "split": "train",
+    "date": "2020-12-23",
+    "topic": "national_defense",
+    "source": "CBS News (Online)",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Trump vetoed the defense spending bill Wednesday, after previously tweeting threats to do just that."
+        },
+        {
+            "id": 1,
+            "text": "Wednesday marked the deadline to veto the National Defense Authorization Act before it became law."
+        },
+        {
+            "id": 2,
+            "text": "The president left the White House for his Christmas getaway at Mar-a-Lago on Wednesday afternoon."
+        },
+        {
+            "id": 3,
+            "text": "Mr. Trump, who insists he is one of the most pro-military presidents in history, pledged to veto the legislation when it did not include the nixing of Section 230, a provision protecting internet companies from being liable for what third parties post on their platforms."
+        },
+        {
+            "id": 4,
+            "text": "\"No one has worked harder, or approved more money for the military, than I have \u2014 over $2 trillion,\" Mr. Trump said as he explained his veto to Congress."
+        },
+        {
+            "id": 5,
+            "text": "\"During my four years, with the support of many others, we have almost entirely rebuilt the United States military, which was totally depleted when I took office."
+        },
+        {
+            "id": 6,
+            "text": "Your failure to terminate the very dangerous national security risk of Section 230 will make our intelligence virtually impossible to conduct without everyone knowing what we are doing at every step.\""
+        },
+        {
+            "id": 7,
+            "text": "The House and Senate passed the NDAA with veto-proof majorities, but it remains to be seen whether House Republicans will still stand up to the president when the legislation returns to the House."
+        },
+        {
+            "id": 8,
+            "text": "Both the House and Senate need to re-approve the legislation with two-thirds majorities in order to override a presidential veto."
+        },
+        {
+            "id": 9,
+            "text": "The House and Senate will have to return after Christmas to vote."
+        },
+        {
+            "id": 10,
+            "text": "House Majority Leader Steny Hoyer said on Thursday that the House would return on Monday to overturn Mr. Trump's veto."
+        },
+        {
+            "id": 11,
+            "text": "The $740 billion bill funds the Pentagon, and includes a 3% raise for troops."
+        },
+        {
+            "id": 12,
+            "text": "Opposition to the president's veto, including from Republicans, was immediate."
+        },
+        {
+            "id": 13,
+            "text": "\"The NDAA has become law every year for 59 years straight because it's absolutely vital to our national security and our troops."
+        },
+        {
+            "id": 14,
+            "text": "This year must not be an exception."
+        },
+        {
+            "id": 15,
+            "text": "Our men and women who volunteer to wear the uniform shouldn't be denied what they need\u2014 ever,\" said Republican Senator Jim Inhofe from Oklahoma."
+        },
+        {
+            "id": 16,
+            "text": "Section 230 of the 1996 Communications Decency"
+        },
+        {
+            "id": 17,
+            "text": "Act means internet companies, including social media platforms like Twitter and Facebook, aren't generally liable if a user posts something illegal."
+        },
+        {
+            "id": 18,
+            "text": "Mr. Trump and some Republicans such as Senator Ted Cruz and Senator Josh Hawley have railed against social media companies for how they handle conservative content."
+        },
+        {
+            "id": 19,
+            "text": "But the defense spending bill isn't the only legislation up in the air."
+        },
+        {
+            "id": 20,
+            "text": "Mr. Trump has also threatened to refuse to sign the COVID-19 relief package that is expected at his desk soon, insisting it needs to include stimulus checks for $2,000 and other provisions."
+        },
+        {
+            "id": 21,
+            "text": "Mr. Trump, who declined to directly take part in negotiations and instead sent Treasury Secretary Steve Mnuchin, did not speak publicly about his support for larger stimulus checks during negotiations."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "vetoed",
+            "sentence_id": 0,
+            "start": 16,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "tweeting",
+            "sentence_id": 0,
+            "start": 77,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "do",
+            "sentence_id": 0,
+            "start": 97,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "marked",
+            "sentence_id": 1,
+            "start": 10,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "veto",
+            "sentence_id": 1,
+            "start": 33,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "became",
+            "sentence_id": 1,
+            "start": 87,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "left",
+            "sentence_id": 2,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "getaway",
+            "sentence_id": 2,
+            "start": 53,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "insists",
+            "sentence_id": 3,
+            "start": 15,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "pro-military president",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 9,
+            "token": "pledged",
+            "sentence_id": 3,
+            "start": 81,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "veto",
+            "sentence_id": 3,
+            "start": 92,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "include",
+            "sentence_id": 3,
+            "start": 129,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "nixing",
+            "sentence_id": 3,
+            "start": 141,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "post",
+            "sentence_id": 3,
+            "start": 247,
+            "end": 251,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "worked",
+            "sentence_id": 4,
+            "start": 12,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "United States military",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 15,
+            "token": "approved",
+            "sentence_id": 4,
+            "start": 30,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "money for the military",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 16,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 111,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "explained",
+            "sentence_id": 4,
+            "start": 122,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "veto",
+            "sentence_id": 4,
+            "start": 136,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "rebuilt",
+            "sentence_id": 5,
+            "start": 80,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "United States military",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 20,
+            "token": "depleted",
+            "sentence_id": 5,
+            "start": 134,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "took",
+            "sentence_id": 5,
+            "start": 150,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "failure",
+            "sentence_id": 6,
+            "start": 5,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "terminate",
+            "sentence_id": 6,
+            "start": 16,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "make",
+            "sentence_id": 6,
+            "start": 88,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "conduct",
+            "sentence_id": 6,
+            "start": 134,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "knowing",
+            "sentence_id": 6,
+            "start": 159,
+            "end": 166,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "doing",
+            "sentence_id": 6,
+            "start": 179,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "passed",
+            "sentence_id": 7,
+            "start": 21,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "remains",
+            "sentence_id": 7,
+            "start": 72,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "seen",
+            "sentence_id": 7,
+            "start": 86,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "stand",
+            "sentence_id": 7,
+            "start": 128,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "returns",
+            "sentence_id": 7,
+            "start": 175,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "need",
+            "sentence_id": 8,
+            "start": 26,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "re-approve",
+            "sentence_id": 8,
+            "start": 34,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "override",
+            "sentence_id": 8,
+            "start": 100,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "return",
+            "sentence_id": 9,
+            "start": 34,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "vote",
+            "sentence_id": 9,
+            "start": 60,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "said",
+            "sentence_id": 10,
+            "start": 34,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "return",
+            "sentence_id": 10,
+            "start": 72,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "overturn",
+            "sentence_id": 10,
+            "start": 92,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "funds",
+            "sentence_id": 11,
+            "start": 22,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "raise",
+            "sentence_id": 11,
+            "start": 60,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "Opposition",
+            "sentence_id": 12,
+            "start": 0,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "veto",
+            "sentence_id": 12,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "become",
+            "sentence_id": 13,
+            "start": 14,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "volunteer",
+            "sentence_id": 15,
+            "start": 22,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "wear",
+            "sentence_id": 15,
+            "start": 35,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "denied",
+            "sentence_id": 15,
+            "start": 65,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "need",
+            "sentence_id": 15,
+            "start": 82,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "said",
+            "sentence_id": 15,
+            "start": 95,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "posts",
+            "sentence_id": 17,
+            "start": 124,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "railed",
+            "sentence_id": 18,
+            "start": 85,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "handle",
+            "sentence_id": 18,
+            "start": 136,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "up",
+            "sentence_id": 19,
+            "start": 57,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "threatened",
+            "sentence_id": 20,
+            "start": 19,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "refuse",
+            "sentence_id": 20,
+            "start": 33,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "COVID-19 relief package",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 57,
+            "token": "sign",
+            "sentence_id": 20,
+            "start": 43,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "expected",
+            "sentence_id": 20,
+            "start": 84,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "insisting",
+            "sentence_id": 20,
+            "start": 111,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "needs",
+            "sentence_id": 20,
+            "start": 124,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "include",
+            "sentence_id": 20,
+            "start": 133,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "declined",
+            "sentence_id": 21,
+            "start": 15,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "take",
+            "sentence_id": 21,
+            "start": 36,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "negotiations",
+            "sentence_id": 21,
+            "start": 49,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "sent",
+            "sentence_id": 21,
+            "start": 74,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "speak",
+            "sentence_id": 21,
+            "start": 121,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "negotiations",
+            "sentence_id": 21,
+            "start": 188,
+            "end": 200,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "President Trump",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                8,
+                14,
+                15,
+                19,
+                43,
+                56
+            ]
+        },
+        {
+            "text": "pro-military president",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                8
+            ]
+        },
+        {
+            "text": "United States military",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                14,
+                19
+            ]
+        },
+        {
+            "text": "money for the military",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                15
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                43
+            ]
+        },
+        {
+            "text": "COVID-19 relief package",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                56
+            ]
+        }
+    ]
+}

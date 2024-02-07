@@ -1,0 +1,1312 @@
+{
+    "title": "The CDC finally recognizes the costs of its top-down dictates",
+    "id": "STORY_40_DOCUMENT_0",
+    "old_id": "TRIPLET_1055_DOCUMENT_0",
+    "split": "train",
+    "date": "2021-11-02",
+    "topic": "coronavirus",
+    "source": "New York Daily News",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "",
+    "news": [
+        {
+            "id": 0,
+            "text": "The most interesting public - health development of the pandemic era came this week with a radical course revision by the Centers for Disease Control and Prevention ."
+        },
+        {
+            "id": 1,
+            "text": "The policy change has COVID hawks trembling with fear and rage and bafflement \u2014 while those who believe we need to find a way to move on from top - down regulatory measures are very confused by the possibility the CDC just became an ally rather than an enemy ."
+        },
+        {
+            "id": 2,
+            "text": "Simply put , the CDC appears to have decided that there \u2019s just too much COVID around now to continue its previously draconian efforts to contain it through forced human separation ."
+        },
+        {
+            "id": 3,
+            "text": "Its new guidance says people who test positive for COVID can end their isolation ( or quarantine or whatever is the word of the week to explain how to stay away from people ) after five days rather than 10 if they \u2019re asymptomatic ."
+        },
+        {
+            "id": 4,
+            "text": "They do n\u2019t need to test their way out ."
+        },
+        {
+            "id": 5,
+            "text": "How could this be , when we \u2019re in the middle of the biggest surge in COVID cases since the pandemic \u2019s start ?"
+        },
+        {
+            "id": 6,
+            "text": "The surge is the reason ."
+        },
+        {
+            "id": 7,
+            "text": "Omicron is moving so fast and is structured in such a way that it eludes containment \u2014 and given its speed , pursuing such containment would require measures that would make the lockdowns of spring 2020 look like Times Square during the ball drop ."
+        },
+        {
+            "id": 8,
+            "text": "What \u2019s key here is the implicit acknowledgment that Omicron is far less damaging than its predecessor , the Delta variant ."
+        },
+        {
+            "id": 9,
+            "text": "And the danger recedes the more vaccine you \u2019ve gotten ."
+        },
+        {
+            "id": 10,
+            "text": "As of today , two - thirds of the population of the United States over the age of 5 is considered fully vaccinated ."
+        },
+        {
+            "id": 11,
+            "text": "So it is n\u2019t a hard choice to make \u2014 balancing the danger of breakthrough cases that are very likely to be mild against the threat to the public \u2019s economic and psychic well - being that would result from severe lockdowns ."
+        },
+        {
+            "id": 12,
+            "text": "Once such choices were harder ."
+        },
+        {
+            "id": 13,
+            "text": "But that was before the vaccines ."
+        },
+        {
+            "id": 14,
+            "text": "As we bring the horrendous year of 2021 to an end , every unvaccinated person in America has made a conscious and long - standing choice to risk it ( or had that choice made for them by their parents ) ."
+        },
+        {
+            "id": 15,
+            "text": "The guidance implicitly says the CDC will no longer intervene on their behalf , especially since they do n\u2019t want the intervention ."
+        },
+        {
+            "id": 16,
+            "text": "And what about children under 5 , who can not get vaccinated ?"
+        },
+        {
+            "id": 17,
+            "text": "Even COVID hawks like Dr. Paul Offit are not seeing an increase in the threat level : \u201c We test anybody who \u2019s admitted to the hospital for whatever reason . . ."
+        },
+        {
+            "id": 18,
+            "text": "and we \u2019re definitely seeing an increase in cases ."
+        },
+        {
+            "id": 19,
+            "text": "However , we \u2019re really not seeing an increase in children who are hospitalized for COVID or in the intensive care unit for COVID . \u201d"
+        },
+        {
+            "id": 20,
+            "text": "Because we have vaccines to save us from the worst of COVID , because we \u2019re weeks away from a pill that will treat COVID and because Omicron is both more contagious and less harmful , there is no longer any case to be made for avoidance as a public - policy approach ."
+        },
+        {
+            "id": 21,
+            "text": "This has proved displeasing to many ."
+        },
+        {
+            "id": 22,
+            "text": "Virologist Angie Rasmussen , who has more than 300,000 followers on Twitter , declared : \u201c Ca n\u2019t believe I \u2019m saying this but on this one , ignore the CDC . \u201d"
+        },
+        {
+            "id": 23,
+            "text": "She went on with an implicit accusation that the agency had changed its guidelines in order to please . . ."
+        },
+        {
+            "id": 24,
+            "text": "Delta Airlines ."
+        },
+        {
+            "id": 25,
+            "text": "I guess it \u2019s fine for the CDC to have its guidance directed by teachers unions but not by the needs of the larger American economy ."
+        },
+        {
+            "id": 26,
+            "text": "Remember that the American economy is not some abstract thing ."
+        },
+        {
+            "id": 27,
+            "text": "It \u2019s the ecosystem in which we live , and we are going to live with the consequences of having disrupted it the way we did for at least a decade ."
+        },
+        {
+            "id": 28,
+            "text": "We do n\u2019t really understand how this happened this way , but it \u2019s an acknowledgment of new realities and new possibilities \u2014 and the first time since the pandemic began that the public - health panjandra seem to be grappling with the real - world costs of their top - down dictates ."
+        },
+        {
+            "id": 29,
+            "text": "That is to be welcomed by all ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "development",
+            "sentence_id": 0,
+            "start": 37,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "came",
+            "sentence_id": 0,
+            "start": 69,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "revision",
+            "sentence_id": 0,
+            "start": 106,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "new guidance",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the centers for disease control and prevention",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "change",
+            "sentence_id": 1,
+            "start": 11,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "trembling",
+            "sentence_id": 1,
+            "start": 34,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "believe",
+            "sentence_id": 1,
+            "start": 96,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "need",
+            "sentence_id": 1,
+            "start": 107,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "find",
+            "sentence_id": 1,
+            "start": 115,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "move",
+            "sentence_id": 1,
+            "start": 129,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "confused",
+            "sentence_id": 1,
+            "start": 182,
+            "end": 190,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "became",
+            "sentence_id": 1,
+            "start": 223,
+            "end": 229,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the centers for disease control and prevention",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "appears",
+            "sentence_id": 2,
+            "start": 21,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "decided",
+            "sentence_id": 2,
+            "start": 37,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "continue",
+            "sentence_id": 2,
+            "start": 93,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "efforts",
+            "sentence_id": 2,
+            "start": 127,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "contain",
+            "sentence_id": 2,
+            "start": 138,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "covid",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "forced human separation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "says",
+            "sentence_id": 3,
+            "start": 17,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "test",
+            "sentence_id": 3,
+            "start": 33,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "end",
+            "sentence_id": 3,
+            "start": 61,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "explain",
+            "sentence_id": 3,
+            "start": 136,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "stay",
+            "sentence_id": 3,
+            "start": 151,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "need",
+            "sentence_id": 4,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "test",
+            "sentence_id": 4,
+            "start": 20,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "surge",
+            "sentence_id": 5,
+            "start": 61,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "start",
+            "sentence_id": 5,
+            "start": 104,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "surge",
+            "sentence_id": 6,
+            "start": 4,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "moving",
+            "sentence_id": 7,
+            "start": 11,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "eludes",
+            "sentence_id": 7,
+            "start": 66,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "pursuing",
+            "sentence_id": 7,
+            "start": 109,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "require",
+            "sentence_id": 7,
+            "start": 141,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "look",
+            "sentence_id": 7,
+            "start": 203,
+            "end": 207,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "drop",
+            "sentence_id": 7,
+            "start": 242,
+            "end": 246,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "acknowledgment",
+            "sentence_id": 8,
+            "start": 33,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "recedes",
+            "sentence_id": 9,
+            "start": 15,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "gotten",
+            "sentence_id": 9,
+            "start": 48,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "considered",
+            "sentence_id": 10,
+            "start": 87,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "make",
+            "sentence_id": 11,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "balancing",
+            "sentence_id": 11,
+            "start": 37,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the centers for disease control and prevention",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "the danger of breakthrough cases",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "the public \u2019s economic and psychic well - being",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "result",
+            "sentence_id": 11,
+            "start": 193,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "lockdowns",
+            "sentence_id": 11,
+            "start": 212,
+            "end": 221,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "bring",
+            "sentence_id": 14,
+            "start": 6,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "made",
+            "sentence_id": 14,
+            "start": 93,
+            "end": 97,
+            "remove": false,
+            "partisanship": "",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "choice",
+            "sentence_id": 14,
+            "start": 130,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "risk",
+            "sentence_id": 14,
+            "start": 140,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "made",
+            "sentence_id": 14,
+            "start": 169,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "says",
+            "sentence_id": 15,
+            "start": 24,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "intervene",
+            "sentence_id": 15,
+            "start": 52,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "want",
+            "sentence_id": 15,
+            "start": 109,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "intervention",
+            "sentence_id": 15,
+            "start": 118,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "get",
+            "sentence_id": 16,
+            "start": 46,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "seeing",
+            "sentence_id": 17,
+            "start": 45,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "dr. paul offit",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "an increase in the threat level",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "new guidance",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "increase",
+            "sentence_id": 17,
+            "start": 55,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "test",
+            "sentence_id": 17,
+            "start": 91,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "admitted",
+            "sentence_id": 17,
+            "start": 111,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "seeing",
+            "sentence_id": 18,
+            "start": 22,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "increase",
+            "sentence_id": 18,
+            "start": 32,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "seeing",
+            "sentence_id": 19,
+            "start": 28,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "increase",
+            "sentence_id": 19,
+            "start": 38,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "hospitalized",
+            "sentence_id": 19,
+            "start": 67,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "save",
+            "sentence_id": 20,
+            "start": 28,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "treat",
+            "sentence_id": 20,
+            "start": 110,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "made",
+            "sentence_id": 20,
+            "start": 219,
+            "end": 223,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "proved",
+            "sentence_id": 21,
+            "start": 9,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "new guidance",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 63,
+            "token": "displeasing",
+            "sentence_id": 21,
+            "start": 16,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "declared",
+            "sentence_id": 22,
+            "start": 78,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "virologist angie rasmussen",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 65,
+            "token": "believe",
+            "sentence_id": 22,
+            "start": 98,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "saying",
+            "sentence_id": 22,
+            "start": 111,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "ignore",
+            "sentence_id": 22,
+            "start": 141,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the centers for disease control and prevention",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 68,
+            "token": "went",
+            "sentence_id": 23,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "accusation",
+            "sentence_id": 23,
+            "start": 29,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the centers for disease control and prevention",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "virologist angie rasmussen",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 70,
+            "token": "changed",
+            "sentence_id": 23,
+            "start": 60,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "please",
+            "sentence_id": 23,
+            "start": 95,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "directed",
+            "sentence_id": 25,
+            "start": 52,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "virologist angie rasmussen",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "new guidance",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 73,
+            "token": "live",
+            "sentence_id": 27,
+            "start": 59,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "disrupted",
+            "sentence_id": 27,
+            "start": 96,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "understand",
+            "sentence_id": 28,
+            "start": 17,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "happened",
+            "sentence_id": 28,
+            "start": 37,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "acknowledgment",
+            "sentence_id": 28,
+            "start": 70,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "began",
+            "sentence_id": 28,
+            "start": 164,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "seem",
+            "sentence_id": 28,
+            "start": 205,
+            "end": 209,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "grappling",
+            "sentence_id": 28,
+            "start": 216,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the centers for disease control and prevention",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "their top - down dictates",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 81,
+            "token": "dictates",
+            "sentence_id": 28,
+            "start": 274,
+            "end": 282,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "welcomed",
+            "sentence_id": 29,
+            "start": 14,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "new guidance",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "covid",
+            "ideology": "N/A",
+            "id": 0,
+            "events": [
+                15
+            ]
+        },
+        {
+            "text": "forced human separation",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                15
+            ]
+        },
+        {
+            "text": "the centers for disease control and prevention",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                10,
+                37,
+                2,
+                67,
+                69,
+                80
+            ]
+        },
+        {
+            "text": "the danger of breakthrough cases",
+            "ideology": "N/A",
+            "id": 3,
+            "events": [
+                37
+            ]
+        },
+        {
+            "text": "the public \u2019s economic and psychic well - being",
+            "ideology": "N/A",
+            "id": 4,
+            "events": [
+                37
+            ]
+        },
+        {
+            "text": "new guidance",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                2,
+                50,
+                62,
+                72,
+                82
+            ]
+        },
+        {
+            "text": "dr. paul offit",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                50
+            ]
+        },
+        {
+            "text": "an increase in the threat level",
+            "ideology": "N/A",
+            "id": 7,
+            "events": [
+                50
+            ]
+        },
+        {
+            "text": "virologist angie rasmussen",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                69,
+                64,
+                72
+            ]
+        },
+        {
+            "text": "their top - down dictates",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                80
+            ]
+        }
+    ]
+}

@@ -1,0 +1,923 @@
+{
+    "title": "Punishing Disney, DeSantis Signals a Lasting G.O.P. Brawl With Business",
+    "id": "STORY_106_DOCUMENT_1",
+    "old_id": "6581_0",
+    "split": "dev",
+    "date": "2022-04-22",
+    "topic": "race-and-racism",
+    "source": "New York Times (News)",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Democrats and advocacy groups have been sharply critical of conservative efforts around those issues, and a handful of Republican lawmakers around the country have questioned whether the flurry of related legislative activity is aimed at real-world problems."
+        },
+        {
+            "id": 1,
+            "text": "L.G.B.T.Q. leaders and some education officials have forcefully criticized the education law that set off the dispute in Florida, saying it is already having a chilling effect on teachers and may do the same for young students who have relied on schools as a safe place to talk about personal issues."
+        },
+        {
+            "id": 2,
+            "text": "\u201cGovernor DeSantis is wielding the power of the state to punish businesses simply for not falling in line with his brutal and discriminatory attacks,\u201d said Joni Madison, the interim president of the Human Rights Campaign, an L.G.B.T.Q. advocacy group."
+        },
+        {
+            "id": 3,
+            "text": "\u201cEvery step of this entire ordeal in Florida has been nothing more than a shameful attempt to out-Trump Trump through fear, hate and lies.\u201d"
+        },
+        {
+            "id": 4,
+            "text": "But for Republican politicians, the decision to take on a major company over the issue is less likely to backfire with today\u2019s conservative base than in an earlier era when business-minded moderates had far more influence in the party."
+        },
+        {
+            "id": 5,
+            "text": "\u201cThis is, in my view, a low-risk engagement here against a company that is perceived by many Republican base voters to be aggressively pursuing or promoting a policy agenda,\u201d Mr. Curbelo said."
+        },
+        {
+            "id": 6,
+            "text": "That shift, evident with the rise of the Tea Party during the Obama administration, intensified amid the political realignment of the Trump era, as Republicans increasingly became the party of white working-class voters while some big-business and tech leaders \u2014 and many of their employees \u2014 moved left."
+        },
+        {
+            "id": 7,
+            "text": "Although Florida Republicans say that the move against Disney was made to eliminate corporate perks, critics argue that the legislature only acted after the company announced it would no longer make political contributions."
+        },
+        {
+            "id": 8,
+            "text": "The company is a major contributor to Floridian candidates from both political parties."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "critical",
+            "sentence_id": 0,
+            "start": 48,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats and advocacy groups",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "conservative efforts",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "efforts",
+            "sentence_id": 0,
+            "start": 73,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "questioned",
+            "sentence_id": 0,
+            "start": 164,
+            "end": 174,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Republican lawmakers",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "legislative activity",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 3,
+            "token": "flurry",
+            "sentence_id": 0,
+            "start": 187,
+            "end": 193,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "aimed",
+            "sentence_id": 0,
+            "start": 229,
+            "end": 234,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "legislative activity",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "real-world problems",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "criticized",
+            "sentence_id": 1,
+            "start": 64,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "education officials",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "L.G.B.T.Q. leaders",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "education law",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "set",
+            "sentence_id": 1,
+            "start": 98,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "dispute",
+            "sentence_id": 1,
+            "start": 110,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "saying",
+            "sentence_id": 1,
+            "start": 130,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "having",
+            "sentence_id": 1,
+            "start": 151,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "education law",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "education officials",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "young students",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "do",
+            "sentence_id": 1,
+            "start": 196,
+            "end": 198,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "relied",
+            "sentence_id": 1,
+            "start": 236,
+            "end": 242,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "talk",
+            "sentence_id": 1,
+            "start": 273,
+            "end": 277,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "wielding",
+            "sentence_id": 2,
+            "start": 22,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Governor DeSantis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "power of the state",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "punish",
+            "sentence_id": 2,
+            "start": 57,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Governor DeSantis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "businesses",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "falling",
+            "sentence_id": 2,
+            "start": 90,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "attacks",
+            "sentence_id": 2,
+            "start": 141,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Governor DeSantis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "businesses",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 151,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "ordeal",
+            "sentence_id": 3,
+            "start": 27,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Governor DeSantis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Florida",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "attempt",
+            "sentence_id": 3,
+            "start": 83,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Governor DeSantis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "out-Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "decision",
+            "sentence_id": 4,
+            "start": 36,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "take",
+            "sentence_id": 4,
+            "start": 48,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "backfire",
+            "sentence_id": 4,
+            "start": 105,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "major company",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "today\u2019s conservative base",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 23,
+            "token": "had",
+            "sentence_id": 4,
+            "start": 199,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "engagement",
+            "sentence_id": 5,
+            "start": 33,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "perceived",
+            "sentence_id": 5,
+            "start": 75,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "pursuing",
+            "sentence_id": 5,
+            "start": 135,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "Disney",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "policy agenda",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 27,
+            "token": "promoting",
+            "sentence_id": 5,
+            "start": 147,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "Disney",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "policy agenda",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 28,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 187,
+            "end": 191,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "shift",
+            "sentence_id": 6,
+            "start": 5,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "rise",
+            "sentence_id": 6,
+            "start": 29,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "intensified",
+            "sentence_id": 6,
+            "start": 84,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "realignment",
+            "sentence_id": 6,
+            "start": 115,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "became",
+            "sentence_id": 6,
+            "start": 173,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "moved",
+            "sentence_id": 6,
+            "start": 293,
+            "end": 298,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "say",
+            "sentence_id": 7,
+            "start": 29,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "move",
+            "sentence_id": 7,
+            "start": 42,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "made",
+            "sentence_id": 7,
+            "start": 66,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "eliminate",
+            "sentence_id": 7,
+            "start": 74,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "argue",
+            "sentence_id": 7,
+            "start": 109,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "acted",
+            "sentence_id": 7,
+            "start": 141,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "announced",
+            "sentence_id": 7,
+            "start": 165,
+            "end": 174,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "Disney",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "political contributions",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 42,
+            "token": "make",
+            "sentence_id": 7,
+            "start": 194,
+            "end": 198,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Republican lawmakers",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "legislative activity",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                2,
+                4
+            ]
+        },
+        {
+            "text": "Democrats and advocacy groups",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "conservative efforts",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "real-world problems",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "education officials",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                5,
+                9
+            ]
+        },
+        {
+            "text": "L.G.B.T.Q. leaders",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                5
+            ]
+        },
+        {
+            "text": "education law",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                5,
+                9
+            ]
+        },
+        {
+            "text": "young students",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                9
+            ]
+        },
+        {
+            "text": "Governor DeSantis",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                13,
+                14,
+                16,
+                18,
+                19
+            ]
+        },
+        {
+            "text": "businesses",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                14,
+                16
+            ]
+        },
+        {
+            "text": "power of the state",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                13
+            ]
+        },
+        {
+            "text": "Florida",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                18
+            ]
+        },
+        {
+            "text": "out-Trump",
+            "ideology": "Right",
+            "id": 13,
+            "events": [
+                19
+            ]
+        },
+        {
+            "text": "major company",
+            "ideology": "Neutral",
+            "id": 14,
+            "events": [
+                22
+            ]
+        },
+        {
+            "text": "today\u2019s conservative base",
+            "ideology": "Right",
+            "id": 15,
+            "events": [
+                22
+            ]
+        },
+        {
+            "text": "Disney",
+            "ideology": "Left",
+            "id": 16,
+            "events": [
+                26,
+                27,
+                41
+            ]
+        },
+        {
+            "text": "policy agenda",
+            "ideology": "Neutral",
+            "id": 17,
+            "events": [
+                26,
+                27
+            ]
+        },
+        {
+            "text": "political contributions",
+            "ideology": "Right",
+            "id": 18,
+            "events": [
+                41
+            ]
+        }
+    ]
+}

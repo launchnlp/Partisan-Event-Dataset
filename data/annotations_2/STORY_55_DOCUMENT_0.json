@@ -1,0 +1,684 @@
+{
+    "title": "Trump Wants the U.S. Military 'To Secure' the U.S.-Mexico Border ",
+    "id": "STORY_55_DOCUMENT_0",
+    "old_id": "TRIPLET_113_DOCUMENT_1",
+    "split": "train",
+    "date": "2018-04-04",
+    "topic": "white_house",
+    "source": "Reason",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Donald Trump said today that he is \" preparing for the military to secure \" the U.S. border with Mexico ."
+        },
+        {
+            "id": 1,
+            "text": "\" We have very bad laws for our border , \" Trump declared ."
+        },
+        {
+            "id": 2,
+            "text": "\" Until we can have a wall and proper security , we 're going to be guarding our border with the military . \""
+        },
+        {
+            "id": 3,
+            "text": "Trump offered no additional details , so it 's not clear exactly what sort of military personnel he has in mind for the border security job ."
+        },
+        {
+            "id": 4,
+            "text": "Depending on how he plans to proceed , his hands may already be tied by federal law ."
+        },
+        {
+            "id": 5,
+            "text": "Under the terms of the Posse Comitatus Act of 1878 , no part of the Army or Air Force may be used for domestic law enforcement purposes \" except in cases and under circumstances expressly authorized by the Constitution or Act of Congress ."
+        },
+        {
+            "id": 6,
+            "text": "\" The act also applies to the Marines and the Navy via Department of Defense regulations , though not to the Coast Guard , which routinely performs domestic maritime police work ."
+        },
+        {
+            "id": 7,
+            "text": "The restrictions set by the Posse Comitatus Act do not apply to National Guard troops , however , when those troops are operating under state authority ."
+        },
+        {
+            "id": 8,
+            "text": "In recent years , such troops have performed border security work ."
+        },
+        {
+            "id": 9,
+            "text": "In 2008 , for example , President George W. Bush launched \" Operation Jump Start , \" in which 6,000 National Guard troops were deployed to California , Arizona , New Mexico , and Texas to offer various forms of border control assistance ."
+        },
+        {
+            "id": 10,
+            "text": "President Barack Obama did much the same , deploying 1,200 National Guard troops to the U.S. - Mexico border in 2010 ."
+        },
+        {
+            "id": 11,
+            "text": "In short , if President Trump attempts to place active - duty Army troops at the U.S. border without congressional approval , he will be acting in violation of federal law ."
+        },
+        {
+            "id": 12,
+            "text": "If he sends National Guard troops to the border , and those troops work with state authorities , he will be following in the footsteps of recent presidents ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "said",
+            "sentence_id": 0,
+            "start": 23,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "preparing",
+            "sentence_id": 0,
+            "start": 47,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "secure",
+            "sentence_id": 0,
+            "start": 77,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "president donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "the u.s. military",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the u.s.-mexico border",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "declared",
+            "sentence_id": 1,
+            "start": 49,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "guarding",
+            "sentence_id": 2,
+            "start": 68,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "president donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "the u.s. military",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the u.s.-mexico border",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "offered",
+            "sentence_id": 3,
+            "start": 6,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "has",
+            "sentence_id": 3,
+            "start": 100,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "plans",
+            "sentence_id": 4,
+            "start": 20,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "proceed",
+            "sentence_id": 4,
+            "start": 29,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "tied",
+            "sentence_id": 4,
+            "start": 64,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "president donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "federal law",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 10,
+            "token": "used",
+            "sentence_id": 5,
+            "start": 93,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "authorized",
+            "sentence_id": 5,
+            "start": 188,
+            "end": 198,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "applies",
+            "sentence_id": 6,
+            "start": 15,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "performs",
+            "sentence_id": 6,
+            "start": 139,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "set",
+            "sentence_id": 7,
+            "start": 17,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "apply",
+            "sentence_id": 7,
+            "start": 55,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "operating",
+            "sentence_id": 7,
+            "start": 120,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "performed",
+            "sentence_id": 8,
+            "start": 35,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "launched",
+            "sentence_id": 9,
+            "start": 49,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "deployed",
+            "sentence_id": 9,
+            "start": 127,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "offer",
+            "sentence_id": 9,
+            "start": 188,
+            "end": 193,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "\" operation jump start , \"",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "border control assistance",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "did",
+            "sentence_id": 10,
+            "start": 23,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "president barack obama",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "\" operation jump start , \"",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "national guard troops",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "deploying",
+            "sentence_id": 10,
+            "start": 43,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "attempts",
+            "sentence_id": 11,
+            "start": 30,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "president donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "active - duty army troops",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "federal law",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 24,
+            "token": "place",
+            "sentence_id": 11,
+            "start": 42,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "acting",
+            "sentence_id": 11,
+            "start": 137,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "sends",
+            "sentence_id": 12,
+            "start": 6,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "work",
+            "sentence_id": 12,
+            "start": 67,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "national guard troops",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "state authorities",
+                    "ideology": "Uncertain",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "president donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "following",
+            "sentence_id": 12,
+            "start": 108,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "president donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "recent presidents",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "national guard troops",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 29,
+            "token": "violation",
+            "sentence_id": 11,
+            "start": 147,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "president donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "federal law",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "president donald trump",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                4,
+                9,
+                23,
+                28,
+                2,
+                29,
+                27
+            ]
+        },
+        {
+            "text": "the u.s. military",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                4,
+                2
+            ]
+        },
+        {
+            "text": "the u.s.-mexico border",
+            "ideology": "N/A",
+            "id": 2,
+            "events": [
+                4,
+                2
+            ]
+        },
+        {
+            "text": "federal law",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                9,
+                23,
+                29
+            ]
+        },
+        {
+            "text": "\" operation jump start , \"",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                20,
+                21
+            ]
+        },
+        {
+            "text": "active - duty army troops",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                23
+            ]
+        },
+        {
+            "text": "national guard troops",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                28,
+                21,
+                27
+            ]
+        },
+        {
+            "text": "recent presidents",
+            "ideology": "Uncertain",
+            "id": 7,
+            "events": [
+                28
+            ]
+        },
+        {
+            "text": "border control assistance",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                20
+            ]
+        },
+        {
+            "text": "president barack obama",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                21
+            ]
+        },
+        {
+            "text": "state authorities",
+            "ideology": "Uncertain",
+            "id": 10,
+            "events": [
+                27
+            ]
+        }
+    ]
+}

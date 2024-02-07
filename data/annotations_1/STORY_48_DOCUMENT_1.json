@@ -1,0 +1,1266 @@
+{
+    "title": "Trump signs executive order to expand school choice for Hispanic students",
+    "id": "STORY_48_DOCUMENT_1",
+    "old_id": "4710_0",
+    "split": "train",
+    "date": "2020-07-10",
+    "topic": "race-and-racism",
+    "source": "Fox News (Online News)",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Trump on Thursday signed an executive order establishing the White House Hispanic Prosperity Initiative \u2013 a move the administration says will improve access Latinos have to educational and economic opportunities."
+        },
+        {
+            "id": 1,
+            "text": "In a speech in the White House Rose Garden before signing the order, Trump touted the initiative as expanding school choice for Hispanics and one that would improve access to charter schools for students."
+        },
+        {
+            "id": 2,
+            "text": "The initiative is also meant to create more career pathways for Hispanic students as well as boast investment in economically distressed communities, including Opportunity Zones, and offer more economic opportunities for small and minority-owned businesses."
+        },
+        {
+            "id": 3,
+            "text": "\u201cSchool choice is an incredible issue in many ways,\u201d Trump said."
+        },
+        {
+            "id": 4,
+            "text": "\u201cMost people agree with us, the smart ones agree with us.\u201d"
+        },
+        {
+            "id": 5,
+            "text": "TRUMP SAYS HE DISAGREES WITH CDC GUIDELINES TO REOPEN SCHOOLS, CALLS THEM 'IMPRACTICAL'"
+        },
+        {
+            "id": 6,
+            "text": "The president also continued to criticize states that have kept their schools closed amid the ongoing coronavirus pandemic."
+        },
+        {
+            "id": 7,
+            "text": "Trump is pressuring state and local officials to reopen schools this fall, threatening to withhold federal funds from those that keep their learning remote."
+        },
+        {
+            "id": 8,
+            "text": "\u201cWe must open our schools."
+        },
+        {
+            "id": 9,
+            "text": "Stop this nonsense,\u201d Trump said."
+        },
+        {
+            "id": 10,
+            "text": "\u201cA policy of never-ending lockdowns month after month would do more harm than good.\u201d"
+        },
+        {
+            "id": 11,
+            "text": "Trump has pointed to the American Academy of Pediatrics (AAP), which was represented at the event and repeatedly has urged officials to let students be physically present at school."
+        },
+        {
+            "id": 12,
+            "text": "The AAP has publicly advised, \u201call policy considerations for the coming school year should start with a goal of having students physically present in school.\u201d"
+        },
+        {
+            "id": 13,
+            "text": "Meanwhile, the president also tweeted Wednesday morning: \"In Germany, Denmark, Norway, Sweden and many other countries, SCHOOLS ARE OPEN WITH NO PROBLEMS."
+        },
+        {
+            "id": 14,
+            "text": "\"The Dems think it would be bad for them politically if U.S. schools open before the November Election, but is important for the children & families,\" Trump tweeted."
+        },
+        {
+            "id": 15,
+            "text": "\"May cut off funding if not open!\""
+        },
+        {
+            "id": 16,
+            "text": "The president has repeatedly claimed that Democrats, like former Vice President Joe Biden, who is the presumptive Democratic nominee in the presidential election, want to keep schools closed for \"political reasons.\""
+        },
+        {
+            "id": 17,
+            "text": "When asked whether Biden supported sending students back to school in the fall, a Biden campaign official told Fox News: \u201cOf course he does."
+        },
+        {
+            "id": 18,
+            "text": "That\u2019s why he\u2019s been making these proposals and pressing Trump to act.\u201d"
+        },
+        {
+            "id": 19,
+            "text": "The official added: \u201cBut we need to ensure we can do it safely, in line with the recommendations of public health experts, and Trump keeps failing us on that score.\u201d"
+        },
+        {
+            "id": 20,
+            "text": "The Centers for Disease Control and Prevention said on Thursday that it is offering \u201cdifferent reference documents\u201d for local governments and school districts to review as they begin to determine whether they can safely reopen schools this fall amid the coronavirus pandemic."
+        },
+        {
+            "id": 21,
+            "text": "CDC Director Robert Redfield made a clarification after Trump on Wednesday said he disagreed with the CDC\u2019s back-to-school guidance, calling it \u201cimpractical.\u201d"
+        },
+        {
+            "id": 22,
+            "text": "Later Wednesday, at the White House Coronavirus Task Force briefing, Vice President Mike Pence said the CDC would be \u201cissuing new guidance next week\u201d to schools."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "signed",
+            "sentence_id": 0,
+            "start": 28,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "establishing",
+            "sentence_id": 0,
+            "start": 54,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "move",
+            "sentence_id": 0,
+            "start": 118,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "says",
+            "sentence_id": 0,
+            "start": 142,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "improve",
+            "sentence_id": 0,
+            "start": 152,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "White House Hispanic Prosperity Initiative",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "educational and economic opportunities",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "speech",
+            "sentence_id": 1,
+            "start": 5,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "signing",
+            "sentence_id": 1,
+            "start": 50,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "touted",
+            "sentence_id": 1,
+            "start": 75,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "expanding",
+            "sentence_id": 1,
+            "start": 100,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "White House Hispanic Prosperity Initiative",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "school choice for Hispanics",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "improve",
+            "sentence_id": 1,
+            "start": 157,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "White House Hispanic Prosperity Initiative",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "access to charter schools",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "meant",
+            "sentence_id": 2,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "create",
+            "sentence_id": 2,
+            "start": 32,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "White House Hispanic Prosperity Initiative",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "career pathways for Hispanic students",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "offer",
+            "sentence_id": 2,
+            "start": 183,
+            "end": 188,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "White House Hispanic Prosperity Initiative",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "economic opportunities for small and minority-owned businesses",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 59,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "agree",
+            "sentence_id": 4,
+            "start": 13,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "agree",
+            "sentence_id": 4,
+            "start": 43,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "SAYS",
+            "sentence_id": 5,
+            "start": 6,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "DISAGREES",
+            "sentence_id": 5,
+            "start": 14,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "REOPEN",
+            "sentence_id": 5,
+            "start": 47,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "CALLS",
+            "sentence_id": 5,
+            "start": 63,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "continued",
+            "sentence_id": 6,
+            "start": 19,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "criticize",
+            "sentence_id": 6,
+            "start": 32,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "kept",
+            "sentence_id": 6,
+            "start": 59,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "closed",
+            "sentence_id": 6,
+            "start": 78,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "pressuring",
+            "sentence_id": 7,
+            "start": 9,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "reopen",
+            "sentence_id": 7,
+            "start": 49,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "threatening",
+            "sentence_id": 7,
+            "start": 75,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "state and local officials",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 27,
+            "token": "withhold",
+            "sentence_id": 7,
+            "start": 90,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "keep",
+            "sentence_id": 7,
+            "start": 129,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "open",
+            "sentence_id": 8,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "Stop",
+            "sentence_id": 9,
+            "start": 0,
+            "end": 4,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 27,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "lockdowns",
+            "sentence_id": 10,
+            "start": 26,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "do",
+            "sentence_id": 10,
+            "start": 60,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "pointed",
+            "sentence_id": 11,
+            "start": 10,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "represented",
+            "sentence_id": 11,
+            "start": 73,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "event",
+            "sentence_id": 11,
+            "start": 92,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "urged",
+            "sentence_id": 11,
+            "start": 117,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "let",
+            "sentence_id": 11,
+            "start": 136,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "present",
+            "sentence_id": 11,
+            "start": 163,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "advised",
+            "sentence_id": 12,
+            "start": 21,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "start",
+            "sentence_id": 12,
+            "start": 91,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "present",
+            "sentence_id": 12,
+            "start": 139,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "tweeted",
+            "sentence_id": 13,
+            "start": 30,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "OPEN",
+            "sentence_id": 13,
+            "start": 132,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "think",
+            "sentence_id": 14,
+            "start": 10,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "open",
+            "sentence_id": 14,
+            "start": 69,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "tweeted",
+            "sentence_id": 14,
+            "start": 157,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 48,
+            "token": "cut",
+            "sentence_id": 15,
+            "start": 5,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "open",
+            "sentence_id": 15,
+            "start": 28,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "claimed",
+            "sentence_id": 16,
+            "start": 29,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "want",
+            "sentence_id": 16,
+            "start": 163,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "keep",
+            "sentence_id": 16,
+            "start": 171,
+            "end": 175,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "closed",
+            "sentence_id": 16,
+            "start": 184,
+            "end": 190,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": " former Vice President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "schools",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 54,
+            "token": "asked",
+            "sentence_id": 17,
+            "start": 5,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "supported",
+            "sentence_id": 17,
+            "start": 25,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "sending",
+            "sentence_id": 17,
+            "start": 35,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "told",
+            "sentence_id": 17,
+            "start": 106,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "making",
+            "sentence_id": 18,
+            "start": 21,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "proposals",
+            "sentence_id": 18,
+            "start": 34,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "pressing",
+            "sentence_id": 18,
+            "start": 48,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "former Vice President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 61,
+            "token": "act",
+            "sentence_id": 18,
+            "start": 66,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "added",
+            "sentence_id": 19,
+            "start": 13,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "need",
+            "sentence_id": 19,
+            "start": 28,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "ensure",
+            "sentence_id": 19,
+            "start": 36,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "do",
+            "sentence_id": 19,
+            "start": 50,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "keeps",
+            "sentence_id": 19,
+            "start": 133,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "failing",
+            "sentence_id": 19,
+            "start": 139,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 68,
+            "token": "said",
+            "sentence_id": 20,
+            "start": 47,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "offering",
+            "sentence_id": 20,
+            "start": 75,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "review",
+            "sentence_id": 20,
+            "start": 162,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "begin",
+            "sentence_id": 20,
+            "start": 177,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "determine",
+            "sentence_id": 20,
+            "start": 186,
+            "end": 195,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "reopen",
+            "sentence_id": 20,
+            "start": 220,
+            "end": 226,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "made",
+            "sentence_id": 21,
+            "start": 29,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "clarification",
+            "sentence_id": 21,
+            "start": 36,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "said",
+            "sentence_id": 21,
+            "start": 75,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "disagreed",
+            "sentence_id": 21,
+            "start": 83,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "calling",
+            "sentence_id": 21,
+            "start": 133,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "briefing",
+            "sentence_id": 22,
+            "start": 59,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "said",
+            "sentence_id": 22,
+            "start": 95,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "issuing",
+            "sentence_id": 22,
+            "start": 118,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "White House Hispanic Prosperity Initiative",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                4,
+                8,
+                9,
+                12,
+                11
+            ]
+        },
+        {
+            "text": "educational and economic opportunities",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "school choice for Hispanics",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                8
+            ]
+        },
+        {
+            "text": "access to charter schools",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                9
+            ]
+        },
+        {
+            "text": "economic opportunities for small and minority-owned businesses",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                12
+            ]
+        },
+        {
+            "text": "career pathways for Hispanic students",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "President Trump",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                26,
+                47,
+                60,
+                67
+            ]
+        },
+        {
+            "text": "state and local officials",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                26
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                47
+            ]
+        },
+        {
+            "text": " former Vice President Joe Biden",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                53
+            ]
+        },
+        {
+            "text": "schools",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                53
+            ]
+        },
+        {
+            "text": "former Vice President Joe Biden",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                60
+            ]
+        }
+    ]
+}

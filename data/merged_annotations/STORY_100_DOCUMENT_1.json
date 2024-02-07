@@ -1,0 +1,945 @@
+{
+    "title": "Abortion survivors speak out as Catholic Churches targeted by activists: 'Doesn't have to end in abortion'",
+    "id": "STORY_100_DOCUMENT_1",
+    "old_id": "abortion_10_1",
+    "split": "dev",
+    "date": "2022-05-08",
+    "topic": "abortion",
+    "source": "Fox News (Online News)",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Abortion survivors speak out as Catholic Churches targeted by activists : ' Does n't have to end in abortion ' ."
+        },
+        {
+            "id": 1,
+            "text": "Abortion survivors , who are now mothers themselves , are speaking out this Mother 's Day offering encouragement for women nationwide as the fallout over the Supreme Court leak continues ."
+        },
+        {
+            "id": 2,
+            "text": "Amy Miles , Robin Sertell , and Denisha Workizer shared their stories and offered hope for anyone facing an unplanned pregnancy on \" Fox & Friends Weekend . \""
+        },
+        {
+            "id": 3,
+            "text": "\" For anyone facing an unplanned pregnancy situation , I just want to say that there 's hope and that there 's life sustaining options , \" Miles told co-host Rachel Campos - Duffy ."
+        },
+        {
+            "id": 4,
+            "text": "\" I was adopted and placed in a loving home where my mom did n't have hope that she would ever have a family . \""
+        },
+        {
+            "id": 5,
+            "text": "\" I just would want that woman , in that situation , to know that there 's hope and there are other choices and there 's people that want to surround them with love , \" she continued ."
+        },
+        {
+            "id": 6,
+            "text": "Chaos has ensued nationwide as pro-abortion activists have mobilized targeting the homes of Supreme Court justices and Catholic Churches across the country ."
+        },
+        {
+            "id": 7,
+            "text": "\" I was nine years old when I found out , \" Sertell said when asked how she found out she was an abortion survivor ."
+        },
+        {
+            "id": 8,
+            "text": "\" I was in the hospital , and I was very sick from all the complications that I received physically because of all the attempts on my life in the womb . \""
+        },
+        {
+            "id": 9,
+            "text": "\" I did n't know there were other abortion survivors until I was almost 47 , and I found out through the Abortion Survivors Network that there are likely tens of thousands of us , \" she continued ."
+        },
+        {
+            "id": 10,
+            "text": "Despite the fallout over the leak , Workizer , who is a mother of three , reiterated there are options when dealing with an unplanned pregnancy ."
+        },
+        {
+            "id": 11,
+            "text": "\" If you are facing an unplanned pregnancy right now , I would say I hope that our stories bring you hope , \" Workizer said ."
+        },
+        {
+            "id": 12,
+            "text": "\" As we 've survived those procedures , that I hope that our stories would bring hope and that you would know that as our story was reclaimed , that yours and your child 's can be reclaimed too , that it does n't have to end in abortion , \" she continued ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "speak",
+            "sentence_id": 0,
+            "start": 19,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "targeted",
+            "sentence_id": 0,
+            "start": 50,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Catholic Churches",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "pro-abortion activists",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "end",
+            "sentence_id": 0,
+            "start": 93,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "abortion survivors",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "speaking",
+            "sentence_id": 1,
+            "start": 58,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "abortion survivors",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "offering",
+            "sentence_id": 1,
+            "start": 90,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "fallout",
+            "sentence_id": 1,
+            "start": 141,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "leak",
+            "sentence_id": 1,
+            "start": 172,
+            "end": 176,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "continues",
+            "sentence_id": 1,
+            "start": 177,
+            "end": 186,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "shared",
+            "sentence_id": 2,
+            "start": 49,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "offered",
+            "sentence_id": 2,
+            "start": 74,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "abortion survivors",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "hope",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "facing",
+            "sentence_id": 2,
+            "start": 98,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "facing",
+            "sentence_id": 3,
+            "start": 13,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "want",
+            "sentence_id": 3,
+            "start": 62,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "say",
+            "sentence_id": 3,
+            "start": 70,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "told",
+            "sentence_id": 3,
+            "start": 145,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "life sustaining options",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Amy Miles",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 15,
+            "token": "adopted",
+            "sentence_id": 4,
+            "start": 8,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "placed",
+            "sentence_id": 4,
+            "start": 20,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "have",
+            "sentence_id": 4,
+            "start": 65,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "want",
+            "sentence_id": 5,
+            "start": 15,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "know",
+            "sentence_id": 5,
+            "start": 56,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "want",
+            "sentence_id": 5,
+            "start": 133,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "surround",
+            "sentence_id": 5,
+            "start": 141,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "continued",
+            "sentence_id": 5,
+            "start": 173,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Amy Miles",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "life sustaining options",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "ensued",
+            "sentence_id": 6,
+            "start": 10,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "mobilized",
+            "sentence_id": 6,
+            "start": 59,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "targeting",
+            "sentence_id": 6,
+            "start": 69,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "pro-abortion activists",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "supreme court justices",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 26,
+            "token": "found",
+            "sentence_id": 7,
+            "start": 30,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 52,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "asked",
+            "sentence_id": 7,
+            "start": 62,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "found",
+            "sentence_id": 7,
+            "start": 76,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "received",
+            "sentence_id": 8,
+            "start": 80,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Robin Sertell",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 31,
+            "token": "attempts",
+            "sentence_id": 8,
+            "start": 119,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "know",
+            "sentence_id": 9,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "found",
+            "sentence_id": 9,
+            "start": 83,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "continued",
+            "sentence_id": 9,
+            "start": 186,
+            "end": 195,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "abortion survivors",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Robin Sertell",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "fallout",
+            "sentence_id": 10,
+            "start": 12,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "leak",
+            "sentence_id": 10,
+            "start": 29,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "reiterated",
+            "sentence_id": 10,
+            "start": 74,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "life sustaining options",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Denisha Workizer",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 38,
+            "token": "dealing",
+            "sentence_id": 10,
+            "start": 108,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "facing",
+            "sentence_id": 11,
+            "start": 13,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "say",
+            "sentence_id": 11,
+            "start": 63,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "hope",
+            "sentence_id": 11,
+            "start": 69,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "bring",
+            "sentence_id": 11,
+            "start": 91,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "said",
+            "sentence_id": 11,
+            "start": 119,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "survived",
+            "sentence_id": 12,
+            "start": 12,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "procedures",
+            "sentence_id": 12,
+            "start": 27,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "hope",
+            "sentence_id": 12,
+            "start": 47,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "bring",
+            "sentence_id": 12,
+            "start": 75,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "know",
+            "sentence_id": 12,
+            "start": 105,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "reclaimed",
+            "sentence_id": 12,
+            "start": 132,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "reclaimed",
+            "sentence_id": 12,
+            "start": 180,
+            "end": 189,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "end",
+            "sentence_id": 12,
+            "start": 221,
+            "end": 224,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "continued",
+            "sentence_id": 12,
+            "start": 245,
+            "end": 254,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Denisha Workizer",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "life sustaining options",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "abortion",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                2,
+                14,
+                22,
+                30,
+                37,
+                52
+            ]
+        },
+        {
+            "text": "abortion survivors",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                3,
+                2,
+                34,
+                9
+            ]
+        },
+        {
+            "text": "life sustaining options",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                14,
+                37,
+                22,
+                52
+            ]
+        },
+        {
+            "text": "pro-abortion activists",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                25,
+                1
+            ]
+        },
+        {
+            "text": "supreme court justices",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                25
+            ]
+        },
+        {
+            "text": "Catholic Churches",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                1
+            ]
+        },
+        {
+            "text": "hope",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                9
+            ]
+        },
+        {
+            "text": "Amy Miles",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                14,
+                22
+            ]
+        },
+        {
+            "text": "Robin Sertell",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                30,
+                34
+            ]
+        },
+        {
+            "text": "Denisha Workizer",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                37,
+                52
+            ]
+        }
+    ]
+}

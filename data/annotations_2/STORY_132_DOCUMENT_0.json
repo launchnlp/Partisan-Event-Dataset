@@ -1,0 +1,720 @@
+{
+    "title": "Mississippi Gov. Tate Reeves signs bill banning transgender procedures for minors",
+    "id": "STORY_132_DOCUMENT_0",
+    "old_id": "7714_2",
+    "split": "test",
+    "date": "2023-03-01",
+    "topic": "healthcare",
+    "source": "Washington Examiner",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Gov. Tate Reeves (R-MS) signed legislation Tuesday that will ban minors from accessing gender transition surgeries and hormone therapy after the bill passed the Republican-controlled state Senate last week."
+        },
+        {
+            "id": 1,
+            "text": "The bill, known as the Regulate Experimental Adolescent Procedures, or REAP, Act, will bar health providers in the state from performing gender transition surgeries or prescribing puberty blockers to people under 18."
+        },
+        {
+            "id": 2,
+            "text": "MISSISSIPPI BILL BANNING TRANSGENDER PROCEDURES FOR MINORS HEADS TO GOVERNOR"
+        },
+        {
+            "id": 3,
+            "text": "\"There is a dangerous movement spreading across America today,\" Reeves said at the bill's signing."
+        },
+        {
+            "id": 4,
+            "text": "\"It's advancing under the guise of a false ideology and pseudoscience being pushed onto our children through radical activists, social media, and online influencers."
+        },
+        {
+            "id": 5,
+            "text": "And it's trying to convince our children that they are in the wrong body."
+        },
+        {
+            "id": 6,
+            "text": "I stand before you today to sign legislation that puts a stop to this in Mississippi and protects our kids.\""
+        },
+        {
+            "id": 7,
+            "text": "Mississippi Gov."
+        },
+        {
+            "id": 8,
+            "text": "Tate Reeves announces the state-imposed boil-water notice has been lifted in Mississippi's capital city after nearly seven weeks, during a Sept. 15, 2022, news conference in Jackson."
+        },
+        {
+            "id": 9,
+            "text": "Rogelio V. Solis/AP"
+        },
+        {
+            "id": 10,
+            "text": "The legislation will also prevent public funds from going toward prohibited procedures for minors."
+        },
+        {
+            "id": 11,
+            "text": "The American Civil Liberties Union of Mississippi had called on the governor to veto the bill, calling the legislation an attempt to \"penalize parents and healthcare providers for supporting Mississippi youth during their most challenging years.\""
+        },
+        {
+            "id": 12,
+            "text": "CLICK HERE TO READ MORE FROM THE WASHINGTON EXAMINER"
+        },
+        {
+            "id": 13,
+            "text": "Mississippi is one of several states that have adopted new restrictions on transgender treatments for people under 18."
+        },
+        {
+            "id": 14,
+            "text": "Earlier this month, Gov. Kristi Noem (R-SD) signed legislation that will limit access to puberty blockers, hormone treatments, and gender transition surgeries for people younger than 18."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "signed",
+            "sentence_id": 0,
+            "start": 24,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "ban",
+            "sentence_id": 0,
+            "start": 61,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "accessing",
+            "sentence_id": 0,
+            "start": 77,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "passed",
+            "sentence_id": 0,
+            "start": 150,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "bar",
+            "sentence_id": 1,
+            "start": 87,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "performing",
+            "sentence_id": 1,
+            "start": 126,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "prescribing",
+            "sentence_id": 1,
+            "start": 168,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "HEADS",
+            "sentence_id": 2,
+            "start": 59,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "spreading",
+            "sentence_id": 3,
+            "start": 31,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "gender transition surgeries",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "hormone therapy",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "America",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "signing",
+            "sentence_id": 3,
+            "start": 90,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "advancing",
+            "sentence_id": 4,
+            "start": 6,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "gender transition surgeries",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "hormone therapy",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "guise of a false ideology and pseudoscience",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "pushed",
+            "sentence_id": 4,
+            "start": 76,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "radical activists",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "gender transition surgeries",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "hormone therapy",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "trying",
+            "sentence_id": 5,
+            "start": 9,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "convince",
+            "sentence_id": 5,
+            "start": 19,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "gender transition surgeries",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "hormone therapy",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "children",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "stand",
+            "sentence_id": 6,
+            "start": 2,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "sign",
+            "sentence_id": 6,
+            "start": 28,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Gov. Tate Reeves",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Regulate Experimental Adolescent Procedures",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "puts",
+            "sentence_id": 6,
+            "start": 50,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Regulate Experimental Adolescent Procedures",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "gender transition surgeries",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "hormone therapy",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 18,
+            "token": "protects",
+            "sentence_id": 6,
+            "start": 89,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Regulate Experimental Adolescent Procedures",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "children",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "announces",
+            "sentence_id": 8,
+            "start": 12,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "lifted",
+            "sentence_id": 8,
+            "start": 67,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "conference",
+            "sentence_id": 8,
+            "start": 160,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "prevent",
+            "sentence_id": 10,
+            "start": 26,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "going",
+            "sentence_id": 10,
+            "start": 52,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "called",
+            "sentence_id": 11,
+            "start": 54,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "veto",
+            "sentence_id": 11,
+            "start": 80,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "calling",
+            "sentence_id": 11,
+            "start": 95,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "attempt",
+            "sentence_id": 11,
+            "start": 122,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "penalize",
+            "sentence_id": 11,
+            "start": 134,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Regulate Experimental Adolescent Procedures",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "parents and healthcare providers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 29,
+            "token": "supporting",
+            "sentence_id": 11,
+            "start": 180,
+            "end": 190,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "adopted",
+            "sentence_id": 13,
+            "start": 47,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "signed",
+            "sentence_id": 14,
+            "start": 44,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Gov. Kristi Noem",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "limit access to puberty blockers, hormone treatments, and gender transition surgeries",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "limit",
+            "sentence_id": 14,
+            "start": 73,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "gender transition surgeries",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                8,
+                11,
+                12,
+                14,
+                17
+            ]
+        },
+        {
+            "text": "hormone therapy",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                8,
+                11,
+                12,
+                14,
+                17
+            ]
+        },
+        {
+            "text": "America",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                8
+            ]
+        },
+        {
+            "text": "guise of a false ideology and pseudoscience",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "radical activists",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                12
+            ]
+        },
+        {
+            "text": "children",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                14,
+                18
+            ]
+        },
+        {
+            "text": "Gov. Tate Reeves",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                16
+            ]
+        },
+        {
+            "text": "Regulate Experimental Adolescent Procedures",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                16,
+                17,
+                18,
+                28
+            ]
+        },
+        {
+            "text": "parents and healthcare providers",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                28
+            ]
+        },
+        {
+            "text": "Gov. Kristi Noem",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                31
+            ]
+        },
+        {
+            "text": "limit access to puberty blockers, hormone treatments, and gender transition surgeries",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                31
+            ]
+        }
+    ]
+}

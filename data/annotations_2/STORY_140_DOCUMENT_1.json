@@ -1,0 +1,1312 @@
+{
+    "title": "Biden\u2019s student loan cancellation plan to cost $400B, Congressional Budget Office estimates",
+    "id": "STORY_140_DOCUMENT_1",
+    "old_id": "7137_1",
+    "split": "test",
+    "date": "2022-09-26",
+    "topic": "federal-budget",
+    "source": "NBC News (Online)",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "WASHINGTON \u2014 President Joe Biden's plan to forgive $10,000 in federal student debt for most borrowers will cost the government about $400 billion, the nonpartisan Congressional Budget Office said in an estimate released Monday."
+        },
+        {
+            "id": 1,
+            "text": "The CBO\u2019s evaluation of the administration's policy said the price tag is \"a result of the action canceling up to $10,000 of debt issued on or before June 30, 2022.\""
+        },
+        {
+            "id": 2,
+            "text": "The president's plan covers borrowers with income below specified limits and an additional $10,000 forgiven for those who also received at least one Pell Grant, CBO Director Phillip Swagel said."
+        },
+        {
+            "id": 3,
+            "text": "\"Reduced cash inflows to the Treasury will increase the amounts that the federal government borrows over time,\" he said Monday."
+        },
+        {
+            "id": 4,
+            "text": "As of the end of June, 43 million borrowers held $1.6 trillion in federal student loans and about $430 billion of that debt will be canceled, the CBO estimated."
+        },
+        {
+            "id": 5,
+            "text": "The White House, borrowing language from the CBO analysis, responded by focusing on the agency's own assessment that its $400 billion estimate was \"highly uncertain.\""
+        },
+        {
+            "id": 6,
+            "text": "\"CBO called its own estimate 'highly uncertain.'"
+        },
+        {
+            "id": 7,
+            "text": "We agree,'\" the White House said in a memo."
+        },
+        {
+            "id": 8,
+            "text": "\"By law, the federal budget computes the complete cost of student loan relief over the lifetime of the loans, and then records that cost in the year the loans are modified,\" the memo continued."
+        },
+        {
+            "id": 9,
+            "text": "\"But that\u2019s not how this program will affect the bottom line in reality."
+        },
+        {
+            "id": 10,
+            "text": "The cost to the government is not the long-term score, but rather, the annual lost receipts.\""
+        },
+        {
+            "id": 11,
+            "text": "In a joint statement, Senate Majority Leader Chuck Schumer, D-N.Y., and Sen. Elizabeth Warren, D-Mass., argued the CBO's estimate made clear that middle-class Americans will have \"more breathing room.\""
+        },
+        {
+            "id": 12,
+            "text": "\"In contrast to President Trump and Republicans who gave giant corporations $2 trillion in tax breaks, President Biden delivered transformative middle class relief by cancelling student debt for working people who need it most \u2014 nearly 90% of relief dollars will go to those earning less than $75,000 a year,\" they said."
+        },
+        {
+            "id": 13,
+            "text": "\"We don\u2019t agree with all of CBO\u2019s assumptions that underlie this analysis, but it is clear the pandemic payment pause and student debt cancellation are policies that demonstrate how government can and should invest in working people, not the wealthy and billionaire corporations,\" the two Democrats added."
+        },
+        {
+            "id": 14,
+            "text": "However, the Committee for a Responsible Federal Budget, a group that advocates for lower deficits, said the CBO's predictions confirm \"the outrageous cost\" of Biden's student loan plan."
+        },
+        {
+            "id": 15,
+            "text": "\"As CBO\u2019s estimates help confirm, the President\u2019s student debt plan would wipe out the ten-year savings from the Inflation Reduction"
+        },
+        {
+            "id": 16,
+            "text": "Act twice over, worsen inflationary pressures, and deliver benefits to millions of Americans with advanced degrees in upper-income households,\" said its president, Maya MacGuineas."
+        },
+        {
+            "id": 17,
+            "text": "\"This might be the most costly executive action in history."
+        },
+        {
+            "id": 18,
+            "text": "It\u2019s unacceptable that the President would implement it without offsets and without Congressional approval.\""
+        },
+        {
+            "id": 19,
+            "text": "The administration\u2019s plan, which also calls for extending a pause on payments through the end of the year at an estimated cost of $20 billion, has drawn equally sharp criticism from Republicans who argue it will add to inflation."
+        },
+        {
+            "id": 20,
+            "text": "GOP lawmakers highlighted the added cost to taxpayers just a few weeks out from the midterm elections amid historically high inflation."
+        },
+        {
+            "id": 21,
+            "text": "\"The Biden Administration\u2019s student debt bailout is even more expensive than we initially thought,\" tweeted Rep. Andy Biggs, R-Ariz."
+        },
+        {
+            "id": 22,
+            "text": "\"The current bailout will cost Americans $420 BILLION, according to the CBO."
+        },
+        {
+            "id": 23,
+            "text": "This is likely the most expensive executive action in American history.\""
+        },
+        {
+            "id": 24,
+            "text": "Rep. Mariannette Miller-Meeks, R-Iowa, tweeted, \"President Biden isn\u2019t forgiving student loans\u2014he\u2019s charging hardworking Americans $400 billion.\""
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "plan",
+            "sentence_id": 0,
+            "start": 35,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "forgive",
+            "sentence_id": 0,
+            "start": 43,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "cost",
+            "sentence_id": 0,
+            "start": 107,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "said",
+            "sentence_id": 0,
+            "start": 191,
+            "end": 195,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "released",
+            "sentence_id": 0,
+            "start": 211,
+            "end": 219,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 52,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "action",
+            "sentence_id": 1,
+            "start": 91,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "canceling",
+            "sentence_id": 1,
+            "start": 98,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "issued",
+            "sentence_id": 1,
+            "start": 130,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "forgiven",
+            "sentence_id": 2,
+            "start": 99,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "received",
+            "sentence_id": 2,
+            "start": 127,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 189,
+            "end": 193,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "increase",
+            "sentence_id": 3,
+            "start": 43,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 115,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "held",
+            "sentence_id": 4,
+            "start": 44,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "canceled",
+            "sentence_id": 4,
+            "start": 132,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "estimated",
+            "sentence_id": 4,
+            "start": 150,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "borrowing",
+            "sentence_id": 5,
+            "start": 17,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "responded",
+            "sentence_id": 5,
+            "start": 59,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "focusing",
+            "sentence_id": 5,
+            "start": 72,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The White House",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "called",
+            "sentence_id": 6,
+            "start": 5,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Congressional Budget Office",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "agree",
+            "sentence_id": 7,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The White House",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 28,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "computes",
+            "sentence_id": 8,
+            "start": 28,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "records",
+            "sentence_id": 8,
+            "start": 119,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "modified",
+            "sentence_id": 8,
+            "start": 163,
+            "end": 171,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "continued",
+            "sentence_id": 8,
+            "start": 183,
+            "end": 192,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "affect",
+            "sentence_id": 9,
+            "start": 38,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "argued",
+            "sentence_id": 11,
+            "start": 104,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "made",
+            "sentence_id": 11,
+            "start": 130,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Congressional Budget Office",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 30,
+            "token": "gave",
+            "sentence_id": 12,
+            "start": 52,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "President Trump and Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 31,
+            "token": "delivered",
+            "sentence_id": 12,
+            "start": 119,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 32,
+            "token": "cancelling",
+            "sentence_id": 12,
+            "start": 167,
+            "end": 177,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "go",
+            "sentence_id": 12,
+            "start": 263,
+            "end": 265,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 34,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 315,
+            "end": 319,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "agree",
+            "sentence_id": 13,
+            "start": 10,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Senate Majority Leader Chuck Schumer, D-N.Y., and Sen. Elizabeth Warren, D-Mass.",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 36,
+            "token": "pause",
+            "sentence_id": 13,
+            "start": 112,
+            "end": 117,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "cancellation",
+            "sentence_id": 13,
+            "start": 135,
+            "end": 147,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "demonstrate",
+            "sentence_id": 13,
+            "start": 166,
+            "end": 177,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "the pandemic payment pause",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 39,
+            "token": "invest",
+            "sentence_id": 13,
+            "start": 208,
+            "end": 214,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the government",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "added",
+            "sentence_id": 13,
+            "start": 299,
+            "end": 304,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "advocates",
+            "sentence_id": 14,
+            "start": 70,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "said",
+            "sentence_id": 14,
+            "start": 100,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "confirm",
+            "sentence_id": 14,
+            "start": 127,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "The CBO\u2019s evaluation",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 44,
+            "token": "help",
+            "sentence_id": 15,
+            "start": 20,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "confirm",
+            "sentence_id": 15,
+            "start": 25,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "The CBO\u2019s evaluation",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 46,
+            "token": "wipe",
+            "sentence_id": 15,
+            "start": 74,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 47,
+            "token": "worsen",
+            "sentence_id": 16,
+            "start": 16,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 48,
+            "token": "deliver",
+            "sentence_id": 16,
+            "start": 51,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "said",
+            "sentence_id": 16,
+            "start": 144,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "implement",
+            "sentence_id": 18,
+            "start": 43,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 51,
+            "token": "calls",
+            "sentence_id": 19,
+            "start": 38,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "extending",
+            "sentence_id": 19,
+            "start": 48,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "pause",
+            "sentence_id": 19,
+            "start": 60,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "payments",
+            "sentence_id": 19,
+            "start": 69,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "drawn",
+            "sentence_id": 19,
+            "start": 147,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 56,
+            "token": "argue",
+            "sentence_id": 19,
+            "start": 198,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "add",
+            "sentence_id": 19,
+            "start": 212,
+            "end": 215,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 58,
+            "token": "highlighted",
+            "sentence_id": 20,
+            "start": 14,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 59,
+            "token": "elections",
+            "sentence_id": 20,
+            "start": 92,
+            "end": 101,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "thought",
+            "sentence_id": 21,
+            "start": 90,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 61,
+            "token": "tweeted",
+            "sentence_id": 21,
+            "start": 100,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "cost",
+            "sentence_id": 22,
+            "start": 26,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 63,
+            "token": "according",
+            "sentence_id": 22,
+            "start": 55,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "tweeted",
+            "sentence_id": 24,
+            "start": 39,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "forgiving",
+            "sentence_id": 24,
+            "start": 71,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "charging",
+            "sentence_id": 24,
+            "start": 100,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Biden\u2019s student loan cancellation plan",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Biden\u2019s student loan cancellation plan",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                2,
+                12,
+                19,
+                20,
+                21,
+                27,
+                29,
+                31,
+                32,
+                33,
+                35,
+                38,
+                39,
+                43,
+                45,
+                46,
+                47,
+                48,
+                50,
+                55,
+                57,
+                58,
+                60,
+                62,
+                66
+            ]
+        },
+        {
+            "text": "The White House",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                19,
+                21
+            ]
+        },
+        {
+            "text": "Congressional Budget Office",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                20,
+                29
+            ]
+        },
+        {
+            "text": "President Trump and Republicans",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                30
+            ]
+        },
+        {
+            "text": "President Joe Biden",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                31,
+                32,
+                39,
+                50,
+                66
+            ]
+        },
+        {
+            "text": "Senate Majority Leader Chuck Schumer, D-N.Y., and Sen. Elizabeth Warren, D-Mass.",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                35
+            ]
+        },
+        {
+            "text": "the pandemic payment pause",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                38
+            ]
+        },
+        {
+            "text": "the government",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                39
+            ]
+        },
+        {
+            "text": "The CBO\u2019s evaluation",
+            "ideology": "N/A",
+            "id": 8,
+            "events": [
+                43,
+                45
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                55,
+                58,
+                60
+            ]
+        }
+    ]
+}

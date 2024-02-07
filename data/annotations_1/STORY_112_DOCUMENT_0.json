@@ -1,0 +1,709 @@
+{
+    "title": "Hooray for Hollywood : Kudos to Matthew McConaughey for using fame to push progress",
+    "id": "STORY_112_DOCUMENT_0",
+    "old_id": "gun_6_1",
+    "split": "dev",
+    "date": "2022-06-07",
+    "topic": "gun",
+    "source": "New York Post (Opinion)",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "",
+    "news": [
+        {
+            "id": 0,
+            "text": "Hooray for Hollywood : Kudos to Matthew McConaughey for using fame to push progress ."
+        },
+        {
+            "id": 1,
+            "text": "Matthew McConaughey \u2019s speech at the White House on Tuesday was strikingly different from the usual \u201c Hollywood star lectures America \u201d drivel :"
+        },
+        {
+            "id": 2,
+            "text": "This was humble , moving and truly personal ."
+        },
+        {
+            "id": 3,
+            "text": "Uvalde is the actor \u2019s hometown ; it was the horror there that compelled him first to write for his local paper ( reaching out to fellow Texans first ) and then to accept the invite to speak to the nation ."
+        },
+        {
+            "id": 4,
+            "text": "His message :"
+        },
+        {
+            "id": 5,
+            "text": "He and other responsible gun owners are \u201c fed up with the Second Amendment being abused and hijacked by deranged individuals \u201d like the Uvalde shooter ."
+        },
+        {
+            "id": 6,
+            "text": "\u201c We need responsible gun ownership , \u201d he said ."
+        },
+        {
+            "id": 7,
+            "text": "\u201c We need background checks , we need to raise the minimum age to purchase an AR - 15 rifle to 21 , we need a waiting period for those rifles , we need red flag laws and consequences for those who abuse them . \u201d"
+        },
+        {
+            "id": 8,
+            "text": "That is , \u201c We need to restore our American values . \u201d"
+        },
+        {
+            "id": 9,
+            "text": "And such changes would be \u201c a step forward for a civil society and the Second Amendment . \u201d"
+        },
+        {
+            "id": 10,
+            "text": "Hear , hear ."
+        },
+        {
+            "id": 11,
+            "text": "He did n\u2019t pretend to offer a \u201c cure - all ( Hell , no ) ."
+        },
+        {
+            "id": 12,
+            "text": "But people are hurting , families are , parents are . \u201d"
+        },
+        {
+            "id": 13,
+            "text": "Families he spoke to after the massacre ."
+        },
+        {
+            "id": 14,
+            "text": "He spoke firsthand of the suffering , with one heart - wrenching passage coming as his wife sitting nearby held a pair of green Converse hightops :"
+        },
+        {
+            "id": 15,
+            "text": "They were little Maite Rodriguez \u2019s , he explained \u2014 and how her corpse was identified ."
+        },
+        {
+            "id": 16,
+            "text": "Congress is prepping bipartisan gun legislation now ; the 21 - to - own - an - AR - 15 rule ( which we \u2019ve also called for ) has a chance of being in the bill ."
+        },
+        {
+            "id": 17,
+            "text": "McConaughey just made that a bit more likely ."
+        },
+        {
+            "id": 18,
+            "text": "This was a star using his fame in true public service ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "using",
+            "sentence_id": 0,
+            "start": 56,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "push",
+            "sentence_id": 0,
+            "start": 70,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "matthew mcconaughey",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "speech",
+            "sentence_id": 1,
+            "start": 23,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "compelled",
+            "sentence_id": 3,
+            "start": 63,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "write",
+            "sentence_id": 3,
+            "start": 86,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "reaching",
+            "sentence_id": 3,
+            "start": 114,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "accept",
+            "sentence_id": 3,
+            "start": 164,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "invite",
+            "sentence_id": 3,
+            "start": 175,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "speak",
+            "sentence_id": 3,
+            "start": 185,
+            "end": 190,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "fed",
+            "sentence_id": 5,
+            "start": 42,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "matthew mcconaughey",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "responsible gun ownership",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "abused",
+            "sentence_id": 5,
+            "start": 81,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "hijacked",
+            "sentence_id": 5,
+            "start": 92,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "need",
+            "sentence_id": 6,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 43,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "responsible gun ownership",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "matthew mcconaughey",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "need",
+            "sentence_id": 7,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "background checks",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "need",
+            "sentence_id": 7,
+            "start": 33,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "raise the minimum age",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "raise",
+            "sentence_id": 7,
+            "start": 41,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "purchase",
+            "sentence_id": 7,
+            "start": 66,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "need",
+            "sentence_id": 7,
+            "start": 103,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "responsible gun ownership",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "need",
+            "sentence_id": 7,
+            "start": 147,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "abuse",
+            "sentence_id": 7,
+            "start": 197,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "need",
+            "sentence_id": 8,
+            "start": 15,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "restore",
+            "sentence_id": 8,
+            "start": 23,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "changes",
+            "sentence_id": 9,
+            "start": 9,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "responsible gun ownership",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "step",
+            "sentence_id": 9,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "pretend",
+            "sentence_id": 11,
+            "start": 11,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "offer",
+            "sentence_id": 11,
+            "start": 22,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "hurting",
+            "sentence_id": 12,
+            "start": 15,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "spoke",
+            "sentence_id": 13,
+            "start": 12,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "massacre",
+            "sentence_id": 13,
+            "start": 31,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "spoke",
+            "sentence_id": 14,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "suffering",
+            "sentence_id": 14,
+            "start": 26,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "coming",
+            "sentence_id": 14,
+            "start": 73,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "sitting",
+            "sentence_id": 14,
+            "start": 92,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "held",
+            "sentence_id": 14,
+            "start": 107,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "explained",
+            "sentence_id": 15,
+            "start": 41,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "identified",
+            "sentence_id": 15,
+            "start": 76,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "prepping",
+            "sentence_id": 16,
+            "start": 12,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "bipartisan gun legislation",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "congress",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "called",
+            "sentence_id": 16,
+            "start": 112,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "made",
+            "sentence_id": 17,
+            "start": 17,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "bipartisan gun legislation",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "matthew mcconaughey",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "using",
+            "sentence_id": 18,
+            "start": 16,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "matthew mcconaughey",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                1,
+                9,
+                13,
+                39
+            ]
+        },
+        {
+            "text": "responsible gun ownership",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                9,
+                13,
+                18,
+                23
+            ]
+        },
+        {
+            "text": "background checks",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                14
+            ]
+        },
+        {
+            "text": "raise the minimum age",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                15
+            ]
+        },
+        {
+            "text": "bipartisan gun legislation",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                37,
+                39
+            ]
+        },
+        {
+            "text": "congress",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                37
+            ]
+        }
+    ]
+}

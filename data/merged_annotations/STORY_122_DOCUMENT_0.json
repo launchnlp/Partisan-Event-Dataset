@@ -1,0 +1,1683 @@
+{
+    "title": "Biden administration to finish portion of Trump's border wall following pressure from Democrat",
+    "id": "STORY_122_DOCUMENT_0",
+    "old_id": "TRIPLET_1262_DOCUMENT_2",
+    "split": "test",
+    "date": "2022-07-29",
+    "topic": "immigration",
+    "source": "Washington Examiner",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Biden administration will complete a portion of border wall construction in an area of Arizona that has become one of the most popular spots for illegal immigration at the southern border ."
+        },
+        {
+            "id": 1,
+            "text": "Sen . Mark Kelly ( D - AZ ) announced Thursday that the Department of Homeland Security had agreed to fill in a gap that was left between Trump - era border wall projects in response to his pressuring the White House to secure a vulnerable spot in Yuma , known as the Morelos Dam ."
+        },
+        {
+            "id": 2,
+            "text": "\u201c For too long , the Morelos Dam area has been an operational challenge for Border Patrol agents to properly secure the border and keep our communities safe , \u201d Kelly said in a statement ."
+        },
+        {
+            "id": 3,
+            "text": "\u201c I \u2019m glad that the Department of Homeland Security has listened to Arizona and is going to close these gaps ."
+        },
+        {
+            "id": 4,
+            "text": "This is a step forward and I \u2019ll keep working to ensure that Arizona has the tools needed for a secure and orderly process at the border including fencing and barriers where they make sense . \u201d"
+        },
+        {
+            "id": 5,
+            "text": "The move is significant for Kelly , a first - term senator who faces a contentious reelection bid this November ."
+        },
+        {
+            "id": 6,
+            "text": "He touted the win as having followed through on an immigration promise to his constituents ."
+        },
+        {
+            "id": 7,
+            "text": "Kelly first began lobbying the Biden administration in December 2021 to finish the slatted , 30 - foot - tall border wall ."
+        },
+        {
+            "id": 8,
+            "text": "Biden halted all construction projects in January 2021 , leaving 350 miles of funded wall unfinished , including small gaps in long stretches of wall ."
+        },
+        {
+            "id": 9,
+            "text": "While the gaps have acted as funnels , forcing migrants to cross into the United States at certain places where they are more easily apprehended and cannot sneak in , the Yuma region has seen significant increases in illegal immigrant apprehensions since construction stopped 18 months ago ."
+        },
+        {
+            "id": 10,
+            "text": "Prior to the coronavirus pandemic , illegal immigrant arrests were lower than 1,000 per month in the Yuma region of southwestern Arizona , according to Customs and Border Protection data ."
+        },
+        {
+            "id": 11,
+            "text": "Over the past 10 months , apprehensions by the Border Patrol have topped 20,000 every month , including more than 30,000 apprehensions in some months ."
+        },
+        {
+            "id": 12,
+            "text": "CBP does not disclose where in each region of the border apprehensions are made , but the closure of the Morelos Dam is expected to curtail illegal immigration into Yuma , which could prompt smugglers to push people across the border in other regions or states where no barrier is present ."
+        },
+        {
+            "id": 13,
+            "text": "Government numbers show that illegal immigrant apprehensions in the Yuma region of Arizona have risen to as high as 40 times the rate seen before the coronavirus pandemic ."
+        },
+        {
+            "id": 14,
+            "text": "Local officials , including Yuma Mayor Doug Nicholls and Yuma County Supervisor Jonathan Lines , praised the move in a statement ."
+        },
+        {
+            "id": 15,
+            "text": "\u201c Border Patrol agents fight every single day to secure our southern border , but the gaps near the Morelos Dam continued to put that work at risk , \" said Nicholls ."
+        },
+        {
+            "id": 16,
+            "text": "\" I want to thank Senator Kelly for working with me and other community leaders by forcing action to close these gaps ."
+        },
+        {
+            "id": 17,
+            "text": "This is an important first step to getting this border crisis under control , supporting our law enforcement , and keeping border communities safe . \""
+        },
+        {
+            "id": 18,
+            "text": "Kelly is a prime target for Republicans this November ."
+        },
+        {
+            "id": 19,
+            "text": "Republican front - runner Blake Masters faces candidates including Republican Attorney General Mark Brnovich in the GOP Senate primary next week for a chance to flip the seat ."
+        },
+        {
+            "id": 20,
+            "text": "CBP did not provide information about the anticipated cost or completion date of the project ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "complete",
+            "sentence_id": 0,
+            "start": 30,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "The Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "border wall construction",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 1,
+            "token": "become",
+            "sentence_id": 0,
+            "start": 108,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "illegal immigration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "announced",
+            "sentence_id": 1,
+            "start": 28,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Mark Kelly",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Trump - era border wall projects",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "agreed",
+            "sentence_id": 1,
+            "start": 92,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "fill",
+            "sentence_id": 1,
+            "start": 102,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Department of Homeland Security",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Trump - era border wall projects",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 5,
+            "token": "left",
+            "sentence_id": 1,
+            "start": 125,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "pressuring",
+            "sentence_id": 1,
+            "start": 190,
+            "end": 200,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Sen . Mark Kelly",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "White House",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 7,
+            "token": "secure",
+            "sentence_id": 1,
+            "start": 220,
+            "end": 226,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "secure",
+            "sentence_id": 2,
+            "start": 109,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "keep",
+            "sentence_id": 2,
+            "start": 131,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 167,
+            "end": 171,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "glad",
+            "sentence_id": 3,
+            "start": 7,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Mark Kelly",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Department of Homeland Security",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 12,
+            "token": "listened",
+            "sentence_id": 3,
+            "start": 57,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "going",
+            "sentence_id": 3,
+            "start": 84,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "close",
+            "sentence_id": 3,
+            "start": 93,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Department of Homeland Security",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "gap that was left between Trump - era border wall projects",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Trump - era border wall projects",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "keep",
+            "sentence_id": 4,
+            "start": 33,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "working",
+            "sentence_id": 4,
+            "start": 38,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Sen . Mark Kelly",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "gap that was left between Trump - era border wall projects",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 17,
+            "token": "ensure",
+            "sentence_id": 4,
+            "start": 49,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Mark Kelly",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 18,
+            "token": "has",
+            "sentence_id": 4,
+            "start": 69,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "move",
+            "sentence_id": 5,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Mark Kelly",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 20,
+            "token": "faces",
+            "sentence_id": 5,
+            "start": 63,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Sen . Mark Kelly",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "contentious reelection bid",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "bid",
+            "sentence_id": 5,
+            "start": 94,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "touted",
+            "sentence_id": 6,
+            "start": 3,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Mark Kelly",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Sen . Mark Kelly",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "immigration promise",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "win",
+            "sentence_id": 6,
+            "start": 14,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "followed",
+            "sentence_id": 6,
+            "start": 28,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Mark Kelly",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 25,
+            "token": "promise",
+            "sentence_id": 6,
+            "start": 63,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "began",
+            "sentence_id": 7,
+            "start": 12,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "lobbying",
+            "sentence_id": 7,
+            "start": 18,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "finish",
+            "sentence_id": 7,
+            "start": 72,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "halted",
+            "sentence_id": 8,
+            "start": 6,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "projects",
+            "sentence_id": 8,
+            "start": 30,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "leaving",
+            "sentence_id": 8,
+            "start": 57,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "The Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "gap that was left between Trump - era border wall projects",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "acted",
+            "sentence_id": 9,
+            "start": 20,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "gap that was left between Trump - era border wall projects",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "migrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 33,
+            "token": "forcing",
+            "sentence_id": 9,
+            "start": 39,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "cross",
+            "sentence_id": 9,
+            "start": 59,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "apprehended",
+            "sentence_id": 9,
+            "start": 133,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "gap that was left between Trump - era border wall projects",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "migrants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 36,
+            "token": "sneak",
+            "sentence_id": 9,
+            "start": 156,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "seen",
+            "sentence_id": 9,
+            "start": 187,
+            "end": 191,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "increases",
+            "sentence_id": 9,
+            "start": 204,
+            "end": 213,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "illegal immigration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "Yuma region",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "illegal immigrant apprehensions",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "gap that was left between Trump - era border wall projects",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "apprehensions",
+            "sentence_id": 9,
+            "start": 235,
+            "end": 248,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "construction",
+            "sentence_id": 9,
+            "start": 255,
+            "end": 267,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "stopped",
+            "sentence_id": 9,
+            "start": 268,
+            "end": 275,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "gap that was left between Trump - era border wall projects",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "The Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "arrests",
+            "sentence_id": 10,
+            "start": 54,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "according",
+            "sentence_id": 10,
+            "start": 139,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "apprehensions",
+            "sentence_id": 11,
+            "start": 26,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "topped",
+            "sentence_id": 11,
+            "start": 66,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "illegal immigration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "apprehensions",
+            "sentence_id": 11,
+            "start": 121,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "disclose",
+            "sentence_id": 12,
+            "start": 13,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "apprehensions",
+            "sentence_id": 12,
+            "start": 57,
+            "end": 70,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "made",
+            "sentence_id": 12,
+            "start": 75,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "closure",
+            "sentence_id": 12,
+            "start": 90,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Morelos Dam",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "expected",
+            "sentence_id": 12,
+            "start": 120,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "curtail",
+            "sentence_id": 12,
+            "start": 132,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "illegal immigration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 53,
+            "token": "prompt",
+            "sentence_id": 12,
+            "start": 184,
+            "end": 190,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 20,
+                    "text": "closure of the Morelos Dam",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "smugglers to push people across the border",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "gap that was left between Trump - era border wall projects",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 54,
+            "token": "push",
+            "sentence_id": 12,
+            "start": 204,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "present",
+            "sentence_id": 12,
+            "start": 281,
+            "end": 288,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "The Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "gap that was left between Trump - era border wall projects",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 56,
+            "token": "show",
+            "sentence_id": 13,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "apprehensions",
+            "sentence_id": 13,
+            "start": 47,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "risen",
+            "sentence_id": 13,
+            "start": 96,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "illegal immigration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "illegal immigrant apprehensions",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "gap that was left between Trump - era border wall projects",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 59,
+            "token": "seen",
+            "sentence_id": 13,
+            "start": 134,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "praised",
+            "sentence_id": 14,
+            "start": 97,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Doug Nicholls",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Jonathan Lines",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Morelos Dam",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "Yuma Mayor Doug Nicholls",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "border wall construction",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 61,
+            "token": "move",
+            "sentence_id": 14,
+            "start": 109,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "fight",
+            "sentence_id": 15,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Border Patrol agents",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 63,
+            "token": "secure",
+            "sentence_id": 15,
+            "start": 49,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Border Patrol agents",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 64,
+            "token": "continued",
+            "sentence_id": 15,
+            "start": 112,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "gap that was left between Trump - era border wall projects",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Department of Homeland Security",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 65,
+            "token": "put",
+            "sentence_id": 15,
+            "start": 125,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "work",
+            "sentence_id": 15,
+            "start": 134,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "said",
+            "sentence_id": 15,
+            "start": 151,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "want",
+            "sentence_id": 16,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "thank",
+            "sentence_id": 16,
+            "start": 12,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Doug Nicholls",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Mark Kelly",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 70,
+            "token": "working",
+            "sentence_id": 16,
+            "start": 36,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "forcing",
+            "sentence_id": 16,
+            "start": 83,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Sen . Mark Kelly",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "border wall construction",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 72,
+            "token": "action",
+            "sentence_id": 16,
+            "start": 91,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "close",
+            "sentence_id": 16,
+            "start": 101,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "getting",
+            "sentence_id": 17,
+            "start": 35,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "crisis",
+            "sentence_id": 17,
+            "start": 55,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "supporting",
+            "sentence_id": 17,
+            "start": 78,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "keeping",
+            "sentence_id": 17,
+            "start": 115,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "faces",
+            "sentence_id": 19,
+            "start": 40,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "flip",
+            "sentence_id": 19,
+            "start": 161,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "provide",
+            "sentence_id": 20,
+            "start": 12,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Biden administration",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                1
+            ]
+        },
+        {
+            "text": "illegal immigration",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                1
+            ]
+        },
+        {
+            "text": "Department of Homeland Security",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                64,
+                4,
+                14
+            ]
+        },
+        {
+            "text": "Trump - era border wall projects",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                4,
+                29,
+                14
+            ]
+        },
+        {
+            "text": "Mark Kelly",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "Biden",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                29
+            ]
+        },
+        {
+            "text": "Morelos Dam",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                50
+            ]
+        },
+        {
+            "text": "Doug Nicholls",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                60
+            ]
+        },
+        {
+            "text": "Jonathan Lines",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                60
+            ]
+        },
+        {
+            "text": "Border Patrol agents",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                62
+            ]
+        },
+        {
+            "text": "The Biden administration",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                0,
+                27,
+                29,
+                31,
+                41,
+                55
+            ]
+        },
+        {
+            "text": "border wall construction",
+            "ideology": "Right",
+            "id": 11,
+            "events": [
+                0,
+                60,
+                71
+            ]
+        },
+        {
+            "text": "Sen . Mark Kelly",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                6,
+                16,
+                20,
+                22,
+                27,
+                71
+            ]
+        },
+        {
+            "text": "White House",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": [
+                6
+            ]
+        },
+        {
+            "text": "gap that was left between Trump - era border wall projects",
+            "ideology": "Left",
+            "id": 14,
+            "events": [
+                14,
+                16,
+                31,
+                32,
+                35,
+                38,
+                41,
+                53,
+                55,
+                58,
+                64
+            ]
+        },
+        {
+            "text": "contentious reelection bid",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                20
+            ]
+        },
+        {
+            "text": "immigration promise",
+            "ideology": "Neutral",
+            "id": 16,
+            "events": [
+                22
+            ]
+        },
+        {
+            "text": "migrants",
+            "ideology": "Neutral",
+            "id": 17,
+            "events": [
+                32,
+                35
+            ]
+        },
+        {
+            "text": "Yuma region",
+            "ideology": "Neutral",
+            "id": 18,
+            "events": [
+                38
+            ]
+        },
+        {
+            "text": "illegal immigrant apprehensions",
+            "ideology": "Neutral",
+            "id": 19,
+            "events": [
+                38,
+                58
+            ]
+        },
+        {
+            "text": "closure of the Morelos Dam",
+            "ideology": "Neutral",
+            "id": 20,
+            "events": [
+                53
+            ]
+        },
+        {
+            "text": "smugglers to push people across the border",
+            "ideology": "Neutral",
+            "id": 21,
+            "events": [
+                53
+            ]
+        },
+        {
+            "text": "Yuma Mayor Doug Nicholls",
+            "ideology": "Neutral",
+            "id": 22,
+            "events": [
+                60
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1143 @@
+{
+    "title": "Biden set to unveil more than $2 trillion in tax hikes in budget",
+    "id": "STORY_144_DOCUMENT_0",
+    "old_id": "7755_1",
+    "split": "test",
+    "date": "2023-03-08",
+    "topic": "tax",
+    "source": "The Hill",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Biden is set to formally propose an array of tax increases on wealthy individuals and corporations in a budget plan that he says will reduce the deficit by $2 trillion over the next decade, setting up a battle royal with Republicans on Capitol Hill."
+        },
+        {
+            "id": 1,
+            "text": "Biden told lawmakers during his State of the Union address last month that his budget will lower the deficit and extend the solvency of the Medicare Trust Fund \u201cby making the wealthy and big corporations begin to pay their fair share.\u201d"
+        },
+        {
+            "id": 2,
+            "text": "He has pledged not to raise taxes on anyone earning less than $400,000 annually."
+        },
+        {
+            "id": 3,
+            "text": "The White House on Tuesday unveiled a proposal to raise the Medicare surtax on earned and unearned income above $400,000 from 3.8 percent to 5 percent."
+        },
+        {
+            "id": 4,
+            "text": "Late last month, the president proposed a new tax on wealthy households that would require individuals and families worth more than $100 million to pay a 20 percent tax on income and the unrealized gains of liquid assets such as stocks."
+        },
+        {
+            "id": 5,
+            "text": "Republicans say Biden\u2019s budget will be dead on arrival when the president formally sends it to Capitol Hill on Thursday."
+        },
+        {
+            "id": 6,
+            "text": "\u201cYou know the president\u2019s budget is replete with what they would do if they could \u2014 thank goodness the House is Republican \u2014 massive tax increases, more spending,\u201d Senate Republican Leader Mitch McConnell (Ky.) told reporters."
+        },
+        {
+            "id": 7,
+            "text": "McConnell said \u201cthe American people can thank the Republican House\u201d that Biden\u2019s proposed tax increases \u201cwill not see the light of day.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "The administration is also expected to propose a quadrupling of the stock buyback tax that was included in the Inflation Reduction Act that Democrats passed through the House and Senate on party-line votes last year."
+        },
+        {
+            "id": 9,
+            "text": "That legislation set a 1 percent surcharge on corporate stock buybacks."
+        },
+        {
+            "id": 10,
+            "text": "Biden is expected to reintroduce two staples of his 2021 Build Back Better agenda, raising the top marginal income tax rate from 37 percent to 39.6 percent and raising the corporate tax rate from 21 percent to 28 percent."
+        },
+        {
+            "id": 11,
+            "text": "The president has little chance of enacting the proposed tax hikes given Republican control of the House but they serve as a starting negotiating position in talks with Speaker Kevin McCarthy (R-Calif.) to raise the debt limit."
+        },
+        {
+            "id": 12,
+            "text": "Senate Majority Leader Chuck Schumer (D-N.Y.) on Tuesday praised Biden\u2019s budget and called on House Republicans to introduce their own plan to reduce the deficit ahead of any talks on raising the debt limit."
+        },
+        {
+            "id": 13,
+            "text": "Schumer said Biden\u2019s plan would lower the deficit by $2 trillion and do it \u201cby making the billionaires and big corporations pay their own share.\u201d"
+        },
+        {
+            "id": 14,
+            "text": "\u201cWe continue to wait and wait and wait for Speaker McCarthy\u2019s plan on debt ceiling,\u201d he said."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "set",
+            "sentence_id": 0,
+            "start": 19,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "propose",
+            "sentence_id": 0,
+            "start": 35,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "tax increases",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "increases",
+            "sentence_id": 0,
+            "start": 59,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "says",
+            "sentence_id": 0,
+            "start": 134,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "reduce",
+            "sentence_id": 0,
+            "start": 144,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "tax increases",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "deficit",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "setting",
+            "sentence_id": 0,
+            "start": 200,
+            "end": 207,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "battle",
+            "sentence_id": 0,
+            "start": 213,
+            "end": 219,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "told",
+            "sentence_id": 1,
+            "start": 6,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "address",
+            "sentence_id": 1,
+            "start": 51,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "lower",
+            "sentence_id": 1,
+            "start": 91,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "tax increases",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "deficit",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "extend",
+            "sentence_id": 1,
+            "start": 113,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "tax increases",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Medicare Trust Fund",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "making",
+            "sentence_id": 1,
+            "start": 164,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "begin",
+            "sentence_id": 1,
+            "start": 204,
+            "end": 209,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "pay",
+            "sentence_id": 1,
+            "start": 213,
+            "end": 216,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "pledged",
+            "sentence_id": 2,
+            "start": 7,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "tax increases",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "raise",
+            "sentence_id": 2,
+            "start": 22,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "unveiled",
+            "sentence_id": 3,
+            "start": 27,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "proposal",
+            "sentence_id": 3,
+            "start": 38,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "raise",
+            "sentence_id": 3,
+            "start": 50,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "tax increases",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Medicare Trust Fund",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "proposed",
+            "sentence_id": 4,
+            "start": 31,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "require",
+            "sentence_id": 4,
+            "start": 83,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "tax increases",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "pay",
+            "sentence_id": 4,
+            "start": 148,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "say",
+            "sentence_id": 5,
+            "start": 12,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "sends",
+            "sentence_id": 5,
+            "start": 83,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "know",
+            "sentence_id": 6,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "do",
+            "sentence_id": 6,
+            "start": 65,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "increases",
+            "sentence_id": 6,
+            "start": 137,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "tax increases",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 27,
+            "token": "told",
+            "sentence_id": 6,
+            "start": 211,
+            "end": 215,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "thank",
+            "sentence_id": 7,
+            "start": 40,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "the American people",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the Republican House",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 30,
+            "token": "see",
+            "sentence_id": 7,
+            "start": 114,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "expected",
+            "sentence_id": 8,
+            "start": 27,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "propose",
+            "sentence_id": 8,
+            "start": 39,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "included",
+            "sentence_id": 8,
+            "start": 95,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "passed",
+            "sentence_id": 8,
+            "start": 150,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "set",
+            "sentence_id": 9,
+            "start": 17,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "expected",
+            "sentence_id": 10,
+            "start": 9,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "reintroduce",
+            "sentence_id": 10,
+            "start": 21,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "raising",
+            "sentence_id": 10,
+            "start": 83,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "tax increases",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "raising",
+            "sentence_id": 10,
+            "start": 160,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "tax increases",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "enacting",
+            "sentence_id": 11,
+            "start": 35,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "tax increases",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 41,
+            "token": "serve",
+            "sentence_id": 11,
+            "start": 114,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "talks",
+            "sentence_id": 11,
+            "start": 158,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "raise",
+            "sentence_id": 11,
+            "start": 206,
+            "end": 211,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "tax increases",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "debt limit",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "praised",
+            "sentence_id": 12,
+            "start": 57,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Senate Majority Leader Chuck Schumer",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Biden\u2019s budget",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "called",
+            "sentence_id": 12,
+            "start": 84,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "introduce",
+            "sentence_id": 12,
+            "start": 115,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "reduce",
+            "sentence_id": 12,
+            "start": 143,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "the Republican House",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "deficit",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 48,
+            "token": "talks",
+            "sentence_id": 12,
+            "start": 175,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "raising",
+            "sentence_id": 12,
+            "start": 184,
+            "end": 191,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "lower",
+            "sentence_id": 13,
+            "start": 32,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Biden\u2019s budget",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "deficit",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "do",
+            "sentence_id": 13,
+            "start": 69,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "making",
+            "sentence_id": 13,
+            "start": 79,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "billionaires and big corporations",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 54,
+            "token": "pay",
+            "sentence_id": 13,
+            "start": 124,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "continue",
+            "sentence_id": 14,
+            "start": 4,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Senate Majority Leader Chuck Schumer",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "Speaker McCarthy\u2019s plan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 56,
+            "token": "wait",
+            "sentence_id": 14,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "wait",
+            "sentence_id": 14,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "wait",
+            "sentence_id": 14,
+            "start": 34,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "said",
+            "sentence_id": 14,
+            "start": 88,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "President Biden",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                1,
+                14,
+                18,
+                20,
+                26,
+                38,
+                39,
+                40,
+                53
+            ]
+        },
+        {
+            "text": "tax increases",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                1,
+                4,
+                9,
+                10,
+                14,
+                18,
+                20,
+                26,
+                38,
+                39,
+                40,
+                43
+            ]
+        },
+        {
+            "text": "deficit",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                4,
+                9,
+                47,
+                51
+            ]
+        },
+        {
+            "text": "Medicare Trust Fund",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                10,
+                18
+            ]
+        },
+        {
+            "text": "the American people",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                29
+            ]
+        },
+        {
+            "text": "the Republican House",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                29,
+                47
+            ]
+        },
+        {
+            "text": "debt limit",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                43
+            ]
+        },
+        {
+            "text": "Senate Majority Leader Chuck Schumer",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                44,
+                55
+            ]
+        },
+        {
+            "text": "Biden\u2019s budget",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                44,
+                51
+            ]
+        },
+        {
+            "text": "billionaires and big corporations",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                53
+            ]
+        },
+        {
+            "text": "Speaker McCarthy\u2019s plan",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                55
+            ]
+        }
+    ]
+}

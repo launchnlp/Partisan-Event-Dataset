@@ -1,0 +1,948 @@
+{
+    "title": "Liberal groups prod Dems to raise taxes to pay for racial justice agenda",
+    "id": "STORY_52_DOCUMENT_1",
+    "old_id": "5976_2",
+    "split": "train",
+    "date": "2021-09-16",
+    "topic": "federal-budget",
+    "source": "Washington Times",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "The NAACP and 27 other liberal groups on Thursday warned Democratic leaders not to back off of plans for higher taxes because higher taxes would improve racial justice."
+        },
+        {
+            "id": 1,
+            "text": "The groups, which included the Movement for Black Lives and the National Immigration Law Center, made their case for large tax hikes on corporations and the wealthy in a letter to Senate Majority Leader Charles E. Schumer, House Speaker Nancy Pelosi and the Democratic chairmen of the House and Senate\u2018s tax committees."
+        },
+        {
+            "id": 2,
+            "text": "\u201cWe write to make clear how important it is to communities of color that Congress enact a robust budget reconciliation package of at least $3.5 trillion in investments in our communities funded through fairer taxes on the rich and corporations,\u201d they wrote."
+        },
+        {
+            "id": 3,
+            "text": "\u201cThis legislation would advance racial equity by narrowing racial income and wealth gaps, as well as by funding these long-overdue investments.\u201d"
+        },
+        {
+            "id": 4,
+            "text": "Other signatories to the letter included civil rights groups such as National African American Clergy Network and Rainbow PUSH Coalition and labor unions such as Service Employees International Union and National Education Association."
+        },
+        {
+            "id": 5,
+            "text": "Democrats are struggling to find a consensus within their ranks as they assemble President Biden\u2019s $3.5 trillion package and anti-poverty and climate change programs, with moderates balking at its size and scope."
+        },
+        {
+            "id": 6,
+            "text": "The liberal groups said backing down to appease moderates would mean having to cut back on parts of the spending package important to minorities."
+        },
+        {
+            "id": 7,
+            "text": "\u201cPresident Biden\u2019s tax reforms will increase racial equity in the tax code and raise the revenues we need to support an equitable recovery,\u201d the groups wrote."
+        },
+        {
+            "id": 8,
+            "text": "\u201cBut if those reforms are weakened, the tradeoffs are stark: every dollar not raised from a billionaire means a dollar less for child care or the Child Tax Credit; every dollar not raised from a multinational corporation is a dollar not available for paid family and medical leave or affordable health care; every dollar not raised by cracking down on rich tax cheats is a dollar not available for affordable housing or combatting climate change.\u201d"
+        },
+        {
+            "id": 9,
+            "text": "To pay for the liberal spending spree, Mr. Biden proposed an array of tax increases, including raising the corporate tax rate."
+        },
+        {
+            "id": 10,
+            "text": "Republicans warn it will fuel more inflation and lead to job losses."
+        },
+        {
+            "id": 11,
+            "text": "Mr. Schumer, New York Democrat, facing opposition from moderate Democrats such as Sens. Joe Manchin III of West Virginia, Kyrsten Sinema of Arizona and Jon Tester of Montana."
+        },
+        {
+            "id": 12,
+            "text": "They have said they will not support raising taxes to anywhere near the level that Mr. Biden wants."
+        },
+        {
+            "id": 13,
+            "text": "With Republicans united in opposition to the bill, Mr. Biden needs all 50 Senate Democrats and near unanimity among House Democrats to pass it."
+        },
+        {
+            "id": 14,
+            "text": "At this point, Mr. Biden will likely have to scale back the size of the proposal."
+        },
+        {
+            "id": 15,
+            "text": "Underscoring the political tightrope the Democratic leaders face, the far left in the House has said they would not support a separate $1.2 trillion bipartisan infrastructure bill until Congress passes the $3.5 trillion package."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "warned",
+            "sentence_id": 0,
+            "start": 50,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "NAACP",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Democratic leaders",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "back",
+            "sentence_id": 0,
+            "start": 83,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "plans",
+            "sentence_id": 0,
+            "start": 95,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "improve",
+            "sentence_id": 0,
+            "start": 145,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "made",
+            "sentence_id": 1,
+            "start": 97,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "NAACP",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "large tax hikes",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "write",
+            "sentence_id": 2,
+            "start": 4,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "make",
+            "sentence_id": 2,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "enact",
+            "sentence_id": 2,
+            "start": 82,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "wrote",
+            "sentence_id": 2,
+            "start": 251,
+            "end": 256,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "advance",
+            "sentence_id": 3,
+            "start": 24,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "large tax hikes",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "racial equity",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 10,
+            "token": "narrowing",
+            "sentence_id": 3,
+            "start": 49,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "large tax hikes",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "racial income and wealth gaps",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 11,
+            "token": "funding",
+            "sentence_id": 3,
+            "start": 104,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "struggling",
+            "sentence_id": 5,
+            "start": 14,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "find",
+            "sentence_id": 5,
+            "start": 28,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "assemble",
+            "sentence_id": 5,
+            "start": 72,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "balking",
+            "sentence_id": 5,
+            "start": 182,
+            "end": 189,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "moderates",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "large tax hikes",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "backing",
+            "sentence_id": 6,
+            "start": 24,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "appease",
+            "sentence_id": 6,
+            "start": 40,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "mean",
+            "sentence_id": 6,
+            "start": 64,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "cut",
+            "sentence_id": 6,
+            "start": 79,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "increase",
+            "sentence_id": 7,
+            "start": 36,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "President Biden\u2019s tax reforms",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "racial equity",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 22,
+            "token": "raise",
+            "sentence_id": 7,
+            "start": 79,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "need",
+            "sentence_id": 7,
+            "start": 101,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "support",
+            "sentence_id": 7,
+            "start": 109,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "wrote",
+            "sentence_id": 7,
+            "start": 152,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "weakened",
+            "sentence_id": 8,
+            "start": 26,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "raised",
+            "sentence_id": 8,
+            "start": 78,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "raised",
+            "sentence_id": 8,
+            "start": 181,
+            "end": 187,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "raised",
+            "sentence_id": 8,
+            "start": 325,
+            "end": 331,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "cracking",
+            "sentence_id": 8,
+            "start": 335,
+            "end": 343,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "combatting",
+            "sentence_id": 8,
+            "start": 420,
+            "end": 430,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "pay",
+            "sentence_id": 9,
+            "start": 3,
+            "end": 6,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "spree",
+            "sentence_id": 9,
+            "start": 32,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "proposed",
+            "sentence_id": 9,
+            "start": 49,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "large tax hikes",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "increases",
+            "sentence_id": 9,
+            "start": 74,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "raising",
+            "sentence_id": 9,
+            "start": 95,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "warn",
+            "sentence_id": 10,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "fuel",
+            "sentence_id": 10,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "large tax hikes",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "inflation",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "lead",
+            "sentence_id": 10,
+            "start": 49,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "large tax hikes",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "job losses",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "losses",
+            "sentence_id": 10,
+            "start": 61,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "facing",
+            "sentence_id": 11,
+            "start": 32,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "support",
+            "sentence_id": 12,
+            "start": 29,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "raising",
+            "sentence_id": 12,
+            "start": 37,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "wants",
+            "sentence_id": 12,
+            "start": 93,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "large tax hikes",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "united",
+            "sentence_id": 13,
+            "start": 17,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "President Biden\u2019s tax reforms",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "needs",
+            "sentence_id": 13,
+            "start": 61,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "pass",
+            "sentence_id": 13,
+            "start": 135,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "scale",
+            "sentence_id": 14,
+            "start": 45,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "face",
+            "sentence_id": 15,
+            "start": 60,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "said",
+            "sentence_id": 15,
+            "start": 96,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "support",
+            "sentence_id": 15,
+            "start": 116,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "passes",
+            "sentence_id": 15,
+            "start": 195,
+            "end": 201,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "NAACP",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                0,
+                4
+            ]
+        },
+        {
+            "text": "Democratic leaders",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "large tax hikes",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                4,
+                9,
+                10,
+                34,
+                38,
+                39,
+                45,
+                15
+            ]
+        },
+        {
+            "text": "racial equity",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                9,
+                21
+            ]
+        },
+        {
+            "text": "racial income and wealth gaps",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                10
+            ]
+        },
+        {
+            "text": "moderates",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                15
+            ]
+        },
+        {
+            "text": "President Biden\u2019s tax reforms",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                21,
+                46
+            ]
+        },
+        {
+            "text": "President Biden",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                34,
+                45
+            ]
+        },
+        {
+            "text": "inflation",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                38
+            ]
+        },
+        {
+            "text": "job losses",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                39
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 11,
+            "events": [
+                46
+            ]
+        }
+    ]
+}

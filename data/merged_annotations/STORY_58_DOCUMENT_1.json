@@ -1,0 +1,1860 @@
+{
+    "title": "US 'launched cyber-attack on Iran weapons systems'",
+    "id": "STORY_58_DOCUMENT_1",
+    "old_id": "TRIPLET_072_DOCUMENT_1",
+    "split": "train",
+    "date": "2019-06-23",
+    "topic": "national_defense",
+    "source": "BBC News",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "The US launched a cyber-attack on Iranian weapons systems on Thursday as President Trump pulled out of air strikes on the country , US reports say ."
+        },
+        {
+            "id": 1,
+            "text": "The cyber - attack disabled computer systems controlling rocket and missile launchers , the Washington Post said ."
+        },
+        {
+            "id": 2,
+            "text": "It was in retaliation for the shooting down of a US drone as well as attacks on oil tankers that the US has blamed Iran for , the New York Times said ."
+        },
+        {
+            "id": 3,
+            "text": "There is no independent confirmation of damage to Iranian systems ."
+        },
+        {
+            "id": 4,
+            "text": "The US is set to impose further sanctions on Iran that President Trump has described as \" major \" ."
+        },
+        {
+            "id": 5,
+            "text": "He said the sanctions were needed to prevent Tehran from obtaining nuclear weapons , and economic pressure would be maintained unless Tehran changed course ."
+        },
+        {
+            "id": 6,
+            "text": "Speaking in Jerusalem , US National Security Adviser John Bolton said the details of the new sanctions were likely to be announced on Monday ."
+        },
+        {
+            "id": 7,
+            "text": "Nobody had granted Iran \" a hunting licence in the Middle East , \" he added ."
+        },
+        {
+            "id": 8,
+            "text": "Tensions between the US and Iran have risen since the US last year pulled out of a 2015 nuclear deal between Iran and world powers and reinstated sanctions , triggering economic meltdown in Iran ."
+        },
+        {
+            "id": 9,
+            "text": "Last week Iran said it would exceed internationally agreed limits on its nuclear programme ."
+        },
+        {
+            "id": 10,
+            "text": "Mr Trump has said he does not want war with Iran , but warned the country would face \" obliteration \" if conflict broke out ."
+        },
+        {
+            "id": 11,
+            "text": "The attack had been planned for several weeks , the sources told US media outlets , and was suggested as a way of responding to the mine attacks on tankers in the Gulf of Oman ."
+        },
+        {
+            "id": 12,
+            "text": "It was aimed at weapons systems used by Iran 's Islamic Revolutionary Guard Corps ( IRGC ) , which shot down the US drone last Thursday and which the US says also attacked the tankers ."
+        },
+        {
+            "id": 13,
+            "text": "Both the Washington Post and AP news agency said the cyber - attack had disabled the systems ."
+        },
+        {
+            "id": 14,
+            "text": "The New York Times said it was intended to take the systems offline for a period of time ."
+        },
+        {
+            "id": 15,
+            "text": "On Saturday the US Department for Homeland Security warned that Iran was stepping up its own cyber -attacks on the US ."
+        },
+        {
+            "id": 16,
+            "text": "Christopher Krebs , the director of the Cybersecurity and Infrastructure Security Agency , said \" malicious cyberactivity \" was being directed at US industries and government agencies by \" Iranian regime actors and their proxies \" ."
+        },
+        {
+            "id": 17,
+            "text": "They were using \" destructive ' wiper ' attacks \" , he said , using tactics such as \" spear phishing , password spraying and credential stuffing \" in a bid to take control of entire networks ."
+        },
+        {
+            "id": 18,
+            "text": "Iran has also been trying to hack US naval ship systems , the Washington Post reported ."
+        },
+        {
+            "id": 19,
+            "text": "He has n't commented on the cyber - attack reports ."
+        },
+        {
+            "id": 20,
+            "text": "On Friday he said he had pulled out of launching conventional strikes on Iran because he had been told that 150 Iranians would be killed ."
+        },
+        {
+            "id": 21,
+            "text": "On Saturday he said he was open to talks with the Iranians ."
+        },
+        {
+            "id": 22,
+            "text": "\" If Iran wants to become a prosperous nation ..."
+        },
+        {
+            "id": 23,
+            "text": "it 's OK with me , \" Mr Trump said ."
+        },
+        {
+            "id": 24,
+            "text": "\" But they 're never going to do it if they think in five or six years they 're going to have nuclear weapons . \""
+        },
+        {
+            "id": 25,
+            "text": "\" Let 's make Iran great again , \" he added , echoing his campaign slogan from the 2016 presidential election ."
+        },
+        {
+            "id": 26,
+            "text": "The reinstatement of US sanctions last year - particularly those imposed on the energy , shipping and financial sectors - caused foreign investment to dry up and hit oil exports ."
+        },
+        {
+            "id": 27,
+            "text": "The sanctions bar US companies from trading with Iran , but also with foreign firms or countries that are dealing with Iran ."
+        },
+        {
+            "id": 28,
+            "text": "This has led to shortages of imported goods and products that are made with raw materials from abroad , most notably babies ' nappies ."
+        },
+        {
+            "id": 29,
+            "text": "The plunging value of the rial has also affected the cost of locally produced staples such as meat and eggs , which have soared in price ."
+        },
+        {
+            "id": 30,
+            "text": "Iran 's IRGC said the drone 's downing was a \" clear message \" to the US that Iran 's borders were \" our red line \" ."
+        },
+        {
+            "id": 31,
+            "text": "But US military officials maintain the drone was in international airspace over the Strait of Hormuz at the time ."
+        },
+        {
+            "id": 32,
+            "text": "Amir Ali Hajizadeh , a high - ranking officer in the IRGC , said another military aircraft , carrying 35 passengers , had been flying close to the drone ."
+        },
+        {
+            "id": 33,
+            "text": "\" We could have shot down that one too , but we did not , \" he said ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "launched",
+            "sentence_id": 0,
+            "start": 7,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "pulled",
+            "sentence_id": 0,
+            "start": 89,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "air strikes on Iran",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "strikes",
+            "sentence_id": 0,
+            "start": 107,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "say",
+            "sentence_id": 0,
+            "start": 143,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "attack",
+            "sentence_id": 1,
+            "start": 12,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "disabled",
+            "sentence_id": 1,
+            "start": 19,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 108,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "shooting",
+            "sentence_id": 2,
+            "start": 30,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "attacks",
+            "sentence_id": 2,
+            "start": 69,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "blamed",
+            "sentence_id": 2,
+            "start": 108,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "U.S.A.",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Iran",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 145,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "damage",
+            "sentence_id": 3,
+            "start": 40,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "set",
+            "sentence_id": 4,
+            "start": 10,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "U.S.A.",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Iran",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "impose",
+            "sentence_id": 4,
+            "start": 17,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "U.S.A.",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Iran",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "described",
+            "sentence_id": 4,
+            "start": 75,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "US sanctions on Iran",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 16,
+            "token": "needed",
+            "sentence_id": 5,
+            "start": 27,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "prevent",
+            "sentence_id": 5,
+            "start": 37,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "obtaining",
+            "sentence_id": 5,
+            "start": 57,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "maintained",
+            "sentence_id": 5,
+            "start": 116,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "changed",
+            "sentence_id": 5,
+            "start": 141,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "Speaking",
+            "sentence_id": 6,
+            "start": 0,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 65,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "announced",
+            "sentence_id": 6,
+            "start": 121,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "granted",
+            "sentence_id": 7,
+            "start": 11,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "added",
+            "sentence_id": 7,
+            "start": 70,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "John Bolton",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Iran",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 26,
+            "token": "risen",
+            "sentence_id": 8,
+            "start": 38,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "pulled",
+            "sentence_id": 8,
+            "start": 67,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "reinstated",
+            "sentence_id": 8,
+            "start": 135,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "sanctions",
+            "sentence_id": 8,
+            "start": 146,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "triggering",
+            "sentence_id": 8,
+            "start": 158,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "U.S.A.",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Iran",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "meltdown",
+            "sentence_id": 8,
+            "start": 178,
+            "end": 186,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 15,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "exceed",
+            "sentence_id": 9,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "said",
+            "sentence_id": 10,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "want",
+            "sentence_id": 10,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "war with Iran",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 36,
+            "token": "warned",
+            "sentence_id": 10,
+            "start": 55,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "face",
+            "sentence_id": 10,
+            "start": 80,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "obliteration",
+            "sentence_id": 10,
+            "start": 87,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "conflict",
+            "sentence_id": 10,
+            "start": 105,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "broke",
+            "sentence_id": 10,
+            "start": 114,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "attack",
+            "sentence_id": 11,
+            "start": 4,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "planned",
+            "sentence_id": 11,
+            "start": 20,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "told",
+            "sentence_id": 11,
+            "start": 60,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "suggested",
+            "sentence_id": 11,
+            "start": 92,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "responding",
+            "sentence_id": 11,
+            "start": 114,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "attacks",
+            "sentence_id": 11,
+            "start": 137,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "aimed",
+            "sentence_id": 12,
+            "start": 7,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "shot",
+            "sentence_id": 12,
+            "start": 99,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "says",
+            "sentence_id": 12,
+            "start": 153,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "attacked",
+            "sentence_id": 12,
+            "start": 163,
+            "end": 171,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 44,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "attack",
+            "sentence_id": 13,
+            "start": 61,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "disabled",
+            "sentence_id": 13,
+            "start": 72,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "said",
+            "sentence_id": 14,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "intended",
+            "sentence_id": 14,
+            "start": 31,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "take",
+            "sentence_id": 14,
+            "start": 43,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "warned",
+            "sentence_id": 15,
+            "start": 52,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "stepping",
+            "sentence_id": 15,
+            "start": 73,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "said",
+            "sentence_id": 16,
+            "start": 91,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Christopher Krebs",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Iran",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "US sanctions on Iran",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 60,
+            "token": "directed",
+            "sentence_id": 16,
+            "start": 134,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "using",
+            "sentence_id": 17,
+            "start": 10,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "Iran",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "US sanctions on Iran",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 62,
+            "token": "attacks",
+            "sentence_id": 17,
+            "start": 40,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 55,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "using",
+            "sentence_id": 17,
+            "start": 62,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "spraying",
+            "sentence_id": 17,
+            "start": 112,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "bid",
+            "sentence_id": 17,
+            "start": 152,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "take",
+            "sentence_id": 17,
+            "start": 159,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "trying",
+            "sentence_id": 18,
+            "start": 19,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "hack",
+            "sentence_id": 18,
+            "start": 29,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "reported",
+            "sentence_id": 18,
+            "start": 78,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "commented",
+            "sentence_id": 19,
+            "start": 11,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "said",
+            "sentence_id": 20,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "pulled",
+            "sentence_id": 20,
+            "start": 25,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "air strikes on Iran",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 74,
+            "token": "launching",
+            "sentence_id": 20,
+            "start": 39,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "strikes",
+            "sentence_id": 20,
+            "start": 62,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "told",
+            "sentence_id": 20,
+            "start": 98,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "killed",
+            "sentence_id": 20,
+            "start": 130,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "said",
+            "sentence_id": 21,
+            "start": 15,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "open",
+            "sentence_id": 21,
+            "start": 27,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Iran",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 80,
+            "token": "talks",
+            "sentence_id": 21,
+            "start": 35,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "wants",
+            "sentence_id": 22,
+            "start": 10,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "become",
+            "sentence_id": 22,
+            "start": 19,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "said",
+            "sentence_id": 23,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 84,
+            "token": "do",
+            "sentence_id": 24,
+            "start": 30,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "think",
+            "sentence_id": 24,
+            "start": 44,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "have",
+            "sentence_id": 24,
+            "start": 89,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 87,
+            "token": "make",
+            "sentence_id": 25,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Iran",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 88,
+            "token": "added",
+            "sentence_id": 25,
+            "start": 38,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "echoing",
+            "sentence_id": 25,
+            "start": 46,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 90,
+            "token": "election",
+            "sentence_id": 25,
+            "start": 101,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 91,
+            "token": "reinstatement",
+            "sentence_id": 26,
+            "start": 4,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 92,
+            "token": "imposed",
+            "sentence_id": 26,
+            "start": 65,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 93,
+            "token": "caused",
+            "sentence_id": 26,
+            "start": 122,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "US sanctions on Iran",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "foreign investment",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 94,
+            "token": "dry",
+            "sentence_id": 26,
+            "start": 151,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "foreign investment",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "US sanctions on Iran",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 95,
+            "token": "hit",
+            "sentence_id": 26,
+            "start": 162,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "foreign investment",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "US sanctions on Iran",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 96,
+            "token": "bar",
+            "sentence_id": 27,
+            "start": 14,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 97,
+            "token": "trading",
+            "sentence_id": 27,
+            "start": 36,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 98,
+            "token": "dealing",
+            "sentence_id": 27,
+            "start": 106,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 99,
+            "token": "led",
+            "sentence_id": 28,
+            "start": 9,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 100,
+            "token": "shortages",
+            "sentence_id": 28,
+            "start": 16,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "US sanctions on Iran",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "imported goods and products",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 101,
+            "token": "plunging",
+            "sentence_id": 29,
+            "start": 4,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 102,
+            "token": "affected",
+            "sentence_id": 29,
+            "start": 40,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "US sanctions on Iran",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "cost of locally produced staples",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 103,
+            "token": "soared",
+            "sentence_id": 29,
+            "start": 121,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 20,
+                    "text": "cost of locally produced staples",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "US sanctions on Iran",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 104,
+            "token": "said",
+            "sentence_id": 30,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 105,
+            "token": "downing",
+            "sentence_id": 30,
+            "start": 31,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 106,
+            "token": "maintain",
+            "sentence_id": 31,
+            "start": 26,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 107,
+            "token": "said",
+            "sentence_id": 32,
+            "start": 60,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 108,
+            "token": "carrying",
+            "sentence_id": 32,
+            "start": 93,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 109,
+            "token": "flying",
+            "sentence_id": 32,
+            "start": 127,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 110,
+            "token": "shot",
+            "sentence_id": 33,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 111,
+            "token": "said",
+            "sentence_id": 33,
+            "start": 63,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "U.S.A.",
+            "ideology": "Neutral",
+            "id": 0,
+            "events": [
+                12,
+                9,
+                13,
+                30
+            ]
+        },
+        {
+            "text": "Donald Trump",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                15,
+                86,
+                1,
+                35,
+                37,
+                73,
+                79,
+                87,
+                9,
+                12,
+                13,
+                25,
+                30
+            ]
+        },
+        {
+            "text": "John Bolton",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                25
+            ]
+        },
+        {
+            "text": "Christopher Krebs",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                59
+            ]
+        },
+        {
+            "text": "Iran",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": [
+                9,
+                13,
+                30,
+                79,
+                87,
+                12,
+                25,
+                59,
+                61
+            ]
+        },
+        {
+            "text": "war with Iran",
+            "ideology": "Neutral",
+            "id": 14,
+            "events": [
+                35
+            ]
+        },
+        {
+            "text": "US sanctions on Iran",
+            "ideology": "Right",
+            "id": 17,
+            "events": [
+                93,
+                94,
+                95,
+                100,
+                102,
+                103,
+                15,
+                59,
+                61
+            ]
+        },
+        {
+            "text": "foreign investment",
+            "ideology": "Neutral",
+            "id": 18,
+            "events": [
+                93,
+                94,
+                95
+            ]
+        },
+        {
+            "text": "imported goods and products",
+            "ideology": "Neutral",
+            "id": 19,
+            "events": [
+                100
+            ]
+        },
+        {
+            "text": "cost of locally produced staples",
+            "ideology": "Neutral",
+            "id": 20,
+            "events": [
+                102,
+                103
+            ]
+        },
+        {
+            "text": "air strikes on Iran",
+            "ideology": "Neutral",
+            "id": 21,
+            "events": [
+                1,
+                73
+            ]
+        }
+    ]
+}

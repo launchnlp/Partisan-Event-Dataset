@@ -1,0 +1,701 @@
+{
+    "title": "Harry Reid Criticizes Ocasio-Cortez Tax Proposal As Too \u2018Rapid\u2019",
+    "id": "STORY_17_DOCUMENT_1",
+    "old_id": "3532_1",
+    "split": "train",
+    "date": "2019-01-15",
+    "topic": "tax",
+    "source": "The Daily Caller",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Former Nevada Democratic Sen. Majority Leader Harry Reid had some criticism for his party\u2019s new star."
+        },
+        {
+            "id": 1,
+            "text": "Reid ripped New York Democratic Rep. Alexandria Ocasio-Cortez\u2019s proposal for a 70-percent marginal tax rate during an interview with The Nevada Independent."
+        },
+        {
+            "id": 2,
+            "text": "Reid called out Ocasio-Cortez for her \u201cradical\u201d proposal while arguing that Democrats should push for incremental change instead."
+        },
+        {
+            "id": 3,
+            "text": "\u201cA person could say we need to raise taxes a little bit,\u201d Reid said."
+        },
+        {
+            "id": 4,
+            "text": "\u201cWe have to be careful because the American people are very conservative in the sense of not wanting radical change quickly.\u201d"
+        },
+        {
+            "id": 5,
+            "text": "The self-proclaimed socialist from Queens, New York, has shaken up the Democratic Party with her desire for sweeping leftist policy change including: higher tax rates for top income earners (in her words, the \u201ctippy tops\u201d of the U.S. population); a \u201cGreen New Deal,\u201d which would plan to eliminate carbon emissions in the United States within 12 years and possibly create other regulations; and \u201cMedicare for All,\u201d a proposed socialist-style healthcare system \u2014 which has received support from many congressional Democrats \u2014 that Ocasio-Cortez claims would be cheaper than our current healthcare system, though some have argued against such an idea."
+        },
+        {
+            "id": 6,
+            "text": "Reid made clear that he would rather Democrats focus on shoring up past legislative accomplishments rather than advocate for sweeping change."
+        },
+        {
+            "id": 7,
+            "text": "\u201cIt\u2019s a shame what they\u2019ve done with ObamaCare,\u201d Reid said."
+        },
+        {
+            "id": 8,
+            "text": "\u201cThat was certainly a step in the right direction."
+        },
+        {
+            "id": 9,
+            "text": "The Democrat has to talk about health care, restoring Obamacare or versions of it.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "A long-time Nevada senator, Reid served as the Senate Majority Leader from 2007-15 and as Minority Leader from 2015-17 before deciding not to seek a seventh term in the Senate in 2017."
+        },
+        {
+            "id": 11,
+            "text": "The Tax Foundation, an \u201cindependent tax policy nonprofit\u201d organization, according to their website, found that a proposal to raise the marginal tax rate to 70 percent for incomes over $10 million would only raise roughly $51.4 billion over the next 10 years."
+        },
+        {
+            "id": 12,
+            "text": "A more generous study conducted by the organization, however, found that a different proposal for the same tax hike idea for incomes over $10 million would raise $291 billion over the same time period \u2014 still only a fraction of the cost needed to pay for Ocasio-Cortez\u2019s ambitious agenda."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "ripped",
+            "sentence_id": 1,
+            "start": 5,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Alexandria Ocasio-Cortez\u2019s proposal",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Harry Reid",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "proposal",
+            "sentence_id": 1,
+            "start": 64,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "interview",
+            "sentence_id": 1,
+            "start": 118,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "called",
+            "sentence_id": 2,
+            "start": 5,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Harry Reid",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Alexandria Ocasio-Cortez\u2019s proposal",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "arguing",
+            "sentence_id": 2,
+            "start": 63,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "push",
+            "sentence_id": 2,
+            "start": 93,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "say",
+            "sentence_id": 3,
+            "start": 16,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "need",
+            "sentence_id": 3,
+            "start": 23,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "raise",
+            "sentence_id": 3,
+            "start": 31,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 63,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "careful",
+            "sentence_id": 4,
+            "start": 15,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "wanting",
+            "sentence_id": 4,
+            "start": 93,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "American people",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Alexandria Ocasio-Cortez\u2019s proposal",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "shaken",
+            "sentence_id": 5,
+            "start": 57,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "desire",
+            "sentence_id": 5,
+            "start": 97,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "plan",
+            "sentence_id": 5,
+            "start": 279,
+            "end": 283,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "eliminate",
+            "sentence_id": 5,
+            "start": 287,
+            "end": 296,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Green New Deal",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "carbon emissions in the United States",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 16,
+            "token": "create",
+            "sentence_id": 5,
+            "start": 364,
+            "end": 370,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "received",
+            "sentence_id": 5,
+            "start": 471,
+            "end": 479,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "claims",
+            "sentence_id": 5,
+            "start": 543,
+            "end": 549,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "argued",
+            "sentence_id": 5,
+            "start": 620,
+            "end": 626,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Alexandria Ocasio-Cortez",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "made",
+            "sentence_id": 6,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "focus",
+            "sentence_id": 6,
+            "start": 47,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "shoring",
+            "sentence_id": 6,
+            "start": 56,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "advocate",
+            "sentence_id": 6,
+            "start": 112,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "sweeping leftist policy change",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "done",
+            "sentence_id": 7,
+            "start": 27,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "ObamaCare",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 54,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "step",
+            "sentence_id": 8,
+            "start": 22,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "talk",
+            "sentence_id": 9,
+            "start": 20,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "restoring",
+            "sentence_id": 9,
+            "start": 44,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "served",
+            "sentence_id": 10,
+            "start": 33,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "deciding",
+            "sentence_id": 10,
+            "start": 126,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "seek",
+            "sentence_id": 10,
+            "start": 142,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "according",
+            "sentence_id": 11,
+            "start": 72,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "found",
+            "sentence_id": 11,
+            "start": 100,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "raise",
+            "sentence_id": 11,
+            "start": 125,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "raise",
+            "sentence_id": 11,
+            "start": 207,
+            "end": 212,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "conducted",
+            "sentence_id": 12,
+            "start": 22,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "found",
+            "sentence_id": 12,
+            "start": 62,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "raise",
+            "sentence_id": 12,
+            "start": 156,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "needed",
+            "sentence_id": 12,
+            "start": 237,
+            "end": 243,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "pay",
+            "sentence_id": 12,
+            "start": 247,
+            "end": 250,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Alexandria Ocasio-Cortez\u2019s proposal",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                0,
+                3,
+                11
+            ]
+        },
+        {
+            "text": "Harry Reid",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                0,
+                3
+            ]
+        },
+        {
+            "text": "American people",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "Green New Deal",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                15
+            ]
+        },
+        {
+            "text": "carbon emissions in the United States",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                15
+            ]
+        },
+        {
+            "text": "Alexandria Ocasio-Cortez",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                19
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                23,
+                24
+            ]
+        },
+        {
+            "text": "sweeping leftist policy change",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                23
+            ]
+        },
+        {
+            "text": "ObamaCare",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                24
+            ]
+        }
+    ]
+}

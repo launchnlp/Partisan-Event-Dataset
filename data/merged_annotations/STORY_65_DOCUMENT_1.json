@@ -1,0 +1,980 @@
+{
+    "title": "Reparations Have Officially Come to America",
+    "id": "STORY_65_DOCUMENT_1",
+    "old_id": "5465_0",
+    "split": "train",
+    "date": "2021-03-23",
+    "topic": "race-and-racism",
+    "source": "Townhall",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Illinois city of Evanston approved a reparations program Monday night for black Americans, making it the first city in America to carry out a program that seeks to redress past discriminatory practices."
+        },
+        {
+            "id": 1,
+            "text": "The $10 million measure will be funded from annual cannabis taxes."
+        },
+        {
+            "id": 2,
+            "text": "Passed by a vote of 8-1, the first phase of reparations makes $400,000 available in $25,000 homeownership and improvement grants, plus mortgage assistance, for black residents who can prove they\u2019re direct descendants of Evanston residents between the period of 1919 and 1969."
+        },
+        {
+            "id": 3,
+            "text": "\u201cRight now the whole world is looking at Evanston, Illinois."
+        },
+        {
+            "id": 4,
+            "text": "This is a moment like none other that we\u2019ve ever seen, and it\u2019s a good moment,\u201d Ron Daniels, president of the National African American Reparations Commission, told The Washington Post."
+        },
+        {
+            "id": 5,
+            "text": "More than 60 people spoke ahead of the vote, but not everyone was sold on the plan."
+        },
+        {
+            "id": 6,
+            "text": "\u201cIt\u2019s a first tangible step,\u201d said Alderwoman Robin Rue Simmons, who represents a largely African American ward."
+        },
+        {
+            "id": 7,
+            "text": "\u201cIt is alone not enough."
+        },
+        {
+            "id": 8,
+            "text": "It is not full repair alone in this one initiative."
+        },
+        {
+            "id": 9,
+            "text": "But we all know that the road to repair injustice in the Black community will be a generation of work."
+        },
+        {
+            "id": 10,
+            "text": "I\u2019m excited to know more voices will come to the process.\u201d"
+        },
+        {
+            "id": 11,
+            "text": "At the national level, Democrats are trying to pass H.R. 40, which would create a commission to study the issue."
+        },
+        {
+            "id": 12,
+            "text": "Kamm Howard, co-chair of the National Coalition of Blacks for Reparations in America told CBS MoneyWatch she was \u201cvery excited\u201d about Evanston\u2019s program and said the more cities that take up similar measures, the more likely it will be that the federal government acts."
+        },
+        {
+            "id": 13,
+            "text": "But vocal critics like radio host Larry Elder and former NFL player Herschel Walker have argued reparations are neither necessary nor practical."
+        },
+        {
+            "id": 14,
+            "text": "\u201cBlack people have overcome to the point now that only 20 percent of black people are below the federally defined level of poverty\u2014still too high\u2014but in 1940 that number was 87 percent, and 20 years later that number had been reduced to 47 percent\u2014a 40 point drop in 20 years,\" Elder said last month at a House Judiciary Subcommittee on the Constitution, Civil Rights and Civil Liberties hearing."
+        },
+        {
+            "id": 15,
+            "text": "\"That is the greatest 20-year period of economic expansion for the history of black Americans.\""
+        },
+        {
+            "id": 16,
+            "text": "\"And notably, that came before the Brown v Board of Education decision, that came before the Civil Rights bills of 1964, 1965,\" he continued."
+        },
+        {
+            "id": 17,
+            "text": "\"Despite all this racism, all this prejudice, black people still overcame.\u201d"
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "approved",
+            "sentence_id": 0,
+            "start": 30,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "making",
+            "sentence_id": 0,
+            "start": 95,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "carry",
+            "sentence_id": 0,
+            "start": 134,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "seeks",
+            "sentence_id": 0,
+            "start": 159,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "redress",
+            "sentence_id": 0,
+            "start": 168,
+            "end": 175,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "practices",
+            "sentence_id": 0,
+            "start": 196,
+            "end": 205,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "funded",
+            "sentence_id": 1,
+            "start": 32,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "Passed",
+            "sentence_id": 2,
+            "start": 0,
+            "end": 6,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "vote",
+            "sentence_id": 2,
+            "start": 12,
+            "end": 16,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "makes",
+            "sentence_id": 2,
+            "start": 56,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "prove",
+            "sentence_id": 2,
+            "start": 184,
+            "end": 189,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "looking",
+            "sentence_id": 3,
+            "start": 30,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "seen",
+            "sentence_id": 4,
+            "start": 49,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "told",
+            "sentence_id": 4,
+            "start": 160,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ron Daniels, president of the National African American Reparations Commission",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Reparations",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 14,
+            "token": "spoke",
+            "sentence_id": 5,
+            "start": 20,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "vote",
+            "sentence_id": 5,
+            "start": 39,
+            "end": 43,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "sold",
+            "sentence_id": 5,
+            "start": 66,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Reparations",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "represents",
+            "sentence_id": 6,
+            "start": 69,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "initiative",
+            "sentence_id": 8,
+            "start": 40,
+            "end": 50,
+            "remove": true,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "know",
+            "sentence_id": 9,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "repair",
+            "sentence_id": 9,
+            "start": 33,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "past discriminatory practices",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 22,
+            "token": "work",
+            "sentence_id": 9,
+            "start": 97,
+            "end": 101,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "excited",
+            "sentence_id": 10,
+            "start": 4,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Alderwoman Robin Rue Simmons",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Reparations",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 24,
+            "token": "know",
+            "sentence_id": 10,
+            "start": 15,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Alderwoman Robin Rue Simmons",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Reparations",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 25,
+            "token": "come",
+            "sentence_id": 10,
+            "start": 37,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "trying",
+            "sentence_id": 11,
+            "start": 37,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "pass",
+            "sentence_id": 11,
+            "start": 47,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "H.R. 40",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 28,
+            "token": "create",
+            "sentence_id": 11,
+            "start": 73,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "H.R. 40",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 29,
+            "token": "study",
+            "sentence_id": 11,
+            "start": 96,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Reparations",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "H.R. 40",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 30,
+            "token": "told",
+            "sentence_id": 12,
+            "start": 85,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "excited",
+            "sentence_id": 12,
+            "start": 119,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Kamm Howard",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Reparations",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 32,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 157,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "take",
+            "sentence_id": 12,
+            "start": 183,
+            "end": 187,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Reparations",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 34,
+            "token": "acts",
+            "sentence_id": 12,
+            "start": 264,
+            "end": 268,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "argued",
+            "sentence_id": 13,
+            "start": 89,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "radio host Larry Elder",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "former NFL player Herschel Walker",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Reparations",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 36,
+            "token": "overcome",
+            "sentence_id": 14,
+            "start": 19,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "black Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Reparations",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "reduced",
+            "sentence_id": 14,
+            "start": 226,
+            "end": 233,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "black Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Reparations",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "drop",
+            "sentence_id": 14,
+            "start": 259,
+            "end": 263,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "black Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Reparations",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "said",
+            "sentence_id": 14,
+            "start": 284,
+            "end": 288,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "hearing",
+            "sentence_id": 14,
+            "start": 388,
+            "end": 395,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "period",
+            "sentence_id": 15,
+            "start": 30,
+            "end": 36,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "expansion",
+            "sentence_id": 15,
+            "start": 49,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "black Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Reparations",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 43,
+            "token": "came",
+            "sentence_id": 16,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Reparations",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "black Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "decision",
+            "sentence_id": 16,
+            "start": 62,
+            "end": 70,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "came",
+            "sentence_id": 16,
+            "start": 77,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Reparations",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "black Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "continued",
+            "sentence_id": 16,
+            "start": 131,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "overcame",
+            "sentence_id": 17,
+            "start": 65,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "black Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Reparations",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Ron Daniels, president of the National African American Reparations Commission",
+            "ideology": "Neutral",
+            "id": 0,
+            "events": [
+                13
+            ]
+        },
+        {
+            "text": "radio host Larry Elder",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                35
+            ]
+        },
+        {
+            "text": "former NFL player Herschel Walker",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                35
+            ]
+        },
+        {
+            "text": "Reparations",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                16,
+                23,
+                24,
+                29,
+                31,
+                33,
+                35,
+                36,
+                37,
+                38,
+                42,
+                43,
+                45,
+                47,
+                13
+            ]
+        },
+        {
+            "text": "Alderwoman Robin Rue Simmons",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                23,
+                24
+            ]
+        },
+        {
+            "text": "past discriminatory practices",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                21
+            ]
+        },
+        {
+            "text": "H.R. 40",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                27,
+                28,
+                29
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                27
+            ]
+        },
+        {
+            "text": "Kamm Howard",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                31
+            ]
+        },
+        {
+            "text": "black Americans",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": [
+                36,
+                37,
+                38,
+                42,
+                47,
+                43,
+                45
+            ]
+        }
+    ]
+}

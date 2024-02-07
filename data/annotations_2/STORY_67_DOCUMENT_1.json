@@ -1,0 +1,812 @@
+{
+    "title": "Surprise: Clinton Foundation Will Keep Receiving Donations From Foreign Governments",
+    "id": "STORY_67_DOCUMENT_1",
+    "old_id": "TRIPLET_002_DOCUMENT_0",
+    "split": "train",
+    "date": "2015-04-16",
+    "topic": "elections",
+    "source": "Townhall",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "",
+    "news": [
+        {
+            "id": 0,
+            "text": "Do we want a president who is bought and paid for by foreign governments ?"
+        },
+        {
+            "id": 1,
+            "text": "That 's the question Americans should be asking themselves ."
+        },
+        {
+            "id": 2,
+            "text": "It was announced late yesterday that Bill and Hillary Clinton 's Clinton Foundation , which has received more than $ 100 million in foreign government donations , will continue to receive foreign donations as she runs for president ."
+        },
+        {
+            "id": 3,
+            "text": "The good news is they 're limiting the countries to six allies and none of them are state sponsors of terrorism or proponents of Shariah law ."
+        },
+        {
+            "id": 4,
+            "text": "More from WSJ : The board of the Bill , Hillary and Chelsea Clinton Foundation has decided to continue accepting donations from foreign governments , primarily from six countries , even though Hillary Clinton is running for president , a summary of the new policy to be released Thursday shows ."
+        },
+        {
+            "id": 5,
+            "text": "The rules would permit donations from Australia , Canada , Germany , the Netherlands , Norway and the U.K. \u2014 countries that support or have supported Clinton Foundation programs on health , poverty and climate change , according to the summary ."
+        },
+        {
+            "id": 6,
+            "text": "That means other nations would be prohibited from making large donations to the foundation ."
+        },
+        {
+            "id": 7,
+            "text": "But those governments would be allowed to participate in the Clinton Global Initiative , a subsidiary of the foundation where companies , nonprofit groups and government officials work on solutions to global problems ."
+        },
+        {
+            "id": 8,
+            "text": "Regardless of which foreign governments are still allowed to donate to the Clinton Foundation , the point still stands ."
+        },
+        {
+            "id": 9,
+            "text": "If Hillary is elected president , will she put the best interests of the United States first ?"
+        },
+        {
+            "id": 10,
+            "text": "Or will she put the interests of the Clinton Foundation ahead of everything else ?"
+        },
+        {
+            "id": 11,
+            "text": "Based on her latest email scandal , it 's a fair question ."
+        },
+        {
+            "id": 12,
+            "text": "During her time as Secretary of State Clinton put her own interest of evading congressional oversight above the national security of the U.S. by using personal email on an unsecured , personal server to conduct all of her official State Department business ."
+        },
+        {
+            "id": 13,
+            "text": "On a separate note , despite being a so - called advocate and champion for women around the world , Hillary Clinton has gladly accepted millions in donations to her Foundation from countries like Saudi Arabia , where women have practically zero human rights ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "want",
+            "sentence_id": 0,
+            "start": 6,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "hillary",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 1,
+            "token": "bought",
+            "sentence_id": 0,
+            "start": 30,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "hillary",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "paid",
+            "sentence_id": 0,
+            "start": 41,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "asking",
+            "sentence_id": 1,
+            "start": 41,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "announced",
+            "sentence_id": 2,
+            "start": 7,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "bill and hillary clinton 's clinton foundation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 5,
+            "token": "received",
+            "sentence_id": 2,
+            "start": 96,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "continue",
+            "sentence_id": 2,
+            "start": 168,
+            "end": 176,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "receive",
+            "sentence_id": 2,
+            "start": 180,
+            "end": 187,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "hillary",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "runs",
+            "sentence_id": 2,
+            "start": 213,
+            "end": 217,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "limiting",
+            "sentence_id": 3,
+            "start": 26,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "terrorism",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "proponents of shariah law",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 10,
+            "token": "decided",
+            "sentence_id": 4,
+            "start": 83,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "bill and hillary clinton 's clinton foundation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 11,
+            "token": "continue",
+            "sentence_id": 4,
+            "start": 94,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "accepting",
+            "sentence_id": 4,
+            "start": 103,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "hillary",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "running",
+            "sentence_id": 4,
+            "start": 212,
+            "end": 219,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "released",
+            "sentence_id": 4,
+            "start": 270,
+            "end": 278,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "shows",
+            "sentence_id": 4,
+            "start": 288,
+            "end": 293,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "permit",
+            "sentence_id": 5,
+            "start": 16,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "support",
+            "sentence_id": 5,
+            "start": 124,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "australia",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "canada",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "germany",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "netherlands",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "norway",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "u.k.",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "health , poverty and climate change",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "bill and hillary clinton 's clinton foundation",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 18,
+            "token": "supported",
+            "sentence_id": 5,
+            "start": 140,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "according",
+            "sentence_id": 5,
+            "start": 219,
+            "end": 228,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "prohibited",
+            "sentence_id": 6,
+            "start": 34,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "making",
+            "sentence_id": 6,
+            "start": 50,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "allowed",
+            "sentence_id": 7,
+            "start": 31,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "participate",
+            "sentence_id": 7,
+            "start": 42,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "work",
+            "sentence_id": 7,
+            "start": 180,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "allowed",
+            "sentence_id": 8,
+            "start": 50,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "bill and hillary clinton 's clinton foundation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 26,
+            "token": "donate",
+            "sentence_id": 8,
+            "start": 61,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "elected",
+            "sentence_id": 9,
+            "start": 14,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "put",
+            "sentence_id": 9,
+            "start": 43,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "hillary",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 29,
+            "token": "put",
+            "sentence_id": 10,
+            "start": 12,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "hillary",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "bill and hillary clinton 's clinton foundation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 30,
+            "token": "scandal",
+            "sentence_id": 11,
+            "start": 26,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "email scandal",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "hillary",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 31,
+            "token": "put",
+            "sentence_id": 12,
+            "start": 46,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "hillary",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 32,
+            "token": "evading",
+            "sentence_id": 12,
+            "start": 70,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "hillary",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "using",
+            "sentence_id": 12,
+            "start": 145,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "conduct",
+            "sentence_id": 12,
+            "start": 203,
+            "end": 210,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "hillary",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "email scandal",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "accepted",
+            "sentence_id": 13,
+            "start": 127,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "hillary",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 36,
+            "token": "donations",
+            "sentence_id": 13,
+            "start": 148,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "hillary",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                0,
+                28,
+                29,
+                30,
+                31,
+                35,
+                1,
+                7,
+                12,
+                32,
+                34
+            ]
+        },
+        {
+            "text": "bill and hillary clinton 's clinton foundation",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                4,
+                10,
+                25,
+                29,
+                17
+            ]
+        },
+        {
+            "text": "terrorism",
+            "ideology": "Uncertain",
+            "id": 2,
+            "events": [
+                9
+            ]
+        },
+        {
+            "text": "proponents of shariah law",
+            "ideology": "Uncertain",
+            "id": 3,
+            "events": [
+                9
+            ]
+        },
+        {
+            "text": "email scandal",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                30,
+                34
+            ]
+        },
+        {
+            "text": "australia",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                17
+            ]
+        },
+        {
+            "text": "canada",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                17
+            ]
+        },
+        {
+            "text": "germany",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                17
+            ]
+        },
+        {
+            "text": "netherlands",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                17
+            ]
+        },
+        {
+            "text": "norway",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                17
+            ]
+        },
+        {
+            "text": "u.k.",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                17
+            ]
+        },
+        {
+            "text": "health , poverty and climate change",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                17
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1302 @@
+{
+    "title": "Cruz Hotelier Caves to Big Gay McCarthy Hate Machine",
+    "id": "STORY_33_DOCUMENT_0",
+    "old_id": "1434_2",
+    "split": "train",
+    "date": "2015-04-27",
+    "topic": "LGBT",
+    "source": "Breitbart News",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "One of the two openly gay hoteliers who hosted Republican Senator Ted Cruz at a Manhattan event last week, has caved to the Gaystapo with the kind of sniveling, dishonest and humiliating apology demanded by the Gaystapo if you don\u2019t want your life ruined."
+        },
+        {
+            "id": 1,
+            "text": "\u201cI am shaken to my bones by the emails, texts, postings and phone calls of the past few days."
+        },
+        {
+            "id": 2,
+            "text": "I made a terrible mistake,\u201d wrote Ian Reisner on his Facebook page over the weekend."
+        },
+        {
+            "id": 3,
+            "text": "Reisner went on to claim, quite ridiculously, that he was unaware of Cruz\u2019s opposition to same sex marriage:"
+        },
+        {
+            "id": 4,
+            "text": "I\u2019ve spent the past 24 hours reviewing videos of Cruz\u2019s statements on gay marriage and I am shocked and angry."
+        },
+        {
+            "id": 5,
+            "text": "I sincerely apologize for hurting the gay community and so many of our friends, family, allies, customers and employees."
+        },
+        {
+            "id": 6,
+            "text": "I will try my best to make up for my poor judgment."
+        },
+        {
+            "id": 7,
+            "text": "Again, I am deeply sorry."
+        },
+        {
+            "id": 8,
+            "text": "Reisner and his business partner, Mati Weiderpass, are prominent New York real estate developers and gay rights advocates."
+        },
+        {
+            "id": 9,
+            "text": "One of their hotels, OUT NYC, is famous for being gay-friendly."
+        },
+        {
+            "id": 10,
+            "text": "Instead of hating Cruz, the hoteliers decided last week to host an event with the Republican presidential hopeful to discuss, among other things, their common ground on the issue of Israel."
+        },
+        {
+            "id": 11,
+            "text": "Once news leaked of the event, The Big Gay McCarthy Hate Machine, that chooses which opinions are appropriate for the gay community, immediately began the evil work of destroying the lives of these two men."
+        },
+        {
+            "id": 12,
+            "text": "Boycotts against their businesses were quickly organized and hate campaigns were launched via social media."
+        },
+        {
+            "id": 13,
+            "text": "No one with a half a brain believes Reisner was unaware of Cruz\u2019s personal opposition to same-sex marriage, or his political position in favor of allowing the states to determine the definition of marriage."
+        },
+        {
+            "id": 14,
+            "text": "What\u2019s important to the Gaystapo is that Reisner was willing to grovel through such a ridiculous claim."
+        },
+        {
+            "id": 15,
+            "text": "Like many others before him, Reisner\u2019s entire life and career was about to get the Khristallnacht treatment, and he caved."
+        },
+        {
+            "id": 16,
+            "text": "That\u2019s what the Gaystapo wants; for its targets to prove their fealty by humiliating themselves."
+        },
+        {
+            "id": 17,
+            "text": "Once The Big Gay McCarthy Hate Machine knows you are broken and no longer defiant, they take the pressure off."
+        },
+        {
+            "id": 18,
+            "text": "By terrorizing dissent and individual thought, followed by immediate relief once the target speaks the approved opinion, an important public example is set that warns other not to stray from the Thought Plantation."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "hosted",
+            "sentence_id": 0,
+            "start": 40,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "event",
+            "sentence_id": 0,
+            "start": 90,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "caved",
+            "sentence_id": 0,
+            "start": 111,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Gaystapo",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "apology",
+            "sentence_id": 0,
+            "start": 187,
+            "end": 194,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Gaystapo",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "demanded",
+            "sentence_id": 0,
+            "start": 195,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Gaystapo",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 5,
+            "token": "want",
+            "sentence_id": 0,
+            "start": 233,
+            "end": 237,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "ruined",
+            "sentence_id": 0,
+            "start": 248,
+            "end": 254,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Gaystapo",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "shaken",
+            "sentence_id": 1,
+            "start": 6,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "made",
+            "sentence_id": 2,
+            "start": 2,
+            "end": 6,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "mistake",
+            "sentence_id": 2,
+            "start": 18,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "wrote",
+            "sentence_id": 2,
+            "start": 28,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "went",
+            "sentence_id": 3,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "claim",
+            "sentence_id": 3,
+            "start": 19,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Gaystapo",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "unaware",
+            "sentence_id": 3,
+            "start": 58,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "opposition",
+            "sentence_id": 3,
+            "start": 76,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "spent",
+            "sentence_id": 4,
+            "start": 5,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "reviewing",
+            "sentence_id": 4,
+            "start": 29,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "statements",
+            "sentence_id": 4,
+            "start": 56,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "gay marriage",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 18,
+            "token": "shocked",
+            "sentence_id": 4,
+            "start": 92,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 19,
+            "token": "angry",
+            "sentence_id": 4,
+            "start": 104,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 20,
+            "token": "apologize",
+            "sentence_id": 5,
+            "start": 12,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "hurting",
+            "sentence_id": 5,
+            "start": 26,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "try",
+            "sentence_id": 6,
+            "start": 7,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "make",
+            "sentence_id": 6,
+            "start": 22,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "hating",
+            "sentence_id": 10,
+            "start": 11,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "decided",
+            "sentence_id": 10,
+            "start": 38,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "host",
+            "sentence_id": 10,
+            "start": 59,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "event",
+            "sentence_id": 10,
+            "start": 67,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "discuss",
+            "sentence_id": 10,
+            "start": 117,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "leaked",
+            "sentence_id": 11,
+            "start": 10,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "event",
+            "sentence_id": 11,
+            "start": 24,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "chooses",
+            "sentence_id": 11,
+            "start": 71,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Big Gay McCarthy Hate Machine",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "gay community",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "began",
+            "sentence_id": 11,
+            "start": 145,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "destroying",
+            "sentence_id": 11,
+            "start": 168,
+            "end": 178,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Big Gay McCarthy Hate Machine",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Mati Weiderpass",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 34,
+            "token": "Boycotts",
+            "sentence_id": 12,
+            "start": 0,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Big Gay McCarthy Hate Machine",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "organized",
+            "sentence_id": 12,
+            "start": 47,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "campaigns",
+            "sentence_id": 12,
+            "start": 66,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Big Gay McCarthy Hate Machine",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "launched",
+            "sentence_id": 12,
+            "start": 81,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "believes",
+            "sentence_id": 13,
+            "start": 27,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "unaware",
+            "sentence_id": 13,
+            "start": 48,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "opposition",
+            "sentence_id": 13,
+            "start": 75,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "allowing",
+            "sentence_id": 13,
+            "start": 146,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "determine",
+            "sentence_id": 13,
+            "start": 169,
+            "end": 178,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "willing",
+            "sentence_id": 14,
+            "start": 53,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Gaystapo",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "grovel",
+            "sentence_id": 14,
+            "start": 64,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Gaystapo",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 45,
+            "token": "claim",
+            "sentence_id": 14,
+            "start": 97,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "get",
+            "sentence_id": 15,
+            "start": 75,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "treatment",
+            "sentence_id": 15,
+            "start": 98,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Gaystapo",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 48,
+            "token": "caved",
+            "sentence_id": 15,
+            "start": 116,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Gaystapo",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "wants",
+            "sentence_id": 16,
+            "start": 25,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "prove",
+            "sentence_id": 16,
+            "start": 51,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Gaystapo",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "humiliating",
+            "sentence_id": 16,
+            "start": 73,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "gay community",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Gaystapo",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 52,
+            "token": "knows",
+            "sentence_id": 17,
+            "start": 39,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Big Gay McCarthy Hate Machine",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 53,
+            "token": "broken",
+            "sentence_id": 17,
+            "start": 53,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Big Gay McCarthy Hate Machine",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 54,
+            "token": "defiant",
+            "sentence_id": 17,
+            "start": 74,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Big Gay McCarthy Hate Machine",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "take",
+            "sentence_id": 17,
+            "start": 88,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "terrorizing",
+            "sentence_id": 18,
+            "start": 3,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Big Gay McCarthy Hate Machine",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "individual thought",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 57,
+            "token": "speaks",
+            "sentence_id": 18,
+            "start": 92,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "set",
+            "sentence_id": 18,
+            "start": 152,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "warns",
+            "sentence_id": 18,
+            "start": 161,
+            "end": 166,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Big Gay McCarthy Hate Machine",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "gay community",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 60,
+            "token": "stray",
+            "sentence_id": 18,
+            "start": 180,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Gaystapo",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "gay community",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Ian Reisner",
+            "ideology": "Neutral",
+            "id": 0,
+            "events": [
+                2,
+                3,
+                4,
+                6,
+                12,
+                18,
+                19,
+                24,
+                26,
+                28,
+                33,
+                34,
+                36,
+                43,
+                44,
+                47,
+                48,
+                50,
+                51
+            ]
+        },
+        {
+            "text": "The Big Gay McCarthy Hate Machine",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                33,
+                34,
+                36,
+                52,
+                54,
+                56,
+                59,
+                31
+            ]
+        },
+        {
+            "text": "Ted Cruz",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                12,
+                17,
+                18,
+                19,
+                24,
+                26,
+                28
+            ]
+        },
+        {
+            "text": "gay marriage",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                17
+            ]
+        },
+        {
+            "text": "Mati Weiderpass",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                33
+            ]
+        },
+        {
+            "text": "gay community",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                51,
+                31,
+                60
+            ]
+        },
+        {
+            "text": "individual thought",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                56
+            ]
+        },
+        {
+            "text": "Gaystapo",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                2,
+                3,
+                4,
+                6,
+                12,
+                43,
+                44,
+                47,
+                48,
+                50,
+                51,
+                60
+            ]
+        }
+    ]
+}

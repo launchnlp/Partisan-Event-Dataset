@@ -1,0 +1,593 @@
+{
+    "title": "Perry links fossil fuel development to preventing sexual assault",
+    "id": "STORY_32_DOCUMENT_0",
+    "old_id": "2643_0",
+    "split": "train",
+    "date": "2017-11-02",
+    "topic": "energy",
+    "source": "The Hill",
+    "media_ideology": "Center",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Energy Secretary Rick Perry suggested Thursday that expanding the use of fossil fuels could help prevent sexual assault."
+        },
+        {
+            "id": 1,
+            "text": "Speaking during an energy policy discussion about energy policy with \u201cMeet the Press\u201d host Chuck Todd and Axios CEO and founder Jim VandeHei, Perry discussed his recent trip to Africa."
+        },
+        {
+            "id": 2,
+            "text": "He said a young girl told him that energy is important to her because she often reads by the light of a fire with toxic fumes."
+        },
+        {
+            "id": 3,
+            "text": "\u201cBut also from the standpoint of sexual assault,\u201d Perry said."
+        },
+        {
+            "id": 4,
+            "text": "\u201cWhen the lights are on, when you have light that shines, the righteousness, if you will on those types of acts.\u201d"
+        },
+        {
+            "id": 5,
+            "text": "Full Perry quote on fossil fuels/sexual assault pic.twitter.com/KH6pyApIYU \u2014 Timothy Cama (@Timothy_Cama) November 2, 2017"
+        },
+        {
+            "id": 6,
+            "text": "{mosads}Perry said that using fossil fuel to push power into remote villages in Africa is necessary and will have a \u201cpositive role\u201d in peoples\u2019 lives."
+        },
+        {
+            "id": 7,
+            "text": "President Trump has called for expanding domestic production of fossil fuels for export."
+        },
+        {
+            "id": 8,
+            "text": "The Department of Energy says Perry\u2019s statement was meant to highlight the way electricity will improve the lives of people in Africa."
+        },
+        {
+            "id": 9,
+            "text": "\u201cThe secretary was making the important point that while many Americans take electricity for granted there are people in other countries who are impacted by their lack of electricity,\u201d Shaylyn Hynes, an agency spokeswoman said."
+        },
+        {
+            "id": 10,
+            "text": "In Africa for an energy conference last week, \u201cone person told him about how light can be a deterrent to sexual assault and security in remote areas,\u201d Hynes said."
+        },
+        {
+            "id": 11,
+            "text": "\u201cAnother leader told him about how women in their country have to go to the store every day for a new carton of milk because they don\u2019t have a working refrigerator."
+        },
+        {
+            "id": 12,
+            "text": "Those powerful stories stuck with him and that is what he was sharing with the crowd in Washington today.\u201d"
+        },
+        {
+            "id": 13,
+            "text": "\u2014Updated at 3:09 p.m."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "suggested",
+            "sentence_id": 0,
+            "start": 28,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "expanding",
+            "sentence_id": 0,
+            "start": 52,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "help",
+            "sentence_id": 0,
+            "start": 92,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "prevent",
+            "sentence_id": 0,
+            "start": 97,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "expanding domestic production of fossil fuels",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "sexual assault",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "Speaking",
+            "sentence_id": 1,
+            "start": 0,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "discussion",
+            "sentence_id": 1,
+            "start": 33,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "discussed",
+            "sentence_id": 1,
+            "start": 148,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "trip",
+            "sentence_id": 1,
+            "start": 169,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "told",
+            "sentence_id": 2,
+            "start": 21,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "reads",
+            "sentence_id": 2,
+            "start": 80,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 56,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "shines",
+            "sentence_id": 4,
+            "start": 50,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "using",
+            "sentence_id": 6,
+            "start": 24,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "push",
+            "sentence_id": 6,
+            "start": 45,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "have",
+            "sentence_id": 6,
+            "start": 109,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "lives of people in Africa",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "expanding domestic production of fossil fuels",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "called",
+            "sentence_id": 7,
+            "start": 20,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "expanding domestic production of fossil fuels",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 18,
+            "token": "expanding",
+            "sentence_id": 7,
+            "start": 31,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "production",
+            "sentence_id": 7,
+            "start": 50,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "says",
+            "sentence_id": 8,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "meant",
+            "sentence_id": 8,
+            "start": 52,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "highlight",
+            "sentence_id": 8,
+            "start": 61,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "improve",
+            "sentence_id": 8,
+            "start": 96,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rick Perry",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "lives of people in Africa",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "making",
+            "sentence_id": 9,
+            "start": 19,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "take",
+            "sentence_id": 9,
+            "start": 72,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "impacted",
+            "sentence_id": 9,
+            "start": 145,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 222,
+            "end": 226,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Shaylyn Hynes",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Rick Perry",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "conference",
+            "sentence_id": 10,
+            "start": 24,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "told",
+            "sentence_id": 10,
+            "start": 58,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "said",
+            "sentence_id": 10,
+            "start": 157,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "told",
+            "sentence_id": 11,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "go",
+            "sentence_id": 11,
+            "start": 66,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "stuck",
+            "sentence_id": 12,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "sharing",
+            "sentence_id": 12,
+            "start": 62,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Rick Perry",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                23,
+                27
+            ]
+        },
+        {
+            "text": "lives of people in Africa",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                23,
+                16
+            ]
+        },
+        {
+            "text": "Shaylyn Hynes",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                27
+            ]
+        },
+        {
+            "text": "President Trump",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                17
+            ]
+        },
+        {
+            "text": "expanding domestic production of fossil fuels",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                17,
+                3,
+                16
+            ]
+        },
+        {
+            "text": "sexual assault",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                3
+            ]
+        }
+    ]
+}

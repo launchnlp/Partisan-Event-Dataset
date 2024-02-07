@@ -1,0 +1,1364 @@
+{
+    "title": "Trump Organization ordered to pay $1.6 million fine for criminal tax fraud",
+    "id": "STORY_134_DOCUMENT_1",
+    "old_id": "7556_1",
+    "split": "test",
+    "date": "2023-01-13",
+    "topic": "tax",
+    "source": "CBS News (Online)",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Two Trump Organization companies were ordered to pay a $1.6 million fine at sentencing Friday, after a jury last month unanimously found them guilty of 17 counts related to tax fraud."
+        },
+        {
+            "id": 1,
+            "text": "The fine imposed by Judge Juan Merchan was the maximum penalty allowed in the case \u2014 double the amount of the taxes avoided."
+        },
+        {
+            "id": 2,
+            "text": "Executives at the two companies, called the Trump Corporation and Trump Payroll Corporation, were found to have illegally reduced payroll liability through a variety of schemes, including giving executives untaxed bonuses and high-end perks worth millions."
+        },
+        {
+            "id": 3,
+            "text": "Former President Donald Trump was not personally charged in the case and has denied any knowledge of the scheme, but Manhattan District Attorney Alvin Bragg has said Trump remains under investigation."
+        },
+        {
+            "id": 4,
+            "text": "After the sentencing, Bragg said he would like state law to change to allow higher fines for companies that commit \"this type of decade-plus systemic, egregious fraud.\""
+        },
+        {
+            "id": 5,
+            "text": "Bragg said the sentencing \"closes this important chapter of our ongoing investigation into the former president and his businesses.\""
+        },
+        {
+            "id": 6,
+            "text": "\"We now move on to the next chapter,\" Bragg said."
+        },
+        {
+            "id": 7,
+            "text": "He did not respond to questions about whether Trump himself might be charged."
+        },
+        {
+            "id": 8,
+            "text": "The company's longtime former chief financial officer, Allen Weisselberg, was sentenced Tuesday to five months in New York City's Rikers Island jail."
+        },
+        {
+            "id": 9,
+            "text": "Weisselberg entered a guilty plea in August and testified against the company as part of a deal with prosecutors."
+        },
+        {
+            "id": 10,
+            "text": "At the sentencing hearing Friday, Manhattan Assistant District Attorney Joshua Steinglass said the companies' conduct \"can only be described as egregious.\""
+        },
+        {
+            "id": 11,
+            "text": "And he asserted, \"A number of these actions were implicitly sanctioned from the top down.\""
+        },
+        {
+            "id": 12,
+            "text": "Defense attorney Susan Necheles reiterated that the companies will be appealing the conviction."
+        },
+        {
+            "id": 13,
+            "text": "\"The D.A., as usual, or again, does not understand the tax law, and that was part of what was wrong in this case,\" she said."
+        },
+        {
+            "id": 14,
+            "text": "Weisselberg's three days of testimony included detailed descriptions of several methods used by the company and its executives to skate on taxes."
+        },
+        {
+            "id": 15,
+            "text": "He also said that Trump and two of his children played a role by signing checks in some of the schemes, though he denied that they authorized or conspired in the fraud."
+        },
+        {
+            "id": 16,
+            "text": "Steinglass said during the trial that the evidence and Weisselberg's testimony showed Trump \"explicitly sanctioning tax fraud.\""
+        },
+        {
+            "id": 17,
+            "text": "Defense attorneys said Trump was unaware of the schemes playing out beneath him, while prosecutors said he signed off on them."
+        },
+        {
+            "id": 18,
+            "text": "The Trump Organization's lawyers said Trump and his company were \"betrayed\" by Weisselberg, saying repeatedly, \"Weisselberg did it for Weisselberg.\""
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "ordered",
+            "sentence_id": 0,
+            "start": 38,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "pay",
+            "sentence_id": 0,
+            "start": 49,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "sentencing",
+            "sentence_id": 0,
+            "start": 76,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "found",
+            "sentence_id": 0,
+            "start": 131,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "jury",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Trump Organization companies",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "tax fraud",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "fraud",
+            "sentence_id": 0,
+            "start": 177,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "imposed",
+            "sentence_id": 1,
+            "start": 9,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "allowed",
+            "sentence_id": 1,
+            "start": 63,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "$1.6 million fine",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Judge Juan Merchan",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Trump Organization companies",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "avoided",
+            "sentence_id": 1,
+            "start": 116,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "found",
+            "sentence_id": 2,
+            "start": 98,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "reduced",
+            "sentence_id": 2,
+            "start": 122,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Trump Organization companies",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "payroll liability",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "giving",
+            "sentence_id": 2,
+            "start": 188,
+            "end": 194,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "charged",
+            "sentence_id": 3,
+            "start": 49,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "denied",
+            "sentence_id": 3,
+            "start": 77,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "variety of schemes",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "knowledge",
+            "sentence_id": 3,
+            "start": 88,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "scheme",
+            "sentence_id": 3,
+            "start": 105,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 161,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "remains",
+            "sentence_id": 3,
+            "start": 172,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "investigation",
+            "sentence_id": 3,
+            "start": 186,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Alvin Bragg",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 18,
+            "token": "sentencing",
+            "sentence_id": 4,
+            "start": 10,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 28,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "like",
+            "sentence_id": 4,
+            "start": 42,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "change",
+            "sentence_id": 4,
+            "start": 60,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "allow",
+            "sentence_id": 4,
+            "start": 70,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "commit",
+            "sentence_id": 4,
+            "start": 108,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Trump Organization companies",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "tax fraud",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 24,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 6,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "sentencing",
+            "sentence_id": 5,
+            "start": 15,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "closes",
+            "sentence_id": 5,
+            "start": 27,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "investigation",
+            "sentence_id": 5,
+            "start": 72,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "move",
+            "sentence_id": 6,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 44,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "respond",
+            "sentence_id": 7,
+            "start": 11,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "charged",
+            "sentence_id": 7,
+            "start": 69,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "sentenced",
+            "sentence_id": 8,
+            "start": 78,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "entered",
+            "sentence_id": 9,
+            "start": 12,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "testified",
+            "sentence_id": 9,
+            "start": 48,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "deal",
+            "sentence_id": 9,
+            "start": 91,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "sentencing",
+            "sentence_id": 10,
+            "start": 7,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "hearing",
+            "sentence_id": 10,
+            "start": 18,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "said",
+            "sentence_id": 10,
+            "start": 90,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 39,
+            "token": "described",
+            "sentence_id": 10,
+            "start": 131,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Joshua Steinglass",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Trump Organization companies",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 40,
+            "token": "asserted",
+            "sentence_id": 11,
+            "start": 7,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "actions",
+            "sentence_id": 11,
+            "start": 36,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "sanctioned",
+            "sentence_id": 11,
+            "start": 60,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Trump Organization companies",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "variety of schemes",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 43,
+            "token": "reiterated",
+            "sentence_id": 12,
+            "start": 32,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "appealing",
+            "sentence_id": 12,
+            "start": 70,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Trump Organization companies",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "tax fraud",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "conviction",
+            "sentence_id": 12,
+            "start": 84,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "understand",
+            "sentence_id": 13,
+            "start": 40,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "tax law",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Alvin Bragg",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "wrong",
+            "sentence_id": 13,
+            "start": 94,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Judge Juan Merchan",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 48,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 119,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "testimony",
+            "sentence_id": 14,
+            "start": 28,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "included",
+            "sentence_id": 14,
+            "start": 38,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "used",
+            "sentence_id": 14,
+            "start": 88,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "said",
+            "sentence_id": 15,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "played",
+            "sentence_id": 15,
+            "start": 48,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "signing",
+            "sentence_id": 15,
+            "start": 65,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "variety of schemes",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "denied",
+            "sentence_id": 15,
+            "start": 114,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Allen Weisselberg",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 56,
+            "token": "authorized",
+            "sentence_id": 15,
+            "start": 131,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "variety of schemes",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 57,
+            "token": "conspired",
+            "sentence_id": 15,
+            "start": 145,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Trump Organization companies",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "variety of schemes",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "fraud",
+            "sentence_id": 15,
+            "start": 162,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "said",
+            "sentence_id": 16,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "trial",
+            "sentence_id": 16,
+            "start": 27,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "testimony",
+            "sentence_id": 16,
+            "start": 69,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "showed",
+            "sentence_id": 16,
+            "start": 79,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "sanctioning",
+            "sentence_id": 16,
+            "start": 104,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "tax fraud",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 64,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 18,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "unaware",
+            "sentence_id": 17,
+            "start": 33,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "tax fraud",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 66,
+            "token": "playing",
+            "sentence_id": 17,
+            "start": 56,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 99,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "signed",
+            "sentence_id": 17,
+            "start": 107,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "variety of schemes",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 69,
+            "token": "said",
+            "sentence_id": 18,
+            "start": 33,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "betrayed",
+            "sentence_id": 18,
+            "start": 66,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Allen Weisselberg",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Trump Organization companies",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 71,
+            "token": "saying",
+            "sentence_id": 18,
+            "start": 92,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "did",
+            "sentence_id": 18,
+            "start": 124,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Allen Weisselberg",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Trump Organization companies",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "jury",
+            "ideology": "Neutral",
+            "id": 0,
+            "events": [
+                3
+            ]
+        },
+        {
+            "text": "Trump Organization companies",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                3,
+                9,
+                6,
+                42,
+                44,
+                57,
+                70,
+                72
+            ]
+        },
+        {
+            "text": "tax fraud",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                65,
+                3,
+                63,
+                23,
+                44
+            ]
+        },
+        {
+            "text": "payroll liability",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                9
+            ]
+        },
+        {
+            "text": "Donald Trump",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                17,
+                55,
+                70,
+                11,
+                12,
+                54,
+                56,
+                68
+            ]
+        },
+        {
+            "text": "Joshua Steinglass",
+            "ideology": "Left",
+            "id": 5,
+            "events": []
+        },
+        {
+            "text": "Allen Weisselberg",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                72,
+                55
+            ]
+        },
+        {
+            "text": "Judge Juan Merchan",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                47,
+                6
+            ]
+        },
+        {
+            "text": "variety of schemes",
+            "ideology": "Right",
+            "id": 11,
+            "events": [
+                12,
+                42,
+                54,
+                56,
+                57,
+                68
+            ]
+        },
+        {
+            "text": "Alvin Bragg",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                17,
+                46
+            ]
+        },
+        {
+            "text": "tax law",
+            "ideology": "Neutral",
+            "id": 16,
+            "events": [
+                46
+            ]
+        },
+        {
+            "text": "$1.6 million fine",
+            "ideology": "Left",
+            "id": 17,
+            "events": [
+                6
+            ]
+        }
+    ]
+}

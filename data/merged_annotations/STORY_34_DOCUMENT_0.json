@@ -1,0 +1,1416 @@
+{
+    "title": "Presidential Candidates Set Their Sights On Colorado's Latinos",
+    "id": "STORY_34_DOCUMENT_0",
+    "old_id": "TRIPLET_222_DOCUMENT_0",
+    "split": "train",
+    "date": "2012-10-11",
+    "topic": "elections",
+    "source": "NPR (Online News)",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "The presidential race has become much tighter in recent days , and in Colorado , a recent poll puts Republican presidential nominee Mitt Romney in the lead ."
+        },
+        {
+            "id": 1,
+            "text": "Colorado is one of several swing states where campaign efforts will be concentrated in these past few weeks before the election ."
+        },
+        {
+            "id": 2,
+            "text": "Of those efforts , actually getting people to the polls will be one of the most important ."
+        },
+        {
+            "id": 3,
+            "text": "In Colorado , both the Romney and Obama campaigns have an eye on Latino voters in particular ."
+        },
+        {
+            "id": 4,
+            "text": "The state has seen a tremendous amount of growth in the Latino population ."
+        },
+        {
+            "id": 5,
+            "text": "According to census data , that particular demographic grew by 41 percent between 2000 and 2010 ."
+        },
+        {
+            "id": 6,
+            "text": "Latinos make up about 21 percent of Colorado 's overall population ."
+        },
+        {
+            "id": 7,
+            "text": "They 're a smaller percentage of the population in Larimer County \u2014 only about 11 percent \u2014 but in a hotly contested swing county , it 's a voting bloc that neither candidate can afford to ignore ."
+        },
+        {
+            "id": 8,
+            "text": "On a rainy evening in downtown Fort Collins , we met with three Latino women \u2014 Betty Aragon , Guadalupe Salazar and Jan Barela - Smith \u2014 at their favorite Mexican restaurant ."
+        },
+        {
+            "id": 9,
+            "text": "They 'd been caught in a downpour on their way to meet us , and by the time we arrived , they were drying off and warming up with bowls of hot chili verde ."
+        },
+        {
+            "id": 10,
+            "text": "All three women are Democrats , which puts them in sync with most Latino voters ."
+        },
+        {
+            "id": 11,
+            "text": "Polls show Latinos support President Obama at a rate of more than 2 to 1 ."
+        },
+        {
+            "id": 12,
+            "text": "Aragon , a self - employed resident of Fort Collins , explains to us why she thinks that is : \" We 're talking about the DREAM Act , \" she says ."
+        },
+        {
+            "id": 13,
+            "text": "\" We 're talking about the immigration issue ."
+        },
+        {
+            "id": 14,
+            "text": "These are issues that really impact the Hispanic community . \""
+        },
+        {
+            "id": 15,
+            "text": "But Salazar and Barela - Smith \u2014 both of whom work in higher education \u2014 think that it's more than just traditional issues that keep Latinos in the Democratic camp ."
+        },
+        {
+            "id": 16,
+            "text": "Salazar points out that the Romney campaign has raised the idea of cutting back on Pell Grants for higher education ."
+        },
+        {
+            "id": 17,
+            "text": "That , she says , disproportionately affects Latinos \u2014 either preventing them from pursuing education or forcing them to take out more loans ."
+        },
+        {
+            "id": 18,
+            "text": "\" Since Obama has been in office , the Pell Grant went up from $ 4,300 to $ 5,550 , \" she explains ."
+        },
+        {
+            "id": 19,
+            "text": "\" That 's a lot of money ."
+        },
+        {
+            "id": 20,
+            "text": "That pays a full tuition , books and fees at Front Range [ Community College ] for a student to go ."
+        },
+        {
+            "id": 21,
+            "text": "Without that money , they 're not going to be able to go to college , and then they will take loans . \""
+        },
+        {
+            "id": 22,
+            "text": "While the Democrats are counting on Latino support , Republicans are trying to prove that their party is the natural home for Latino voters ."
+        },
+        {
+            "id": 23,
+            "text": "One man who agrees with that is Joe Andujo , an information analyst for a health care group and a member of the Northern Colorado Hispanic Republicans ."
+        },
+        {
+            "id": 24,
+            "text": "\" Faith , family , freedom \" \u2014 those are the values that he says he believes are held by both Latinos and by the Republican Party ."
+        },
+        {
+            "id": 25,
+            "text": "\" None of us , \" he says , \" want handouts ."
+        },
+        {
+            "id": 26,
+            "text": "We want a hand up ."
+        },
+        {
+            "id": 27,
+            "text": "We want to be able to work hard and keep what we earned ."
+        },
+        {
+            "id": 28,
+            "text": "And I think the Republican Party best demonstrates , or best helps us to achieve those goals of retaining what we have and living the American dream , which is why most immigrants come to this country to begin with . \""
+        },
+        {
+            "id": 29,
+            "text": "Andujo says he thinks the Republican Party could do much more to educate Latinos about who Republicans are and what the party stands for ."
+        },
+        {
+            "id": 30,
+            "text": "That strategy could one day pay off for Republicans in attracting larger numbers of Latino voters ."
+        },
+        {
+            "id": 31,
+            "text": "In the meantime , there 's no guarantee that Latinos will turn out in great numbers ."
+        },
+        {
+            "id": 32,
+            "text": "Both campaigns will be using these remaining few weeks to get out the vote ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "become",
+            "sentence_id": 0,
+            "start": 26,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "puts",
+            "sentence_id": 0,
+            "start": 95,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Mitt Romney",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "poll",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "concentrated",
+            "sentence_id": 1,
+            "start": 71,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "election",
+            "sentence_id": 1,
+            "start": 119,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "getting",
+            "sentence_id": 2,
+            "start": 28,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "seen",
+            "sentence_id": 4,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "growth",
+            "sentence_id": 4,
+            "start": 42,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "grew",
+            "sentence_id": 5,
+            "start": 55,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "make",
+            "sentence_id": 6,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "afford",
+            "sentence_id": 7,
+            "start": 179,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "ignore",
+            "sentence_id": 7,
+            "start": 189,
+            "end": 195,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "met",
+            "sentence_id": 8,
+            "start": 49,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "caught",
+            "sentence_id": 9,
+            "start": 13,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "meet",
+            "sentence_id": 9,
+            "start": 50,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "arrived",
+            "sentence_id": 9,
+            "start": 79,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "drying",
+            "sentence_id": 9,
+            "start": 99,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "warming",
+            "sentence_id": 9,
+            "start": 114,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "show",
+            "sentence_id": 11,
+            "start": 6,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "support",
+            "sentence_id": 11,
+            "start": 19,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Latino population",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 19,
+            "token": "explains",
+            "sentence_id": 12,
+            "start": 54,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "thinks",
+            "sentence_id": 12,
+            "start": 77,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "talking",
+            "sentence_id": 12,
+            "start": 103,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "says",
+            "sentence_id": 12,
+            "start": 139,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "talking",
+            "sentence_id": 13,
+            "start": 9,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "impact",
+            "sentence_id": 14,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "work",
+            "sentence_id": 15,
+            "start": 46,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "think",
+            "sentence_id": 15,
+            "start": 73,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "keep",
+            "sentence_id": 15,
+            "start": 128,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 28,
+            "token": "points",
+            "sentence_id": 16,
+            "start": 8,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "raised",
+            "sentence_id": 16,
+            "start": 48,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Mitt Romney",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Pell Grants for higher education",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 30,
+            "token": "cutting",
+            "sentence_id": 16,
+            "start": 67,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Romney campaign",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Pell Grants for higher education",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "says",
+            "sentence_id": 17,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "affects",
+            "sentence_id": 17,
+            "start": 37,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Latino population",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Mitt Romney",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "preventing",
+            "sentence_id": 17,
+            "start": 62,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Mitt Romney",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Latino population",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 34,
+            "token": "pursuing",
+            "sentence_id": 17,
+            "start": 83,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "forcing",
+            "sentence_id": 17,
+            "start": 105,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Mitt Romney",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Latino population",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 36,
+            "token": "take",
+            "sentence_id": 17,
+            "start": 121,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "went",
+            "sentence_id": 18,
+            "start": 50,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Pell Grants for higher education",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 38,
+            "token": "explains",
+            "sentence_id": 18,
+            "start": 90,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "pays",
+            "sentence_id": 20,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "go",
+            "sentence_id": 20,
+            "start": 96,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "go",
+            "sentence_id": 21,
+            "start": 54,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "take",
+            "sentence_id": 21,
+            "start": 89,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "counting",
+            "sentence_id": 22,
+            "start": 24,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "trying",
+            "sentence_id": 22,
+            "start": 69,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "prove",
+            "sentence_id": 22,
+            "start": 79,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Latino population",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "agrees",
+            "sentence_id": 23,
+            "start": 12,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Joe Andujo",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "says",
+            "sentence_id": 24,
+            "start": 60,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "believes",
+            "sentence_id": 24,
+            "start": 68,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Joe Andujo",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "Republican Party",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "held",
+            "sentence_id": 24,
+            "start": 81,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Joe Andujo",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 50,
+            "token": "says",
+            "sentence_id": 25,
+            "start": 20,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "want",
+            "sentence_id": 25,
+            "start": 29,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "want",
+            "sentence_id": 26,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "want",
+            "sentence_id": 27,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "work",
+            "sentence_id": 27,
+            "start": 22,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "keep",
+            "sentence_id": 27,
+            "start": 36,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "earned",
+            "sentence_id": 27,
+            "start": 49,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "think",
+            "sentence_id": 28,
+            "start": 6,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Joe Andujo",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "Republican Party",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "demonstrates",
+            "sentence_id": 28,
+            "start": 38,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "Republican Party",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 59,
+            "token": "helps",
+            "sentence_id": 28,
+            "start": 61,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "Republican Party",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Latino population",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 60,
+            "token": "achieve",
+            "sentence_id": 28,
+            "start": 73,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "retaining",
+            "sentence_id": 28,
+            "start": 96,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "living",
+            "sentence_id": 28,
+            "start": 123,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "come",
+            "sentence_id": 28,
+            "start": 180,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "says",
+            "sentence_id": 29,
+            "start": 7,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "thinks",
+            "sentence_id": 29,
+            "start": 15,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Joe Andujo",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "Republican Party",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 66,
+            "token": "do",
+            "sentence_id": 29,
+            "start": 49,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "educate",
+            "sentence_id": 29,
+            "start": 65,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "pay",
+            "sentence_id": 30,
+            "start": 28,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "attracting",
+            "sentence_id": 30,
+            "start": 55,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "turn",
+            "sentence_id": 31,
+            "start": 58,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "using",
+            "sentence_id": 32,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "get",
+            "sentence_id": 32,
+            "start": 58,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "are",
+            "sentence_id": 10,
+            "start": 16,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Betty Aragon",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Guadalupe Salazar",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Jan Barela - Smith",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 74,
+            "token": "sync",
+            "sentence_id": 10,
+            "start": 51,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Guadalupe Salazar",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Betty Aragon",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Jan Barela - Smith",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Latino population",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Mitt Romney",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                1,
+                32,
+                33,
+                35
+            ]
+        },
+        {
+            "text": "poll",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                1
+            ]
+        },
+        {
+            "text": "Latino population",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                10,
+                27,
+                33,
+                35,
+                45,
+                59
+            ]
+        },
+        {
+            "text": "Betty Aragon",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                73
+            ]
+        },
+        {
+            "text": "Guadalupe Salazar",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                73
+            ]
+        },
+        {
+            "text": "Jan Barela - Smith",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                73
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                73,
+                27
+            ]
+        },
+        {
+            "text": "Pell Grants for higher education",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                29,
+                30
+            ]
+        },
+        {
+            "text": "Joe Andujo",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                48,
+                46,
+                57
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                46,
+                45
+            ]
+        },
+        {
+            "text": "Republican Party",
+            "ideology": "Right",
+            "id": 11,
+            "events": [
+                48,
+                58,
+                59,
+                57
+            ]
+        },
+        {
+            "text": "Barack Obama",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                18,
+                37
+            ]
+        },
+        {
+            "text": "Romney campaign",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                30
+            ]
+        }
+    ]
+}

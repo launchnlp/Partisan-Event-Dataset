@@ -1,0 +1,1557 @@
+{
+    "title": "Opinion: NPR Makes Outrageous Claim About Trans Athletes",
+    "id": "STORY_139_DOCUMENT_1",
+    "old_id": "7832_1",
+    "split": "test",
+    "date": "2023-03-28",
+    "topic": "LGBT",
+    "source": "Isaac Schorr",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "NPR is making a small ask of its readers:"
+        },
+        {
+            "id": 1,
+            "text": "That they disregard both their sense of sight and common sense."
+        },
+        {
+            "id": 2,
+            "text": "On Friday, NPR\u2019s official Twitter account decried the World Athletics Council\u2019s decision to prohibit male-to-female transgender athletes from competing in women\u2019s track and field events, asserting that it was reached despite a dearth of evidence to support it."
+        },
+        {
+            "id": 3,
+            "text": "\u201cThe international governing body for track and field will ban trans women athletes from elite women\u2019s competitions, citing a priority for fairness over inclusion despite limited scientific evidence of physical advantage,\u201d read the now deleted tweet, which linked to a story tying the decision to \u201cdozens of more new and proposed laws that further curb transgender rights\u201d in the United States."
+        },
+        {
+            "id": 4,
+            "text": "It didn\u2019t take long for Twitter to affix a contextual note to the tweet citing a British Journal of Sports Medicine study indicating that trans women remained significantly faster than their peers even after two years of hormone treatment."
+        },
+        {
+            "id": 5,
+            "text": "Since then, NPR has issued a correction to its tweet, admitting that \u201cexisting research shows that higher levels of testosterone do impact athletic performance,\u201d and instead submitting that the World Athletics Council reached its decision despite \u201climited research involving elite trans athletes in competition.\u201d"
+        },
+        {
+            "id": 6,
+            "text": "But that too is misleading."
+        },
+        {
+            "id": 7,
+            "text": "The British Journal of Sports Medicine study was specifically geared toward evaluating the elite or Olympic level of competition and the accompanying article still holds that the Council has adopted its policy sans \u201cstrong evidence of an advantage.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "Even discounting the scientific evidence NPR is ignorant of, though, the underlying implication that transgender women boast no advantage in women\u2019s sports strains credulity."
+        },
+        {
+            "id": 9,
+            "text": "Hormone treatment certainly helps to level the playing field, but it can\u2019t wipe out inherent advantages \u2014 in size, skeletal structure, and brain function \u2014 that those who are born as males, and especially those who undergo puberty, retain."
+        },
+        {
+            "id": 10,
+            "text": "This is readily apparent to those who actually compete in and pay attention to women\u2019s sports."
+        },
+        {
+            "id": 11,
+            "text": "It\u2019s no accident that despite the small proportion of transgender athletes in the space, there\u2019s no shortage of ones who have excelled in it."
+        },
+        {
+            "id": 12,
+            "text": "Does anyone think it a coincidence that Lia Thomas, formerly a swimmer on the University of Pennsylvania\u2019s men\u2019s team, smashed records for the women\u2019s team while towering over the competition?"
+        },
+        {
+            "id": 13,
+            "text": "Sixteen of Thomas\u2019s teammates, who wrote an open letter arguing that \u201cbiologically, Lia holds an unfair advantage over competition in the women\u2019s category, as evidenced by her rankings that have bounced from #462 as a male to #1 as a female,\u201d don\u2019t."
+        },
+        {
+            "id": 14,
+            "text": "Between 2017 and 2019, male-to-female transitioners ran away with 15 indoor track state championships in Connecticut alone, robbing numerous female competitors from numerous qualifying and podium finishes as along the way."
+        },
+        {
+            "id": 15,
+            "text": "Is it mere happenstance that former Connecticut high school indoor track star Chelsea Mitchell lost 4 state championships to transgender competitors, in some instances taking the bronze behind two such opponents?"
+        },
+        {
+            "id": 16,
+            "text": "Is it just a unhappy accident that transgender weightlifter Laurel Hubbard, a junior champion as a male, bumped fellow New Zealander Tracey Lambrechs into a lower weight class, forcing Lambrechs to lose 40 pounds in 3 months in order to carry on in the sport?"
+        },
+        {
+            "id": 17,
+            "text": "And is it just the luck of the draw that prevents female-to-male transitioners from enjoying similar success in men\u2019s sports?"
+        },
+        {
+            "id": 18,
+            "text": "NPR has long been on a mission to convince its audience as much, insisting that restrictions on transgender participation have \u201cno basis\u201d in science and characterizing such restrictions as being rooted in opposition to \u201ctransgender rights.\u201d"
+        },
+        {
+            "id": 19,
+            "text": "But unfortunately for the activists at the head of this deceptive effort, the truth of the matter is not just buried in lengthy, jargon-filled, academic inquiries."
+        },
+        {
+            "id": 20,
+            "text": "It\u2019s discernable to the naked eye and intuitive to the human experience."
+        },
+        {
+            "id": 21,
+            "text": "This is an opinion piece."
+        },
+        {
+            "id": 22,
+            "text": "The views expressed in this article are those of just the author."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "making",
+            "sentence_id": 0,
+            "start": 7,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "ask",
+            "sentence_id": 0,
+            "start": 22,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "disregard",
+            "sentence_id": 1,
+            "start": 10,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "NPR",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "NPR readers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 3,
+            "token": "decried",
+            "sentence_id": 2,
+            "start": 42,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "NPR",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council\u2019s decision",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "decision",
+            "sentence_id": 2,
+            "start": 80,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "prohibit",
+            "sentence_id": 2,
+            "start": 92,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "competing",
+            "sentence_id": 2,
+            "start": 142,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "asserting",
+            "sentence_id": 2,
+            "start": 187,
+            "end": 196,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "NPR",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council\u2019s decision",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "reached",
+            "sentence_id": 2,
+            "start": 209,
+            "end": 216,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "support",
+            "sentence_id": 2,
+            "start": 249,
+            "end": 256,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "ban",
+            "sentence_id": 3,
+            "start": 59,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "citing",
+            "sentence_id": 3,
+            "start": 117,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council\u2019s decision",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 12,
+            "token": "read",
+            "sentence_id": 3,
+            "start": 223,
+            "end": 227,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "linked",
+            "sentence_id": 3,
+            "start": 257,
+            "end": 263,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "tying",
+            "sentence_id": 3,
+            "start": 275,
+            "end": 280,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "decision",
+            "sentence_id": 3,
+            "start": 285,
+            "end": 293,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "curb",
+            "sentence_id": 3,
+            "start": 348,
+            "end": 352,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "transgender rights",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council\u2019s decision",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 17,
+            "token": "affix",
+            "sentence_id": 4,
+            "start": 35,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "citing",
+            "sentence_id": 4,
+            "start": 72,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "indicating",
+            "sentence_id": 4,
+            "start": 122,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "remained",
+            "sentence_id": 4,
+            "start": 150,
+            "end": 158,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council\u2019s decision",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "issued",
+            "sentence_id": 5,
+            "start": 20,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "correction",
+            "sentence_id": 5,
+            "start": 29,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "admitting",
+            "sentence_id": 5,
+            "start": 54,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "NPR",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council\u2019s decision",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "shows",
+            "sentence_id": 5,
+            "start": 88,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "impact",
+            "sentence_id": 5,
+            "start": 132,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "submitting",
+            "sentence_id": 5,
+            "start": 174,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "NPR",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council\u2019s decision",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "reached",
+            "sentence_id": 5,
+            "start": 218,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "decision",
+            "sentence_id": 5,
+            "start": 230,
+            "end": 238,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "study",
+            "sentence_id": 7,
+            "start": 39,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "geared",
+            "sentence_id": 7,
+            "start": 62,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "evaluating",
+            "sentence_id": 7,
+            "start": 76,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "holds",
+            "sentence_id": 7,
+            "start": 164,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "adopted",
+            "sentence_id": 7,
+            "start": 191,
+            "end": 198,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council\u2019s decision",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 34,
+            "token": "discounting",
+            "sentence_id": 8,
+            "start": 5,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "ignorant",
+            "sentence_id": 8,
+            "start": 48,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "NPR",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 36,
+            "token": "boast",
+            "sentence_id": 8,
+            "start": 119,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "strains",
+            "sentence_id": 8,
+            "start": 156,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "NPR",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "helps",
+            "sentence_id": 9,
+            "start": 28,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "level",
+            "sentence_id": 9,
+            "start": 37,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "wipe",
+            "sentence_id": 9,
+            "start": 75,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "advantages \u2014 in size, skeletal structure, and brain function",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council\u2019s decision",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "born",
+            "sentence_id": 9,
+            "start": 175,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "undergo",
+            "sentence_id": 9,
+            "start": 215,
+            "end": 222,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "retain",
+            "sentence_id": 9,
+            "start": 232,
+            "end": 238,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "compete",
+            "sentence_id": 10,
+            "start": 47,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "advantages \u2014 in size, skeletal structure, and brain function",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council\u2019s decision",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "pay",
+            "sentence_id": 10,
+            "start": 62,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "excelled",
+            "sentence_id": 11,
+            "start": 126,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "think",
+            "sentence_id": 12,
+            "start": 12,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "smashed",
+            "sentence_id": 12,
+            "start": 119,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Lia Thomas",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "towering",
+            "sentence_id": 12,
+            "start": 162,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Lia Thomas",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 50,
+            "token": "wrote",
+            "sentence_id": 13,
+            "start": 35,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "arguing",
+            "sentence_id": 13,
+            "start": 56,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Lia Thomas",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "holds",
+            "sentence_id": 13,
+            "start": 88,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Lia Thomas",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "advantages \u2014 in size, skeletal structure, and brain function",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 53,
+            "token": "bounced",
+            "sentence_id": 13,
+            "start": 195,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "ran",
+            "sentence_id": 14,
+            "start": 52,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "robbing",
+            "sentence_id": 14,
+            "start": 124,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "female competitors",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 56,
+            "token": "finishes",
+            "sentence_id": 14,
+            "start": 196,
+            "end": 204,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "lost",
+            "sentence_id": 15,
+            "start": 95,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 19,
+                    "text": "former Connecticut high school indoor track star Chelsea Mitchell",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "taking",
+            "sentence_id": 15,
+            "start": 168,
+            "end": 174,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 19,
+                    "text": "former Connecticut high school indoor track star Chelsea Mitchell",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 59,
+            "token": "bumped",
+            "sentence_id": 16,
+            "start": 105,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 20,
+                    "text": "transgender weightlifter Laurel Hubbard",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "Tracey Lambrechs",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 60,
+            "token": "forcing",
+            "sentence_id": 16,
+            "start": 177,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 20,
+                    "text": "transgender weightlifter Laurel Hubbard",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "Tracey Lambrechs",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 61,
+            "token": "lose",
+            "sentence_id": 16,
+            "start": 198,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "carry",
+            "sentence_id": 16,
+            "start": 237,
+            "end": 242,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "prevents",
+            "sentence_id": 17,
+            "start": 41,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "female-to-male transitioners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 64,
+            "token": "enjoying",
+            "sentence_id": 17,
+            "start": 84,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "on",
+            "sentence_id": 18,
+            "start": 18,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "mission",
+            "sentence_id": 18,
+            "start": 23,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "convince",
+            "sentence_id": 18,
+            "start": 34,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "NPR",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "NPR readers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 68,
+            "token": "insisting",
+            "sentence_id": 18,
+            "start": 65,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "NPR",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "transgender rights",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 69,
+            "token": "characterizing",
+            "sentence_id": 18,
+            "start": 153,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "NPR",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "transgender rights",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 70,
+            "token": "effort",
+            "sentence_id": 19,
+            "start": 66,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "transgender rights",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "NPR",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 71,
+            "token": "buried",
+            "sentence_id": 19,
+            "start": 110,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "inquiries",
+            "sentence_id": 19,
+            "start": 153,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "discernable",
+            "sentence_id": 20,
+            "start": 5,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "female transgender athletes",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "advantages \u2014 in size, skeletal structure, and brain function",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "NPR readers",
+            "ideology": "Neutral",
+            "id": 0,
+            "events": [
+                67
+            ]
+        },
+        {
+            "text": "NPR",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                2,
+                3,
+                7,
+                23,
+                26,
+                35,
+                37,
+                67,
+                68,
+                69,
+                70
+            ]
+        },
+        {
+            "text": "World Athletics Council\u2019s decision",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                3,
+                7,
+                11,
+                20,
+                26,
+                33,
+                40,
+                44,
+                16,
+                23
+            ]
+        },
+        {
+            "text": "transgender rights",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                16,
+                69,
+                68
+            ]
+        },
+        {
+            "text": "female transgender athletes",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                20,
+                37,
+                48,
+                49,
+                51,
+                52,
+                55,
+                57,
+                58,
+                59,
+                60,
+                63,
+                73,
+                11,
+                33,
+                35,
+                40,
+                44
+            ]
+        },
+        {
+            "text": "advantages \u2014 in size, skeletal structure, and brain function",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                40,
+                44,
+                52,
+                73
+            ]
+        },
+        {
+            "text": "Lia Thomas",
+            "ideology": "Neutral",
+            "id": 14,
+            "events": [
+                48,
+                49,
+                51,
+                52
+            ]
+        },
+        {
+            "text": "female competitors",
+            "ideology": "Neutral",
+            "id": 18,
+            "events": [
+                55
+            ]
+        },
+        {
+            "text": "former Connecticut high school indoor track star Chelsea Mitchell",
+            "ideology": "Neutral",
+            "id": 19,
+            "events": [
+                57,
+                58
+            ]
+        },
+        {
+            "text": "transgender weightlifter Laurel Hubbard",
+            "ideology": "Neutral",
+            "id": 20,
+            "events": [
+                59,
+                60
+            ]
+        },
+        {
+            "text": "Tracey Lambrechs",
+            "ideology": "Neutral",
+            "id": 21,
+            "events": [
+                59,
+                60
+            ]
+        },
+        {
+            "text": "female-to-male transitioners",
+            "ideology": "Neutral",
+            "id": 22,
+            "events": [
+                63
+            ]
+        }
+    ]
+}

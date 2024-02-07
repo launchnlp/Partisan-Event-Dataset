@@ -1,0 +1,909 @@
+{
+    "title": "Donald Trump relents over Paul Ryan re-election",
+    "id": "STORY_41_DOCUMENT_0",
+    "old_id": "TRIPLET_096_DOCUMENT_1",
+    "split": "train",
+    "date": "2016-08-06",
+    "topic": "elections",
+    "source": "BBC News",
+    "media_ideology": "Center",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "US presidential candidate Donald Trump has publicly backed House Speaker Paul Ryan days after snubbing him in a spat at the top of the Republican Party ."
+        },
+        {
+            "id": 1,
+            "text": "Mr Trump shocked party members on Tuesday when he refused to endorse Mr Ryan and Senator John McCain in their campaigns for re-election in November ."
+        },
+        {
+            "id": 2,
+            "text": "Mr Ryan , the party 's highest - ranking elected official , had himself long delayed endorsing Mr Trump ."
+        },
+        {
+            "id": 3,
+            "text": "\" I support and endorse our Speaker ..."
+        },
+        {
+            "id": 4,
+            "text": "Paul Ryan , \" Mr Trump said on Friday ."
+        },
+        {
+            "id": 5,
+            "text": "\" We need unity - we have to win this election , \" Mr Trump said during a campaign stop in Green Bay , Wisconsin - Mr Ryan 's home state ."
+        },
+        {
+            "id": 6,
+            "text": "While they might \" disagree on a couple of things \" , they agreed on a lot as well , he added ."
+        },
+        {
+            "id": 7,
+            "text": "He also endorsed Sen McCain and New Hampshire Sen Kelly Ayotte ."
+        },
+        {
+            "id": 8,
+            "text": "In his earlier interview for the Washington Post , Mr Trump had said he was \" just not quite there yet \" when asked if he would endorse Mr Ryan and Arizona Sen McCain ."
+        },
+        {
+            "id": 9,
+            "text": "It was the same phrase used by Mr Ryan before he finally endorsed the Republican presidential candidate ."
+        },
+        {
+            "id": 10,
+            "text": "Mr Ryan and Sen McCain had both criticised Mr Trump 's attacks on the bereaved parents of a US Muslim soldier killed in Iraq ."
+        },
+        {
+            "id": 11,
+            "text": "The soldier , Humayun Khan , was killed by a car bomb in 2004 in Iraq at the age of 27 ."
+        },
+        {
+            "id": 12,
+            "text": "Donald Trump is drawing tens of thousands to his rallies ."
+        },
+        {
+            "id": 13,
+            "text": "While this may be irrelevant in a national electorate that numbers in the hundreds of millions , the adulation of crowds is catnip to even the most jaded of candidates ."
+        },
+        {
+            "id": 14,
+            "text": "Then there 's the torrent of money that Mr Trump has unleashed - more than $ 80 m ( \u00a3 61 m ) in July , thanks to a flood of small - donor contributions ."
+        },
+        {
+            "id": 15,
+            "text": "Presidential hopefuls with enthusiastic audiences and campaign coffers full of cash are n't prone to humble exits ."
+        },
+        {
+            "id": 16,
+            "text": "Ever since Mr Trump descended that golden escalator to announce his candidacy last July , his campaign has been a roller - coaster ride for the Republican establishment , alternating between reluctant acceptance and sky - is - falling hysteria ."
+        },
+        {
+            "id": 17,
+            "text": "This week has marked one of the more pronounced troughs in this journey , but the general election sprint is only just beginning ."
+        },
+        {
+            "id": 18,
+            "text": "There may still be peaks of resigned accommodation ahead ."
+        },
+        {
+            "id": 19,
+            "text": "If Mr Trump can get back on message with a few carefully modulated speeches and at least a handful of news cycles without outrageous statements , the polls could again narrow to within a more typical partisan split ."
+        },
+        {
+            "id": 20,
+            "text": "There 's nothing the media like more than a good candidate comeback story ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "backed",
+            "sentence_id": 0,
+            "start": 52,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Paul Ryan",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "snubbing",
+            "sentence_id": 0,
+            "start": 94,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Paul Ryan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 2,
+            "token": "spat",
+            "sentence_id": 0,
+            "start": 112,
+            "end": 116,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "shocked",
+            "sentence_id": 1,
+            "start": 9,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "refused",
+            "sentence_id": 1,
+            "start": 50,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Paul Ryan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "John McCain",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 5,
+            "token": "endorse",
+            "sentence_id": 1,
+            "start": 61,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "campaigns",
+            "sentence_id": 1,
+            "start": 110,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "delayed",
+            "sentence_id": 2,
+            "start": 77,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Paul Ryan",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 8,
+            "token": "endorsing",
+            "sentence_id": 2,
+            "start": 85,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Paul Ryan",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "support",
+            "sentence_id": 3,
+            "start": 4,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "endorse",
+            "sentence_id": 3,
+            "start": 16,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Paul Ryan",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 23,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "need",
+            "sentence_id": 5,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "win",
+            "sentence_id": 5,
+            "start": 29,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Paul Ryan",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 60,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "stop",
+            "sentence_id": 5,
+            "start": 83,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "disagree",
+            "sentence_id": 6,
+            "start": 19,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "agreed",
+            "sentence_id": 6,
+            "start": 59,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Paul Ryan",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 18,
+            "token": "added",
+            "sentence_id": 6,
+            "start": 88,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "endorsed",
+            "sentence_id": 7,
+            "start": 8,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "John McCain",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Kelly Ayotte",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "interview",
+            "sentence_id": 8,
+            "start": 15,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 64,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "John McCain",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Paul Ryan",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 22,
+            "token": "asked",
+            "sentence_id": 8,
+            "start": 110,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "endorse",
+            "sentence_id": 8,
+            "start": 128,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "used",
+            "sentence_id": 9,
+            "start": 23,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Paul Ryan",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 25,
+            "token": "endorsed",
+            "sentence_id": 9,
+            "start": 57,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Paul Ryan",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "criticised",
+            "sentence_id": 10,
+            "start": 32,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Paul Ryan",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "John McCain",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 27,
+            "token": "attacks",
+            "sentence_id": 10,
+            "start": 55,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Humayun Khan",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "killed",
+            "sentence_id": 10,
+            "start": 110,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "killed",
+            "sentence_id": 11,
+            "start": 33,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "drawing",
+            "sentence_id": 12,
+            "start": 16,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "unleashed",
+            "sentence_id": 14,
+            "start": 53,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 32,
+            "token": "prone",
+            "sentence_id": 15,
+            "start": 92,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "descended",
+            "sentence_id": 16,
+            "start": 20,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "announce",
+            "sentence_id": 16,
+            "start": 55,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "ride",
+            "sentence_id": 16,
+            "start": 131,
+            "end": 135,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "alternating",
+            "sentence_id": 16,
+            "start": 171,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 37,
+            "token": "marked",
+            "sentence_id": 17,
+            "start": 14,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "journey",
+            "sentence_id": 17,
+            "start": 64,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "sprint",
+            "sentence_id": 17,
+            "start": 99,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "beginning",
+            "sentence_id": 17,
+            "start": 119,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "get",
+            "sentence_id": 19,
+            "start": 16,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 42,
+            "token": "speeches",
+            "sentence_id": 19,
+            "start": 67,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "narrow",
+            "sentence_id": 19,
+            "start": 168,
+            "end": 174,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Donald Trump",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                0,
+                27,
+                41
+            ]
+        },
+        {
+            "text": "Paul Ryan",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                0,
+                25
+            ]
+        },
+        {
+            "text": "John McCain",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "Kelly Ayotte",
+            "ideology": "Right",
+            "id": 5,
+            "events": []
+        },
+        {
+            "text": "Humayun Khan",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                27
+            ]
+        }
+    ]
+}

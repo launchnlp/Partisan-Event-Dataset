@@ -1,0 +1,1089 @@
+{
+    "title": "Bobby Jindal Calls for Senate Leader Mitch McConnell to Resign Next",
+    "id": "STORY_69_DOCUMENT_0",
+    "old_id": "TRIPLET_010_DOCUMENT_1",
+    "split": "train",
+    "date": "2015-09-26",
+    "topic": "us_senate",
+    "source": "Breitbart News",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "",
+    "news": [
+        {
+            "id": 0,
+            "text": "When news of GOP Speaker of the House John Boehner \u2019s resignation filtered into the Values Voter Summit on Friday , Louisiana Governor Bobby Jindal used the occasion to call for GOP Senate Leader Mitch McConnell to follow the Speaker into retirement ."
+        },
+        {
+            "id": 1,
+            "text": "Kentucky \u2019s Mitch McConnell only came to be the Senate majority leader with the 2014 elections when the GOP gained a sparse majority in the upper chamber , but for Jindal and many conservatives at the Summit , McConnell has already proven he is n\u2019t up for the job ."
+        },
+        {
+            "id": 2,
+            "text": "\u201c Here \u2019s what I say in response to Speaker Boehner stepping down : Mitch McConnell , it is now your turn , \u201d Jindal told receptive attendees at the conservative Values Voter Summit on Friday ."
+        },
+        {
+            "id": 3,
+            "text": "The Louisiana Governor , who is running back of the pack for the GOP nomination for president , urged McConnell to \u201c turn in his gavel \u201d along with Boehner ."
+        },
+        {
+            "id": 4,
+            "text": "But Bobby Jindal went further by blasting the entire GOP caucus in the House of Representatives , characterizing them as do - nothings ."
+        },
+        {
+            "id": 5,
+            "text": "\u201c That \u2019s one down , that \u2019s 434 more to go , \u201d Jindal thundered ."
+        },
+        {
+            "id": 6,
+            "text": "\u201c Folks , it is time to fire everybody in D.C. , \u201d he added ."
+        },
+        {
+            "id": 7,
+            "text": "Gov. Jindal has made attacks on the establishment a mainstay of his campaign for president , criticizing Washington for its failure on such issues as terrorism , immigration , and the defunding of abortion mill operators Planned Parenthood ."
+        },
+        {
+            "id": 8,
+            "text": "In fact , in the most recent debate , Jindal proclaimed that \u201c it is time to be done with the Republican Party . \u201d"
+        },
+        {
+            "id": 9,
+            "text": "During the September 16 debate , Jindal slammed the Senate Republicans for their weakness in the face of Democrats ."
+        },
+        {
+            "id": 10,
+            "text": "Especially on the Senate \u2019s inability to defund Planned Parenthood , even with the recent gruesome videos that have gone viral , which contain evidence that the group has for decades engaged in the illegal sale and profit from human body parts ."
+        },
+        {
+            "id": 11,
+            "text": "I wish Republicans in D.C. had half the fight of the Senate Democrats , to get rid of Obamacare , to defund Planned Parenthood ."
+        },
+        {
+            "id": 12,
+            "text": "If we ca n\u2019t defund Planned Parenthood now \u2014 if we can\u2019t stand for innocent human life after these barbaric videos \u2014 it is time to be done with the Republican Party ."
+        },
+        {
+            "id": 13,
+            "text": "We defunded them in Louisiana , let \u2019s defund them in D.C ."
+        },
+        {
+            "id": 14,
+            "text": "If we ca n\u2019t win on that issue , there \u2019s no point for being cheaper Democrats , no point for having a second liberal party , it is time to get rid of the Republican Party , start over with a new one that is at least conservative ."
+        },
+        {
+            "id": 15,
+            "text": "Give Harry Reid and Pelosi credit , at least they fight for what they believe in ."
+        },
+        {
+            "id": 16,
+            "text": "I want Senators and House members in D.C. to fight for what we believe in as well ."
+        },
+        {
+            "id": 17,
+            "text": "It \u2019s time to have Republicans with a backbone in D.C ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "resignation",
+            "sentence_id": 0,
+            "start": 54,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "filtered",
+            "sentence_id": 0,
+            "start": 66,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "used",
+            "sentence_id": 0,
+            "start": 148,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bobby jindal",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "mitch mcconnell",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "call",
+            "sentence_id": 0,
+            "start": 169,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "follow",
+            "sentence_id": 0,
+            "start": 215,
+            "end": 221,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "came",
+            "sentence_id": 1,
+            "start": 33,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "elections",
+            "sentence_id": 1,
+            "start": 85,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "gained",
+            "sentence_id": 1,
+            "start": 108,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "proven",
+            "sentence_id": 1,
+            "start": 232,
+            "end": 238,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "mitch mcconnell",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "say",
+            "sentence_id": 2,
+            "start": 17,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bobby jindal",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "mitch mcconnell",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "stepping",
+            "sentence_id": 2,
+            "start": 52,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "told",
+            "sentence_id": 2,
+            "start": 117,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "running",
+            "sentence_id": 3,
+            "start": 32,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "urged",
+            "sentence_id": 3,
+            "start": 96,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "mitch mcconnell",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "john boehner",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "turn",
+            "sentence_id": 3,
+            "start": 117,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "went",
+            "sentence_id": 4,
+            "start": 17,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bobby jindal",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "house of representatives",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "blasting",
+            "sentence_id": 4,
+            "start": 33,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bobby jindal",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "house of representatives",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "characterizing",
+            "sentence_id": 4,
+            "start": 98,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "thundered",
+            "sentence_id": 5,
+            "start": 55,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "fire",
+            "sentence_id": 6,
+            "start": 24,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "added",
+            "sentence_id": 6,
+            "start": 54,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "made",
+            "sentence_id": 7,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bobby jindal",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "terrorism",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "immigration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 22,
+            "token": "attacks",
+            "sentence_id": 7,
+            "start": 21,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "criticizing",
+            "sentence_id": 7,
+            "start": 93,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bobby jindal",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "terrorism",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "immigration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "failure",
+            "sentence_id": 7,
+            "start": 124,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "defunding",
+            "sentence_id": 7,
+            "start": 184,
+            "end": 193,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "debate",
+            "sentence_id": 8,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "proclaimed",
+            "sentence_id": 8,
+            "start": 45,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bobby jindal",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "republican party",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "done",
+            "sentence_id": 8,
+            "start": 80,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "debate",
+            "sentence_id": 9,
+            "start": 24,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "slammed",
+            "sentence_id": 9,
+            "start": 40,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bobby jindal",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "senate republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "inability",
+            "sentence_id": 10,
+            "start": 28,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "defund",
+            "sentence_id": 10,
+            "start": 41,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "gone",
+            "sentence_id": 10,
+            "start": 116,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "contain",
+            "sentence_id": 10,
+            "start": 135,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "engaged",
+            "sentence_id": 10,
+            "start": 183,
+            "end": 190,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "sale",
+            "sentence_id": 10,
+            "start": 206,
+            "end": 210,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "wish",
+            "sentence_id": 11,
+            "start": 2,
+            "end": 6,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bobby jindal",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "senate democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "obamacare",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "fight",
+            "sentence_id": 11,
+            "start": 40,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "get",
+            "sentence_id": 11,
+            "start": 75,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "defund",
+            "sentence_id": 11,
+            "start": 101,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "defund",
+            "sentence_id": 12,
+            "start": 13,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bobby jindal",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 42,
+            "token": "stand",
+            "sentence_id": 12,
+            "start": 57,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "done",
+            "sentence_id": 12,
+            "start": 134,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "defunded",
+            "sentence_id": 13,
+            "start": 3,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bobby jindal",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 45,
+            "token": "defund",
+            "sentence_id": 13,
+            "start": 39,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bobby jindal",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 46,
+            "token": "win",
+            "sentence_id": 14,
+            "start": 13,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "get",
+            "sentence_id": 14,
+            "start": 140,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bobby jindal",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "republican party",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 48,
+            "token": "start",
+            "sentence_id": 14,
+            "start": 174,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "fight",
+            "sentence_id": 15,
+            "start": 50,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "believe",
+            "sentence_id": 15,
+            "start": 70,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "want",
+            "sentence_id": 16,
+            "start": 2,
+            "end": 6,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "fight",
+            "sentence_id": 16,
+            "start": 45,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "believe",
+            "sentence_id": 16,
+            "start": 63,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "have",
+            "sentence_id": 17,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "bobby jindal",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                2,
+                9,
+                15,
+                16,
+                21,
+                23,
+                27,
+                30,
+                37,
+                41,
+                44,
+                45,
+                47
+            ]
+        },
+        {
+            "text": "mitch mcconnell",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                2,
+                8,
+                9,
+                13
+            ]
+        },
+        {
+            "text": "john boehner",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                13
+            ]
+        },
+        {
+            "text": "house of representatives",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                15,
+                16
+            ]
+        },
+        {
+            "text": "terrorism",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                21,
+                23
+            ]
+        },
+        {
+            "text": "immigration",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                21,
+                23
+            ]
+        },
+        {
+            "text": "abortion",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                21,
+                23,
+                41,
+                44,
+                45
+            ]
+        },
+        {
+            "text": "republican party",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                27,
+                47
+            ]
+        },
+        {
+            "text": "senate republicans",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                30
+            ]
+        },
+        {
+            "text": "republicans",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                37
+            ]
+        },
+        {
+            "text": "senate democrats",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                37
+            ]
+        },
+        {
+            "text": "obamacare",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                37
+            ]
+        }
+    ]
+}

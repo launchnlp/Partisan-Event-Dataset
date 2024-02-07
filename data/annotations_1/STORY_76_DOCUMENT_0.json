@@ -1,0 +1,746 @@
+{
+    "title": "Judge Puts Pennsylvania Voter ID Law On Hold Through Election",
+    "id": "STORY_76_DOCUMENT_0",
+    "old_id": "TRIPLET_227_DOCUMENT_2",
+    "split": "train",
+    "date": "2012-10-02",
+    "topic": "elections",
+    "source": "NPR (Online News)",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Center",
+    "news": [
+        {
+            "id": 0,
+            "text": "A judge is basically \" postponing Pennsylvania 's tough new voter identification requirement , ordering that it not be enforced in the presidential election , \" The Associated Press writes ."
+        },
+        {
+            "id": 1,
+            "text": "But in a ruling that 's rather difficult to follow if you 're not very familiar with the case , Commonwealth Court Judge Robert Simpson also says he \" will not restrain election officials from asking for photo ID at the polls ; rather , I will enjoin enforcement of those parts of Act 18 which directly result in disenfranchisement . \""
+        },
+        {
+            "id": 2,
+            "text": "Simpson ruled that a voter 's \" provisional ballot \" cannot be declared invalid because of the lack of an ID and that the state 's transitional effort to amend its laws regarding such votes must not take effect before Election Day \u2014 Nov. 6 ."
+        },
+        {
+            "id": 3,
+            "text": "So , it appears from his ruling , election officials can ask for an ID ."
+        },
+        {
+            "id": 4,
+            "text": "But a voter 's lack of one will not invalidate his vote ."
+        },
+        {
+            "id": 5,
+            "text": "The ruling can be appealed to the state 's Supreme Court ."
+        },
+        {
+            "id": 6,
+            "text": "As the AP wrote before the ruling was released : \" Pennsylvania 's new law , among the toughest in the nation , is a signature accomplishment of Republicans in control of Pennsylvania state government who say they fear election fraud ."
+        },
+        {
+            "id": 7,
+            "text": "But it is an emotional target for Democrats who call it a Jim Crow - style scheme to make it harder for their party 's traditional voters , including young adults and minorities , who might not carry the right kind of ID or know about the law . \""
+        },
+        {
+            "id": 8,
+            "text": "Update at 10:20 a.m. ET ."
+        },
+        {
+            "id": 9,
+            "text": "Bottom Line Is \" Pennsylvanians will not be required to show ID to vote this year . \""
+        },
+        {
+            "id": 10,
+            "text": "Harrisburg 's The Patriot - News sums up the story this way : \" Commonwealth Court Judge Robert Simpson has ruled that Pennsylvanians will not be required to show ID to vote this year ."
+        },
+        {
+            "id": 11,
+            "text": "Simpson is postponing Pennsylvania 's tough new voter identification requirement , ordering that it not be enforced in the presidential election . ..."
+        },
+        {
+            "id": 12,
+            "text": "\" The ruling means people will be asked to show ID but will be allowed to vote even if they do n't ."
+        },
+        {
+            "id": 13,
+            "text": "That was also the policy in effect for the primary this year . \""
+        },
+        {
+            "id": 14,
+            "text": "The Pittsburgh Post - Gazette explains Simpon 's ruling this way : \" The injunction would have the effect of extending the transition period of the law \u2014 when voters were asked for identification but could vote without it \u2014 through the November election . \""
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "postponing",
+            "sentence_id": 0,
+            "start": 23,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "ordering",
+            "sentence_id": 0,
+            "start": 95,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "enforced",
+            "sentence_id": 0,
+            "start": 119,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "writes",
+            "sentence_id": 0,
+            "start": 182,
+            "end": 188,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "ruling",
+            "sentence_id": 1,
+            "start": 9,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "follow",
+            "sentence_id": 1,
+            "start": 44,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "says",
+            "sentence_id": 1,
+            "start": 141,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "restrain",
+            "sentence_id": 1,
+            "start": 160,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "asking",
+            "sentence_id": 1,
+            "start": 193,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "enjoin",
+            "sentence_id": 1,
+            "start": 244,
+            "end": 250,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "enforcement",
+            "sentence_id": 1,
+            "start": 251,
+            "end": 262,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "result",
+            "sentence_id": 1,
+            "start": 303,
+            "end": 309,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "ruled",
+            "sentence_id": 2,
+            "start": 8,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "declared",
+            "sentence_id": 2,
+            "start": 63,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "effort",
+            "sentence_id": 2,
+            "start": 144,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "amend",
+            "sentence_id": 2,
+            "start": 154,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "take",
+            "sentence_id": 2,
+            "start": 199,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "appears",
+            "sentence_id": 3,
+            "start": 8,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "ruling",
+            "sentence_id": 3,
+            "start": 25,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "ask",
+            "sentence_id": 3,
+            "start": 57,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "invalidate",
+            "sentence_id": 4,
+            "start": 36,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "ruling",
+            "sentence_id": 5,
+            "start": 4,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "appealed",
+            "sentence_id": 5,
+            "start": 18,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "wrote",
+            "sentence_id": 6,
+            "start": 10,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "ruling",
+            "sentence_id": 6,
+            "start": 27,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "released",
+            "sentence_id": 6,
+            "start": 38,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "say",
+            "sentence_id": 6,
+            "start": 205,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "fear",
+            "sentence_id": 6,
+            "start": 214,
+            "end": 218,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "election fraud",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "call",
+            "sentence_id": 7,
+            "start": 48,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Pennsylvania 's new law",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 29,
+            "token": "make",
+            "sentence_id": 7,
+            "start": 85,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "carry",
+            "sentence_id": 7,
+            "start": 194,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "know",
+            "sentence_id": 7,
+            "start": 224,
+            "end": 228,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "required",
+            "sentence_id": 9,
+            "start": 44,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "show",
+            "sentence_id": 9,
+            "start": 56,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "vote",
+            "sentence_id": 9,
+            "start": 67,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "sums",
+            "sentence_id": 10,
+            "start": 33,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "ruled",
+            "sentence_id": 10,
+            "start": 108,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "required",
+            "sentence_id": 10,
+            "start": 146,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "show",
+            "sentence_id": 10,
+            "start": 158,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "vote",
+            "sentence_id": 10,
+            "start": 169,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "postponing",
+            "sentence_id": 11,
+            "start": 11,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "ordering",
+            "sentence_id": 11,
+            "start": 83,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "enforced",
+            "sentence_id": 11,
+            "start": 107,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "ruling",
+            "sentence_id": 12,
+            "start": 6,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "asked",
+            "sentence_id": 12,
+            "start": 34,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "show",
+            "sentence_id": 12,
+            "start": 43,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "allowed",
+            "sentence_id": 12,
+            "start": 63,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "vote",
+            "sentence_id": 12,
+            "start": 74,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "explains",
+            "sentence_id": 14,
+            "start": 30,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "ruling",
+            "sentence_id": 14,
+            "start": 49,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "have",
+            "sentence_id": 14,
+            "start": 90,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "extending",
+            "sentence_id": 14,
+            "start": 109,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "asked",
+            "sentence_id": 14,
+            "start": 171,
+            "end": 176,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "vote",
+            "sentence_id": 14,
+            "start": 206,
+            "end": 210,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "election",
+            "sentence_id": 14,
+            "start": 245,
+            "end": 253,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                28
+            ]
+        },
+        {
+            "text": "Pennsylvania 's new law",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                28
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                27
+            ]
+        },
+        {
+            "text": "election fraud",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                27
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1027 @@
+{
+    "title": "McEnany: Trump shared video of man shouting \u2018white power\u2019 to stand with \u2018demonized\u2019 supporters",
+    "id": "STORY_38_DOCUMENT_0",
+    "old_id": "4676_1",
+    "split": "train",
+    "date": "2020-06-29",
+    "topic": "race-and-racism",
+    "source": "The Hill",
+    "media_ideology": "Center",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Center",
+    "news": [
+        {
+            "id": 0,
+            "text": "White House press secretary Kayleigh McEnany on Monday defended President Trump\u2019s retweet a day earlier in which the president shared a video of a man in Florida shouting \u201cwhite power,\u201d saying he did so to stand up for his supporters."
+        },
+        {
+            "id": 1,
+            "text": "\u201cThe president did not hear that phrase in that portion of the video, and when it was signaled to him that this was in there he took that tweet down,\u201d McEnany told \u201cFox & Friends.\u201d"
+        },
+        {
+            "id": 2,
+            "text": "\u201cBut he made very clear to me that he stands with the people of The Villages, our great seniors, men and women in the Villages who support this president,\u201d she continued."
+        },
+        {
+            "id": 3,
+            "text": "\u201cHe stands for them and his point in tweeting out that video was to stand with his supporters who are oftentimes demonized.\u201d"
+        },
+        {
+            "id": 4,
+            "text": "Trump caused intense backlash on Sunday by approvingly sharing a video in which supporters in The Villages, a community for seniors in Florida, were seen clashing with protesters."
+        },
+        {
+            "id": 5,
+            "text": "Within the first 10 seconds of the video, a Trump supporter in a golf cart begins shouting \u201cwhite power.\u201d"
+        },
+        {
+            "id": 6,
+            "text": "The president deleted the tweet after several hours."
+        },
+        {
+            "id": 7,
+            "text": "\u201cToday the President shared a video of people shouting \u2018white power\u2019 and said they were \u2018great.\u2019"
+        },
+        {
+            "id": 8,
+            "text": "Just like he did after Charlottesville,\u201d presumptive Democratic nominee Joe Biden tweeted Sunday, referring to Trump\u2019s widely criticized comments after the deadly clashes between white supremacists and counterprotesters in 2017."
+        },
+        {
+            "id": 9,
+            "text": "Sen. Tim Scott (R-S.C.) called the tweet \u201coffensive\u201d and encouraged the president to remove it."
+        },
+        {
+            "id": 10,
+            "text": "Neither the president nor any of his aides have condemned the language used by his supporter in the video."
+        },
+        {
+            "id": 11,
+            "text": "The White House issued a statement on Sunday while Trump was at his golf club in Virginia saying the president \u201cdid not hear the one statement made on the video."
+        },
+        {
+            "id": 12,
+            "text": "What he did see was tremendous enthusiasm from his many supporters.\u201d"
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "defended",
+            "sentence_id": 0,
+            "start": 55,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "White House press secretary Kayleigh McEnany",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "retweet",
+            "sentence_id": 0,
+            "start": 82,
+            "end": 89,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "shared",
+            "sentence_id": 0,
+            "start": 127,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "shouting",
+            "sentence_id": 0,
+            "start": 162,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "saying",
+            "sentence_id": 0,
+            "start": 186,
+            "end": 192,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "did",
+            "sentence_id": 0,
+            "start": 196,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "stand",
+            "sentence_id": 0,
+            "start": 206,
+            "end": 211,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "supporters",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "hear",
+            "sentence_id": 1,
+            "start": 23,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "signaled",
+            "sentence_id": 1,
+            "start": 86,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "took",
+            "sentence_id": 1,
+            "start": 128,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "tweet",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "told",
+            "sentence_id": 1,
+            "start": 159,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "made",
+            "sentence_id": 2,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "supporters",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "stands",
+            "sentence_id": 2,
+            "start": 38,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "supporters",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 13,
+            "token": "support",
+            "sentence_id": 2,
+            "start": 131,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "supporters",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 14,
+            "token": "continued",
+            "sentence_id": 2,
+            "start": 160,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "stands",
+            "sentence_id": 3,
+            "start": 4,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "supporters",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 16,
+            "token": "tweeting",
+            "sentence_id": 3,
+            "start": 37,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "stand",
+            "sentence_id": 3,
+            "start": 68,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "supporters",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 18,
+            "token": "demonized",
+            "sentence_id": 3,
+            "start": 113,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "supporters",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "caused",
+            "sentence_id": 4,
+            "start": 6,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "backlash",
+            "sentence_id": 4,
+            "start": 21,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "tweet",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "approvingly",
+            "sentence_id": 4,
+            "start": 43,
+            "end": 54,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "sharing",
+            "sentence_id": 4,
+            "start": 55,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "seen",
+            "sentence_id": 4,
+            "start": 149,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "clashing",
+            "sentence_id": 4,
+            "start": 154,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "begins",
+            "sentence_id": 5,
+            "start": 75,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "shouting",
+            "sentence_id": 5,
+            "start": 82,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "a Trump supporter",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "white power",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 27,
+            "token": "deleted",
+            "sentence_id": 6,
+            "start": 14,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "tweet",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "shared",
+            "sentence_id": 7,
+            "start": 21,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "shouting",
+            "sentence_id": 7,
+            "start": 46,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "a Trump supporter",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "white power",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 30,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 73,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "white power",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "did",
+            "sentence_id": 8,
+            "start": 13,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "white power",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 32,
+            "token": "tweeted",
+            "sentence_id": 8,
+            "start": 82,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Democratic nominee Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "referring",
+            "sentence_id": 8,
+            "start": 98,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "comments",
+            "sentence_id": 8,
+            "start": 137,
+            "end": 145,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "clashes",
+            "sentence_id": 8,
+            "start": 163,
+            "end": 170,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "called",
+            "sentence_id": 9,
+            "start": 24,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Sen. Tim Scott",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "tweet",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "President Trump\u2019s retweet",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "encouraged",
+            "sentence_id": 9,
+            "start": 57,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Sen. Tim Scott (R-S.C.)",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "remove",
+            "sentence_id": 9,
+            "start": 85,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "condemned",
+            "sentence_id": 10,
+            "start": 48,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "white power",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "used",
+            "sentence_id": 10,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "issued",
+            "sentence_id": 11,
+            "start": 16,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "saying",
+            "sentence_id": 11,
+            "start": 90,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "hear",
+            "sentence_id": 11,
+            "start": 120,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "white power",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "see",
+            "sentence_id": 12,
+            "start": 12,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "supporters",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "President Trump",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                0,
+                6,
+                7,
+                9,
+                11,
+                12,
+                15,
+                17,
+                27,
+                30,
+                31,
+                32,
+                37,
+                39,
+                43,
+                44,
+                18
+            ]
+        },
+        {
+            "text": "supporters",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                6,
+                44,
+                11,
+                12,
+                13,
+                15,
+                17,
+                18
+            ]
+        },
+        {
+            "text": "tweet",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                9,
+                36,
+                20,
+                27
+            ]
+        },
+        {
+            "text": "white power",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                30,
+                39,
+                7,
+                26,
+                29,
+                31,
+                43
+            ]
+        },
+        {
+            "text": "Democratic nominee Joe Biden",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                32
+            ]
+        },
+        {
+            "text": "Sen. Tim Scott",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                36
+            ]
+        },
+        {
+            "text": "White House press secretary Kayleigh McEnany",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "a Trump supporter",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                26,
+                29
+            ]
+        },
+        {
+            "text": "Sen. Tim Scott (R-S.C.)",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                37
+            ]
+        },
+        {
+            "text": "President Trump\u2019s retweet",
+            "ideology": "Right",
+            "id": 11,
+            "events": [
+                36
+            ]
+        }
+    ]
+}

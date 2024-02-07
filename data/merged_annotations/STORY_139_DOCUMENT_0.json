@@ -1,0 +1,1384 @@
+{
+    "title": "Transgender track and field athletes can't compete in women's international events",
+    "id": "STORY_139_DOCUMENT_0",
+    "old_id": "7832_0",
+    "split": "test",
+    "date": "2023-03-28",
+    "topic": "LGBT",
+    "source": "NPR (Online News)",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Transgender track and field athletes can't compete in women's international events"
+        },
+        {
+            "id": 1,
+            "text": "World Athletics Council, the governing body for international track and field, will bar transgender women athletes from elite competitions for women."
+        },
+        {
+            "id": 2,
+            "text": "The council's policy, which will be in effect starting March 31, largely targets athletes who transitioned from male to female after going through puberty as a male."
+        },
+        {
+            "id": 3,
+            "text": "It will also tighten rules for athletes with disorders of sexual development, cutting in half the level of testosterone athletes can have in order to compete in women's events."
+        },
+        {
+            "id": 4,
+            "text": "The council said they ultimately decided to prioritize \"fairness and the integrity\" of the female competition over inclusion."
+        },
+        {
+            "id": 5,
+            "text": "Though the council says there are no transgender athletes currently in international track and field competition, the ruling could hinder several people who've won Olympic medals in the past."
+        },
+        {
+            "id": 6,
+            "text": "\"Decisions are always difficult when they involve conflicting needs and rights between different groups, but we continue to take the view that we must maintain fairness for female athletes above all other considerations,\" Sebastian Coe, the council's president, wrote in a press statement on Thursday."
+        },
+        {
+            "id": 7,
+            "text": "The World Athletics Council plans to form a working group to consider the issue of transgender inclusion over the next year."
+        },
+        {
+            "id": 8,
+            "text": "The committee will speak with transgender athletes to seek their perspective, review research on the matter and submit recommendations to the council."
+        },
+        {
+            "id": 9,
+            "text": "World Athletics Council acknowledges that there is limited research on elite transgender athletes"
+        },
+        {
+            "id": 10,
+            "text": "At the center of the issue is whether transgender women athletes have a physical advantage over other female competitors, even after lowering their testosterone levels."
+        },
+        {
+            "id": 11,
+            "text": "But there is limited scientific research involving elite transgender athletes \u2014 which the council also acknowledged."
+        },
+        {
+            "id": 12,
+            "text": "World Athletics Council said that they have conducted their own research over the past decade and that they found there can be an impact in performance."
+        },
+        {
+            "id": 13,
+            "text": "Several international groups including the Human Rights Watch have called the council's evidence flawed."
+        },
+        {
+            "id": 14,
+            "text": "Even without strong evidence of an advantage, the council has scrutinized the performance of athletes such as South African runner Caster Semenya, the world's fastest woman in the 800 meters."
+        },
+        {
+            "id": 15,
+            "text": "Semenya, who was raised female and is legally female, was born with XY chromosomes and has a naturally high testosterone level."
+        },
+        {
+            "id": 16,
+            "text": "In 2018 World Athletics required athletes with differences in sex development to lower their testosterone levels with birth control pills, hormone shots or surgery."
+        },
+        {
+            "id": 17,
+            "text": "Semenya refused, saying such treatments had left her feeling like she would have a heart attack, and took her case to the Court of Arbitration for Sport, which ultimately ruled against her in 2019."
+        },
+        {
+            "id": 18,
+            "text": "She is currently appealing the ruling in the European Court of Human Rights."
+        },
+        {
+            "id": 19,
+            "text": "The ban is part of a growing resistance against transgender women and girls in female sports"
+        },
+        {
+            "id": 20,
+            "text": "International track and field is not the only sport to be moving away from trans inclusion."
+        },
+        {
+            "id": 21,
+            "text": "Last year the world governing body for swimming, FINA, prohibited transgender women from participating in female swimming competitions."
+        },
+        {
+            "id": 22,
+            "text": "In 2020, World Rugby also ruled that transgender women could not play rugby internationally out of \"safety and fairness\" concerns for non-transgender women."
+        },
+        {
+            "id": 23,
+            "text": "Meanwhile in the U.S., 19 states have so far banned transgender athletes from playing on girls or women's sports teams."
+        },
+        {
+            "id": 24,
+            "text": "In statehouses across the country this year, there are dozens of more new and proposed laws that further curb transgender rights."
+        },
+        {
+            "id": 25,
+            "text": "NPR's Melissa Block contributed reporting."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "compete",
+            "sentence_id": 0,
+            "start": 43,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "bar",
+            "sentence_id": 1,
+            "start": 84,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "targets",
+            "sentence_id": 2,
+            "start": 73,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "transgender women athletes",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The council's policy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "transitioned",
+            "sentence_id": 2,
+            "start": 94,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "going",
+            "sentence_id": 2,
+            "start": 133,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "tighten",
+            "sentence_id": 3,
+            "start": 13,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The council's policy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "athletes with disorders of sexual development",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "transgender women athletes",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "cutting",
+            "sentence_id": 3,
+            "start": 78,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The council's policy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "transgender women athletes",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "compete",
+            "sentence_id": 3,
+            "start": 150,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "decided",
+            "sentence_id": 4,
+            "start": 33,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "prioritize",
+            "sentence_id": 4,
+            "start": 44,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "says",
+            "sentence_id": 5,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "ruling",
+            "sentence_id": 5,
+            "start": 118,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "hinder",
+            "sentence_id": 5,
+            "start": 131,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The council's policy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "transgender inclusion",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "several people who've won Olympic medals",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "won",
+            "sentence_id": 5,
+            "start": 160,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "Decisions",
+            "sentence_id": 6,
+            "start": 1,
+            "end": 10,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "involve",
+            "sentence_id": 6,
+            "start": 42,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "continue",
+            "sentence_id": 6,
+            "start": 112,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "take",
+            "sentence_id": 6,
+            "start": 124,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "maintain",
+            "sentence_id": 6,
+            "start": 151,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "transgender inclusion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 20,
+            "token": "wrote",
+            "sentence_id": 6,
+            "start": 262,
+            "end": 267,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "plans",
+            "sentence_id": 7,
+            "start": 28,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "form",
+            "sentence_id": 7,
+            "start": 37,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "consider",
+            "sentence_id": 7,
+            "start": 61,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "speak",
+            "sentence_id": 8,
+            "start": 19,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "seek",
+            "sentence_id": 8,
+            "start": 54,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "transgender women athletes",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 26,
+            "token": "review",
+            "sentence_id": 8,
+            "start": 78,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "transgender women athletes",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 27,
+            "token": "submit",
+            "sentence_id": 8,
+            "start": 112,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "acknowledges",
+            "sentence_id": 9,
+            "start": 24,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "lowering",
+            "sentence_id": 10,
+            "start": 133,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "transgender women athletes",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 30,
+            "token": "acknowledged",
+            "sentence_id": 11,
+            "start": 103,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "transgender inclusion",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "limited research on elite transgender athletes",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 24,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "conducted",
+            "sentence_id": 12,
+            "start": 44,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "found",
+            "sentence_id": 12,
+            "start": 108,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The council's policy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 34,
+            "token": "impact",
+            "sentence_id": 12,
+            "start": 130,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "called",
+            "sentence_id": 13,
+            "start": 67,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Several international groups including the Human Rights Watch",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The council's policy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 36,
+            "token": "flawed",
+            "sentence_id": 13,
+            "start": 97,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The council's policy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 37,
+            "token": "scrutinized",
+            "sentence_id": 14,
+            "start": 62,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "South African runner Caster Semenya",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "raised",
+            "sentence_id": 15,
+            "start": 17,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "born",
+            "sentence_id": 15,
+            "start": 58,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "required",
+            "sentence_id": 16,
+            "start": 24,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "lower",
+            "sentence_id": 16,
+            "start": 81,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "refused",
+            "sentence_id": 17,
+            "start": 8,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "South African runner Caster Semenya",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 43,
+            "token": "saying",
+            "sentence_id": 17,
+            "start": 17,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "treatments",
+            "sentence_id": 17,
+            "start": 29,
+            "end": 39,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "left",
+            "sentence_id": 17,
+            "start": 44,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "feeling",
+            "sentence_id": 17,
+            "start": 53,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "South African runner Caster Semenya",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "have",
+            "sentence_id": 17,
+            "start": 76,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "attack",
+            "sentence_id": 17,
+            "start": 89,
+            "end": 95,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "took",
+            "sentence_id": 17,
+            "start": 101,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "ruled",
+            "sentence_id": 17,
+            "start": 171,
+            "end": 176,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "appealing",
+            "sentence_id": 18,
+            "start": 17,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "South African runner Caster Semenya",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "World Athletics Council",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "ruling",
+            "sentence_id": 18,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "ban",
+            "sentence_id": 19,
+            "start": 4,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "resistance",
+            "sentence_id": 19,
+            "start": 29,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The council's policy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "transgender women athletes",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "transgender inclusion",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "moving",
+            "sentence_id": 20,
+            "start": 58,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "International track and field",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "transgender inclusion",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 56,
+            "token": "prohibited",
+            "sentence_id": 21,
+            "start": 55,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "FINA",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "transgender inclusion",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "transgender rights",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 57,
+            "token": "participating",
+            "sentence_id": 21,
+            "start": 89,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "ruled",
+            "sentence_id": 22,
+            "start": 26,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "World Rugby",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "transgender rights",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 59,
+            "token": "play",
+            "sentence_id": 22,
+            "start": 65,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "banned",
+            "sentence_id": 23,
+            "start": 45,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "U.S., 19 states",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "transgender rights",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 61,
+            "token": "playing",
+            "sentence_id": 23,
+            "start": 78,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "curb",
+            "sentence_id": 24,
+            "start": 105,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "more new and proposed laws",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "transgender inclusion",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "statehouses across the country",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "transgender rights",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "transgender women athletes",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                2,
+                5,
+                6,
+                10,
+                54,
+                25,
+                26,
+                29
+            ]
+        },
+        {
+            "text": "The council's policy",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                33,
+                2,
+                35,
+                36,
+                5,
+                6,
+                13,
+                54
+            ]
+        },
+        {
+            "text": "athletes with disorders of sexual development",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                5
+            ]
+        },
+        {
+            "text": "World Athletics Council",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                33,
+                36,
+                37,
+                10,
+                42,
+                46,
+                19,
+                51,
+                25,
+                26,
+                28,
+                29,
+                30
+            ]
+        },
+        {
+            "text": "transgender inclusion",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                10,
+                13,
+                19,
+                28,
+                30,
+                54,
+                55,
+                56,
+                62
+            ]
+        },
+        {
+            "text": "Several international groups including the Human Rights Watch",
+            "ideology": "Uncertain",
+            "id": 5,
+            "events": [
+                35
+            ]
+        },
+        {
+            "text": "International track and field",
+            "ideology": "N/A",
+            "id": 6,
+            "events": [
+                55
+            ]
+        },
+        {
+            "text": "FINA",
+            "ideology": "N/A",
+            "id": 7,
+            "events": [
+                56
+            ]
+        },
+        {
+            "text": "more new and proposed laws",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                62
+            ]
+        },
+        {
+            "text": "several people who've won Olympic medals",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                13
+            ]
+        },
+        {
+            "text": "limited research on elite transgender athletes",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                28,
+                30
+            ]
+        },
+        {
+            "text": "South African runner Caster Semenya",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                37,
+                42,
+                46,
+                51
+            ]
+        },
+        {
+            "text": "World Rugby",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": []
+        },
+        {
+            "text": "U.S., 19 states",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": []
+        },
+        {
+            "text": "statehouses across the country",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                62
+            ]
+        },
+        {
+            "text": "transgender rights",
+            "ideology": "Left",
+            "id": 15,
+            "events": [
+                62,
+                56,
+                58,
+                60
+            ]
+        }
+    ]
+}

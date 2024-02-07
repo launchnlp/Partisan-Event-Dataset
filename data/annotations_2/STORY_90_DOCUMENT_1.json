@@ -1,0 +1,1519 @@
+{
+    "title": "Trump Vetoes Measure to End US Involvement in Yemen War",
+    "id": "STORY_90_DOCUMENT_1",
+    "old_id": "TRIPLET_070_DOCUMENT_2",
+    "split": "train",
+    "date": "2019-04-17",
+    "topic": "white_house",
+    "source": "Newsmax (News)",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Donald Trump on Tuesday vetoed a bill passed by Congress to end U.S. military assistance in Saudi Arabia 's war in Yemen ."
+        },
+        {
+            "id": 1,
+            "text": "In a break with the president , Congress voted for the first time earlier this month to invoke the War Powers Resolution to try to stop U.S. involvement in a foreign conflict ."
+        },
+        {
+            "id": 2,
+            "text": "The veto \u2014 the second in Trump 's presidency \u2014 was expected ."
+        },
+        {
+            "id": 3,
+            "text": "Congress lacks the votes to override him ."
+        },
+        {
+            "id": 4,
+            "text": "\" This resolution is an unnecessary , dangerous attempt to weaken my constitutional authorities , endangering the lives of American citizens and brave service members , both today and in the future , \" Trump wrote in explaining his veto ."
+        },
+        {
+            "id": 5,
+            "text": "Congress has grown uneasy with Trump 's close relationship with Saudi Arabia as he tries to further isolate Iran , a regional rival ."
+        },
+        {
+            "id": 6,
+            "text": "Many lawmakers also criticized the president for not condemning Saudi Arabia for the killing of Jamal Khashoggi , a Saudi who lived in the United States and had written critically about the kingdom ."
+        },
+        {
+            "id": 7,
+            "text": "Khashoggi went into the Saudi consulate in Istanbul last October and never came out ."
+        },
+        {
+            "id": 8,
+            "text": "Intelligence agencies said Saudi Crown Prince Mohammed bin Salman was complicit in the killing ."
+        },
+        {
+            "id": 9,
+            "text": "The U.S. provides billions of dollars of arms to the Saudi-led coalition fighting against Iran - backed rebels in Yemen ."
+        },
+        {
+            "id": 10,
+            "text": "Members of Congress have expressed concern about the thousands of civilians killed in coalition airstrikes since the conflict began in 2014 ."
+        },
+        {
+            "id": 11,
+            "text": "The fighting in the Arab world 's poorest country also has left millions suffering from food and medical care shortages and has pushed the country to the brink of famine ."
+        },
+        {
+            "id": 12,
+            "text": "House approval of the resolution came earlier this month on a 247- 175 vote ."
+        },
+        {
+            "id": 13,
+            "text": "The Senate vote last month was 54 - 46 ."
+        },
+        {
+            "id": 14,
+            "text": "Democratic Rep. Eliot Engel of New York , chairman of the House Foreign Affairs Committee , voted to end U.S. military assistance to the war , saying the humanitarian crisis in Yemen triggered \" demands moral leadership . \""
+        },
+        {
+            "id": 15,
+            "text": "The top Republican on the committee , Rep. Michael McCaul of Texas , acknowledged the dire situation in Yemen for civilians , but spoke out in opposition to the bill ."
+        },
+        {
+            "id": 16,
+            "text": "McCaul said it was an abuse of the War Powers Resolution and predicted it could disrupt U.S. security cooperation agreements with more than 100 countries ."
+        },
+        {
+            "id": 17,
+            "text": "Trump issued his first veto last month on legislation related to immigration ."
+        },
+        {
+            "id": 18,
+            "text": "Trump had declared a national emergency so he could use more money to construct a border wall ."
+        },
+        {
+            "id": 19,
+            "text": "Congress voted to block the emergency declaration and Trump vetoed that measure ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "vetoed",
+            "sentence_id": 0,
+            "start": 34,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "bill passed by congress to end u.s. military assistance in saudi arabia 's war in yemen",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "passed",
+            "sentence_id": 0,
+            "start": 48,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "congress",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "bill passed by congress to end u.s. military assistance in saudi arabia 's war in yemen",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 2,
+            "token": "end",
+            "sentence_id": 0,
+            "start": 70,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "assistance",
+            "sentence_id": 0,
+            "start": 88,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "war",
+            "sentence_id": 0,
+            "start": 118,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "break",
+            "sentence_id": 1,
+            "start": 5,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "congress",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 6,
+            "token": "voted",
+            "sentence_id": 1,
+            "start": 41,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "congress",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "war powers resolution",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 7,
+            "token": "invoke",
+            "sentence_id": 1,
+            "start": 88,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "congress",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "war powers resolution",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 8,
+            "token": "try",
+            "sentence_id": 1,
+            "start": 124,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "stop",
+            "sentence_id": 1,
+            "start": 131,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "congress",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "end u.s. military assistance in saudi arabia 's war in yemen",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 10,
+            "token": "involvement",
+            "sentence_id": 1,
+            "start": 141,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "conflict",
+            "sentence_id": 1,
+            "start": 166,
+            "end": 174,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "veto",
+            "sentence_id": 2,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "expected",
+            "sentence_id": 2,
+            "start": 51,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "lacks",
+            "sentence_id": 3,
+            "start": 9,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "congress",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "override",
+            "sentence_id": 3,
+            "start": 28,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "congress",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "attempt",
+            "sentence_id": 4,
+            "start": 48,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "weaken",
+            "sentence_id": 4,
+            "start": 59,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "war powers resolution",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 18,
+            "token": "endangering",
+            "sentence_id": 4,
+            "start": 98,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "war powers resolution",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 19,
+            "token": "wrote",
+            "sentence_id": 4,
+            "start": 208,
+            "end": 213,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "war powers resolution",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 20,
+            "token": "explaining",
+            "sentence_id": 4,
+            "start": 217,
+            "end": 227,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "veto",
+            "sentence_id": 4,
+            "start": 232,
+            "end": 236,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "grown",
+            "sentence_id": 5,
+            "start": 13,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "congress",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 23,
+            "token": "tries",
+            "sentence_id": 5,
+            "start": 83,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "saudi arabia",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "isolate",
+            "sentence_id": 5,
+            "start": 100,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "iran",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "criticized",
+            "sentence_id": 6,
+            "start": 20,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "lawmakers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 26,
+            "token": "condemning",
+            "sentence_id": 6,
+            "start": 53,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "killing",
+            "sentence_id": 6,
+            "start": 85,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "lived",
+            "sentence_id": 6,
+            "start": 126,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "written",
+            "sentence_id": 6,
+            "start": 161,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "went",
+            "sentence_id": 7,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "came",
+            "sentence_id": 7,
+            "start": 75,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 22,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "complicit",
+            "sentence_id": 8,
+            "start": 70,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "killing",
+            "sentence_id": 8,
+            "start": 87,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "provides",
+            "sentence_id": 9,
+            "start": 9,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "the u.s.",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "saudi arabia",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 36,
+            "token": "fighting",
+            "sentence_id": 9,
+            "start": 73,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "iran - backed rebels",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "expressed",
+            "sentence_id": 10,
+            "start": 25,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "congress",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "the thousands of civilians",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "killed",
+            "sentence_id": 10,
+            "start": 76,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "airstrikes",
+            "sentence_id": 10,
+            "start": 96,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "conflict",
+            "sentence_id": 10,
+            "start": 117,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "began",
+            "sentence_id": 10,
+            "start": 126,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "fighting",
+            "sentence_id": 11,
+            "start": 4,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "left",
+            "sentence_id": 11,
+            "start": 59,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "suffering",
+            "sentence_id": 11,
+            "start": 73,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "shortages",
+            "sentence_id": 11,
+            "start": 110,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "pushed",
+            "sentence_id": 11,
+            "start": 128,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "approval",
+            "sentence_id": 12,
+            "start": 6,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "house",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 48,
+            "token": "came",
+            "sentence_id": 12,
+            "start": 33,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "vote",
+            "sentence_id": 12,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "vote",
+            "sentence_id": 13,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "the senate",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "bill passed by congress to end u.s. military assistance in saudi arabia 's war in yemen",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 51,
+            "token": "voted",
+            "sentence_id": 14,
+            "start": 92,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "eliot engel",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "bill passed by congress to end u.s. military assistance in saudi arabia 's war in yemen",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 52,
+            "token": "end",
+            "sentence_id": 14,
+            "start": 101,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "eliot engel",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "end u.s. military assistance in saudi arabia 's war in yemen",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 53,
+            "token": "assistance",
+            "sentence_id": 14,
+            "start": 119,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "war",
+            "sentence_id": 14,
+            "start": 137,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "saying",
+            "sentence_id": 14,
+            "start": 143,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "crisis",
+            "sentence_id": 14,
+            "start": 167,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "triggered",
+            "sentence_id": 14,
+            "start": 183,
+            "end": 192,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "demands",
+            "sentence_id": 14,
+            "start": 195,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "acknowledged",
+            "sentence_id": 15,
+            "start": 69,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "michael mccaul of texas",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "the thousands of civilians",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 60,
+            "token": "situation",
+            "sentence_id": 15,
+            "start": 91,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "spoke",
+            "sentence_id": 15,
+            "start": 130,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "michael mccaul of texas",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "bill passed by congress to end u.s. military assistance in saudi arabia 's war in yemen",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 62,
+            "token": "said",
+            "sentence_id": 16,
+            "start": 7,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "michael mccaul of texas",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "war powers resolution",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 63,
+            "token": "abuse",
+            "sentence_id": 16,
+            "start": 22,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "predicted",
+            "sentence_id": 16,
+            "start": 61,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "disrupt",
+            "sentence_id": 16,
+            "start": 80,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "issued",
+            "sentence_id": 17,
+            "start": 6,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "legislation related to immigration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 67,
+            "token": "veto",
+            "sentence_id": 17,
+            "start": 23,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "declared",
+            "sentence_id": 18,
+            "start": 10,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "use",
+            "sentence_id": 18,
+            "start": 52,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "construct",
+            "sentence_id": 18,
+            "start": 70,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "border wall",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 71,
+            "token": "voted",
+            "sentence_id": 19,
+            "start": 9,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "congress",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "emergency declaration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 72,
+            "token": "block",
+            "sentence_id": 19,
+            "start": 18,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "declaration",
+            "sentence_id": 19,
+            "start": 38,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "vetoed",
+            "sentence_id": 19,
+            "start": 60,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "donald trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "emergency declaration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "donald trump",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                0,
+                15,
+                19,
+                22,
+                23,
+                24,
+                25,
+                66,
+                70,
+                74,
+                5
+            ]
+        },
+        {
+            "text": "end u.s. military assistance in saudi arabia 's war in yemen",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                9,
+                52
+            ]
+        },
+        {
+            "text": "congress",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                1,
+                6,
+                14,
+                22,
+                37,
+                71,
+                5,
+                7,
+                9,
+                15
+            ]
+        },
+        {
+            "text": "saudi arabia",
+            "ideology": "N/A",
+            "id": 3,
+            "events": [
+                23,
+                35
+            ]
+        },
+        {
+            "text": "iran",
+            "ideology": "N/A",
+            "id": 4,
+            "events": [
+                24
+            ]
+        },
+        {
+            "text": "lawmakers",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                25
+            ]
+        },
+        {
+            "text": "iran - backed rebels",
+            "ideology": "N/A",
+            "id": 6,
+            "events": [
+                36
+            ]
+        },
+        {
+            "text": "the thousands of civilians",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                37,
+                59
+            ]
+        },
+        {
+            "text": "house",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                47
+            ]
+        },
+        {
+            "text": "the senate",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                50
+            ]
+        },
+        {
+            "text": "eliot engel",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                51,
+                52
+            ]
+        },
+        {
+            "text": "michael mccaul of texas",
+            "ideology": "Right",
+            "id": 11,
+            "events": [
+                59,
+                61,
+                62
+            ]
+        },
+        {
+            "text": "legislation related to immigration",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                66
+            ]
+        },
+        {
+            "text": "border wall",
+            "ideology": "Right",
+            "id": 13,
+            "events": [
+                70
+            ]
+        },
+        {
+            "text": "emergency declaration",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                71,
+                74
+            ]
+        },
+        {
+            "text": "bill passed by congress to end u.s. military assistance in saudi arabia 's war in yemen",
+            "ideology": "Left",
+            "id": 15,
+            "events": [
+                0,
+                1,
+                50,
+                51,
+                61
+            ]
+        },
+        {
+            "text": "war powers resolution",
+            "ideology": "Left",
+            "id": 16,
+            "events": [
+                7,
+                6,
+                19,
+                17,
+                18,
+                62
+            ]
+        },
+        {
+            "text": "the u.s.",
+            "ideology": "Neutral",
+            "id": 17,
+            "events": [
+                35
+            ]
+        }
+    ]
+}

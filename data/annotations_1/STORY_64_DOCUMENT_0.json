@@ -1,0 +1,2299 @@
+{
+    "title": "Runaway Oregon Republicans prepared to stay away until legislative session ends",
+    "id": "STORY_64_DOCUMENT_0",
+    "old_id": "3806_1",
+    "split": "train",
+    "date": "2019-06-22",
+    "topic": "climate-change",
+    "source": "Washington Times",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Oregon Senate Republicans are prepared to hunker down out of state until the legislative session adjourns June 30 to block Democrats from passing a \u201cdisastrous\u201d cap-and-trade legislation."
+        },
+        {
+            "id": 1,
+            "text": "Senate Republican Whip Dennis Linthicum said Friday that legislators have no plans to return, despite Democratic Gov. Kate Brown\u2019s deployment of state troopers to round up the lawmakers and bring them back to the state capitol in Salem."
+        },
+        {
+            "id": 2,
+            "text": "\u201cSenate Republicans will run out the clock on the legislative session as the state budget is fine and funded until this storm of false narratives and intimidation passes,\u201d said Mr. Linthicum in a statement."
+        },
+        {
+            "id": 3,
+            "text": "All 11 Senate Republicans have left Oregon, putting them beyond the jurisdiction of state police, and have kept their whereabouts secret, said Linthicum spokesman Jonathan Lockwood."
+        },
+        {
+            "id": 4,
+            "text": "What would bring them back?"
+        },
+        {
+            "id": 5,
+            "text": "Sen. Herman Baertschiger, Oregon Republican, said Friday he would be willing to return if the Democrats agreed to let the public decide by referring the cap-and-trade plan to the ballot."
+        },
+        {
+            "id": 6,
+            "text": "\u201cYou know, I think the Republicans would really take that into consideration,\u201d Mr. Baertschiger told KXL-FM radio host Lars Larson in a phone interview."
+        },
+        {
+            "id": 7,
+            "text": "\u201cObviously I\u2019m not with all my members and that would be a membership discussion."
+        },
+        {
+            "id": 8,
+            "text": "That would be good enough for me.\u201d"
+        },
+        {
+            "id": 9,
+            "text": "He said he pushed for the ballot option with Democrats, but that Ms. Brown told him \u201cabsolutely not.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "The Senate Republicans walked out Thursday shortly after talks on the cap-and-trade bill collapsed."
+        },
+        {
+            "id": 11,
+            "text": "Meanwhile, Democrats have accused the Senate Republicans of playing hooky."
+        },
+        {
+            "id": 12,
+            "text": "On Friday, the Oregon Democratic Party posted a \u201cwanted\u201d sign with the names and photos of the Republican legislators, calling them \u201cfugitives from justice (and their jobs)!\u201d"
+        },
+        {
+            "id": 13,
+            "text": "\u201cEvery day that Oregon Senate Republicans refuse to do their jobs has serious consequences for our climate,\u201d tweeted the Democrats."
+        },
+        {
+            "id": 14,
+            "text": "Oregon Senate President Peter Courtney said the Senate Republicans would be fined $500 per day for each day they are absent and a quorum cannot be reached."
+        },
+        {
+            "id": 15,
+            "text": "The Senate Democrats have 18 members, but need 20 members to establish a quorum."
+        },
+        {
+            "id": 16,
+            "text": "Mr. Linthicum accused Democrats of threatening to defund projects in their districts."
+        },
+        {
+            "id": 17,
+            "text": "\u201cThey are holding our state hostage for out-of-state, multinational and foreign interests,\u201d he said."
+        },
+        {
+            "id": 18,
+            "text": "\u201cWe have extraordinary support and will not allow the governor\u2019s threats or bullying coerce us into voting against Oregonians.\u201d"
+        },
+        {
+            "id": 19,
+            "text": "They may be out of sight, but the Senate Republicans have been plenty busy on social media, tweeting Friday that Ms. Brown herself commended House Democrats when they staged a walk-out in 2001."
+        },
+        {
+            "id": 20,
+            "text": "Such walkouts are rare but not heard-of."
+        },
+        {
+            "id": 21,
+            "text": "Wisconsin Senate Democrats walked out in 2011 to stop a vote on budget bills, and Texas House Democrats fled in 2003 to block a redistricting bill, according to the Thicket\u2019s Karl Kurtz."
+        },
+        {
+            "id": 22,
+            "text": "As a state legislator in 1839, Abraham Lincoln famously jumped out a window after the Illinois House Speaker locked the doors of the legislature."
+        },
+        {
+            "id": 23,
+            "text": "If passed, H.B. 2020 would make Oregon only the second state, behind California, with a cap-and-trade program, which would set a limit on greenhouse-gas emissions and auction off pollution allowances to industries."
+        },
+        {
+            "id": 24,
+            "text": "The program is aimed at lowering greenhouse-gas emissions 80 percent below 1990 levels by 2050 to combat climate change, but Republicans argue it would strangle economic growth and kill jobs, costing the average family of four at least $600 per year."
+        },
+        {
+            "id": 25,
+            "text": "Ms. Brown has made it clear she will sign the bill, saying the state has \u201ca historic opportunity to protect our children\u2019s futures by building long-term competitiveness while creating good jobs and improving access to affordable energy.\u201d"
+        },
+        {
+            "id": 26,
+            "text": "Hundreds of protesters, led by loggers and a convoy of truckers, turned out Wednesday to protest in Salem, alarmed by the what Mr. Baertschiger called \u201ca monster of a bill.\u201d"
+        },
+        {
+            "id": 27,
+            "text": "\u201cWhen you have a bill that is this enormous\u2014this changes everybody\u2019s lives in the state of Oregon \u2014 I\u2019m not going to be part of letting that being passed,\u201d he said."
+        },
+        {
+            "id": 28,
+            "text": "\u201cNope, nope, nope.\u201d"
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "prepared",
+            "sentence_id": 0,
+            "start": 30,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Oregon Senate Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "out of state",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "hunker",
+            "sentence_id": 0,
+            "start": 42,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Oregon Senate Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "out of state",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "adjourns",
+            "sentence_id": 0,
+            "start": 97,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "block",
+            "sentence_id": 0,
+            "start": 117,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Oregon Senate Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "passing",
+            "sentence_id": 0,
+            "start": 138,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "\u201cdisastrous\u201d cap-and-trade legislation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 40,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "return",
+            "sentence_id": 1,
+            "start": 86,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Oregon Senate Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "legislative session",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "deployment",
+            "sentence_id": 1,
+            "start": 131,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "round",
+            "sentence_id": 1,
+            "start": 163,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "bring",
+            "sentence_id": 1,
+            "start": 190,
+            "end": 195,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "run",
+            "sentence_id": 2,
+            "start": 25,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Oregon Senate Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "legislative session",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "funded",
+            "sentence_id": 2,
+            "start": 102,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "passes",
+            "sentence_id": 2,
+            "start": 163,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "storm of false narratives and intimidation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 172,
+            "end": 176,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "left",
+            "sentence_id": 3,
+            "start": 31,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "putting",
+            "sentence_id": 3,
+            "start": 44,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "kept",
+            "sentence_id": 3,
+            "start": 107,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 138,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "bring",
+            "sentence_id": 4,
+            "start": 11,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 45,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "willing",
+            "sentence_id": 5,
+            "start": 69,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Sen. Herman Baertschiger",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "legislative session",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "return",
+            "sentence_id": 5,
+            "start": 80,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Sen. Herman Baertschiger",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "legislative session",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "agreed",
+            "sentence_id": 5,
+            "start": 104,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "public",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 23,
+            "token": "let",
+            "sentence_id": 5,
+            "start": 114,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "public",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 24,
+            "token": "decide",
+            "sentence_id": 5,
+            "start": 129,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "referring",
+            "sentence_id": 5,
+            "start": 139,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "cap-and-trade plan to the ballot",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 26,
+            "token": "think",
+            "sentence_id": 6,
+            "start": 13,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "take",
+            "sentence_id": 6,
+            "start": 48,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Oregon Senate Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "cap-and-trade plan to the ballot",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "told",
+            "sentence_id": 6,
+            "start": 96,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "interview",
+            "sentence_id": 6,
+            "start": 142,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "discussion",
+            "sentence_id": 7,
+            "start": 70,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "pushed",
+            "sentence_id": 9,
+            "start": 11,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "told",
+            "sentence_id": 9,
+            "start": 75,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Democratic Gov. Kate Brown",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "cap-and-trade plan to the ballot",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 34,
+            "token": "walked",
+            "sentence_id": 10,
+            "start": 23,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Oregon Senate Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "legislative session",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "talks",
+            "sentence_id": 10,
+            "start": 57,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "collapsed",
+            "sentence_id": 10,
+            "start": 89,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "\u201cdisastrous\u201d cap-and-trade legislation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "legislative session",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "accused",
+            "sentence_id": 11,
+            "start": 26,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Oregon Senate Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "playing",
+            "sentence_id": 11,
+            "start": 60,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Oregon Senate Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "hooky",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 39,
+            "token": "posted",
+            "sentence_id": 12,
+            "start": 39,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "\u201cwanted\u201d sign",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "calling",
+            "sentence_id": 12,
+            "start": 119,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Oregon Senate Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "refuse",
+            "sentence_id": 13,
+            "start": 42,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Oregon Senate Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "jobs",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 42,
+            "token": "do",
+            "sentence_id": 13,
+            "start": 52,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "tweeted",
+            "sentence_id": 13,
+            "start": 109,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "said",
+            "sentence_id": 14,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "fined",
+            "sentence_id": 14,
+            "start": 76,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "Oregon Senate President Peter Courtney",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Oregon Senate Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "absent",
+            "sentence_id": 14,
+            "start": 117,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "reached",
+            "sentence_id": 14,
+            "start": 147,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "need",
+            "sentence_id": 15,
+            "start": 42,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "establish",
+            "sentence_id": 15,
+            "start": 61,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "accused",
+            "sentence_id": 16,
+            "start": 14,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "threatening",
+            "sentence_id": 16,
+            "start": 35,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "projects in their districts",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "defund",
+            "sentence_id": 16,
+            "start": 50,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "projects in their districts",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 53,
+            "token": "holding",
+            "sentence_id": 17,
+            "start": 10,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "our state hostage",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 54,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 95,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "allow",
+            "sentence_id": 18,
+            "start": 44,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "bullying",
+            "sentence_id": 18,
+            "start": 76,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Oregon Senate Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 57,
+            "token": "coerce",
+            "sentence_id": 18,
+            "start": 85,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Oregon Senate Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "voting",
+            "sentence_id": 18,
+            "start": 100,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "busy",
+            "sentence_id": 19,
+            "start": 70,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "tweeting",
+            "sentence_id": 19,
+            "start": 92,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "commended",
+            "sentence_id": 19,
+            "start": 131,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Democratic Gov. Kate Brown",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 62,
+            "token": "staged",
+            "sentence_id": 19,
+            "start": 167,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "walk-out",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 63,
+            "token": "walk",
+            "sentence_id": 19,
+            "start": 176,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "walkouts",
+            "sentence_id": 20,
+            "start": 5,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "heard",
+            "sentence_id": 20,
+            "start": 31,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "walked",
+            "sentence_id": 21,
+            "start": 27,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "Wisconsin Senate Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "stop a vote on budget bills",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 67,
+            "token": "stop",
+            "sentence_id": 21,
+            "start": 49,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "vote",
+            "sentence_id": 21,
+            "start": 56,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "fled",
+            "sentence_id": 21,
+            "start": 104,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 19,
+                    "text": "Texas House Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "block a redistricting bil",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 70,
+            "token": "block",
+            "sentence_id": 21,
+            "start": 120,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "according",
+            "sentence_id": 21,
+            "start": 148,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "jumped",
+            "sentence_id": 22,
+            "start": 56,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "locked",
+            "sentence_id": 22,
+            "start": 109,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "passed",
+            "sentence_id": 23,
+            "start": 3,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "make",
+            "sentence_id": 23,
+            "start": 27,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "set",
+            "sentence_id": 23,
+            "start": 123,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "H.B. 2020",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "limit on greenhouse-gas emissions",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 77,
+            "token": "auction",
+            "sentence_id": 23,
+            "start": 167,
+            "end": 174,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "H.B. 2020",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "pollution allowances to industries",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 78,
+            "token": "aimed",
+            "sentence_id": 24,
+            "start": 15,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "lowering",
+            "sentence_id": 24,
+            "start": 24,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "combat",
+            "sentence_id": 24,
+            "start": 98,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "argue",
+            "sentence_id": 24,
+            "start": 137,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "strangle",
+            "sentence_id": 24,
+            "start": 152,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "H.B. 2020",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "economic growth",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 83,
+            "token": "kill",
+            "sentence_id": 24,
+            "start": 181,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "H.B. 2020",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "jobs",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 84,
+            "token": "costing",
+            "sentence_id": 24,
+            "start": 192,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "H.B. 2020",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 25,
+                    "text": "average family of four",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 85,
+            "token": "made",
+            "sentence_id": 25,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "sign",
+            "sentence_id": 25,
+            "start": 37,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Democratic Gov. Kate Brown",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "H.B. 2020",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 87,
+            "token": "saying",
+            "sentence_id": 25,
+            "start": 52,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 88,
+            "token": "has",
+            "sentence_id": 25,
+            "start": 69,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "protect",
+            "sentence_id": 25,
+            "start": 100,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "H.B. 2020",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 26,
+                    "text": "our children\u2019s futures",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 90,
+            "token": "building",
+            "sentence_id": 25,
+            "start": 134,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "H.B. 2020",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 27,
+                    "text": "long-term competitiveness",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 91,
+            "token": "creating",
+            "sentence_id": 25,
+            "start": 175,
+            "end": 183,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "H.B. 2020",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "jobs",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 92,
+            "token": "improving",
+            "sentence_id": 25,
+            "start": 198,
+            "end": 207,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 28,
+                    "text": "access to affordable energy",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "H.B. 2020",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 93,
+            "token": "led",
+            "sentence_id": 26,
+            "start": 24,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 94,
+            "token": "turned",
+            "sentence_id": 26,
+            "start": 65,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 95,
+            "token": "protest",
+            "sentence_id": 26,
+            "start": 89,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 96,
+            "token": "alarmed",
+            "sentence_id": 26,
+            "start": 107,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "H.B. 2020",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 29,
+                    "text": "Hundreds of protesters",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 97,
+            "token": "called",
+            "sentence_id": 26,
+            "start": 144,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 30,
+                    "text": "Mr. Baertschiger",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "H.B. 2020",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 98,
+            "token": "changes",
+            "sentence_id": 27,
+            "start": 49,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "H.B. 2020",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 31,
+                    "text": "everybody\u2019s lives",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 99,
+            "token": "letting",
+            "sentence_id": 27,
+            "start": 128,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 30,
+                    "text": "Mr. Baertschiger",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "H.B. 2020",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 100,
+            "token": "passed",
+            "sentence_id": 27,
+            "start": 147,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 21,
+                    "text": "H.B. 2020",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 31,
+                    "text": "everybody\u2019s lives",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 101,
+            "token": "said",
+            "sentence_id": 27,
+            "start": 159,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Oregon Senate Republicans",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                0,
+                1,
+                3,
+                6,
+                10,
+                27,
+                34,
+                37,
+                38,
+                40,
+                41,
+                45,
+                56,
+                57
+            ]
+        },
+        {
+            "text": "out of state",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                0,
+                1
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                3,
+                4,
+                12,
+                22,
+                23,
+                25,
+                37,
+                39,
+                40,
+                51,
+                52,
+                53,
+                56,
+                57,
+                61,
+                102,
+                62
+            ]
+        },
+        {
+            "text": "\u201cdisastrous\u201d cap-and-trade legislation",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                4,
+                36
+            ]
+        },
+        {
+            "text": "legislative session",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                6,
+                10,
+                20,
+                21,
+                34,
+                36
+            ]
+        },
+        {
+            "text": "storm of false narratives and intimidation",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                12
+            ]
+        },
+        {
+            "text": "Sen. Herman Baertschiger",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                20,
+                21
+            ]
+        },
+        {
+            "text": "public",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                22,
+                23
+            ]
+        },
+        {
+            "text": "cap-and-trade plan to the ballot",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                27,
+                25,
+                33
+            ]
+        },
+        {
+            "text": "Democratic Gov. Kate Brown",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                33,
+                61,
+                86
+            ]
+        },
+        {
+            "text": "hooky",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                38
+            ]
+        },
+        {
+            "text": "\u201cwanted\u201d sign",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                39
+            ]
+        },
+        {
+            "text": "jobs",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                41,
+                83,
+                91
+            ]
+        },
+        {
+            "text": "Oregon Senate President Peter Courtney",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                45
+            ]
+        },
+        {
+            "text": "projects in their districts",
+            "ideology": "Neutral",
+            "id": 14,
+            "events": [
+                52
+            ]
+        },
+        {
+            "text": "our state hostage",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                53
+            ]
+        },
+        {
+            "text": "walk-out",
+            "ideology": "Left",
+            "id": 16,
+            "events": [
+                62
+            ]
+        },
+        {
+            "text": "Wisconsin Senate Democrats",
+            "ideology": "Left",
+            "id": 17,
+            "events": [
+                66
+            ]
+        },
+        {
+            "text": "stop a vote on budget bills",
+            "ideology": "Neutral",
+            "id": 18,
+            "events": [
+                66
+            ]
+        },
+        {
+            "text": "Texas House Democrats",
+            "ideology": "Left",
+            "id": 19,
+            "events": [
+                69
+            ]
+        },
+        {
+            "text": "block a redistricting bil",
+            "ideology": "Neutral",
+            "id": 20,
+            "events": [
+                69
+            ]
+        },
+        {
+            "text": "H.B. 2020",
+            "ideology": "Left",
+            "id": 21,
+            "events": [
+                76,
+                77,
+                82,
+                83,
+                84,
+                86,
+                89,
+                90,
+                91,
+                92,
+                96,
+                97,
+                98,
+                99,
+                100
+            ]
+        },
+        {
+            "text": "limit on greenhouse-gas emissions",
+            "ideology": "Left",
+            "id": 22,
+            "events": [
+                76
+            ]
+        },
+        {
+            "text": "pollution allowances to industries",
+            "ideology": "Left",
+            "id": 23,
+            "events": [
+                77
+            ]
+        },
+        {
+            "text": "economic growth",
+            "ideology": "Neutral",
+            "id": 24,
+            "events": [
+                82
+            ]
+        },
+        {
+            "text": "average family of four",
+            "ideology": "Neutral",
+            "id": 25,
+            "events": [
+                84
+            ]
+        },
+        {
+            "text": "our children\u2019s futures",
+            "ideology": "Neutral",
+            "id": 26,
+            "events": [
+                89
+            ]
+        },
+        {
+            "text": "long-term competitiveness",
+            "ideology": "Neutral",
+            "id": 27,
+            "events": [
+                90
+            ]
+        },
+        {
+            "text": "access to affordable energy",
+            "ideology": "Neutral",
+            "id": 28,
+            "events": [
+                92
+            ]
+        },
+        {
+            "text": "Hundreds of protesters",
+            "ideology": "Right",
+            "id": 29,
+            "events": [
+                96
+            ]
+        },
+        {
+            "text": "Mr. Baertschiger",
+            "ideology": "Right",
+            "id": 30,
+            "events": [
+                97,
+                99
+            ]
+        },
+        {
+            "text": "everybody\u2019s lives",
+            "ideology": "Neutral",
+            "id": 31,
+            "events": [
+                98,
+                100
+            ]
+        }
+    ]
+}

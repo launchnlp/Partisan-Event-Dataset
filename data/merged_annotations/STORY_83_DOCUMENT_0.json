@@ -1,0 +1,1412 @@
+{
+    "title": "\u2018Nobody Should Be Thrown Out\u2019: Pope Francis Endorses Same-Sex Civil Union Laws",
+    "id": "STORY_83_DOCUMENT_0",
+    "old_id": "5016_2",
+    "split": "train",
+    "date": "2020-10-21",
+    "topic": "LGBT",
+    "source": "The Daily Wire",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Pope Francis came out in support of civil union laws for same-sex couples, according to a new documentary that premiered Wednesday in Rome."
+        },
+        {
+            "id": 1,
+            "text": "\u201cHomosexuals have a right to be a part of the family,\u201d Francis said in \u201cFrancesco,\u201d a new film about his life and papacy, according to Catholic News Agency."
+        },
+        {
+            "id": 2,
+            "text": "\u201cThey\u2019re children of God and have a right to a family."
+        },
+        {
+            "id": 3,
+            "text": "Nobody should be thrown out, or be made miserable because of it.\u201d"
+        },
+        {
+            "id": 4,
+            "text": "\u201cWhat we have to create is a civil union law,\u201d the pope continued."
+        },
+        {
+            "id": 5,
+            "text": "\u201cThat way they are legally covered."
+        },
+        {
+            "id": 6,
+            "text": "I stood up for that.\u201d"
+        },
+        {
+            "id": 7,
+            "text": "\u201cFrancesco,\u201d according to its website, is \u201ca film that shows us the world as it is today and a path to understanding a better future for tomorrow, through the remarkable work of Pope Francis."
+        },
+        {
+            "id": 8,
+            "text": "It is a search for hope, humanity, compassion, unity, and redemption inside the darkness of our times.\u201d"
+        },
+        {
+            "id": 9,
+            "text": "Its trailer highlights some of the pope\u2019s comments on the coronavirus pandemic, the environment, and clerical sex abuse, as well as his oblique condemnation of President Donald Trump\u2019s border wall as \u201cnot Christian.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "Francis has raised eyebrows before for making comments many believed departed from millennia-old teachings of the Catholic Church regarding homosexuality, though Pope Francis was merely outlining dogma in a more public way than his predecessors."
+        },
+        {
+            "id": 11,
+            "text": "A few months into his pontificate in 2013, Francis noted that the Church makes a distinction between homosexual acts, which he maintained are sinful, and homosexual orientation, which he said is not."
+        },
+        {
+            "id": 12,
+            "text": "Regarding the rumored \u201cgay lobby\u201d in the Vatican, Francis responded, \u201cIf a person is gay and seeks God and has goodwill, who am I to judge?\u201d"
+        },
+        {
+            "id": 13,
+            "text": "\u201cThe Catechism of the Catholic Church explains this very well,\u201d Francis continued."
+        },
+        {
+            "id": 14,
+            "text": "\u201cIt says they should not be marginalized because of this but that they must be integrated into society.\u201d"
+        },
+        {
+            "id": 15,
+            "text": "He also condemned lobbying by the gay community or any community."
+        },
+        {
+            "id": 16,
+            "text": "\u201cThe problem is not having this orientation."
+        },
+        {
+            "id": 17,
+            "text": "We must be brothers."
+        },
+        {
+            "id": 18,
+            "text": "The problem is lobbying by this orientation, or lobbies of greedy people, political lobbies, Masonic lobbies, so many lobbies."
+        },
+        {
+            "id": 19,
+            "text": "This is the worse problem.\u201d"
+        },
+        {
+            "id": 20,
+            "text": "Francis has nevertheless remained adamant that practicing gay men should not be priests."
+        },
+        {
+            "id": 21,
+            "text": "As The Daily Wire reported:"
+        },
+        {
+            "id": 22,
+            "text": "After months of seemingly avoiding the issue following the Pennsylvania grand jury report that alleged 300 predator priests molested (mostly male) victims over a 75-year period while church hierarchy covered it up, Pope Francis has given perhaps the harshest denunciation of his pontificate regarding homosexuality in the priesthood."
+        },
+        {
+            "id": 23,
+            "text": "According to the New York Post, Pope Francis \u201cunequivocally\u201d stated over the weekend that \u201chomosexual men should not be admitted into the Catholic clergy and gay priests should practice celibacy or leave the church.\u201d"
+        },
+        {
+            "id": 24,
+            "text": "\u201cThere\u2019s no room for that kind of affection,\u201d Pope Francis said regarding same-sex attracted men in the priesthood."
+        },
+        {
+            "id": 25,
+            "text": "Pope Francis made his remarks during an interview with Spanish priest Fernando Prado in which he referred to homosexuality in the priesthood as a \u201cserious issue.\u201d"
+        },
+        {
+            "id": 26,
+            "text": "\u201cThe issue of homosexuality is a very serious issue that must be adequately discerned from the beginning with the candidates,\u201d Pope Francis said, according to The Guardian."
+        },
+        {
+            "id": 27,
+            "text": "\u201cIn our societies it even seems that homosexuality is fashionable and that mentality, in some way, also influences the life of the church.\u201d"
+        },
+        {
+            "id": 28,
+            "text": "He continued: \u201cThis is something I am concerned about, because perhaps at one time it did not receive much attention.\u201d"
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "came",
+            "sentence_id": 0,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "according",
+            "sentence_id": 0,
+            "start": 75,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "premiered",
+            "sentence_id": 0,
+            "start": 111,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 63,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "according",
+            "sentence_id": 1,
+            "start": 122,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "thrown",
+            "sentence_id": 3,
+            "start": 17,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "same-sex couples",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "the Catholic Church",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 6,
+            "token": "made",
+            "sentence_id": 3,
+            "start": 35,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "same-sex couples",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "the Catholic Church",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 7,
+            "token": "miserable",
+            "sentence_id": 3,
+            "start": 40,
+            "end": 49,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "create",
+            "sentence_id": 4,
+            "start": 17,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "the Catholic Church",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Same-Sex Civil Union Laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 9,
+            "token": "continued",
+            "sentence_id": 4,
+            "start": 56,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "covered",
+            "sentence_id": 5,
+            "start": 27,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "same-sex couples",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Same-Sex Civil Union Laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 11,
+            "token": "stood",
+            "sentence_id": 6,
+            "start": 2,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Same-Sex Civil Union Laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 12,
+            "token": "according",
+            "sentence_id": 7,
+            "start": 13,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "shows",
+            "sentence_id": 7,
+            "start": 55,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "work",
+            "sentence_id": 7,
+            "start": 170,
+            "end": 174,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "search",
+            "sentence_id": 8,
+            "start": 8,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "highlights",
+            "sentence_id": 9,
+            "start": 12,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "comments",
+            "sentence_id": 9,
+            "start": 42,
+            "end": 50,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "condemnation",
+            "sentence_id": 9,
+            "start": 144,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "President Donald Trump\u2019s border wall",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 19,
+            "token": "raised",
+            "sentence_id": 10,
+            "start": 12,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "making",
+            "sentence_id": 10,
+            "start": 39,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "comments",
+            "sentence_id": 10,
+            "start": 46,
+            "end": 54,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "believed",
+            "sentence_id": 10,
+            "start": 60,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "departed",
+            "sentence_id": 10,
+            "start": 69,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "teachings of the Catholic Church",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Same-Sex Civil Union Laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "outlining",
+            "sentence_id": 10,
+            "start": 186,
+            "end": 195,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "dogma",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Same-Sex Civil Union Laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "noted",
+            "sentence_id": 11,
+            "start": 51,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "makes",
+            "sentence_id": 11,
+            "start": 73,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "the Catholic Church",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "homosexual acts",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "maintained",
+            "sentence_id": 11,
+            "start": 127,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "the Catholic Church",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "homosexual acts",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "said",
+            "sentence_id": 11,
+            "start": 187,
+            "end": 191,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "responded",
+            "sentence_id": 12,
+            "start": 58,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "seeks",
+            "sentence_id": 12,
+            "start": 93,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Homosexuals",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "judge",
+            "sentence_id": 12,
+            "start": 133,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Homosexuals",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "explains",
+            "sentence_id": 13,
+            "start": 38,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "continued",
+            "sentence_id": 13,
+            "start": 72,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "says",
+            "sentence_id": 14,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "marginalized",
+            "sentence_id": 14,
+            "start": 28,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Homosexuals",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "the Catholic Church",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 36,
+            "token": "integrated",
+            "sentence_id": 14,
+            "start": 79,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Homosexuals",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "the Catholic Church",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "condemned",
+            "sentence_id": 15,
+            "start": 8,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "lobbying by the gay community",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "lobbying",
+            "sentence_id": 15,
+            "start": 18,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "lobbying",
+            "sentence_id": 18,
+            "start": 15,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "remained",
+            "sentence_id": 20,
+            "start": 25,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "homosexuality in the priesthood",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "adamant",
+            "sentence_id": 20,
+            "start": 34,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "homosexuality in the priesthood",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "reported",
+            "sentence_id": 21,
+            "start": 18,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "avoiding",
+            "sentence_id": 22,
+            "start": 26,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "predator priests",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 44,
+            "token": "alleged",
+            "sentence_id": 22,
+            "start": 95,
+            "end": 102,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "molested",
+            "sentence_id": 22,
+            "start": 124,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "predator priests",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "the Catholic Church",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 46,
+            "token": "covered",
+            "sentence_id": 22,
+            "start": 200,
+            "end": 207,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "the Catholic Church",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 47,
+            "token": "given",
+            "sentence_id": 22,
+            "start": 232,
+            "end": 237,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "denunciation",
+            "sentence_id": 22,
+            "start": 259,
+            "end": 271,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "homosexuality in the priesthood",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 49,
+            "token": "stated",
+            "sentence_id": 23,
+            "start": 61,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "homosexuality in the priesthood",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 50,
+            "token": "admitted",
+            "sentence_id": 23,
+            "start": 120,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "practice",
+            "sentence_id": 23,
+            "start": 177,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "leave",
+            "sentence_id": 23,
+            "start": 198,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "said",
+            "sentence_id": 24,
+            "start": 59,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "made",
+            "sentence_id": 25,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "remarks",
+            "sentence_id": 25,
+            "start": 22,
+            "end": 29,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "interview",
+            "sentence_id": 25,
+            "start": 40,
+            "end": 49,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "referred",
+            "sentence_id": 25,
+            "start": 97,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "homosexuality in the priesthood",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "discerned",
+            "sentence_id": 26,
+            "start": 76,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "homosexuality in the priesthood",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "the Catholic Church",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 59,
+            "token": "said",
+            "sentence_id": 26,
+            "start": 140,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "according",
+            "sentence_id": 26,
+            "start": 146,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "seems",
+            "sentence_id": 27,
+            "start": 26,
+            "end": 31,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "influences",
+            "sentence_id": 27,
+            "start": 104,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "homosexuality in the priesthood",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "the Catholic Church",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 63,
+            "token": "continued",
+            "sentence_id": 28,
+            "start": 3,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "concerned",
+            "sentence_id": 28,
+            "start": 38,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Pope Francis",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "homosexuality in the priesthood",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 65,
+            "token": "receive",
+            "sentence_id": 28,
+            "start": 94,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Pope Francis",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                64,
+                37,
+                41,
+                40,
+                11,
+                43,
+                48,
+                49,
+                18,
+                23,
+                57,
+                30,
+                31
+            ]
+        },
+        {
+            "text": "President Donald Trump\u2019s border wall",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                18
+            ]
+        },
+        {
+            "text": "teachings of the Catholic Church",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                23
+            ]
+        },
+        {
+            "text": "dogma",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                24
+            ]
+        },
+        {
+            "text": "lobbying by the gay community",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                37
+            ]
+        },
+        {
+            "text": "homosexuality in the priesthood",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                64,
+                40,
+                41,
+                48,
+                49,
+                57,
+                58,
+                62
+            ]
+        },
+        {
+            "text": "same-sex couples",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                5,
+                6,
+                10,
+                5
+            ]
+        },
+        {
+            "text": "Same-Sex Civil Union Laws",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                10,
+                11,
+                23,
+                24
+            ]
+        },
+        {
+            "text": "Homosexuals",
+            "ideology": "N/A",
+            "id": 9,
+            "events": [
+                30,
+                35,
+                36,
+                31
+            ]
+        },
+        {
+            "text": "the Catholic Church",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                36,
+                35,
+                45,
+                46,
+                62,
+                5,
+                6,
+                8,
+                26,
+                27,
+                58
+            ]
+        },
+        {
+            "text": "predator priests",
+            "ideology": "N/A",
+            "id": 12,
+            "events": [
+                45,
+                43
+            ]
+        },
+        {
+            "text": "homosexual acts",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": [
+                26,
+                27
+            ]
+        }
+    ]
+}

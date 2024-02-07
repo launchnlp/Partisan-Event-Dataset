@@ -1,0 +1,997 @@
+{
+    "title": "Nevada governor slams Biden for locking up mineral-rich land in new monuments",
+    "id": "STORY_136_DOCUMENT_1",
+    "old_id": "7812_1",
+    "split": "test",
+    "date": "2023-03-22",
+    "topic": "energy",
+    "source": "Washington Examiner",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Gov. Joe Lombardo (R-NV) blasted President Joe Biden on Tuesday for locking up 500,000 acres of mineral-rich land in Nevada and Texas."
+        },
+        {
+            "id": 1,
+            "text": "He said the move would be tough on Nevadans for generations."
+        },
+        {
+            "id": 2,
+            "text": "Lombardo said the White House did not respond to any of his concerns before the announcement of the 506,000-acre Avi Kwa Ame National Monument in southern Nevada."
+        },
+        {
+            "id": 3,
+            "text": "Lombardo said his office reached out."
+        },
+        {
+            "id": 4,
+            "text": "\"Since I took office, the Biden White House has not consulted with my administration about any of the details of the proposed Avi Kwa Ame national monument which, given the size of the proposal, seems badly out of step,\" Lombardo told Fox News in a statement."
+        },
+        {
+            "id": 5,
+            "text": "\"Upon learning that the President was considering unilateral action, I reached out to the White House to raise several concerns, citing the potential for terminal disruption of rare earth mineral mining projects and long-planned, bipartisan economic development efforts."
+        },
+        {
+            "id": 6,
+            "text": "While I\u2019m still waiting for a response, I\u2019m not surprised,\" he added."
+        },
+        {
+            "id": 7,
+            "text": "FILE - Clark County Sheriff and Nevada Gov.-elect Joe Lombardo gives a victory speech during a news conference Monday, Nov. 14, 2022, in Las Vegas."
+        },
+        {
+            "id": 8,
+            "text": "Biden announced the creation of the Avi Kwa Ame and Castner Range national monuments in El Paso, Texas, on Tuesday."
+        },
+        {
+            "id": 9,
+            "text": "The projects will severely limit development in the areas, including limits to drilling, mining, and possibly the construction of renewable energy facilities."
+        },
+        {
+            "id": 10,
+            "text": "Nevada contains many lithium deposits, a key mineral for green energy technologies."
+        },
+        {
+            "id": 11,
+            "text": "\"This kind of \u2018Washington Knows Best\u2019 policy might win plaudits from unaccountable special interests, but it\u2019s going to cost our state jobs and economic opportunity \u2014 all while making land more expensive and more difficult to develop for affordable housing and critical infrastructure projects,\" Lombardo said."
+        },
+        {
+            "id": 12,
+            "text": "\"The federal confiscation of 506,814 acres of Nevada land is a historic mistake that will cost Nevadans for generations to come.\""
+        },
+        {
+            "id": 13,
+            "text": "The Avi Kwa Ame designation honors tribal nations that consider the area sacred, the White House said."
+        },
+        {
+            "id": 14,
+            "text": "Avi Kwa Ame is home to one of the world\u2019s largest Joshua tree forests and is part of Biden's goal of conserving at least 30% of U.S. lands and waters by 2030."
+        },
+        {
+            "id": 15,
+            "text": "In a separate action on Tuesday, Biden directed Commerce Secretary Gina Raimondo to consider initiating a new national marine sanctuary designation to protect all U.S. waters around the Pacific Remote Islands."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "blasted",
+            "sentence_id": 0,
+            "start": 25,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "locking",
+            "sentence_id": 0,
+            "start": 68,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "federal confiscation of 506,814 acres of Nevada land",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "move",
+            "sentence_id": 1,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Nevadans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "respond",
+            "sentence_id": 2,
+            "start": 38,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Gov. Joe Lombardo",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "announcement",
+            "sentence_id": 2,
+            "start": 80,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "reached",
+            "sentence_id": 3,
+            "start": 25,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "took",
+            "sentence_id": 4,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "consulted",
+            "sentence_id": 4,
+            "start": 52,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Gov. Joe Lombardo",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "seems",
+            "sentence_id": 4,
+            "start": 195,
+            "end": 200,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Avi Kwa Ame national monument",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "told",
+            "sentence_id": 4,
+            "start": 230,
+            "end": 234,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "learning",
+            "sentence_id": 5,
+            "start": 6,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "considering",
+            "sentence_id": 5,
+            "start": 38,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "action",
+            "sentence_id": 5,
+            "start": 61,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "reached",
+            "sentence_id": 5,
+            "start": 71,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "raise",
+            "sentence_id": 5,
+            "start": 105,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "citing",
+            "sentence_id": 5,
+            "start": 129,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "disruption",
+            "sentence_id": 5,
+            "start": 163,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "efforts",
+            "sentence_id": 5,
+            "start": 262,
+            "end": 269,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "waiting",
+            "sentence_id": 6,
+            "start": 16,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Gov. Joe Lombardo",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "response",
+            "sentence_id": 6,
+            "start": 30,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "surprised",
+            "sentence_id": 6,
+            "start": 48,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Gov. Joe Lombardo",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "added",
+            "sentence_id": 6,
+            "start": 63,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "gives",
+            "sentence_id": 7,
+            "start": 63,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "speech",
+            "sentence_id": 7,
+            "start": 79,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "conference",
+            "sentence_id": 7,
+            "start": 100,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "announced",
+            "sentence_id": 8,
+            "start": 6,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "creation",
+            "sentence_id": 8,
+            "start": 20,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "limit",
+            "sentence_id": 9,
+            "start": 27,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Avi Kwa Ame national monument",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "limits to drilling",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "construction of renewable energy facilities",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "construction",
+            "sentence_id": 9,
+            "start": 114,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "win",
+            "sentence_id": 11,
+            "start": 51,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "cost",
+            "sentence_id": 11,
+            "start": 120,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Avi Kwa Ame national monument",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "economic opportunity",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 34,
+            "token": "making",
+            "sentence_id": 11,
+            "start": 177,
+            "end": 183,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Avi Kwa Ame national monument",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "land more expensive",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 35,
+            "token": "develop",
+            "sentence_id": 11,
+            "start": 226,
+            "end": 233,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Avi Kwa Ame national monument",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "affordable housing and critical infrastructure projects",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 36,
+            "token": "said",
+            "sentence_id": 11,
+            "start": 305,
+            "end": 309,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "confiscation",
+            "sentence_id": 12,
+            "start": 13,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "mistake",
+            "sentence_id": 12,
+            "start": 72,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "cost",
+            "sentence_id": 12,
+            "start": 90,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "federal confiscation of 506,814 acres of Nevada land",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Nevadans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 40,
+            "token": "honors",
+            "sentence_id": 13,
+            "start": 28,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Avi Kwa Ame national monument",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "tribal nations",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 41,
+            "token": "consider",
+            "sentence_id": 13,
+            "start": 55,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 97,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "conserving",
+            "sentence_id": 14,
+            "start": 101,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "action",
+            "sentence_id": 15,
+            "start": 14,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "directed",
+            "sentence_id": 15,
+            "start": 39,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "consider",
+            "sentence_id": 15,
+            "start": 84,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "initiating",
+            "sentence_id": 15,
+            "start": 93,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "national marine sanctuary",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 48,
+            "token": "designation",
+            "sentence_id": 15,
+            "start": 136,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "protect",
+            "sentence_id": 15,
+            "start": 151,
+            "end": 158,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "national marine sanctuary",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "U.S. waters around the Pacific Remote Islands",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "President Joe Biden",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                1,
+                3,
+                5,
+                10,
+                11,
+                21,
+                23,
+                47
+            ]
+        },
+        {
+            "text": "federal confiscation of 506,814 acres of Nevada land",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                1,
+                39
+            ]
+        },
+        {
+            "text": "Nevadans",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                3,
+                39
+            ]
+        },
+        {
+            "text": "Gov. Joe Lombardo",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                5,
+                10,
+                21,
+                23
+            ]
+        },
+        {
+            "text": "Avi Kwa Ame national monument",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                30,
+                33,
+                34,
+                35,
+                40
+            ]
+        },
+        {
+            "text": "limits to drilling",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                30
+            ]
+        },
+        {
+            "text": "construction of renewable energy facilities",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                30
+            ]
+        },
+        {
+            "text": "economic opportunity",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                33
+            ]
+        },
+        {
+            "text": "land more expensive",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                34
+            ]
+        },
+        {
+            "text": "affordable housing and critical infrastructure projects",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                35
+            ]
+        },
+        {
+            "text": "tribal nations",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                40
+            ]
+        },
+        {
+            "text": "national marine sanctuary",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                47,
+                49
+            ]
+        },
+        {
+            "text": "U.S. waters around the Pacific Remote Islands",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                49
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1093 @@
+{
+    "title": "House Passes Bill Raising Age For Semi-Automatic Gun Ownership To 21",
+    "id": "STORY_116_DOCUMENT_0",
+    "old_id": "gun_4_2",
+    "split": "dev",
+    "date": "",
+    "topic": "",
+    "source": "The Daily Caller",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "",
+    "news": [
+        {
+            "id": 0,
+            "text": "House Passes Bill Raising Age For Semi-Automatic Gun Ownership To 21 ."
+        },
+        {
+            "id": 1,
+            "text": "The House of Representatives passed a gun control package Tuesday that would raise the purchasing age of certain semi-automatic rifles to 21 , but it is likely dead - on - arrival in the Senate ."
+        },
+        {
+            "id": 2,
+            "text": "The Protecting Our Kids Act was introduced by New York Rep. Jerrold Nadler in the aftermath of the Uvalde , Texas , school shooting ."
+        },
+        {
+            "id": 3,
+            "text": "In addition to raising the age at which Americans can legally purchase certain semi-automatic weapons , it also requires gun owners to store firearms in gun safes or other locations , and expands the regulation of bump stocks ."
+        },
+        {
+            "id": 4,
+            "text": "Many Republicans have described the legislation as unconstitutional , noting court rulings prohibiting states from implementing similar regulations ."
+        },
+        {
+            "id": 5,
+            "text": "\u201c All of us in this Chamber were shaken by the images of parents in Uvalde standing in line to match their DNA to the remains of their nine - and ten - year - old children \u2014 parents who should be picking their children up from school right now but who , instead , are picking up the pieces of their lives , shattered by this unimaginable loss , \u201d Nadler said in a floor speech ."
+        },
+        {
+            "id": 6,
+            "text": "The age provision passed mostly along party lines , with 218 Democrats and ten Republicans voting in favor and 197 Republicans and two Democrats voting against ."
+        },
+        {
+            "id": 7,
+            "text": "Following a request from 21 Democrats , party leadership agreed to hold separate votes on different parts of the package ."
+        },
+        {
+            "id": 8,
+            "text": "Those members hoped that splitting the legislation up would help it retain bipartisan support ."
+        },
+        {
+            "id": 9,
+            "text": "\u201c Why are there six bills in here ?"
+        },
+        {
+            "id": 10,
+            "text": "Because none of them work ."
+        },
+        {
+            "id": 11,
+            "text": "You ca n\u2019t take six bills that do n\u2019t work and put them together and make one that does ."
+        },
+        {
+            "id": 12,
+            "text": "It does n\u2019t work that way , \u201d Republican Kentucky Rep ."
+        },
+        {
+            "id": 13,
+            "text": "Thomas Massie said in a floor speech ."
+        },
+        {
+            "id": 14,
+            "text": "( RELATED : Democratic Rep Promises To \u2018 Abolish \u2019 The Filibuster And \u2018 Expand \u2019 The Supreme Court If He Does n\u2019t Get His Way On Gun Control ) The Senate is not expected to take up the legislation ."
+        },
+        {
+            "id": 15,
+            "text": "In the upper chamber , Texas Republican John Cornyn has been negotiating with Connecticut Democrat Chris Murphy on a package incentivizing states to pass red- flag laws ."
+        },
+        {
+            "id": 16,
+            "text": "Republican South Carolina Sen. Lindsey Graham , who has also been involved in the negotiations , called for certifying veterans to increase the number of armed school security guards ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "Passes",
+            "sentence_id": 0,
+            "start": 6,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "house",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "bill raising age for semi-automatic gun ownership to 21",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 1,
+            "token": "Raising",
+            "sentence_id": 0,
+            "start": 18,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "passed",
+            "sentence_id": 1,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "house",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "bill raising age for semi-automatic gun ownership to 21",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 3,
+            "token": "raise",
+            "sentence_id": 1,
+            "start": 77,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "introduced",
+            "sentence_id": 2,
+            "start": 32,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "jerrold nadler",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "the protecting our kids act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 5,
+            "token": "shooting",
+            "sentence_id": 2,
+            "start": 123,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "raising",
+            "sentence_id": 3,
+            "start": 15,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "the protecting our kids act",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "bill raising age for semi-automatic gun ownership to 21",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 7,
+            "token": "purchase",
+            "sentence_id": 3,
+            "start": 62,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "requires",
+            "sentence_id": 3,
+            "start": 112,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "the protecting our kids act",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "store firearms in gun safes or other locations",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 9,
+            "token": "store",
+            "sentence_id": 3,
+            "start": 135,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "expands",
+            "sentence_id": 3,
+            "start": 188,
+            "end": 195,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "described",
+            "sentence_id": 4,
+            "start": 22,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "bill raising age for semi-automatic gun ownership to 21",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 12,
+            "token": "noting",
+            "sentence_id": 4,
+            "start": 70,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "court",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "bill raising age for semi-automatic gun ownership to 21",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "rulings",
+            "sentence_id": 4,
+            "start": 83,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "prohibiting",
+            "sentence_id": 4,
+            "start": 91,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "implementing",
+            "sentence_id": 4,
+            "start": 115,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "shaken",
+            "sentence_id": 5,
+            "start": 33,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "standing",
+            "sentence_id": 5,
+            "start": 75,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "match",
+            "sentence_id": 5,
+            "start": 95,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "picking",
+            "sentence_id": 5,
+            "start": 196,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "picking",
+            "sentence_id": 5,
+            "start": 268,
+            "end": 275,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "shattered",
+            "sentence_id": 5,
+            "start": 307,
+            "end": 316,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "loss",
+            "sentence_id": 5,
+            "start": 338,
+            "end": 342,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 354,
+            "end": 358,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "speech",
+            "sentence_id": 5,
+            "start": 370,
+            "end": 376,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "passed",
+            "sentence_id": 6,
+            "start": 18,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "bill raising age for semi-automatic gun ownership to 21",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 26,
+            "token": "voting",
+            "sentence_id": 6,
+            "start": 91,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "bill raising age for semi-automatic gun ownership to 21",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 27,
+            "token": "voting",
+            "sentence_id": 6,
+            "start": 145,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "bill raising age for semi-automatic gun ownership to 21",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 28,
+            "token": "request",
+            "sentence_id": 7,
+            "start": 12,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "agreed",
+            "sentence_id": 7,
+            "start": 57,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "hold",
+            "sentence_id": 7,
+            "start": 67,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "votes",
+            "sentence_id": 7,
+            "start": 81,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "hoped",
+            "sentence_id": 8,
+            "start": 14,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "splitting",
+            "sentence_id": 8,
+            "start": 25,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "help",
+            "sentence_id": 8,
+            "start": 60,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "retain",
+            "sentence_id": 8,
+            "start": 68,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "work",
+            "sentence_id": 10,
+            "start": 21,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "take",
+            "sentence_id": 11,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "work",
+            "sentence_id": 11,
+            "start": 38,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "put",
+            "sentence_id": 11,
+            "start": 47,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "make",
+            "sentence_id": 11,
+            "start": 69,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "work",
+            "sentence_id": 12,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "thomas massie",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "bill raising age for semi-automatic gun ownership to 21",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 42,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "speech",
+            "sentence_id": 13,
+            "start": 30,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "Promises",
+            "sentence_id": 14,
+            "start": 27,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "Abolish",
+            "sentence_id": 14,
+            "start": 41,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "Expand",
+            "sentence_id": 14,
+            "start": 72,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "Get",
+            "sentence_id": 14,
+            "start": 114,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "expected",
+            "sentence_id": 14,
+            "start": 161,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "take",
+            "sentence_id": 14,
+            "start": 173,
+            "end": 177,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "negotiating",
+            "sentence_id": 15,
+            "start": 61,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "john cornyn",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "chris murphy",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 51,
+            "token": "incentivizing",
+            "sentence_id": 15,
+            "start": 125,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "pass",
+            "sentence_id": 15,
+            "start": 149,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "red- flag laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 53,
+            "token": "involved",
+            "sentence_id": 16,
+            "start": 66,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "negotiations",
+            "sentence_id": 16,
+            "start": 82,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "called",
+            "sentence_id": 16,
+            "start": 97,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "lindsey graham",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "ertifying veterans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 56,
+            "token": "certifying",
+            "sentence_id": 16,
+            "start": 108,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "increase",
+            "sentence_id": 16,
+            "start": 131,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "dead",
+            "sentence_id": 1,
+            "start": 160,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the senate",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "bill raising age for semi-automatic gun ownership to 21",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "house",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                0,
+                2
+            ]
+        },
+        {
+            "text": "bill raising age for semi-automatic gun ownership to 21",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                0,
+                2,
+                58,
+                6,
+                11,
+                12,
+                25,
+                26,
+                27,
+                41
+            ]
+        },
+        {
+            "text": "the senate",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                58
+            ]
+        },
+        {
+            "text": "jerrold nadler",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "the protecting our kids act",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                4,
+                6,
+                8
+            ]
+        },
+        {
+            "text": "store firearms in gun safes or other locations",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                8
+            ]
+        },
+        {
+            "text": "republicans",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                11,
+                27
+            ]
+        },
+        {
+            "text": "court",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                12
+            ]
+        },
+        {
+            "text": "democrats",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                25,
+                26
+            ]
+        },
+        {
+            "text": "thomas massie",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                41
+            ]
+        },
+        {
+            "text": "john cornyn",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                50
+            ]
+        },
+        {
+            "text": "chris murphy",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                50
+            ]
+        },
+        {
+            "text": "red- flag laws",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                52
+            ]
+        },
+        {
+            "text": "lindsey graham",
+            "ideology": "Right",
+            "id": 13,
+            "events": [
+                55
+            ]
+        },
+        {
+            "text": "ertifying veterans",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                55
+            ]
+        }
+    ]
+}

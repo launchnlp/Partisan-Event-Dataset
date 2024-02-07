@@ -1,0 +1,1138 @@
+{
+    "title": "House Democrats clear path toward passing $3.5 trillion budget bill and infrastructure plan after breaking stalemate",
+    "id": "STORY_54_DOCUMENT_0",
+    "old_id": "5914_1",
+    "split": "train",
+    "date": "2021-08-25",
+    "topic": "federal-budget",
+    "source": "CNBC",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "House Democrats forged ahead with President Joe Biden's economic plans Tuesday after they broke a stalemate that threatened to unravel the party's sprawling agenda."
+        },
+        {
+            "id": 1,
+            "text": "In a 220-212 party-line vote, the chamber passed a $3.5 trillion budget resolution and advanced a $1 trillion bipartisan infrastructure bill."
+        },
+        {
+            "id": 2,
+            "text": "The vote allows Democrats to write and approve a massive spending package without Republicans and puts the Senate-passed infrastructure plan on a path to final passage in the House."
+        },
+        {
+            "id": 3,
+            "text": "The measure includes a nonbinding commitment to vote on the infrastructure bill by Sept. 27, which aims to appease nine centrist Democrats who pushed the House to consider the bipartisan plan before it took up the Democratic budget resolution."
+        },
+        {
+            "id": 4,
+            "text": "The vote also advances a sweeping voting rights bill, which Democrats aim to pass as soon as Tuesday."
+        },
+        {
+            "id": 5,
+            "text": "In a statement Tuesday, House Speaker Nancy Pelosi, D-Calif., said she is \"committing to pass the bipartisan infrastructure bill by September 27\" and would \"rally\" her caucus to pass it."
+        },
+        {
+            "id": 6,
+            "text": "She also stressed that she aims to pass a budget reconciliation bill that could get through the Senate \u2014 meaning it may prove smaller than House progressives want."
+        },
+        {
+            "id": 7,
+            "text": "The opposition from the nine holdout Democrats threatened an agenda that supporters say will boost the economy and provide a lifeline to working-class households."
+        },
+        {
+            "id": 8,
+            "text": "Democratic leaders have cast the budget plan as the biggest expansion of the American social safety net in decades and the infrastructure bill as an overdue refresh of transportation and utilities."
+        },
+        {
+            "id": 9,
+            "text": "\"The bottom line is, in my view, we are a step closer to truly investing in the American people, positioning our economy for long-term growth and building an America that outcompetes the rest of the world,\" Biden said Tuesday after the vote."
+        },
+        {
+            "id": 10,
+            "text": "\"My goal is to build an economy from the bottom up and middle out, not just the top down.\""
+        },
+        {
+            "id": 11,
+            "text": "Pelosi has pushed to pass the bipartisan and Democratic plans at the same time in order to ensure centrists and progressives back both measures."
+        },
+        {
+            "id": 12,
+            "text": "The nine Democrats withheld their support, leaving Pelosi and her top deputies scrambling to find a path forward to salvage the party's economic plans."
+        },
+        {
+            "id": 13,
+            "text": "All the Democrats ended up voting with their party Tuesday."
+        },
+        {
+            "id": 14,
+            "text": "In a statement after the vote, the Democrats led by Rep. Josh Gottheimer of New Jersey said their deal with party leaders \"does what we set out to do: secure a standalone vote for the bipartisan infrastructure bill, send it to the President's desk, and then separately consider the reconciliation package.\""
+        },
+        {
+            "id": 15,
+            "text": "U.S. House Speaker Nancy Pelosi (D-CA) arrives for a House Democratic caucus meeting amidst ongoing negotiations over budget and infrastructure legislation at the U.S. Capitol in Washington, U.S. August 24, 2021."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "forged",
+            "sentence_id": 0,
+            "start": 16,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "broke",
+            "sentence_id": 0,
+            "start": 90,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "stalemate",
+            "sentence_id": 0,
+            "start": 98,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "threatened",
+            "sentence_id": 0,
+            "start": 113,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "unravel",
+            "sentence_id": 0,
+            "start": 127,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "vote",
+            "sentence_id": 1,
+            "start": 24,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "passed",
+            "sentence_id": 1,
+            "start": 42,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "advanced",
+            "sentence_id": 1,
+            "start": 87,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "vote",
+            "sentence_id": 2,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "allows",
+            "sentence_id": 2,
+            "start": 9,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "write",
+            "sentence_id": 2,
+            "start": 29,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "massive spending package",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "approve",
+            "sentence_id": 2,
+            "start": 39,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "massive spending package",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "puts",
+            "sentence_id": 2,
+            "start": 98,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "passage",
+            "sentence_id": 2,
+            "start": 160,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "includes",
+            "sentence_id": 3,
+            "start": 12,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "commitment",
+            "sentence_id": 3,
+            "start": 34,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "vote",
+            "sentence_id": 3,
+            "start": 48,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "aims",
+            "sentence_id": 3,
+            "start": 99,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "appease",
+            "sentence_id": 3,
+            "start": 107,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "pushed",
+            "sentence_id": 3,
+            "start": 143,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "consider",
+            "sentence_id": 3,
+            "start": 163,
+            "end": 171,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "took",
+            "sentence_id": 3,
+            "start": 202,
+            "end": 206,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "vote",
+            "sentence_id": 4,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "advances",
+            "sentence_id": 4,
+            "start": 14,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "aim",
+            "sentence_id": 4,
+            "start": 70,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "pass",
+            "sentence_id": 4,
+            "start": 77,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "statement",
+            "sentence_id": 5,
+            "start": 5,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 62,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "committing",
+            "sentence_id": 5,
+            "start": 75,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "pass",
+            "sentence_id": 5,
+            "start": 89,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "rally",
+            "sentence_id": 5,
+            "start": 157,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "pass",
+            "sentence_id": 5,
+            "start": 178,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "stressed",
+            "sentence_id": 6,
+            "start": 9,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "aims",
+            "sentence_id": 6,
+            "start": 27,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "pass",
+            "sentence_id": 6,
+            "start": 35,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "get",
+            "sentence_id": 6,
+            "start": 80,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "prove",
+            "sentence_id": 6,
+            "start": 120,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "want",
+            "sentence_id": 6,
+            "start": 158,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "threatened",
+            "sentence_id": 7,
+            "start": 47,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "massive spending package",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "say",
+            "sentence_id": 7,
+            "start": 84,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "boost",
+            "sentence_id": 7,
+            "start": 93,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "provide",
+            "sentence_id": 7,
+            "start": 115,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "cast",
+            "sentence_id": 8,
+            "start": 24,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "expansion",
+            "sentence_id": 8,
+            "start": 60,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "refresh",
+            "sentence_id": 8,
+            "start": 157,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "investing",
+            "sentence_id": 9,
+            "start": 63,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "massive spending package",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "America",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 46,
+            "token": "positioning",
+            "sentence_id": 9,
+            "start": 97,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "massive spending package",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "America",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "building",
+            "sentence_id": 9,
+            "start": 146,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "massive spending package",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "America",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 48,
+            "token": "outcompetes",
+            "sentence_id": 9,
+            "start": 171,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "massive spending package",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "America",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 49,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 213,
+            "end": 217,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "vote",
+            "sentence_id": 9,
+            "start": 236,
+            "end": 240,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "build",
+            "sentence_id": 10,
+            "start": 15,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "pushed",
+            "sentence_id": 11,
+            "start": 11,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "pass",
+            "sentence_id": 11,
+            "start": 21,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "ensure",
+            "sentence_id": 11,
+            "start": 91,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "back",
+            "sentence_id": 11,
+            "start": 125,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "withheld",
+            "sentence_id": 12,
+            "start": 19,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "massive spending package",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 57,
+            "token": "leaving",
+            "sentence_id": 12,
+            "start": 43,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Pelosi",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "scrambling",
+            "sentence_id": 12,
+            "start": 79,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Pelosi",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 59,
+            "token": "find",
+            "sentence_id": 12,
+            "start": 93,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "salvage",
+            "sentence_id": 12,
+            "start": 116,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Pelosi",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 61,
+            "token": "ended",
+            "sentence_id": 13,
+            "start": 18,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "voting",
+            "sentence_id": 13,
+            "start": 27,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "vote",
+            "sentence_id": 14,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "said",
+            "sentence_id": 14,
+            "start": 87,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "deal",
+            "sentence_id": 14,
+            "start": 98,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "does",
+            "sentence_id": 14,
+            "start": 123,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "set",
+            "sentence_id": 14,
+            "start": 136,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "do",
+            "sentence_id": 14,
+            "start": 147,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "secure",
+            "sentence_id": 14,
+            "start": 151,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "vote",
+            "sentence_id": 14,
+            "start": 171,
+            "end": 175,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "send",
+            "sentence_id": 14,
+            "start": 216,
+            "end": 220,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "consider",
+            "sentence_id": 14,
+            "start": 269,
+            "end": 277,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "arrives",
+            "sentence_id": 15,
+            "start": 39,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "meeting",
+            "sentence_id": 15,
+            "start": 77,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "negotiations",
+            "sentence_id": 15,
+            "start": 100,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                10,
+                11,
+                38,
+                56
+            ]
+        },
+        {
+            "text": "massive spending package",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                10,
+                11,
+                38,
+                45,
+                46,
+                47,
+                48,
+                56
+            ]
+        },
+        {
+            "text": "America",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                45,
+                46,
+                47,
+                48
+            ]
+        },
+        {
+            "text": "Pelosi",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                57,
+                58,
+                60
+            ]
+        }
+    ]
+}

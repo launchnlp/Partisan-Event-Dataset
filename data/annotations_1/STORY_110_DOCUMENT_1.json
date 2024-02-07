@@ -1,0 +1,1391 @@
+{
+    "title": "There is no need for more COVID money",
+    "id": "STORY_110_DOCUMENT_1",
+    "old_id": "6487_2",
+    "split": "dev",
+    "date": "2022-03-18",
+    "topic": "federal-budget",
+    "source": "Washington Examiner",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "In the interest of providing much-needed aid to Ukraine, avoiding a government shutdown, and sending as much pork home to their home districts as possible, members of Congress acted on a bipartisan basis this month and passed an omnibus spending bill six months into the fiscal year."
+        },
+        {
+            "id": 1,
+            "text": "As badly as they behaved in doing this, they at least had the good sense to purge from this 2,700-page monstrosity President Joe Biden's request for $22.5 billion (later $15.6 billion) in additional funds for COVID relief."
+        },
+        {
+            "id": 2,
+            "text": "The only danger at this point is that members might go back and decide that it's worth wasting this money."
+        },
+        {
+            "id": 3,
+            "text": "It isn't."
+        },
+        {
+            "id": 4,
+            "text": "The feds have failed, despite being pressed repeatedly, to show what happened to all the hundreds of billions spent on COVID already."
+        },
+        {
+            "id": 5,
+            "text": "It is known at this point that a large amount of that money is not being used."
+        },
+        {
+            "id": 6,
+            "text": "In a time when inflation is setting multidecadal records, there is no reason to make things even worse by spending even more money on a situation that is no longer an economic or health emergency."
+        },
+        {
+            "id": 7,
+            "text": "It is extremely telling that Democrats were so prepared to drop this funding."
+        },
+        {
+            "id": 8,
+            "text": "They are not exactly known for making such compromises, especially when they can claim that public health is at stake."
+        },
+        {
+            "id": 9,
+            "text": "They know it's not a real emergency, though, and that explains it."
+        },
+        {
+            "id": 10,
+            "text": "Department of Health and Human Services officials estimated earlier this year that they still had an unobligated $18 billion for testing, mitigation, and contact tracing for COVID."
+        },
+        {
+            "id": 11,
+            "text": "Of that, at least $4.6 billion had not even been designated for any specific use."
+        },
+        {
+            "id": 12,
+            "text": "Of the funds allocated to schools, supposedly to help them reopen with a healthy environment, a much bigger and more disturbing $191 billion remained unspent."
+        },
+        {
+            "id": 13,
+            "text": "State and local governments were supposedly still sitting on most of the $325 billion they received, most of which should never have been distributed in the first place."
+        },
+        {
+            "id": 14,
+            "text": "COVID, after all, was not an excuse to bail out irresponsible state governments that spend beyond their means \u2014 looking at you, Illinois."
+        },
+        {
+            "id": 15,
+            "text": "COVID remains a serious health problem, but the COVID emergency is now in the rearview mirror."
+        },
+        {
+            "id": 16,
+            "text": "There isn't anything about it so urgent that it cannot wait or, at most, be handled through the reprogramming of money allocated to other purposes."
+        },
+        {
+            "id": 17,
+            "text": "With his demands for more COVID funds, Biden is reaching for still more money that he can handle and dole out without any accountability."
+        },
+        {
+            "id": 18,
+            "text": "He and everyone else must abandon this mindset that the nation is at war with a virus."
+        },
+        {
+            "id": 19,
+            "text": "That was once true, but today, the battles have all been fought, and an uneasy detente has been reached."
+        },
+        {
+            "id": 20,
+            "text": "The entire nation needs to be cured of its wartime mindset, which said that extraordinary measures and extraordinarily large sums were justified to accomplish a common purpose."
+        },
+        {
+            "id": 21,
+            "text": "That hasn't been the case for more than a year now."
+        },
+        {
+            "id": 22,
+            "text": "Biden's failure to notice this at the inception of his presidency, and his bull-headed insistence on signing a massive American Rescue Plan in early 2021, is part of the reason inflation has eaten away all of the wage gains workers had made before the pandemic began."
+        },
+        {
+            "id": 23,
+            "text": "He cannot blame Russia's invasion of Ukraine because that only happened three weeks ago."
+        },
+        {
+            "id": 24,
+            "text": "Instead of demanding more money for a crisis that no longer exists, Biden should start thinking about the future."
+        },
+        {
+            "id": 25,
+            "text": "He has let the inflation genie loose, and it is throwing lightning bolts at the recovering economy he inherited."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "providing",
+            "sentence_id": 0,
+            "start": 19,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "avoiding",
+            "sentence_id": 0,
+            "start": 57,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "shutdown",
+            "sentence_id": 0,
+            "start": 79,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "sending",
+            "sentence_id": 0,
+            "start": 93,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "acted",
+            "sentence_id": 0,
+            "start": 176,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "passed",
+            "sentence_id": 0,
+            "start": 219,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "behaved",
+            "sentence_id": 1,
+            "start": 17,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "members of Congress",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "omnibus spending bill",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "had",
+            "sentence_id": 1,
+            "start": 54,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "purge",
+            "sentence_id": 1,
+            "start": 76,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "request",
+            "sentence_id": 1,
+            "start": 137,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "additional funds for COVID relief",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "go",
+            "sentence_id": 2,
+            "start": 52,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "decide",
+            "sentence_id": 2,
+            "start": 64,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "wasting",
+            "sentence_id": 2,
+            "start": 87,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "members of Congress",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "additional funds for COVID relief",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "failed",
+            "sentence_id": 4,
+            "start": 14,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "The feds",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "hundreds of billions spent on COVID",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "pressed",
+            "sentence_id": 4,
+            "start": 36,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "show",
+            "sentence_id": 4,
+            "start": 59,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "happened",
+            "sentence_id": 4,
+            "start": 69,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "spent",
+            "sentence_id": 4,
+            "start": 110,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "known",
+            "sentence_id": 5,
+            "start": 6,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "used",
+            "sentence_id": 5,
+            "start": 73,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "setting",
+            "sentence_id": 6,
+            "start": 28,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "make",
+            "sentence_id": 6,
+            "start": 80,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "spending",
+            "sentence_id": 6,
+            "start": 106,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "prepared",
+            "sentence_id": 7,
+            "start": 47,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "drop",
+            "sentence_id": 7,
+            "start": 59,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "making",
+            "sentence_id": 8,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "compromises",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "compromises",
+            "sentence_id": 8,
+            "start": 43,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "claim",
+            "sentence_id": 8,
+            "start": 81,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "know",
+            "sentence_id": 9,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "COVID",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "explains",
+            "sentence_id": 9,
+            "start": 54,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "estimated",
+            "sentence_id": 10,
+            "start": 50,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "had",
+            "sentence_id": 10,
+            "start": 94,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "designated",
+            "sentence_id": 11,
+            "start": 49,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "allocated",
+            "sentence_id": 12,
+            "start": 13,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "help",
+            "sentence_id": 12,
+            "start": 49,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "reopen",
+            "sentence_id": 12,
+            "start": 59,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "remained",
+            "sentence_id": 12,
+            "start": 141,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "sitting",
+            "sentence_id": 13,
+            "start": 50,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "received",
+            "sentence_id": 13,
+            "start": 91,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "distributed",
+            "sentence_id": 13,
+            "start": 138,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "hundreds of billions spent on COVID",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "bail",
+            "sentence_id": 14,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "state governments",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "spend",
+            "sentence_id": 14,
+            "start": 85,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "remains",
+            "sentence_id": 15,
+            "start": 6,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "emergency",
+            "sentence_id": 15,
+            "start": 54,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "wait",
+            "sentence_id": 16,
+            "start": 55,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "handled",
+            "sentence_id": 16,
+            "start": 76,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "reprogramming",
+            "sentence_id": 16,
+            "start": 96,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "allocated",
+            "sentence_id": 16,
+            "start": 119,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "demands",
+            "sentence_id": 17,
+            "start": 9,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "reaching",
+            "sentence_id": 17,
+            "start": 48,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "additional funds for COVID relief",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 50,
+            "token": "handle",
+            "sentence_id": 17,
+            "start": 90,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "dole",
+            "sentence_id": 17,
+            "start": 101,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "abandon",
+            "sentence_id": 18,
+            "start": 26,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "battles",
+            "sentence_id": 19,
+            "start": 35,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "fought",
+            "sentence_id": 19,
+            "start": 57,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "reached",
+            "sentence_id": 19,
+            "start": 96,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "needs",
+            "sentence_id": 20,
+            "start": 18,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "cured",
+            "sentence_id": 20,
+            "start": 30,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "nation",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "wartime mindset",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "said",
+            "sentence_id": 20,
+            "start": 66,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "justified",
+            "sentence_id": 20,
+            "start": 135,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "accomplish",
+            "sentence_id": 20,
+            "start": 148,
+            "end": 158,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "failure",
+            "sentence_id": 22,
+            "start": 8,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "inflation",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 62,
+            "token": "notice",
+            "sentence_id": 22,
+            "start": 19,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "inception",
+            "sentence_id": 22,
+            "start": 38,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "insistence",
+            "sentence_id": 22,
+            "start": 87,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "massive American Rescue Plan in early 2021",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 65,
+            "token": "signing",
+            "sentence_id": 22,
+            "start": 101,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "eaten",
+            "sentence_id": 22,
+            "start": 191,
+            "end": 196,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "made",
+            "sentence_id": 22,
+            "start": 236,
+            "end": 240,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "began",
+            "sentence_id": 22,
+            "start": 261,
+            "end": 266,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "blame",
+            "sentence_id": 23,
+            "start": 10,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "Russia's invasion of Ukraine",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 70,
+            "token": "invasion",
+            "sentence_id": 23,
+            "start": 25,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "happened",
+            "sentence_id": 23,
+            "start": 63,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "demanding",
+            "sentence_id": 24,
+            "start": 11,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "additional funds for COVID relief",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 73,
+            "token": "exists",
+            "sentence_id": 24,
+            "start": 60,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "start",
+            "sentence_id": 24,
+            "start": 81,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "thinking",
+            "sentence_id": 24,
+            "start": 87,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "let",
+            "sentence_id": 25,
+            "start": 7,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "inflation",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 77,
+            "token": "throwing",
+            "sentence_id": 25,
+            "start": 48,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "recovering economy",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 78,
+            "token": "inherited",
+            "sentence_id": 25,
+            "start": 102,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "President Joe Biden",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                9,
+                49,
+                61,
+                64,
+                69,
+                72,
+                76,
+                77
+            ]
+        },
+        {
+            "text": "additional funds for COVID relief",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                9,
+                12,
+                49,
+                72
+            ]
+        },
+        {
+            "text": "members of Congress",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                6,
+                12
+            ]
+        },
+        {
+            "text": "omnibus spending bill",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                6
+            ]
+        },
+        {
+            "text": "The feds",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                13
+            ]
+        },
+        {
+            "text": "hundreds of billions spent on COVID",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                13,
+                39
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                25,
+                28,
+                39,
+                40
+            ]
+        },
+        {
+            "text": "compromises",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                25
+            ]
+        },
+        {
+            "text": "COVID",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                28
+            ]
+        },
+        {
+            "text": "state governments",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                40
+            ]
+        },
+        {
+            "text": "nation",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                57
+            ]
+        },
+        {
+            "text": "wartime mindset",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                57
+            ]
+        },
+        {
+            "text": "inflation",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                61,
+                76
+            ]
+        },
+        {
+            "text": "massive American Rescue Plan in early 2021",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                64
+            ]
+        },
+        {
+            "text": "Russia's invasion of Ukraine",
+            "ideology": "Neutral",
+            "id": 14,
+            "events": [
+                69
+            ]
+        },
+        {
+            "text": "recovering economy",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                77
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1403 @@
+{
+    "title": "Trump\u2019s 1776 Commission defends nation\u2019s founding, compares progressivism to racism",
+    "id": "STORY_78_DOCUMENT_1",
+    "old_id": "5276_1",
+    "split": "train",
+    "date": "2021-01-19",
+    "topic": "race-and-racism",
+    "source": "The Hill",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Members of President Trump\u2019s 1776 Commission are calling for \u201cpatriotic education that teaches the truth of America\u201d and identifying \u201cprogressivism\u201d and \u201cracism and identity politics\u201d among the challenges to America\u2019s principles."
+        },
+        {
+            "id": 1,
+            "text": "The commission, officially established by Trump in November, argues in a report released on the federal holiday honoring Martin Luther King Jr. on Monday that Americans must \u201cstand up to the petty tyrants in every sphere who demand that we speak only of America\u2019s sins while denying her greatness\u201d while not \u201cignoring the faults in our past.\u201d"
+        },
+        {
+            "id": 2,
+            "text": "The report also condemns claims that the Founding Fathers were \u201chypocrites\u201d for advancing rights and freedoms for \u201call men\u201d while defending the practice of slavery."
+        },
+        {
+            "id": 3,
+            "text": "\u201cThis charge is untrue, and has done enormous damage, especially in recent years, with a devastating effect on our civic unity and social fabric,\u201d the commission writes."
+        },
+        {
+            "id": 4,
+            "text": "\u201cMany Americans labor under the illusion that slavery was somehow a uniquely American evil,\u201d the authors continue."
+        },
+        {
+            "id": 5,
+            "text": "\u201cIt is essential to insist at the outset that the institution be seen in a much broader perspective,\u201d they wrote, adding that \u201cthe unfortunate fact is that the institution of slavery has been more the rule than the exception throughout human history.\u201d"
+        },
+        {
+            "id": 6,
+            "text": "The report goes on to say that \u201chistorical revisionism that tramples honest scholarship and historical truth, shames Americans by highlighting only the sins of their ancestors, and teaches claims of systemic racism that can only be eliminated by more discrimination, is an ideology intended to manipulate opinions more than educate minds.\u201d"
+        },
+        {
+            "id": 7,
+            "text": "The commission then rebukes \u201cidentity politics,\u201d which it argues \u201cteaches that America itself is to blame for oppression.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "\u201cFirst, the creed of identity politics defines and divides Americans in terms of collective social identities."
+        },
+        {
+            "id": 9,
+            "text": "According to this new creed, our racial and sexual identities are more important than our common status as individuals equally endowed with fundamental rights,\u201d the commission members argue, adding that identity politics \u201cdivides Americans into two groups: oppressors and victims.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "\u201cIdentity politics divide Americans by placing them perpetually in conflict with each other,\u201d the authors write."
+        },
+        {
+            "id": 11,
+            "text": "\u201cAll Americans, and especially all educators, should understand identity politics for what it is: rejection of the principle of equality proclaimed in the Declaration of Independence.\u201d"
+        },
+        {
+            "id": 12,
+            "text": "The commission, chaired by longtime Trump ally Larry Arnn and former Vanderbilt University law professor and conservative television analyst Carol Swain, also includes other high-profile conservatives including activist Charlie Kirk, Mississippi Gov. Phil Bryant (R) and Brooke Rollins, Trump\u2019s domestic policy adviser."
+        },
+        {
+            "id": 13,
+            "text": "The 1776 Commission was formed as a response to The New York Times Magazine\u2019s 1619 Project, which focuses on the country\u2019s history of slavery and racism."
+        },
+        {
+            "id": 14,
+            "text": "Trump has claimed the 1619 Project teaches students to \u201chate their own country,\u201d though supporters have said it urges the country to address its complicated past."
+        },
+        {
+            "id": 15,
+            "text": "The commission\u2019s goal as stated in Trump\u2019s November executive order is \u201cto better enable a rising generation to understand the history and principles of the founding of the United States in 1776, and, through this, form a more perfect Union.\u201d"
+        },
+        {
+            "id": 16,
+            "text": "While Trump\u2019s appointments on the commission are for two years, it is unclear if the group will meet again once President-elect Joe Biden takes office."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "calling",
+            "sentence_id": 0,
+            "start": 49,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "teaches",
+            "sentence_id": 0,
+            "start": 87,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "identifying",
+            "sentence_id": 0,
+            "start": 121,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "progressivism",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "racism",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "established",
+            "sentence_id": 1,
+            "start": 27,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "argues",
+            "sentence_id": 1,
+            "start": 61,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "released",
+            "sentence_id": 1,
+            "start": 80,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "stand",
+            "sentence_id": 1,
+            "start": 175,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "demand",
+            "sentence_id": 1,
+            "start": 225,
+            "end": 231,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "petty tyrants",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "America\u2019s sins",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "greatness",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "speak",
+            "sentence_id": 1,
+            "start": 240,
+            "end": 245,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "denying",
+            "sentence_id": 1,
+            "start": 275,
+            "end": 282,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "petty tyrants",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "greatness",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "ignoring",
+            "sentence_id": 1,
+            "start": 309,
+            "end": 317,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "condemns",
+            "sentence_id": 2,
+            "start": 16,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Founding Fathers",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "advancing",
+            "sentence_id": 2,
+            "start": 80,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "defending",
+            "sentence_id": 2,
+            "start": 130,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "done",
+            "sentence_id": 3,
+            "start": 32,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "social fabric",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "claims that the Founding Fathers were \u201chypocrites\u201d",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "civic unity",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "writes",
+            "sentence_id": 3,
+            "start": 162,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "labor",
+            "sentence_id": 4,
+            "start": 16,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "continue",
+            "sentence_id": 4,
+            "start": 105,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "insist",
+            "sentence_id": 5,
+            "start": 20,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "the institution",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "seen",
+            "sentence_id": 5,
+            "start": 65,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "wrote",
+            "sentence_id": 5,
+            "start": 107,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "adding",
+            "sentence_id": 5,
+            "start": 114,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "goes",
+            "sentence_id": 6,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "say",
+            "sentence_id": 6,
+            "start": 22,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "tramples",
+            "sentence_id": 6,
+            "start": 60,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "historical revisionism",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "honest scholarship",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "historical truth",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "shames",
+            "sentence_id": 6,
+            "start": 110,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "historical revisionism",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "highlighting",
+            "sentence_id": 6,
+            "start": 130,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "historical revisionism",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "the sins of their ancestors",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "teaches",
+            "sentence_id": 6,
+            "start": 181,
+            "end": 188,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "eliminated",
+            "sentence_id": 6,
+            "start": 232,
+            "end": 242,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "claims of systemic racism",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "more discrimination",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "intended",
+            "sentence_id": 6,
+            "start": 282,
+            "end": 290,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "manipulate",
+            "sentence_id": 6,
+            "start": 294,
+            "end": 304,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "historical revisionism",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "opinions",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "educate",
+            "sentence_id": 6,
+            "start": 324,
+            "end": 331,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "rebukes",
+            "sentence_id": 7,
+            "start": 20,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "argues",
+            "sentence_id": 7,
+            "start": 58,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 34,
+            "token": "teaches",
+            "sentence_id": 7,
+            "start": 66,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 20,
+                    "text": "identity politics",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "America itself is to blame for oppression",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "defines",
+            "sentence_id": 8,
+            "start": 39,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "divides",
+            "sentence_id": 8,
+            "start": 51,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 20,
+                    "text": "identity politics",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "argue",
+            "sentence_id": 9,
+            "start": 184,
+            "end": 189,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "commission members",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "identity politics",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "adding",
+            "sentence_id": 9,
+            "start": 191,
+            "end": 197,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "divides",
+            "sentence_id": 9,
+            "start": 222,
+            "end": 229,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 20,
+                    "text": "identity politics",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "divide",
+            "sentence_id": 10,
+            "start": 19,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 20,
+                    "text": "identity politics",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "placing",
+            "sentence_id": 10,
+            "start": 39,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "write",
+            "sentence_id": 10,
+            "start": 106,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "understand",
+            "sentence_id": 11,
+            "start": 53,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "identity politics",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "rejection",
+            "sentence_id": 11,
+            "start": 98,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 20,
+                    "text": "identity politics",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "principle of equality",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "proclaimed",
+            "sentence_id": 11,
+            "start": 137,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "chaired",
+            "sentence_id": 12,
+            "start": 16,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "formed",
+            "sentence_id": 13,
+            "start": 24,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "response",
+            "sentence_id": 13,
+            "start": 36,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "focuses",
+            "sentence_id": 13,
+            "start": 98,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 24,
+                    "text": "The New York Times Magazine\u2019s 1619 Project",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 25,
+                    "text": "country\u2019s history of slavery and racism",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 50,
+            "token": "claimed",
+            "sentence_id": 14,
+            "start": 10,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "teaches",
+            "sentence_id": 14,
+            "start": 35,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 24,
+                    "text": "The New York Times Magazine\u2019s 1619 Project",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 26,
+                    "text": "students",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "hate",
+            "sentence_id": 14,
+            "start": 56,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "said",
+            "sentence_id": 14,
+            "start": 104,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "urges",
+            "sentence_id": 14,
+            "start": 112,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 24,
+                    "text": "The New York Times Magazine\u2019s 1619 Project",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "America\u2019s sins",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 55,
+            "token": "address",
+            "sentence_id": 14,
+            "start": 133,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "stated",
+            "sentence_id": 15,
+            "start": 25,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "enable",
+            "sentence_id": 15,
+            "start": 82,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump\u2019s 1776 Commission",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 27,
+                    "text": "rising generation",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 58,
+            "token": "understand",
+            "sentence_id": 15,
+            "start": 112,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "founding",
+            "sentence_id": 15,
+            "start": 157,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "form",
+            "sentence_id": 15,
+            "start": 215,
+            "end": 219,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "appointments",
+            "sentence_id": 16,
+            "start": 14,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "meet",
+            "sentence_id": 16,
+            "start": 96,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "takes",
+            "sentence_id": 16,
+            "start": 138,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "President Trump\u2019s 1776 Commission",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                2,
+                11,
+                18,
+                57
+            ]
+        },
+        {
+            "text": "progressivism",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "racism",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "petty tyrants",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                7,
+                9
+            ]
+        },
+        {
+            "text": "America\u2019s sins",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                7,
+                54
+            ]
+        },
+        {
+            "text": "greatness",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                7,
+                9
+            ]
+        },
+        {
+            "text": "Founding Fathers",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "claims that the Founding Fathers were \u201chypocrites\u201d",
+            "ideology": "Left",
+            "id": 7,
+            "events": []
+        },
+        {
+            "text": "social fabric",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                14
+            ]
+        },
+        {
+            "text": "civic unity",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                14
+            ]
+        },
+        {
+            "text": "the institution",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                18
+            ]
+        },
+        {
+            "text": "historical revisionism",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                24,
+                25,
+                26,
+                30
+            ]
+        },
+        {
+            "text": "honest scholarship",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": [
+                24
+            ]
+        },
+        {
+            "text": "historical truth",
+            "ideology": "Neutral",
+            "id": 14,
+            "events": [
+                24
+            ]
+        },
+        {
+            "text": "Americans",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                25,
+                36,
+                39,
+                40,
+                43
+            ]
+        },
+        {
+            "text": "the sins of their ancestors",
+            "ideology": "Neutral",
+            "id": 16,
+            "events": [
+                26
+            ]
+        },
+        {
+            "text": "claims of systemic racism",
+            "ideology": "Left",
+            "id": 17,
+            "events": [
+                28
+            ]
+        },
+        {
+            "text": "more discrimination",
+            "ideology": "Left",
+            "id": 18,
+            "events": [
+                28
+            ]
+        },
+        {
+            "text": "opinions",
+            "ideology": "Neutral",
+            "id": 19,
+            "events": [
+                30
+            ]
+        },
+        {
+            "text": "identity politics",
+            "ideology": "Left",
+            "id": 20,
+            "events": [
+                34,
+                36,
+                37,
+                39,
+                40,
+                43,
+                44
+            ]
+        },
+        {
+            "text": "America itself is to blame for oppression",
+            "ideology": "Left",
+            "id": 21,
+            "events": [
+                34
+            ]
+        },
+        {
+            "text": "commission members",
+            "ideology": "Right",
+            "id": 22,
+            "events": [
+                37
+            ]
+        },
+        {
+            "text": "principle of equality",
+            "ideology": "Neutral",
+            "id": 23,
+            "events": [
+                44
+            ]
+        },
+        {
+            "text": "The New York Times Magazine\u2019s 1619 Project",
+            "ideology": "Left",
+            "id": 24,
+            "events": [
+                49,
+                51,
+                54
+            ]
+        },
+        {
+            "text": "country\u2019s history of slavery and racism",
+            "ideology": "Neutral",
+            "id": 25,
+            "events": [
+                49
+            ]
+        },
+        {
+            "text": "students",
+            "ideology": "Neutral",
+            "id": 26,
+            "events": [
+                51
+            ]
+        },
+        {
+            "text": "rising generation",
+            "ideology": "Neutral",
+            "id": 27,
+            "events": [
+                57
+            ]
+        }
+    ]
+}

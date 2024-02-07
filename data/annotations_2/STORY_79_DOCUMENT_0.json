@@ -1,0 +1,552 @@
+{
+    "title": "Obama\u2019s Attorney General: Planned Parenthood Attack \u2018A Crime Against Women\u2019",
+    "id": "STORY_79_DOCUMENT_0",
+    "old_id": "TRIPLET_012_DOCUMENT_2",
+    "split": "train",
+    "date": "2015-11-29",
+    "topic": "violence_in_america",
+    "source": "Breitbart News",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Obama \u2019s Attorney General Loretta Lynch is issuing a strong statement about a shooting in a Colorado Planned Parenthood clinic last week ."
+        },
+        {
+            "id": 1,
+            "text": "The Attorney General denounces the shooting as \u201c a crime against women . \u201d"
+        },
+        {
+            "id": 2,
+            "text": "\u201c This unconscionable attack was not only a crime against the Colorado Springs community , but a crime against women receiving healthcare services at Planned Parenthood , law enforcement seeking to protect and serve , and other innocent people , \u201d she said in a statement ."
+        },
+        {
+            "id": 3,
+            "text": "She also alluded to the attack as an act of terror , pointing out that it was \u201c an assault on the rule of law , and an attack on all Americans \u2019 right to safety and security . \u201d"
+        },
+        {
+            "id": 4,
+            "text": "Planned Parenthood and its supporters were quick to blame the videos released this summer exposing their bartering over aborted baby body parts ."
+        },
+        {
+            "id": 5,
+            "text": "\u201c We share the concerns of many Americans that extremists are creating a poisonous environment that feeds domestic terrorism in this country , \u201d the organization said in a statement shortly after the attack ."
+        },
+        {
+            "id": 6,
+            "text": "\u201c We will never back away from providing care in a safe , supportive environment that millions of people rely on and trust . \u201d"
+        },
+        {
+            "id": 7,
+            "text": "According to reports , the shooter mentioned \u201c baby parts \u201d in interviews with local law enforcement after he was taken into custody ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "issuing",
+            "sentence_id": 0,
+            "start": 53,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "loretta lynch",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "shooting",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 1,
+            "token": "shooting",
+            "sentence_id": 0,
+            "start": 88,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "denounces",
+            "sentence_id": 1,
+            "start": 21,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "loretta lynch",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "shooting",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "women",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 3,
+            "token": "shooting",
+            "sentence_id": 1,
+            "start": 35,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "crime",
+            "sentence_id": 1,
+            "start": 51,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "attack",
+            "sentence_id": 2,
+            "start": 22,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "shooting",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "crime",
+            "sentence_id": 2,
+            "start": 44,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "crime",
+            "sentence_id": 2,
+            "start": 97,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "receiving",
+            "sentence_id": 2,
+            "start": 117,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "seeking",
+            "sentence_id": 2,
+            "start": 187,
+            "end": 194,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "protect",
+            "sentence_id": 2,
+            "start": 198,
+            "end": 205,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "serve",
+            "sentence_id": 2,
+            "start": 210,
+            "end": 215,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 252,
+            "end": 256,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "loretta lynch",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "planned parenthood",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 13,
+            "token": "alluded",
+            "sentence_id": 3,
+            "start": 9,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "loretta lynch",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "shooting",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 14,
+            "token": "attack",
+            "sentence_id": 3,
+            "start": 24,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "act",
+            "sentence_id": 3,
+            "start": 37,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "pointing",
+            "sentence_id": 3,
+            "start": 53,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "assault",
+            "sentence_id": 3,
+            "start": 83,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "attack",
+            "sentence_id": 3,
+            "start": 119,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "blame",
+            "sentence_id": 4,
+            "start": 52,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "released",
+            "sentence_id": 4,
+            "start": 69,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "exposing",
+            "sentence_id": 4,
+            "start": 90,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "bartering",
+            "sentence_id": 4,
+            "start": 105,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "share",
+            "sentence_id": 5,
+            "start": 5,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "creating",
+            "sentence_id": 5,
+            "start": 62,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "feeds",
+            "sentence_id": 5,
+            "start": 100,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 162,
+            "end": 166,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "planned parenthood",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "extremists",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "attack",
+            "sentence_id": 5,
+            "start": 200,
+            "end": 206,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "back",
+            "sentence_id": 6,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "providing",
+            "sentence_id": 6,
+            "start": 31,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "mentioned",
+            "sentence_id": 7,
+            "start": 35,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "interviews",
+            "sentence_id": 7,
+            "start": 63,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "taken",
+            "sentence_id": 7,
+            "start": 114,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "loretta lynch",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                0,
+                2,
+                12,
+                13
+            ]
+        },
+        {
+            "text": "shooting",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                0,
+                2,
+                13,
+                5
+            ]
+        },
+        {
+            "text": "women",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "planned parenthood",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                12,
+                26
+            ]
+        },
+        {
+            "text": "extremists",
+            "ideology": "Uncertain",
+            "id": 4,
+            "events": [
+                26
+            ]
+        }
+    ]
+}

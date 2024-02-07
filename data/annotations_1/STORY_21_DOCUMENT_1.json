@@ -1,0 +1,1364 @@
+{
+    "title": "Supreme Court lets challenge to Texas abortion law proceed, allows law to remain in effect",
+    "id": "STORY_21_DOCUMENT_1",
+    "old_id": "TRIPLET_1069_DOCUMENT_1",
+    "split": "train",
+    "date": "2021-12-10",
+    "topic": "abortion",
+    "source": "Fox News (Online News)",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Supreme Court Friday morning ruled that a lawsuit by abortion providers against Texas over its abortion law may proceed , despite arguments by Texas that the way the law was written made it so that parties could not sue against the law until it was enforced ."
+        },
+        {
+            "id": 1,
+            "text": "\" The Court concludes that the petitioners may pursue a pre-enforcement challenge against certain of the named defendants but not others , \" the court , led by Justice Neil Gorsuch , said ."
+        },
+        {
+            "id": 2,
+            "text": "The court also let the law remain in effect pending the legal challenges ."
+        },
+        {
+            "id": 3,
+            "text": "The ruling is procedural and will not be the final word on the law 's constitutionality ."
+        },
+        {
+            "id": 4,
+            "text": "SUPREME COURT COMMISSION STUDY SIDESTEPS CONTROVERSIAL ISSUES \" The petitioners then filed a request for injunctive relief with the Court , seeking emergency resolution of their application ahead of [ the law 's ] approaching effective date , \" the court said ."
+        },
+        {
+            "id": 5,
+            "text": "\" In the abbreviated time available for review , the Court concluded that the petitioners \u2019 filings failed to identify a basis in existing law that could justify disturbing the Fifth Circuit \u2019s decision to deny injunctive relief . \""
+        },
+        {
+            "id": 6,
+            "text": "Justices Amy Coney Barrett , Samuel Alito , and Brett Kavanaugh backed Gorsuch 's opinion in full ."
+        },
+        {
+            "id": 7,
+            "text": "The Texas law bans abortions after six weeks of pregnancy and uses a unique system to enforce that ban \u2013 allowing private individuals to bring suit in state court against people who allegedly perform abortions ."
+        },
+        {
+            "id": 8,
+            "text": "The court allowed the Texas law to remain in effect while it heard a challenge about whether parties may bring suit against it before the state has actually taken enforcement actions consistent with the law ."
+        },
+        {
+            "id": 9,
+            "text": "The court also dismissed a challenge from the Department of Justice against the Texas law Friday ."
+        },
+        {
+            "id": 10,
+            "text": "This means that only the suit by private parties will go forward against the law , with the potential to invalidate at a later time ."
+        },
+        {
+            "id": 11,
+            "text": "Justice Clarence Thomas joined the court 's controlling opinion in part and dissented in part ."
+        },
+        {
+            "id": 12,
+            "text": "He agreed with the dismissal of the case against some defendants but argued \" there is no freestanding constitutional right to pre-enforcement review in federal court . \""
+        },
+        {
+            "id": 13,
+            "text": "Therefore , he said , the abortion providers ' suit should be dismissed entirely ."
+        },
+        {
+            "id": 14,
+            "text": "\" I would reverse in full the District Court \u2019s denial of respondents \u2019 motions to dismiss and remand with instructions to dismiss the case for lack of subject - matter jurisdiction , \" he said ."
+        },
+        {
+            "id": 15,
+            "text": "Chief Justice John Roberts was backed by Justices Stephen Breyer ."
+        },
+        {
+            "id": 16,
+            "text": "Elena Kagan and Sonia Sotomayor in an opinion that argued other officials besides those allowed by the court 's opinion should be allowed to be sued ."
+        },
+        {
+            "id": 17,
+            "text": "Those included Attorney General Ken Paxton ."
+        },
+        {
+            "id": 18,
+            "text": "Sotomayor wrote separately , with Breyer and Kagan , to say yet others should be allowed to be sued ."
+        },
+        {
+            "id": 19,
+            "text": "There was very little discussion of whether the Supreme Court should block enforcement of the Texas law as litigation proceeds ."
+        },
+        {
+            "id": 20,
+            "text": "But Roberts ' opinion called on the district court overseeing the case to quickly take action against the law ."
+        },
+        {
+            "id": 21,
+            "text": "\" Given the ongoing chilling effect of the state law , the District Court should resolve this litigation and enter appropriate relief without delay , \" he said ."
+        },
+        {
+            "id": 22,
+            "text": "Sotomayor , meanwhile , railed against the structure of the state law and the Gorsuch opinion ."
+        },
+        {
+            "id": 23,
+            "text": "\" The chilling effect has been near total , depriving pregnant women in Texas of virtually all opportunity to seek abortion care within their home State after their sixth week of pregnancy , \" she said of the law ."
+        },
+        {
+            "id": 24,
+            "text": "\" The Court instead hides behind a wooden reading of Young , stitching out - of - context quotations into a cover for its failure to act decisively , \" Sotomayor wrote ."
+        },
+        {
+            "id": 25,
+            "text": "The Supreme Court is also considering a completely separate challenge to a Mississippi abortion law , a ruling on which is most likely to come next spring ."
+        },
+        {
+            "id": 26,
+            "text": "That case could overturn the landmark abortion ruling Roe v. Wade ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "ruled",
+            "sentence_id": 0,
+            "start": 33,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Supreme Court",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "lawsuit by abortion providers",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "lawsuit",
+            "sentence_id": 0,
+            "start": 46,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "proceed",
+            "sentence_id": 0,
+            "start": 116,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "arguments",
+            "sentence_id": 0,
+            "start": 134,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "written",
+            "sentence_id": 0,
+            "start": 178,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "made",
+            "sentence_id": 0,
+            "start": 186,
+            "end": 190,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "sue",
+            "sentence_id": 0,
+            "start": 220,
+            "end": 223,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "enforced",
+            "sentence_id": 0,
+            "start": 253,
+            "end": 261,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "concludes",
+            "sentence_id": 1,
+            "start": 12,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "pursue",
+            "sentence_id": 1,
+            "start": 47,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "challenge",
+            "sentence_id": 1,
+            "start": 72,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 183,
+            "end": 187,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "let",
+            "sentence_id": 2,
+            "start": 15,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "remain",
+            "sentence_id": 2,
+            "start": 27,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "challenges",
+            "sentence_id": 2,
+            "start": 62,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "ruling",
+            "sentence_id": 3,
+            "start": 4,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "STUDY",
+            "sentence_id": 4,
+            "start": 25,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "SIDESTEPS",
+            "sentence_id": 4,
+            "start": 31,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "filed",
+            "sentence_id": 4,
+            "start": 85,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "request",
+            "sentence_id": 4,
+            "start": 93,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "seeking",
+            "sentence_id": 4,
+            "start": 140,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "resolution",
+            "sentence_id": 4,
+            "start": 158,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 255,
+            "end": 259,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "review",
+            "sentence_id": 5,
+            "start": 40,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "concluded",
+            "sentence_id": 5,
+            "start": 59,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "failed",
+            "sentence_id": 5,
+            "start": 100,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "petitioners \u2019 filings",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "identify",
+            "sentence_id": 5,
+            "start": 110,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "justify",
+            "sentence_id": 5,
+            "start": 154,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "disturbing",
+            "sentence_id": 5,
+            "start": 162,
+            "end": 172,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "petitioners \u2019 filings",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Fifth Circuit \u2019s decision",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "decision",
+            "sentence_id": 5,
+            "start": 194,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "deny",
+            "sentence_id": 5,
+            "start": 206,
+            "end": 210,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "backed",
+            "sentence_id": 6,
+            "start": 64,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "bans",
+            "sentence_id": 7,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "uses",
+            "sentence_id": 7,
+            "start": 62,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "enforce",
+            "sentence_id": 7,
+            "start": 86,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "allowing",
+            "sentence_id": 7,
+            "start": 105,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Texas law",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "private individuals",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 36,
+            "token": "bring",
+            "sentence_id": 7,
+            "start": 137,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "perform",
+            "sentence_id": 7,
+            "start": 192,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "allowed",
+            "sentence_id": 8,
+            "start": 10,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "remain",
+            "sentence_id": 8,
+            "start": 35,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "heard",
+            "sentence_id": 8,
+            "start": 61,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "challenge",
+            "sentence_id": 8,
+            "start": 69,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "bring",
+            "sentence_id": 8,
+            "start": 105,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "taken",
+            "sentence_id": 8,
+            "start": 157,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "dismissed",
+            "sentence_id": 9,
+            "start": 15,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "challenge",
+            "sentence_id": 9,
+            "start": 27,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "means",
+            "sentence_id": 10,
+            "start": 5,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "go",
+            "sentence_id": 10,
+            "start": 54,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "invalidate",
+            "sentence_id": 10,
+            "start": 105,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "joined",
+            "sentence_id": 11,
+            "start": 24,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "dissented",
+            "sentence_id": 11,
+            "start": 76,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "agreed",
+            "sentence_id": 12,
+            "start": 3,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "dismissal",
+            "sentence_id": 12,
+            "start": 19,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "argued",
+            "sentence_id": 12,
+            "start": 69,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 15,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "dismissed",
+            "sentence_id": 13,
+            "start": 62,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Justice Clarence Thomas",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "abortion providers ' suit",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 56,
+            "token": "reverse",
+            "sentence_id": 14,
+            "start": 10,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "denial",
+            "sentence_id": 14,
+            "start": 48,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "dismiss",
+            "sentence_id": 14,
+            "start": 83,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "remand",
+            "sentence_id": 14,
+            "start": 95,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "dismiss",
+            "sentence_id": 14,
+            "start": 123,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "said",
+            "sentence_id": 14,
+            "start": 189,
+            "end": 193,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "backed",
+            "sentence_id": 15,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "argued",
+            "sentence_id": 16,
+            "start": 51,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "allowed",
+            "sentence_id": 16,
+            "start": 88,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "allowed",
+            "sentence_id": 16,
+            "start": 130,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "sued",
+            "sentence_id": 16,
+            "start": 144,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "wrote",
+            "sentence_id": 18,
+            "start": 10,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "say",
+            "sentence_id": 18,
+            "start": 56,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "allowed",
+            "sentence_id": 18,
+            "start": 81,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "sued",
+            "sentence_id": 18,
+            "start": 95,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "discussion",
+            "sentence_id": 19,
+            "start": 22,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "block",
+            "sentence_id": 19,
+            "start": 69,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "enforcement",
+            "sentence_id": 19,
+            "start": 75,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "litigation",
+            "sentence_id": 19,
+            "start": 107,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "proceeds",
+            "sentence_id": 19,
+            "start": 118,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "called",
+            "sentence_id": 20,
+            "start": 22,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "overseeing",
+            "sentence_id": 20,
+            "start": 51,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "take",
+            "sentence_id": 20,
+            "start": 82,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "resolve",
+            "sentence_id": 21,
+            "start": 81,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "enter",
+            "sentence_id": 21,
+            "start": 109,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "said",
+            "sentence_id": 21,
+            "start": 155,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "railed",
+            "sentence_id": 22,
+            "start": 24,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "depriving",
+            "sentence_id": 23,
+            "start": 44,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "pregnant women",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Texas law",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 84,
+            "token": "seek",
+            "sentence_id": 23,
+            "start": 110,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "said",
+            "sentence_id": 23,
+            "start": 197,
+            "end": 201,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "hides",
+            "sentence_id": 24,
+            "start": 20,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 87,
+            "token": "stitching",
+            "sentence_id": 24,
+            "start": 61,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 88,
+            "token": "failure",
+            "sentence_id": 24,
+            "start": 122,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Supreme Court",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 89,
+            "token": "act",
+            "sentence_id": 24,
+            "start": 133,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 90,
+            "token": "wrote",
+            "sentence_id": 24,
+            "start": 162,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 91,
+            "token": "considering",
+            "sentence_id": 25,
+            "start": 26,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 92,
+            "token": "challenge",
+            "sentence_id": 25,
+            "start": 60,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 93,
+            "token": "ruling",
+            "sentence_id": 25,
+            "start": 104,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 94,
+            "token": "come",
+            "sentence_id": 25,
+            "start": 138,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 95,
+            "token": "overturn",
+            "sentence_id": 26,
+            "start": 16,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 96,
+            "token": "ruling",
+            "sentence_id": 26,
+            "start": 47,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "petitioners \u2019 filings",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                25,
+                28
+            ]
+        },
+        {
+            "text": "Fifth Circuit \u2019s decision",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                28
+            ]
+        },
+        {
+            "text": "Texas law",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                35,
+                83
+            ]
+        },
+        {
+            "text": "private individuals",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                35
+            ]
+        },
+        {
+            "text": "Justice Clarence Thomas",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                55
+            ]
+        },
+        {
+            "text": "abortion providers ' suit",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                55
+            ]
+        },
+        {
+            "text": "pregnant women",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                83
+            ]
+        },
+        {
+            "text": "Supreme Court",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                88,
+                0
+            ]
+        },
+        {
+            "text": "lawsuit by abortion providers",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                0
+            ]
+        }
+    ]
+}

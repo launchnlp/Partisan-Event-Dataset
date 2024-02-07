@@ -1,0 +1,1072 @@
+{
+    "title": "Wayne LaPierre Delivers Fiery Speech At CPAC",
+    "id": "STORY_81_DOCUMENT_0",
+    "old_id": "TRIPLET_211_DOCUMENT_1",
+    "split": "train",
+    "date": "2013-03-15",
+    "topic": "gun_control_and_gun_rights",
+    "source": "HuffPost",
+    "media_ideology": "Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "",
+    "news": [
+        {
+            "id": 0,
+            "text": "NATIONAL HARBOR , Md. -- National Rifle Association CEO Wayne LaPierre attempted to turn the tables Friday on those in the media and government who have recently characterized the gun lobbyist 's talking points as \" crazy . \""
+        },
+        {
+            "id": 1,
+            "text": "In a speech at the Conservative Political Action Conference , LaPierre accused the federal government , the Department of Homeland Security , so - called \" Washington elites \" and Vice President Joe Biden of offering illogical solutions to the challenges of gun violence ."
+        },
+        {
+            "id": 2,
+            "text": "Entering the stage to a standing ovation and showing a video montage of his opponents ' attacks , LaPierre delivered a fiery rebuttal that garnered a half - dozen standing ovations from the staunchly conservative , and generally young , crowd at CPAC ."
+        },
+        {
+            "id": 3,
+            "text": "Gun control advocates \" insult [ us ] , they denigrate , and they call us ' crazy ' for holding fast to [ our opposition to gun control ] ."
+        },
+        {
+            "id": 4,
+            "text": "In their distorted view of the world , they 're smarter than we are ; they 're special ; they 're more worthy than we are ; they know better than we do , \" he said ."
+        },
+        {
+            "id": 5,
+            "text": "\" The liberal media can keep hating on me , but I 'm still standing . \""
+        },
+        {
+            "id": 6,
+            "text": "Much of LaPierre 's speech covered familiar territory in the ongoing debate over gun violence , such as the argument that universal background checks on gun purchases will not work because criminals will evade them ."
+        },
+        {
+            "id": 7,
+            "text": "But LaPierre also launched attacks working off more recent news , such as Chinese Internet hackers and the across - the - board budget cuts known as sequestration ."
+        },
+        {
+            "id": 8,
+            "text": "\" What 's the point of registering lawful gun owners ? \""
+        },
+        {
+            "id": 9,
+            "text": "LaPierre asked the crowd , jumping to the false conclusion that universal background checks will be used to create a federal registry of gun owners . \""
+        },
+        {
+            "id": 10,
+            "text": "So newspapers can print those names \u2026 so the list can be hacked by foreign entities like the Chinese ? \""
+        },
+        {
+            "id": 11,
+            "text": "He also seized on the effects of sequestration . \""
+        },
+        {
+            "id": 12,
+            "text": "Instead of rational belt - tightening ..."
+        },
+        {
+            "id": 13,
+            "text": "the first thing the government does is let criminal illegals out of jail , \" said LaPierre , referring to the February release of undocumented immigrants facing deportation by the Department of Homeland Security ."
+        },
+        {
+            "id": 14,
+            "text": "\" It 's as if insanity itself has been sequestered in Washington . \""
+        },
+        {
+            "id": 15,
+            "text": "In addition to DHS Secretary Janet Napolitano , LaPierre directly addressed Vice President Biden , and in particular , Biden 's recent suggestion that a shotgun would make a more effective weapon for personal defense than a military - style rifle like the one used in the Newtown , Conn. , massacre ."
+        },
+        {
+            "id": 16,
+            "text": "Democrats support an assault weapons ban that would cover the latter guns ."
+        },
+        {
+            "id": 17,
+            "text": "\" Have they lost their minds over at the White House ? \""
+        },
+        {
+            "id": 18,
+            "text": "LaPierre asked mockingly ."
+        },
+        {
+            "id": 19,
+            "text": "\" You keep your advice , we 'll keep our guns . \""
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "attempted",
+            "sentence_id": 0,
+            "start": 71,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "national rifle association ceo wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "turn",
+            "sentence_id": 0,
+            "start": 84,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "characterized",
+            "sentence_id": 0,
+            "start": 162,
+            "end": 175,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "media and government",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "the gun lobbyist",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "speech",
+            "sentence_id": 1,
+            "start": 5,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "accused",
+            "sentence_id": 1,
+            "start": 71,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "national rifle association ceo wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "the federal government",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "the department of homeland security",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 5,
+            "token": "offering",
+            "sentence_id": 1,
+            "start": 208,
+            "end": 216,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "Entering",
+            "sentence_id": 2,
+            "start": 0,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "showing",
+            "sentence_id": 2,
+            "start": 45,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "attacks",
+            "sentence_id": 2,
+            "start": 88,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "delivered",
+            "sentence_id": 2,
+            "start": 107,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "national rifle association ceo wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 10,
+            "token": "garnered",
+            "sentence_id": 2,
+            "start": 139,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "national rifle association ceo wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "standing ovations",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 11,
+            "token": "insult",
+            "sentence_id": 3,
+            "start": 24,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "gun control advocates",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "conservative",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 12,
+            "token": "denigrate",
+            "sentence_id": 3,
+            "start": 45,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "call",
+            "sentence_id": 3,
+            "start": 66,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "holding",
+            "sentence_id": 3,
+            "start": 88,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "know",
+            "sentence_id": 4,
+            "start": 129,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 159,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "national rifle association ceo wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "gun control advocates",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 17,
+            "token": "keep",
+            "sentence_id": 5,
+            "start": 24,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "hating",
+            "sentence_id": 5,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "speech",
+            "sentence_id": 6,
+            "start": 20,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "covered",
+            "sentence_id": 6,
+            "start": 27,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "debate",
+            "sentence_id": 6,
+            "start": 69,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "argument",
+            "sentence_id": 6,
+            "start": 108,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "work",
+            "sentence_id": 6,
+            "start": 176,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "evade",
+            "sentence_id": 6,
+            "start": 204,
+            "end": 209,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "launched",
+            "sentence_id": 7,
+            "start": 18,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "national rifle association ceo wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "chinese internet hackers",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "sequestration",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "attacks",
+            "sentence_id": 7,
+            "start": 27,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "working",
+            "sentence_id": 7,
+            "start": 35,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "cuts",
+            "sentence_id": 7,
+            "start": 135,
+            "end": 139,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "registering",
+            "sentence_id": 8,
+            "start": 23,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "gun owners",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 30,
+            "token": "asked",
+            "sentence_id": 9,
+            "start": 9,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "jumping",
+            "sentence_id": 9,
+            "start": 27,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "national rifle association ceo wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "universal background checks",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 32,
+            "token": "used",
+            "sentence_id": 9,
+            "start": 100,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "create",
+            "sentence_id": 9,
+            "start": 108,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "print",
+            "sentence_id": 10,
+            "start": 18,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "hacked",
+            "sentence_id": 10,
+            "start": 57,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "a federal registry of gun owners",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "chinese internet hackers",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "national rifle association ceo wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 36,
+            "token": "seized",
+            "sentence_id": 11,
+            "start": 8,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "does",
+            "sentence_id": 13,
+            "start": 31,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "let",
+            "sentence_id": 13,
+            "start": 39,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 77,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "national rifle association ceo wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "referring",
+            "sentence_id": 13,
+            "start": 93,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "release",
+            "sentence_id": 13,
+            "start": 119,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "facing",
+            "sentence_id": 13,
+            "start": 154,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "deportation",
+            "sentence_id": 13,
+            "start": 161,
+            "end": 172,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "sequestered",
+            "sentence_id": 14,
+            "start": 39,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "addressed",
+            "sentence_id": 15,
+            "start": 66,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "suggestion",
+            "sentence_id": 15,
+            "start": 135,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "make",
+            "sentence_id": 15,
+            "start": 167,
+            "end": 171,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "used",
+            "sentence_id": 15,
+            "start": 260,
+            "end": 264,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "massacre",
+            "sentence_id": 15,
+            "start": 290,
+            "end": 298,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "support",
+            "sentence_id": 16,
+            "start": 10,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "assault weapons ban",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "cover",
+            "sentence_id": 16,
+            "start": 52,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "lost",
+            "sentence_id": 17,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 53,
+            "token": "asked",
+            "sentence_id": 18,
+            "start": 9,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "keep",
+            "sentence_id": 19,
+            "start": 6,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "keep",
+            "sentence_id": 19,
+            "start": 32,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "national rifle association ceo wayne lapierre",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "guns",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "national rifle association ceo wayne lapierre",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                0,
+                4,
+                9,
+                10,
+                16,
+                25,
+                31,
+                35,
+                39,
+                55
+            ]
+        },
+        {
+            "text": "media and government",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "the gun lobbyist",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "the federal government",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "the department of homeland security",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "standing ovations",
+            "ideology": "N/A",
+            "id": 5,
+            "events": [
+                10
+            ]
+        },
+        {
+            "text": "gun control advocates",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                11,
+                16
+            ]
+        },
+        {
+            "text": "conservative",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "chinese internet hackers",
+            "ideology": "N/A",
+            "id": 8,
+            "events": [
+                25,
+                35
+            ]
+        },
+        {
+            "text": "sequestration",
+            "ideology": "N/A",
+            "id": 9,
+            "events": [
+                25
+            ]
+        },
+        {
+            "text": "gun owners",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                29
+            ]
+        },
+        {
+            "text": "universal background checks",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                31
+            ]
+        },
+        {
+            "text": "a federal registry of gun owners",
+            "ideology": "N/A",
+            "id": 12,
+            "events": [
+                35
+            ]
+        },
+        {
+            "text": "democrats",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                50,
+                52
+            ]
+        },
+        {
+            "text": "assault weapons ban",
+            "ideology": "Left",
+            "id": 14,
+            "events": [
+                50
+            ]
+        },
+        {
+            "text": "guns",
+            "ideology": "Right",
+            "id": 15,
+            "events": [
+                55
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1110 @@
+{
+    "title": "Poorer Americans get big tax cuts under Democratic plan while the rich get hikes",
+    "id": "STORY_52_DOCUMENT_0",
+    "old_id": "5976_1",
+    "split": "train",
+    "date": "2021-09-16",
+    "topic": "federal-budget",
+    "source": "Yahoo News",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Low-income earners would get a big tax break if legislation proposed by House Democrats this week becomes law, while the tax burden for top earners would get heavier."
+        },
+        {
+            "id": 1,
+            "text": "Taxpayers making above $1 million would see an 11% tax increase to their federal taxes under the House Ways and Means Committee plan, according to an estimate by the Joint Committee on taxation."
+        },
+        {
+            "id": 2,
+            "text": "On the other end, the tax liability for those making below $40,000 would drop by at least 24% \u2014 with much of the break coming in the form of tax credits."
+        },
+        {
+            "id": 3,
+            "text": "\u201cThe plan very effectively targets high-income taxpayers with income taxes,\u201d Steven Rosenthal, senior fellow at the Urban-Brookings Tax Policy Center, told Yahoo Money."
+        },
+        {
+            "id": 4,
+            "text": "The House Democrats plan proposes reverting the top individual income tax rate back to 39.6% and increasing the top long-term capital gains and qualified dividends tax rate to 25%."
+        },
+        {
+            "id": 5,
+            "text": "Additionally, the plan includes a 3% surtax on individuals with an adjusted gross income of more than $5 million."
+        },
+        {
+            "id": 6,
+            "text": "For low-income taxpayers, the Child Tax Credit (CTC) and the Earned Income Tax Credit (EITC) would significantly reduce the money those families owe to the Internal Revenue Service."
+        },
+        {
+            "id": 7,
+            "text": "Both credits were expanded this year as part of pandemic relief and the plan on the table proposes that expansion to be extended through 2025."
+        },
+        {
+            "id": 8,
+            "text": "As a result, taxpayers making between $20,000 and $30,000 would see a 88% reduction, while those earning between $30,000 and $40,000 would see a 24% cut."
+        },
+        {
+            "id": 9,
+            "text": "\u2018Don't see tax increases on those making less than $400,000\u2019"
+        },
+        {
+            "id": 10,
+            "text": "Those in the middle of the two extremes who make between $100,000 and $1 million would see their taxes change by less than 2% \u2014 either decrease or increase \u2014 under the proposal."
+        },
+        {
+            "id": 11,
+            "text": "\u201cPresident Biden, on the campaign trail, pledged not to increase taxes for those making less than $400,000,\u201d Rosenthal said."
+        },
+        {
+            "id": 12,
+            "text": "\u201cThe Joint Committee on Taxation estimates show that you don't see tax increases on those making less than $400,000.\u201d"
+        },
+        {
+            "id": 13,
+            "text": "UNITED STATES - MARCH 09: Rep. Richard Neal, D-Mass., left, chairman of the Way and Means Committee, Rep. John Yarmuth, D-Ky., chairman of the House Budget Committee, and Speaker of the House Nancy Pelosi, D-Calif., conduct a news conference on the coronavirus relief bill, the American Rescue Plan Act, in the Capitol Visitor Center on Tuesday, March 9, 2021."
+        },
+        {
+            "id": 14,
+            "text": "But those taxpayers may see higher taxes if the plan is implemented because of the plan\u2019s other provisions, such as the tax hike on tobacco, nicotine, and vapor products, according to Rosenthal."
+        },
+        {
+            "id": 15,
+            "text": "The tax proposals may change as Democrats finalize the legislation they hope to pass in the coming weeks through reconciliation, which wouldn\u2019t require any Republican support."
+        },
+        {
+            "id": 16,
+            "text": "\u201cThis tax bill, when you step back, is a serious increase in tax rates: corporate tax rates, capital gains tax rates,\u201d Rosenthal said."
+        },
+        {
+            "id": 17,
+            "text": "\u201cThese are all real tax increases."
+        },
+        {
+            "id": 18,
+            "text": "These are not budget gimmicks.\u201d"
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "get",
+            "sentence_id": 0,
+            "start": 25,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Low-income earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "House Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "break",
+            "sentence_id": 0,
+            "start": 39,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "House Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Low-income earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "proposed",
+            "sentence_id": 0,
+            "start": 60,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "becomes",
+            "sentence_id": 0,
+            "start": 98,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "get",
+            "sentence_id": 0,
+            "start": 154,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "top earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "House Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "see",
+            "sentence_id": 1,
+            "start": 40,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "increase",
+            "sentence_id": 1,
+            "start": 55,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "top earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "House Ways and Means Committee plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "according",
+            "sentence_id": 1,
+            "start": 134,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "drop",
+            "sentence_id": 2,
+            "start": 73,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "House Ways and Means Committee plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Low-income earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "coming",
+            "sentence_id": 2,
+            "start": 119,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "targets",
+            "sentence_id": 3,
+            "start": 27,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "House Ways and Means Committee plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "top earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "told",
+            "sentence_id": 3,
+            "start": 151,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "proposes",
+            "sentence_id": 4,
+            "start": 25,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "reverting",
+            "sentence_id": 4,
+            "start": 34,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "House Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "top earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "increasing",
+            "sentence_id": 4,
+            "start": 97,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "House Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "top earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "includes",
+            "sentence_id": 5,
+            "start": 23,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "reduce",
+            "sentence_id": 6,
+            "start": 113,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "House Ways and Means Committee plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Low-income earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "owe",
+            "sentence_id": 6,
+            "start": 145,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "expanded",
+            "sentence_id": 7,
+            "start": 18,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "proposes",
+            "sentence_id": 7,
+            "start": 90,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "expansion",
+            "sentence_id": 7,
+            "start": 104,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "extended",
+            "sentence_id": 7,
+            "start": 120,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "see",
+            "sentence_id": 8,
+            "start": 64,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "reduction",
+            "sentence_id": 8,
+            "start": 74,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Low-income earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "House Ways and Means Committee plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "see",
+            "sentence_id": 8,
+            "start": 139,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "cut",
+            "sentence_id": 8,
+            "start": 149,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "House Ways and Means Committee plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Low-income earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "see",
+            "sentence_id": 9,
+            "start": 7,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "increases",
+            "sentence_id": 9,
+            "start": 15,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "House Ways and Means Committee plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Low-income earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "see",
+            "sentence_id": 10,
+            "start": 87,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "change",
+            "sentence_id": 10,
+            "start": 103,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "House Ways and Means Committee plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "top earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 30,
+            "token": "decrease",
+            "sentence_id": 10,
+            "start": 135,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "House Ways and Means Committee plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "top earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "increase",
+            "sentence_id": 10,
+            "start": 147,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "House Ways and Means Committee plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "top earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "pledged",
+            "sentence_id": 11,
+            "start": 41,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Low-income earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "increase",
+            "sentence_id": 11,
+            "start": 56,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "President Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Low-income earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 34,
+            "token": "said",
+            "sentence_id": 11,
+            "start": 119,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "show",
+            "sentence_id": 12,
+            "start": 43,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "see",
+            "sentence_id": 12,
+            "start": 63,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "increases",
+            "sentence_id": 12,
+            "start": 71,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "House Ways and Means Committee plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Low-income earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "conduct",
+            "sentence_id": 13,
+            "start": 216,
+            "end": 223,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "conference",
+            "sentence_id": 13,
+            "start": 231,
+            "end": 241,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "see",
+            "sentence_id": 14,
+            "start": 24,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Low-income earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "House Ways and Means Committee plan",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 41,
+            "token": "implemented",
+            "sentence_id": 14,
+            "start": 56,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "hike",
+            "sentence_id": 14,
+            "start": 124,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "according",
+            "sentence_id": 14,
+            "start": 171,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "change",
+            "sentence_id": 15,
+            "start": 22,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "finalize",
+            "sentence_id": 15,
+            "start": 42,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "House Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "House Ways and Means Committee plan",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "hope",
+            "sentence_id": 15,
+            "start": 72,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "pass",
+            "sentence_id": 15,
+            "start": 80,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "require",
+            "sentence_id": 15,
+            "start": 144,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "House Ways and Means Committee plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Republican support",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "step",
+            "sentence_id": 16,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "increase",
+            "sentence_id": 16,
+            "start": 49,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "House Ways and Means Committee plan",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "top earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Low-income earners",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 51,
+            "token": "said",
+            "sentence_id": 16,
+            "start": 129,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "House Democrats",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                1,
+                0,
+                4,
+                13,
+                14,
+                45
+            ]
+        },
+        {
+            "text": "Low-income earners",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                1,
+                0,
+                8,
+                16,
+                23,
+                25,
+                27,
+                32,
+                33,
+                37,
+                40,
+                50
+            ]
+        },
+        {
+            "text": "top earners",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                4,
+                6,
+                10,
+                13,
+                14,
+                29,
+                30,
+                31,
+                50
+            ]
+        },
+        {
+            "text": "House Ways and Means Committee plan",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                6,
+                8,
+                10,
+                16,
+                23,
+                25,
+                27,
+                29,
+                30,
+                31,
+                37,
+                40,
+                45,
+                48,
+                50
+            ]
+        },
+        {
+            "text": "President Biden",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                32,
+                33
+            ]
+        },
+        {
+            "text": "Republican support",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                48
+            ]
+        }
+    ]
+}

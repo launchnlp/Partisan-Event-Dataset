@@ -1,0 +1,923 @@
+{
+    "title": "Energy Secretary Jennifer Granholm: Clock is ticking on infrastructure",
+    "id": "STORY_77_DOCUMENT_0",
+    "old_id": "TRIPLET_163_DOCUMENT_2",
+    "split": "train",
+    "date": "2021-06-06",
+    "topic": "economic_policy",
+    "source": "Washington Times",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "",
+    "news": [
+        {
+            "id": 0,
+            "text": "Energy Secretary Jennifer Granholm said Sunday the administration will push for a bipartisan deal on infrastructure but the House will begin marking up key parts of the plan on Wednesday with or without the GOP ."
+        },
+        {
+            "id": 1,
+            "text": "\u201c This has got to be done soon , \u201d Ms. Granholm told CNN \u2019s \u201c State of the Union . \u201d"
+        },
+        {
+            "id": 2,
+            "text": "Democrats control the House , but the key obstacle for Mr. Biden \u2019s ambitions will be in the evenly divided Senate ."
+        },
+        {
+            "id": 3,
+            "text": "Republicans are dispatching Sen. Shelley Moore Capito of West Virginia to the White House to lead talks , though Mr. Biden rejected a GOP counteroffer that added $ 50 billion in spending but remains far short of the president \u2019s"
+        },
+        {
+            "id": 4,
+            "text": "$ 1.7 trillion plan ."
+        },
+        {
+            "id": 5,
+            "text": "Ms. Capito and Mr. Biden will meet again Monday ."
+        },
+        {
+            "id": 6,
+            "text": "Ms. Granholm put the onus on Republicans to explain why they have n\u2019t adopted critical pieces of Mr. Biden \u2019s plan , such as improving the electrical grid and expanding nuclear power , citing their past support for those measures ."
+        },
+        {
+            "id": 7,
+            "text": "\u201c It \u2019s just curious why there is n\u2019t more coming together , \u201d Ms. Granholm said ."
+        },
+        {
+            "id": 8,
+            "text": "She also said Republicans and Sen. Joe Manchin III , a Democratic swing vote , should relish the chance to help West Virginians pivot from dying fossil - fuel industries to jobs in renewables ."
+        },
+        {
+            "id": 9,
+            "text": "\u201c They need these investments , \u201d Ms. Granholm said ."
+        },
+        {
+            "id": 10,
+            "text": "\u201c Joe Biden wants to have them see their future in energy 2.0 . \u201d"
+        },
+        {
+            "id": 11,
+            "text": "Transportation Secretary Pete Buttigieg said there is plenty of \u201c daylight \u201d between the administration and GOP negotiations ."
+        },
+        {
+            "id": 12,
+            "text": "He downplayed Republicans \u2019 leverage even though Mr. Biden would need 10 of them to overcome a filibuster in the Senate ."
+        },
+        {
+            "id": 13,
+            "text": "\u201c The American people are with us in terms of how we want to pay for this , which is ensuring corporations and the wealthy pay their fair share , \u201d Mr. Buttigieg told CBS \u2019 \u201c Face the Nation . \u201d"
+        },
+        {
+            "id": 14,
+            "text": "\u201c We think the wind is at our backs . \u201d"
+        },
+        {
+            "id": 15,
+            "text": "Members of both parties want to improve roads , bridges and things like broadband internet , but Washington has struggled to reach a deal ."
+        },
+        {
+            "id": 16,
+            "text": "\u201c Infrastructure Week \u201d became a running joke during the prior administration because attempts to focus on the topic fell flat in a dramatic fashion ."
+        },
+        {
+            "id": 17,
+            "text": "Ms. Granholm underscored the need to bolster the country \u2019s cyber defenses , in particular , suggesting that foreign malign actors have the power to shut down the power grid as industries reel from ransomware attacks ."
+        },
+        {
+            "id": 18,
+            "text": "\u201c Uh , yeah ."
+        },
+        {
+            "id": 19,
+            "text": "They do , \u201d the energy secretary told CNN \u2019s Jake Tapper ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "said",
+            "sentence_id": 0,
+            "start": 35,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "push",
+            "sentence_id": 0,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "deal",
+            "sentence_id": 0,
+            "start": 93,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "begin",
+            "sentence_id": 0,
+            "start": 135,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "marking",
+            "sentence_id": 0,
+            "start": 141,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bipartisan deal",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "gop",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 5,
+            "token": "done",
+            "sentence_id": 1,
+            "start": 21,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "told",
+            "sentence_id": 1,
+            "start": 48,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "control",
+            "sentence_id": 2,
+            "start": 10,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "dispatching",
+            "sentence_id": 3,
+            "start": 16,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "lead",
+            "sentence_id": 3,
+            "start": 93,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "talks",
+            "sentence_id": 3,
+            "start": 98,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "rejected",
+            "sentence_id": 3,
+            "start": 123,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "gop counteroffer",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "mr. biden",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 12,
+            "token": "added",
+            "sentence_id": 3,
+            "start": 156,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "remains",
+            "sentence_id": 3,
+            "start": 191,
+            "end": 198,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "meet",
+            "sentence_id": 5,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "put",
+            "sentence_id": 6,
+            "start": 13,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "explain",
+            "sentence_id": 6,
+            "start": 44,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "adopted",
+            "sentence_id": 6,
+            "start": 70,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "improving",
+            "sentence_id": 6,
+            "start": 125,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "expanding",
+            "sentence_id": 6,
+            "start": 159,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "citing",
+            "sentence_id": 6,
+            "start": 185,
+            "end": 191,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "support",
+            "sentence_id": 6,
+            "start": 203,
+            "end": 210,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "coming",
+            "sentence_id": 7,
+            "start": 43,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 76,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "gop",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 24,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "relish",
+            "sentence_id": 8,
+            "start": 86,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "help",
+            "sentence_id": 8,
+            "start": 107,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bipartisan deal",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 27,
+            "token": "pivot",
+            "sentence_id": 8,
+            "start": 128,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "need",
+            "sentence_id": 9,
+            "start": 7,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 47,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "wants",
+            "sentence_id": 10,
+            "start": 12,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "see",
+            "sentence_id": 10,
+            "start": 31,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "said",
+            "sentence_id": 11,
+            "start": 40,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "negotiations",
+            "sentence_id": 11,
+            "start": 112,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "downplayed",
+            "sentence_id": 12,
+            "start": 3,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "gop",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "pete buttigieg",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 35,
+            "token": "need",
+            "sentence_id": 12,
+            "start": 65,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "overcome",
+            "sentence_id": 12,
+            "start": 84,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "filibuster",
+            "sentence_id": 12,
+            "start": 95,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "want",
+            "sentence_id": 13,
+            "start": 53,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "pay",
+            "sentence_id": 13,
+            "start": 61,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "ensuring",
+            "sentence_id": 13,
+            "start": 85,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "pay",
+            "sentence_id": 13,
+            "start": 123,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "told",
+            "sentence_id": 13,
+            "start": 162,
+            "end": 166,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "think",
+            "sentence_id": 14,
+            "start": 5,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bipartisan deal",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 44,
+            "token": "want",
+            "sentence_id": 15,
+            "start": 24,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "improve",
+            "sentence_id": 15,
+            "start": 32,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "struggled",
+            "sentence_id": 15,
+            "start": 112,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bipartisan deal",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "reach",
+            "sentence_id": 15,
+            "start": 125,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "deal",
+            "sentence_id": 15,
+            "start": 133,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "became",
+            "sentence_id": 16,
+            "start": 24,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "bipartisan deal",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 50,
+            "token": "attempts",
+            "sentence_id": 16,
+            "start": 86,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "focus",
+            "sentence_id": 16,
+            "start": 98,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "fell",
+            "sentence_id": 16,
+            "start": 117,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "underscored",
+            "sentence_id": 17,
+            "start": 13,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "ms. granholm",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "cyber defenses",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 54,
+            "token": "bolster",
+            "sentence_id": 17,
+            "start": 37,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "suggesting",
+            "sentence_id": 17,
+            "start": 93,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "shut",
+            "sentence_id": 17,
+            "start": 149,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "reel",
+            "sentence_id": 17,
+            "start": 188,
+            "end": 192,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "attacks",
+            "sentence_id": 17,
+            "start": 209,
+            "end": 216,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "told",
+            "sentence_id": 19,
+            "start": 33,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "bipartisan deal",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                4,
+                26,
+                43,
+                46,
+                49
+            ]
+        },
+        {
+            "text": "gop",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                4,
+                34,
+                23
+            ]
+        },
+        {
+            "text": "gop counteroffer",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "mr. biden",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "pete buttigieg",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                34
+            ]
+        },
+        {
+            "text": "ms. granholm",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                53
+            ]
+        },
+        {
+            "text": "cyber defenses",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                53
+            ]
+        }
+    ]
+}

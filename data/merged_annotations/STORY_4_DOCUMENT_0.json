@@ -1,0 +1,1567 @@
+{
+    "title": "Trump admin bars federal funding for abortion clinics",
+    "id": "STORY_4_DOCUMENT_0",
+    "old_id": "TRIPLET_073_DOCUMENT_2",
+    "split": "train",
+    "date": "2019-02-22",
+    "topic": "abortion",
+    "source": "Washington Times",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Trump administration issued a rule Friday barring groups that provide abortions or abortion referrals from participating in the $ 286 million federal family - planning program , a long - expected move that would direct money from Planned Parenthood and toward faith - based providers ."
+        },
+        {
+            "id": 1,
+            "text": "The regulation , called \u201c The Protect Life Rule , \u201d shores up Title X of 1970\u2019s"
+        },
+        {
+            "id": 2,
+            "text": "Public Health Service Act , prohibiting the Department of Health and Human Services from funding family - planning projects in which abortion is part of the family planning process ."
+        },
+        {
+            "id": 3,
+            "text": "President Reagan first issued the rule , which was upheld by the Supreme Court in 1991 ."
+        },
+        {
+            "id": 4,
+            "text": "President Clinton rescinded the policy via an executive order ."
+        },
+        {
+            "id": 5,
+            "text": "No president has since sought to reissue the rule ."
+        },
+        {
+            "id": 6,
+            "text": "Pro-life groups cheered the decision ."
+        },
+        {
+            "id": 7,
+            "text": "\u201c It is absolutely appropriate that the new Title X regulations take into account the difference between abortion and health care , \u201d said Jeanne Mancini , president of the March for Life ."
+        },
+        {
+            "id": 8,
+            "text": "However , critics of the rule said it amounts to little more than placing a gag order on physicians and health professionals who will be unable to frankly and widely discuss health care options with women ."
+        },
+        {
+            "id": 9,
+            "text": "\u201c This rule compromises the oath that I took to serve patients and help them with making the best decision for their own health , \u201d said Dr. Leana Wen , president of Planned Parenthood Federation of America ."
+        },
+        {
+            "id": 10,
+            "text": "\u201c Patients expect their doctors to speak honestly with them , to answer their questions , to help them in their time of need . \u201d"
+        },
+        {
+            "id": 11,
+            "text": "The final rule had widely been expected from Health and Human Services Secretary Alex M. Azar II after the department issued a 300 - page draft of the rule last year that called for organizations receiving Title X funding to have a \u201c physical and financial separation \u201d between abortion services and birth control or family - planning programs ."
+        },
+        {
+            "id": 12,
+            "text": "Federal law already prevents federal funds from being used to pay for abortions ."
+        },
+        {
+            "id": 13,
+            "text": "Title X , enacted in 1970 under President Nixon , has provided access for low - income or underinsured individuals to a range of services , such as contraception , sexual education , cancer screening , and referrals to health services for pregnancy ."
+        },
+        {
+            "id": 14,
+            "text": "While the text of Title X stipulates that funds may go only to clinics where \u201c abortion is not a method of family planning , \u201d the practice had been that so long as money did not fund abortions but rather health care services at clinics that happened to also provide abortions , the spirit of the law was met ."
+        },
+        {
+            "id": 15,
+            "text": "But in 1988 , the Reagan administration changed that by issuing rules specifically prohibiting employees in federally funded family - planning facilities from counseling patients on abortion ."
+        },
+        {
+            "id": 16,
+            "text": "In other words , if organizations wanted the federal money , they could have no part in performing or even referring people to get abortions ."
+        },
+        {
+            "id": 17,
+            "text": "Planned Parenthood and the city and state of New York challenged the ruling in court ."
+        },
+        {
+            "id": 18,
+            "text": "But in 1991 , in a 5 - 4 opinion , Supreme Court Chief Justice William Rehnquist wrote that the \u201c government is not denying a benefit to anyone , but is instead simply insisting that public funds be spent for the purposes for which they were authorized . \u201d"
+        },
+        {
+            "id": 19,
+            "text": "While New York Attorney General Letitia James promised legal action , many abortion opponents cheered the decision from an administration that has strongly aligned its fortunes to theirs ."
+        },
+        {
+            "id": 20,
+            "text": "\u201c The radicalized abortion industry as seen in blatant support for virtual infanticide in late - term abortions must be defunded in every program , \u201d said Kristan Hawkins , president of Students for Life of America ."
+        },
+        {
+            "id": 21,
+            "text": "\u201c This is the kind of policy change that millennials , the nation \u2019s largest voting bloc , support ."
+        },
+        {
+            "id": 22,
+            "text": "Health care dollars should fund real , full - service medical care , not abortion vendors . \u201d"
+        },
+        {
+            "id": 23,
+            "text": "About 4,000 clinics received Title X funding in 2017 , according to the Henry J. Kaiser Family Foundation ."
+        },
+        {
+            "id": 24,
+            "text": "The organization predicts there would be a shrinking of eligible clinics ."
+        },
+        {
+            "id": 25,
+            "text": "It is estimated that 25 percent of Title X funds goes to Planned Parenthood ."
+        },
+        {
+            "id": 26,
+            "text": "Rep. Elijah E. Cummings , chairman of the House Oversight and Reform Committee , said he was \u201c deeply disappointed \u201d by the Trump administration for going ahead with the rule change and raised questions about the integrity of the rule - making process ."
+        },
+        {
+            "id": 27,
+            "text": "\u201c The administration is ignoring the significant health and economic impacts its actions will have on millions of Americans who rely on the Title X program , \u201d said Mr. Cummings , Maryland Demcorat ."
+        },
+        {
+            "id": 28,
+            "text": "In a statement to the press , HHS clarified a range of implications because of the reassertion of Title X , including the accessibility of birth control for low - income individuals \u201c if they are unable to obtain employer - sponsored insurance coverage for certain contraceptive services due to their employer \u2019s religious beliefs or moral convictions and the limitations of their own financial resources . \u201d"
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "issued",
+            "sentence_id": 0,
+            "start": 25,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Protect Life Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "barring",
+            "sentence_id": 0,
+            "start": 46,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 2,
+            "token": "provide",
+            "sentence_id": 0,
+            "start": 66,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "participating",
+            "sentence_id": 0,
+            "start": 111,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "move",
+            "sentence_id": 0,
+            "start": 200,
+            "end": 204,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "direct",
+            "sentence_id": 0,
+            "start": 216,
+            "end": 222,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "shores",
+            "sentence_id": 1,
+            "start": 52,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "prohibiting",
+            "sentence_id": 2,
+            "start": 28,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "funding",
+            "sentence_id": 2,
+            "start": 89,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "issued",
+            "sentence_id": 3,
+            "start": 23,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "upheld",
+            "sentence_id": 3,
+            "start": 51,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "rescinded",
+            "sentence_id": 4,
+            "start": 18,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "sought",
+            "sentence_id": 5,
+            "start": 23,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "reissue",
+            "sentence_id": 5,
+            "start": 33,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "cheered",
+            "sentence_id": 6,
+            "start": 16,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "pro-life groups",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Protect Life Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "decision",
+            "sentence_id": 6,
+            "start": 28,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "take",
+            "sentence_id": 7,
+            "start": 64,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Protect Life Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 134,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 25,
+                    "text": "Jeanne Mancini",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Protect Life Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 18,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "amounts",
+            "sentence_id": 8,
+            "start": 38,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "placing",
+            "sentence_id": 8,
+            "start": 66,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Protect Life Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 21,
+            "token": "unable",
+            "sentence_id": 8,
+            "start": 137,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "discuss",
+            "sentence_id": 8,
+            "start": 166,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Protect Life Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 26,
+                    "text": "health care",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "compromises",
+            "sentence_id": 9,
+            "start": 12,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Protect Life Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 27,
+                    "text": "doctor's oath",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 24,
+            "token": "took",
+            "sentence_id": 9,
+            "start": 40,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "serve",
+            "sentence_id": 9,
+            "start": 48,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "help",
+            "sentence_id": 9,
+            "start": 67,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Planned Parenthood",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 27,
+            "token": "making",
+            "sentence_id": 9,
+            "start": 82,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 132,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "expect",
+            "sentence_id": 10,
+            "start": 11,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "speak",
+            "sentence_id": 10,
+            "start": 35,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "answer",
+            "sentence_id": 10,
+            "start": 65,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "help",
+            "sentence_id": 10,
+            "start": 93,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "expected",
+            "sentence_id": 11,
+            "start": 31,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "issued",
+            "sentence_id": 11,
+            "start": 118,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "called",
+            "sentence_id": 11,
+            "start": 171,
+            "end": 177,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "have",
+            "sentence_id": 11,
+            "start": 225,
+            "end": 229,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "prevents",
+            "sentence_id": 12,
+            "start": 20,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 38,
+            "token": "used",
+            "sentence_id": 12,
+            "start": 54,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "pay",
+            "sentence_id": 12,
+            "start": 62,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "enacted",
+            "sentence_id": 13,
+            "start": 10,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "provided",
+            "sentence_id": 13,
+            "start": 54,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "stipulates",
+            "sentence_id": 14,
+            "start": 26,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "go",
+            "sentence_id": 14,
+            "start": 52,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "fund",
+            "sentence_id": 14,
+            "start": 179,
+            "end": 183,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "happened",
+            "sentence_id": 14,
+            "start": 242,
+            "end": 250,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "provide",
+            "sentence_id": 14,
+            "start": 259,
+            "end": 266,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "met",
+            "sentence_id": 14,
+            "start": 305,
+            "end": 308,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "changed",
+            "sentence_id": 15,
+            "start": 40,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "issuing",
+            "sentence_id": 15,
+            "start": 56,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 50,
+            "token": "prohibiting",
+            "sentence_id": 15,
+            "start": 83,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "counseling",
+            "sentence_id": 15,
+            "start": 159,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "wanted",
+            "sentence_id": 16,
+            "start": 34,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "performing",
+            "sentence_id": 16,
+            "start": 88,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "referring",
+            "sentence_id": 16,
+            "start": 107,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "get",
+            "sentence_id": 16,
+            "start": 127,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "challenged",
+            "sentence_id": 17,
+            "start": 54,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Planned Parenthood",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Protect Life Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 57,
+            "token": "ruling",
+            "sentence_id": 17,
+            "start": 69,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "opinion",
+            "sentence_id": 18,
+            "start": 25,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "wrote",
+            "sentence_id": 18,
+            "start": 81,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "denying",
+            "sentence_id": 18,
+            "start": 116,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "insisting",
+            "sentence_id": 18,
+            "start": 168,
+            "end": 177,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "spent",
+            "sentence_id": 18,
+            "start": 199,
+            "end": 204,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "authorized",
+            "sentence_id": 18,
+            "start": 242,
+            "end": 252,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "promised",
+            "sentence_id": 19,
+            "start": 46,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "action",
+            "sentence_id": 19,
+            "start": 61,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "cheered",
+            "sentence_id": 19,
+            "start": 94,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "pro-life groups",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Protect Life Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 67,
+            "token": "decision",
+            "sentence_id": 19,
+            "start": 106,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "aligned",
+            "sentence_id": 19,
+            "start": 156,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "seen",
+            "sentence_id": 20,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 24,
+                    "text": "abortion industry",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 70,
+            "token": "support",
+            "sentence_id": 20,
+            "start": 55,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "defunded",
+            "sentence_id": 20,
+            "start": 120,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 24,
+                    "text": "abortion industry",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 72,
+            "token": "said",
+            "sentence_id": 20,
+            "start": 150,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 73,
+            "token": "change",
+            "sentence_id": 21,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "support",
+            "sentence_id": 21,
+            "start": 91,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 28,
+                    "text": "millennials",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Protect Life Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 75,
+            "token": "fund",
+            "sentence_id": 22,
+            "start": 27,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 24,
+                    "text": "abortion industry",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 26,
+                    "text": "health care",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 76,
+            "token": "received",
+            "sentence_id": 23,
+            "start": 20,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "according",
+            "sentence_id": 23,
+            "start": 55,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "predicts",
+            "sentence_id": 24,
+            "start": 17,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "shrinking",
+            "sentence_id": 24,
+            "start": 43,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "estimated",
+            "sentence_id": 25,
+            "start": 6,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "goes",
+            "sentence_id": 25,
+            "start": 49,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "said",
+            "sentence_id": 26,
+            "start": 81,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "disappointed",
+            "sentence_id": 26,
+            "start": 102,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "Elijah E. Cummings",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Protect Life Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 84,
+            "token": "going",
+            "sentence_id": 26,
+            "start": 149,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "change",
+            "sentence_id": 26,
+            "start": 175,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "raised",
+            "sentence_id": 26,
+            "start": 186,
+            "end": 192,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Protect Life Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 87,
+            "token": "ignoring",
+            "sentence_id": 27,
+            "start": 24,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Trump administration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 23,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Protect Life Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 88,
+            "token": "actions",
+            "sentence_id": 27,
+            "start": 81,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "have",
+            "sentence_id": 27,
+            "start": 94,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 90,
+            "token": "said",
+            "sentence_id": 27,
+            "start": 160,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 91,
+            "token": "clarified",
+            "sentence_id": 28,
+            "start": 34,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 92,
+            "token": "reassertion",
+            "sentence_id": 28,
+            "start": 83,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 93,
+            "token": "unable",
+            "sentence_id": 28,
+            "start": 196,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 94,
+            "token": "obtain",
+            "sentence_id": 28,
+            "start": 206,
+            "end": 212,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 95,
+            "token": "account",
+            "sentence_id": 7,
+            "start": 74,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Protect Life Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 96,
+            "token": "separation",
+            "sentence_id": 11,
+            "start": 257,
+            "end": 267,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Protect Life Rule",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                0,
+                14,
+                16,
+                20,
+                22,
+                23,
+                56,
+                66,
+                83,
+                86,
+                87,
+                95,
+                17,
+                74
+            ]
+        },
+        {
+            "text": "Trump administration",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                0,
+                87
+            ]
+        },
+        {
+            "text": "pro-life groups",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                66,
+                14
+            ]
+        },
+        {
+            "text": "Planned Parenthood",
+            "ideology": "Left",
+            "id": 14,
+            "events": [
+                56,
+                26
+            ]
+        },
+        {
+            "text": "Elijah E. Cummings",
+            "ideology": "Left",
+            "id": 22,
+            "events": [
+                83
+            ]
+        },
+        {
+            "text": "Americans",
+            "ideology": "Neutral",
+            "id": 23,
+            "events": [
+                87,
+                26
+            ]
+        },
+        {
+            "text": "abortion industry",
+            "ideology": "Left",
+            "id": 24,
+            "events": [
+                69,
+                71,
+                75,
+                71
+            ]
+        },
+        {
+            "text": "Jeanne Mancini",
+            "ideology": "Right",
+            "id": 25,
+            "events": [
+                17
+            ]
+        },
+        {
+            "text": "health care",
+            "ideology": "Neutral",
+            "id": 26,
+            "events": [
+                22,
+                75
+            ]
+        },
+        {
+            "text": "doctor's oath",
+            "ideology": "Neutral",
+            "id": 27,
+            "events": [
+                23
+            ]
+        },
+        {
+            "text": "millennials",
+            "ideology": "Neutral",
+            "id": 28,
+            "events": [
+                74
+            ]
+        }
+    ]
+}

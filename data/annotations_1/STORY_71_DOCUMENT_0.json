@@ -1,0 +1,1441 @@
+{
+    "title": "12 Reasons Ted Cruz Is a Strong GOP 2016 Candidate ",
+    "id": "STORY_71_DOCUMENT_0",
+    "old_id": "TRIPLET_021_DOCUMENT_1",
+    "split": "train",
+    "date": "2015-03-23",
+    "topic": "elections",
+    "source": "Newsmax (News)",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "",
+    "news": [
+        {
+            "id": 0,
+            "text": "Texas Sen . Ted Cruz announced on Monday that he is running for the Republican presidential nomination in 2016 , making him the first major candidate to officially toss his hat in the ring ."
+        },
+        {
+            "id": 1,
+            "text": "While the election is still a long way off , there are several compelling reasons why Cruz should be considered a strong GOP presidential candidate for 2016 ."
+        },
+        {
+            "id": 2,
+            "text": "1 ."
+        },
+        {
+            "id": 3,
+            "text": "He is off to an early start ."
+        },
+        {
+            "id": 4,
+            "text": "Cruz is expected to start his campaign immediately rather than launch an exploratory committee as many potential candidates often do ."
+        },
+        {
+            "id": 5,
+            "text": "2 ."
+        },
+        {
+            "id": 6,
+            "text": "He has strong Tea Party support ."
+        },
+        {
+            "id": 7,
+            "text": "Amy Kremer , former head of the Tea Party Express , told The Associated Press that the Republican pool of candidates \" will take a quantum leap forward \" with Cruz 's announcement , adding that it \" will excite the base in a way we have n't seen in years . \""
+        },
+        {
+            "id": 8,
+            "text": "3 ."
+        },
+        {
+            "id": 9,
+            "text": "He has been one of the party 's most outspoken opponents of Obamacare ."
+        },
+        {
+            "id": 10,
+            "text": "In September 2013 he spoke for more than 21 hours on the Senate floor in an attempt to defund the Affordable Care Act ."
+        },
+        {
+            "id": 11,
+            "text": "4 ."
+        },
+        {
+            "id": 12,
+            "text": "He has also taken a strong stand on immigration ."
+        },
+        {
+            "id": 13,
+            "text": "In December , he defied GOP leaders to force a vote on opposing President Barack Obama 's executive action on immigration , although the strategy ultimately failed ."
+        },
+        {
+            "id": 14,
+            "text": "5 ."
+        },
+        {
+            "id": 15,
+            "text": "He is seen as more independent than other potential GOP candidates , as shown by his defiance of party leaders on immigration ."
+        },
+        {
+            "id": 16,
+            "text": "That could be appealing to the many voters who are frustrated by Washington 's partisan politics ."
+        },
+        {
+            "id": 17,
+            "text": "6 ."
+        },
+        {
+            "id": 18,
+            "text": "He 's also firmly in the mainstream of Republican voters on nearly every issue , unlike some fellow candidates ."
+        },
+        {
+            "id": 19,
+            "text": "Jeb Bush supports legalization for undocumented immigrants \u2014 which many Republican activists oppose \u2014 and Rand Paul supported Obama 's move to normalize relations with Cuba ."
+        },
+        {
+            "id": 20,
+            "text": "7 ."
+        },
+        {
+            "id": 21,
+            "text": "Cruz is a strong campaigner ."
+        },
+        {
+            "id": 22,
+            "text": "He scored one of the biggest upsets in the 2012 election when he defeated David Dewhurst in the Texas GOP primary ."
+        },
+        {
+            "id": 23,
+            "text": "Dewhurst , who was Gov. Rick Perry 's lieutenant governor , spent more than $ 20 million of his own money but could not overcome the Cruz campaign ."
+        },
+        {
+            "id": 24,
+            "text": "8 ."
+        },
+        {
+            "id": 25,
+            "text": "Cruz could appeal to Hispanic voters more than most other GOP candidates ."
+        },
+        {
+            "id": 26,
+            "text": "His father was born in Cuba , and Cruz is the first Hispanic U.S. Senator from Texas ."
+        },
+        {
+            "id": 27,
+            "text": "9 ."
+        },
+        {
+            "id": 28,
+            "text": "Past elections confirm Cruz 's contention that the GOP needs a strong conservative to win the general election ."
+        },
+        {
+            "id": 29,
+            "text": "\" If we run another candidate in the mold of a Bob Dole or a John McCain or Mitt Romney , we will end up with the same result , which is millions of people will stay home on Election Day , \" Cruz said in a 2014 CNBC interview ."
+        },
+        {
+            "id": 30,
+            "text": "10 ."
+        },
+        {
+            "id": 31,
+            "text": "Cruz could even reach across party lines to appeal to disillusioned voters ."
+        },
+        {
+            "id": 32,
+            "text": "\" People are looking for something new and something different , \" Saul Anuzis , former chairman of the Michigan Republican Party , told The Wall Street Journal ."
+        },
+        {
+            "id": 33,
+            "text": "11 ."
+        },
+        {
+            "id": 34,
+            "text": "Cruz has a strong legal background ."
+        },
+        {
+            "id": 35,
+            "text": "He earned his law degree at Harvard University and clerked for Supreme Court Chief Justice William Rehnquist ."
+        },
+        {
+            "id": 36,
+            "text": "12 ."
+        },
+        {
+            "id": 37,
+            "text": "His wife would be a major asset in the campaign ."
+        },
+        {
+            "id": 38,
+            "text": "Heidi Cruz worked on George W. Bush 's 2000 presidential campaign , served at the National Security Council under Condoleezza Rice and at the Treasury Department , and most recently was a managing director for Goldman Sachs in Houston ."
+        },
+        {
+            "id": 39,
+            "text": "She has taken an unpaid leave to help her husband 's campaign ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "announced",
+            "sentence_id": 0,
+            "start": 21,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "running",
+            "sentence_id": 0,
+            "start": 52,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "making",
+            "sentence_id": 0,
+            "start": 113,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "toss",
+            "sentence_id": 0,
+            "start": 164,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "election",
+            "sentence_id": 1,
+            "start": 10,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "considered",
+            "sentence_id": 1,
+            "start": 101,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "a strong gop presidential candidate for 2016",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 6,
+            "token": "start",
+            "sentence_id": 3,
+            "start": 22,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "expected",
+            "sentence_id": 4,
+            "start": 8,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "start",
+            "sentence_id": 4,
+            "start": 20,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "launch",
+            "sentence_id": 4,
+            "start": 63,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "told",
+            "sentence_id": 7,
+            "start": 52,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 11,
+            "token": "take",
+            "sentence_id": 7,
+            "start": 124,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "the republican pool of candidates",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "a quantum leap",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 12,
+            "token": "announcement",
+            "sentence_id": 7,
+            "start": 167,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "adding",
+            "sentence_id": 7,
+            "start": 182,
+            "end": 188,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "excite",
+            "sentence_id": 7,
+            "start": 204,
+            "end": 210,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "cruz 's announcement",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the base",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 15,
+            "token": "seen",
+            "sentence_id": 7,
+            "start": 241,
+            "end": 245,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "been",
+            "sentence_id": 9,
+            "start": 7,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "one of the party 's most outspoken opponents of obamacare",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "spoke",
+            "sentence_id": 10,
+            "start": 21,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "attempt",
+            "sentence_id": 10,
+            "start": 76,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "defund",
+            "sentence_id": 10,
+            "start": 87,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "taken",
+            "sentence_id": 12,
+            "start": 12,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "a strong stand on immigration",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "defied",
+            "sentence_id": 13,
+            "start": 17,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "force",
+            "sentence_id": 13,
+            "start": 39,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "a vote on opposing president barack obama 's executive action on immigration",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "vote",
+            "sentence_id": 13,
+            "start": 47,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "opposing",
+            "sentence_id": 13,
+            "start": 55,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "action",
+            "sentence_id": 13,
+            "start": 100,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "failed",
+            "sentence_id": 13,
+            "start": 157,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "seen",
+            "sentence_id": 15,
+            "start": 6,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 28,
+            "token": "shown",
+            "sentence_id": 15,
+            "start": 72,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "defiance",
+            "sentence_id": 15,
+            "start": 85,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "appealing",
+            "sentence_id": 16,
+            "start": 14,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "frustrated",
+            "sentence_id": 16,
+            "start": 51,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "supports",
+            "sentence_id": 19,
+            "start": 9,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "jeb bush",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "legalization for undocumented immigrants",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "oppose",
+            "sentence_id": 19,
+            "start": 93,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "supported",
+            "sentence_id": 19,
+            "start": 116,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "rand paul",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "obama 's move",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "move",
+            "sentence_id": 19,
+            "start": 135,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "normalize",
+            "sentence_id": 19,
+            "start": 143,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "scored",
+            "sentence_id": 22,
+            "start": 3,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "the biggest upsets",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "upsets",
+            "sentence_id": 22,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "election",
+            "sentence_id": 22,
+            "start": 48,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "defeated",
+            "sentence_id": 22,
+            "start": 65,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "david dewhurst",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "spent",
+            "sentence_id": 23,
+            "start": 60,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "overcome",
+            "sentence_id": 23,
+            "start": 120,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "david dewhurst",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "the cruz campaign",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 43,
+            "token": "appeal",
+            "sentence_id": 25,
+            "start": 11,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "hispanic voters",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "born",
+            "sentence_id": 26,
+            "start": 15,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "confirm",
+            "sentence_id": 28,
+            "start": 15,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "past elections",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "cruz 's contention",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "needs",
+            "sentence_id": 28,
+            "start": 55,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "win",
+            "sentence_id": 28,
+            "start": 86,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "run",
+            "sentence_id": 29,
+            "start": 8,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "end",
+            "sentence_id": 29,
+            "start": 98,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "stay",
+            "sentence_id": 29,
+            "start": 161,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "said",
+            "sentence_id": 29,
+            "start": 196,
+            "end": 200,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "interview",
+            "sentence_id": 29,
+            "start": 216,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "reach",
+            "sentence_id": 31,
+            "start": 16,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "appeal",
+            "sentence_id": 31,
+            "start": 44,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "disillusioned voters",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "looking",
+            "sentence_id": 32,
+            "start": 13,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "told",
+            "sentence_id": 32,
+            "start": 132,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "has",
+            "sentence_id": 34,
+            "start": 5,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "a strong legal background",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "earned",
+            "sentence_id": 35,
+            "start": 3,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "his law degree",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 59,
+            "token": "clerked",
+            "sentence_id": 35,
+            "start": 51,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 60,
+            "token": "worked",
+            "sentence_id": 38,
+            "start": 11,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "heidi cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 61,
+            "token": "served",
+            "sentence_id": 38,
+            "start": 68,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "taken",
+            "sentence_id": 39,
+            "start": 8,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "leave",
+            "sentence_id": 39,
+            "start": 24,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "help",
+            "sentence_id": 39,
+            "start": 33,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "heidi cruz",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "the cruz campaign",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "ted cruz",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                5,
+                11,
+                14,
+                16,
+                20,
+                22,
+                27,
+                30,
+                32,
+                34,
+                37,
+                40,
+                42,
+                43,
+                54,
+                57,
+                58,
+                59
+            ]
+        },
+        {
+            "text": "a strong gop presidential candidate for 2016",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                5
+            ]
+        },
+        {
+            "text": "the republican pool of candidates",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "a quantum leap",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "cruz 's announcement",
+            "ideology": "N/A",
+            "id": 4,
+            "events": [
+                14
+            ]
+        },
+        {
+            "text": "the base",
+            "ideology": "N/A",
+            "id": 5,
+            "events": [
+                14
+            ]
+        },
+        {
+            "text": "one of the party 's most outspoken opponents of obamacare",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                16
+            ]
+        },
+        {
+            "text": "a strong stand on immigration",
+            "ideology": "Uncertain",
+            "id": 7,
+            "events": [
+                20
+            ]
+        },
+        {
+            "text": "a vote on opposing president barack obama 's executive action on immigration",
+            "ideology": "N/A",
+            "id": 8,
+            "events": [
+                22
+            ]
+        },
+        {
+            "text": "jeb bush",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                32
+            ]
+        },
+        {
+            "text": "legalization for undocumented immigrants",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                32
+            ]
+        },
+        {
+            "text": "rand paul",
+            "ideology": "Right",
+            "id": 11,
+            "events": [
+                34
+            ]
+        },
+        {
+            "text": "obama 's move",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                34
+            ]
+        },
+        {
+            "text": "the biggest upsets",
+            "ideology": "N/A",
+            "id": 13,
+            "events": [
+                37
+            ]
+        },
+        {
+            "text": "david dewhurst",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                40,
+                42
+            ]
+        },
+        {
+            "text": "the cruz campaign",
+            "ideology": "Right",
+            "id": 15,
+            "events": [
+                42,
+                64
+            ]
+        },
+        {
+            "text": "hispanic voters",
+            "ideology": "Uncertain",
+            "id": 16,
+            "events": [
+                43
+            ]
+        },
+        {
+            "text": "past elections",
+            "ideology": "N/A",
+            "id": 17,
+            "events": [
+                45
+            ]
+        },
+        {
+            "text": "cruz 's contention",
+            "ideology": "Right",
+            "id": 18,
+            "events": [
+                45
+            ]
+        },
+        {
+            "text": "disillusioned voters",
+            "ideology": "Uncertain",
+            "id": 19,
+            "events": [
+                54
+            ]
+        },
+        {
+            "text": "a strong legal background",
+            "ideology": "N/A",
+            "id": 20,
+            "events": [
+                57
+            ]
+        },
+        {
+            "text": "his law degree",
+            "ideology": "Neutral",
+            "id": 21,
+            "events": [
+                58
+            ]
+        },
+        {
+            "text": "heidi cruz",
+            "ideology": "Right",
+            "id": 22,
+            "events": [
+                64,
+                60
+            ]
+        }
+    ]
+}

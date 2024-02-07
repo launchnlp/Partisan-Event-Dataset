@@ -1,0 +1,1335 @@
+{
+    "title": "Conservatives Brace for Long Debate on Senate Gun Control Bill",
+    "id": "STORY_8_DOCUMENT_1",
+    "old_id": "TRIPLET_219_DOCUMENT_1",
+    "split": "train",
+    "date": "2013-04-11",
+    "topic": "gun_control_and_gun_rights",
+    "source": "Newsmax (News)",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "The U.S. Senate cleared the way on Thursday for an emotional , weeks - long debate on proposals to curb gun violence , rejecting an effort by conservative Republicans to block consideration of gun-control legislation prompted by December 's Connecticut elementary school massacre ."
+        },
+        {
+            "id": 1,
+            "text": "The Senate voted 68 - 31 to open debate on President Barack Obama 's proposals to expand background checks for gun buyers , tighten restrictions on gun trafficking and increase funding for school security ."
+        },
+        {
+            "id": 2,
+            "text": "The Senate easily cleared the 60 - vote hurdle needed to break a Republican filibuster on a bill that has sparked intense lobbying on both sides , including families of the Connecticut victims as well as the powerful gun lobby the National Rifle Association ."
+        },
+        {
+            "id": 3,
+            "text": "The legislation still faces many hurdles , including a weeks - long debate in the Senate featuring many amendments that could make the bill unacceptable to senators who now support it ."
+        },
+        {
+            "id": 4,
+            "text": "And if it clears the Senate , it would face a tough reception in the Republican - led House of Representatives ."
+        },
+        {
+            "id": 5,
+            "text": "No major gun legislation has passed the U.S. Congress since 1994 ."
+        },
+        {
+            "id": 6,
+            "text": "\" It is a really important start , \" Democratic Senator Christopher Murphy of Connecticut said before the vote , displaying photos of some of the victims of the Dec. 14 massacre of 20 children and six adults at an elementary school in Newtown , Connecticut ."
+        },
+        {
+            "id": 7,
+            "text": "The vote to proceed with debate came a day after a compromise agreement on background checks between prominent defenders of gun rights from each party - Democrat Joe Manchin of West Virginia and Republican Patrick Toomey of Pennsylvania ."
+        },
+        {
+            "id": 8,
+            "text": "That agreement to expand criminal background checks of gun buyers to include commercial sales made at gun shows and online was expected to boost bipartisan Senate support for the measure ."
+        },
+        {
+            "id": 9,
+            "text": "The expanded background checks , a provision that polls show has the support of up to 90 percent of Americans , will be the first amendment offered in debate and appears to be Obama 's best hope for achieving meaningful gun-control legislation ."
+        },
+        {
+            "id": 10,
+            "text": "But Obama is unlikely to get some elements of gun control that he has advocated , including a ban on rapid - firing \" assault \" weapons like the one used in Connecticut and limits on the capacity of ammunition magazines ."
+        },
+        {
+            "id": 11,
+            "text": "Amendments to add those provisions to the bill being considered by the Senate appear to have a slim chance of winning on the Senate floor ."
+        },
+        {
+            "id": 12,
+            "text": "Many Republicans and some Democrats have objected to the gun-control proposals as an infringement on their constitutional right to own guns ."
+        },
+        {
+            "id": 13,
+            "text": "\" This bill is a clear overreach that will predominantly punish and harass our neighbors , friends and family , \" said Republican Senate Leader Mitch McConnell of Kentucky , who joined the effort to block debate on the bill ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "cleared",
+            "sentence_id": 0,
+            "start": 16,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "U.S. Senate",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "debate on proposals to curb gun violence",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 1,
+            "token": "debate",
+            "sentence_id": 0,
+            "start": 76,
+            "end": 82,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "curb",
+            "sentence_id": 0,
+            "start": 99,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "rejecting",
+            "sentence_id": 0,
+            "start": 119,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "effort",
+            "sentence_id": 0,
+            "start": 132,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "block",
+            "sentence_id": 0,
+            "start": 170,
+            "end": 175,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "conservative Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "consideration of gun-control legislation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "consideration",
+            "sentence_id": 0,
+            "start": 176,
+            "end": 189,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "prompted",
+            "sentence_id": 0,
+            "start": 217,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "massacre",
+            "sentence_id": 0,
+            "start": 271,
+            "end": 279,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "voted",
+            "sentence_id": 1,
+            "start": 11,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "2",
+                    "text": "U.S. Senate",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "3",
+                    "text": "debate on proposals to curb gun violence",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 10,
+            "token": "open",
+            "sentence_id": 1,
+            "start": 28,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "debate",
+            "sentence_id": 1,
+            "start": 33,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "expand",
+            "sentence_id": 1,
+            "start": 82,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "3",
+                    "text": "debate on proposals to curb gun violence",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "background checks",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "tighten",
+            "sentence_id": 1,
+            "start": 124,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "restrictions on gun trafficking",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": "3",
+                    "text": "debate on proposals to curb gun violence",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 14,
+            "token": "increase",
+            "sentence_id": 1,
+            "start": 168,
+            "end": 176,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "funding for school security",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": "3",
+                    "text": "debate on proposals to curb gun violence",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "cleared",
+            "sentence_id": 2,
+            "start": 18,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "break",
+            "sentence_id": 2,
+            "start": 57,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "2",
+                    "text": "U.S. Senate",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "Republican filibuster",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 17,
+            "token": "filibuster",
+            "sentence_id": 2,
+            "start": 76,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "sparked",
+            "sentence_id": 2,
+            "start": 106,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "lobbying",
+            "sentence_id": 2,
+            "start": 122,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "faces",
+            "sentence_id": 3,
+            "start": 22,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "gun-control legislation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "debate",
+            "sentence_id": 3,
+            "start": 68,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "make",
+            "sentence_id": 3,
+            "start": 126,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "unacceptable",
+            "sentence_id": 3,
+            "start": 140,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "senators",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "8",
+                    "text": "gun-control legislation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "support",
+            "sentence_id": 3,
+            "start": 173,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "clears",
+            "sentence_id": 4,
+            "start": 10,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "face",
+            "sentence_id": 4,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "passed",
+            "sentence_id": 5,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "U.S. Congress",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "8",
+                    "text": "gun-control legislation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "start",
+            "sentence_id": 6,
+            "start": 27,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 90,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "vote",
+            "sentence_id": 6,
+            "start": 106,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "displaying",
+            "sentence_id": 6,
+            "start": 113,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "Christopher Murphy",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "victims",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": "8",
+                    "text": "gun-control legislation",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 32,
+            "token": "massacre",
+            "sentence_id": 6,
+            "start": 169,
+            "end": 177,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "vote",
+            "sentence_id": 7,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "proceed",
+            "sentence_id": 7,
+            "start": 12,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "debate",
+            "sentence_id": 7,
+            "start": 25,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "came",
+            "sentence_id": 7,
+            "start": 32,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "agreement",
+            "sentence_id": 7,
+            "start": 62,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "Joe Manchin",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "Patrick Toomey",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "4",
+                    "text": "background checks",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 38,
+            "token": "agreement",
+            "sentence_id": 8,
+            "start": 5,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "4",
+                    "text": "background checks",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 39,
+            "token": "expand",
+            "sentence_id": 8,
+            "start": 18,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "expected",
+            "sentence_id": 8,
+            "start": 127,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "boost",
+            "sentence_id": 8,
+            "start": 139,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "bipartisan Senate",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "4",
+                    "text": "background checks",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 42,
+            "token": "show",
+            "sentence_id": 9,
+            "start": 56,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "4",
+                    "text": "background checks",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 43,
+            "token": "offered",
+            "sentence_id": 9,
+            "start": 140,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "debate",
+            "sentence_id": 9,
+            "start": 151,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "appears",
+            "sentence_id": 9,
+            "start": 162,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "achieving",
+            "sentence_id": 9,
+            "start": 199,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "Obama",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "4",
+                    "text": "background checks",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 47,
+            "token": "unlikely",
+            "sentence_id": 10,
+            "start": 13,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "16",
+                    "text": "Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 48,
+            "token": "get",
+            "sentence_id": 10,
+            "start": 25,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "ban on rapid - firing \" assault \" weapons",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "advocated",
+            "sentence_id": 10,
+            "start": 70,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "used",
+            "sentence_id": 10,
+            "start": 149,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "add",
+            "sentence_id": 11,
+            "start": 14,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "considered",
+            "sentence_id": 11,
+            "start": 53,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "appear",
+            "sentence_id": 11,
+            "start": 78,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "2",
+                    "text": "U.S. Senate",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "Amendments",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": "17",
+                    "text": "ban on rapid - firing \" assault \" weapons",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 54,
+            "token": "have",
+            "sentence_id": 11,
+            "start": 88,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "winning",
+            "sentence_id": 11,
+            "start": 110,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "objected",
+            "sentence_id": 12,
+            "start": 41,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 19,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "8",
+                    "text": "gun-control legislation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 57,
+            "token": "infringement",
+            "sentence_id": 12,
+            "start": 85,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "8",
+                    "text": "gun-control legislation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "constitutional right to own guns",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 58,
+            "token": "overreach",
+            "sentence_id": 13,
+            "start": 23,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 22,
+                    "text": "Mitch McConnell",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": "8",
+                    "text": "gun-control legislation",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 59,
+            "token": "punish",
+            "sentence_id": 13,
+            "start": 57,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "harass",
+            "sentence_id": 13,
+            "start": 68,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 114,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "joined",
+            "sentence_id": 13,
+            "start": 178,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "effort",
+            "sentence_id": 13,
+            "start": 189,
+            "end": 195,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "block",
+            "sentence_id": 13,
+            "start": 199,
+            "end": 204,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "22",
+                    "text": "Mitch McConnell",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "3",
+                    "text": "debate on proposals to curb gun violence",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 65,
+            "token": "debate",
+            "sentence_id": 13,
+            "start": 205,
+            "end": 211,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "conservative Republicans",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                5
+            ]
+        },
+        {
+            "text": "consideration of gun-control legislation",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                5
+            ]
+        },
+        {
+            "text": "U.S. Senate",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "debate on proposals to curb gun violence",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "background checks",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                12
+            ]
+        },
+        {
+            "text": "restrictions on gun trafficking",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                13
+            ]
+        },
+        {
+            "text": "funding for school security",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                14
+            ]
+        },
+        {
+            "text": "Republican filibuster",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                16
+            ]
+        },
+        {
+            "text": "gun-control legislation",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                20
+            ]
+        },
+        {
+            "text": "senators",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                23
+            ]
+        },
+        {
+            "text": "U.S. Congress",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                27
+            ]
+        },
+        {
+            "text": "Christopher Murphy",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                31
+            ]
+        },
+        {
+            "text": "victims",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                31
+            ]
+        },
+        {
+            "text": "Joe Manchin",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                37
+            ]
+        },
+        {
+            "text": "Patrick Toomey",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                37
+            ]
+        },
+        {
+            "text": "bipartisan Senate",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                41
+            ]
+        },
+        {
+            "text": "Obama",
+            "ideology": "Left",
+            "id": 16,
+            "events": [
+                46
+            ]
+        },
+        {
+            "text": "ban on rapid - firing \" assault \" weapons",
+            "ideology": "Left",
+            "id": 17,
+            "events": [
+                48
+            ]
+        },
+        {
+            "text": "Amendments",
+            "ideology": "Left",
+            "id": 18,
+            "events": [
+                53
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 19,
+            "events": [
+                56
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 20,
+            "events": [
+                56
+            ]
+        },
+        {
+            "text": "constitutional right to own guns",
+            "ideology": "Right",
+            "id": 21,
+            "events": [
+                57
+            ]
+        },
+        {
+            "text": "Mitch McConnell",
+            "ideology": "Right",
+            "id": 22,
+            "events": [
+                58
+            ]
+        }
+    ]
+}

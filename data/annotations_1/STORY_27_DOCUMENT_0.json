@@ -1,0 +1,1439 @@
+{
+    "title": "Joe Biden, Kamala Harris Tweets Backing Jussie Smollett Remain Up After Guilty Verdict",
+    "id": "STORY_27_DOCUMENT_0",
+    "old_id": "6213_2",
+    "split": "train",
+    "date": "2021-12-10",
+    "topic": "crime",
+    "source": "Newsweek",
+    "media_ideology": "Center",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Center",
+    "news": [
+        {
+            "id": 0,
+            "text": "Democratic President Joe Biden and Democratic Vice President Kamala Harris have left up tweets expressing support for actor Jussie Smollett after he was allegedly a victim in a racist and anti-gay hate attack that occurred on January 29, 2019."
+        },
+        {
+            "id": 1,
+            "text": "However, on Thursday, a jury found that Smollett lied about the attack."
+        },
+        {
+            "id": 2,
+            "text": "Biden's tweet reads, \"What happened today to @JussieSmollett must never be tolerated in this country."
+        },
+        {
+            "id": 3,
+            "text": "We must stand up and demand that we no longer give this hate safe harbor; that homophobia and racism have no place on our streets or in our hearts."
+        },
+        {
+            "id": 4,
+            "text": "We are with you, Jussie.\""
+        },
+        {
+            "id": 5,
+            "text": "What happened today to @JussieSmollett must never be tolerated in this country."
+        },
+        {
+            "id": 6,
+            "text": "We must stand up and demand that we no longer give this hate safe harbor; that homophobia and racism have no place on our streets or in our hearts."
+        },
+        {
+            "id": 7,
+            "text": "We are with you, Jussie."
+        },
+        {
+            "id": 8,
+            "text": "\u2014 Joe Biden (@JoeBiden) January 30, 2019"
+        },
+        {
+            "id": 9,
+            "text": "Harris' tweet reads, \".@JussieSmollett is one of the kindest, most gentle human beings I know."
+        },
+        {
+            "id": 10,
+            "text": "I'm praying for his quick recovery."
+        },
+        {
+            "id": 11,
+            "text": "This was an attempted modern day lynching."
+        },
+        {
+            "id": 12,
+            "text": "No one should have to fear for their life because of their sexuality or color of their skin."
+        },
+        {
+            "id": 13,
+            "text": "We must confront this hate.\""
+        },
+        {
+            "id": 14,
+            "text": ".@JussieSmollett is one of the kindest, most gentle human beings I know."
+        },
+        {
+            "id": 15,
+            "text": "I\u2019m praying for his quick recovery."
+        },
+        {
+            "id": 16,
+            "text": "This was an attempted modern day lynching."
+        },
+        {
+            "id": 17,
+            "text": "No one should have to fear for their life because of their sexuality or color of their skin."
+        },
+        {
+            "id": 18,
+            "text": "We must confront this hate."
+        },
+        {
+            "id": 19,
+            "text": "\u2014 Kamala Harris (@KamalaHarris) January 29, 2019"
+        },
+        {
+            "id": 20,
+            "text": "Newsweek contacted the White House for comment."
+        },
+        {
+            "id": 21,
+            "text": "On Thursday evening, an Illinois jury found Smollett guilty on five counts of disorderly conduct related to lying to police about the attack."
+        },
+        {
+            "id": 22,
+            "text": "Smollett now faces up to three years in prison, though many speculate that he'll receive probation and community service instead."
+        },
+        {
+            "id": 23,
+            "text": "A sentencing hearing will be set for a later date."
+        },
+        {
+            "id": 24,
+            "text": "Smollett pleaded not guilty to the charges."
+        },
+        {
+            "id": 25,
+            "text": "Following the ruling, Smollett's lawyer said the actor is \"100 percent innocent.\""
+        },
+        {
+            "id": 26,
+            "text": "The lawyer also said they felt confident that another court would overturn the conviction on appeal."
+        },
+        {
+            "id": 27,
+            "text": "The actor told police that two white men attacked him, poured bleach on him, put a noose around his neck and shouted, \"This is MAGA country.\""
+        },
+        {
+            "id": 28,
+            "text": "MAGA is an acronym for \"Make America Great Again,\" the 2016 campaign slogan of Republican former President Donald Trump."
+        },
+        {
+            "id": 29,
+            "text": "Prosecutors in the case alleged that Smollett had paid $3,500 to Abimbola Osundairo, his personal trainer, and Olabinjo Osundairo, Abimbola's brother, to stage the attack."
+        },
+        {
+            "id": 30,
+            "text": "Smollett faked the attack, prosecutors said to get a pay raise from his role in the Fox TV hop-hop drama Empire."
+        },
+        {
+            "id": 31,
+            "text": "Lead prosecutor Dan Webb told the jury during closing arguments that Smollett had initially refused to help the Chicago Police Department investigate the attack by turning over his phone or submitting to a DNA test."
+        },
+        {
+            "id": 32,
+            "text": "Smollett said he had paid the money to Abimbola Osundairo for personal training for an upcoming music video."
+        },
+        {
+            "id": 33,
+            "text": "He also claimed that he and the trainer had previously had a sexual encounter together and that the brothers harbored anti-gay feelings."
+        },
+        {
+            "id": 34,
+            "text": "However, the brothers denied these claims."
+        },
+        {
+            "id": 35,
+            "text": "Smollett also said that he initially refused to help the police because he didn't want news of the attack to hurt his career."
+        },
+        {
+            "id": 36,
+            "text": "However, soon after Smollett faced allegations of faking the attack, Empire dropped him from its cast."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "left",
+            "sentence_id": 0,
+            "start": 80,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "expressing",
+            "sentence_id": 0,
+            "start": 95,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "victim",
+            "sentence_id": 0,
+            "start": 165,
+            "end": 171,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "attack",
+            "sentence_id": 0,
+            "start": 202,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "occurred",
+            "sentence_id": 0,
+            "start": 214,
+            "end": 222,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "found",
+            "sentence_id": 1,
+            "start": 29,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "lied",
+            "sentence_id": 1,
+            "start": 49,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "attack",
+            "sentence_id": 1,
+            "start": 64,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "reads",
+            "sentence_id": 2,
+            "start": 14,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "happened",
+            "sentence_id": 2,
+            "start": 27,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "tolerated",
+            "sentence_id": 2,
+            "start": 75,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "racist and anti-gay hate attack",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "stand",
+            "sentence_id": 3,
+            "start": 8,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "homophobia",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "racism",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "demand",
+            "sentence_id": 3,
+            "start": 21,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "give",
+            "sentence_id": 3,
+            "start": 46,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "happened",
+            "sentence_id": 5,
+            "start": 5,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "tolerated",
+            "sentence_id": 5,
+            "start": 53,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "racist and anti-gay hate attack",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "stand",
+            "sentence_id": 6,
+            "start": 8,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "homophobia",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "racism",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "demand",
+            "sentence_id": 6,
+            "start": 21,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "give",
+            "sentence_id": 6,
+            "start": 46,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "reads",
+            "sentence_id": 9,
+            "start": 14,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "know",
+            "sentence_id": 9,
+            "start": 89,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "praying",
+            "sentence_id": 10,
+            "start": 4,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Democratic Vice President Kamala Harris",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Jussie Smollett",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "recovery",
+            "sentence_id": 10,
+            "start": 26,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "attempted",
+            "sentence_id": 11,
+            "start": 12,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "fear",
+            "sentence_id": 12,
+            "start": 22,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "confront",
+            "sentence_id": 13,
+            "start": 8,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Democratic Vice President Kamala Harris",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "homophobia",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "racism",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "know",
+            "sentence_id": 14,
+            "start": 67,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "praying",
+            "sentence_id": 15,
+            "start": 4,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Democratic Vice President Kamala Harris",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Jussie Smollett",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "recovery",
+            "sentence_id": 15,
+            "start": 26,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "attempted",
+            "sentence_id": 16,
+            "start": 12,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "fear",
+            "sentence_id": 17,
+            "start": 22,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "confront",
+            "sentence_id": 18,
+            "start": 8,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Democratic Vice President Kamala Harris",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "homophobia",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "racism",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "contacted",
+            "sentence_id": 20,
+            "start": 9,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "found",
+            "sentence_id": 21,
+            "start": 38,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "lying",
+            "sentence_id": 21,
+            "start": 108,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "attack",
+            "sentence_id": 21,
+            "start": 134,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "faces",
+            "sentence_id": 22,
+            "start": 13,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "speculate",
+            "sentence_id": 22,
+            "start": 60,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "receive",
+            "sentence_id": 22,
+            "start": 81,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "hearing",
+            "sentence_id": 23,
+            "start": 13,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "set",
+            "sentence_id": 23,
+            "start": 29,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "pleaded",
+            "sentence_id": 24,
+            "start": 9,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "ruling",
+            "sentence_id": 25,
+            "start": 14,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "said",
+            "sentence_id": 25,
+            "start": 40,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "innocent",
+            "sentence_id": 25,
+            "start": 71,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "said",
+            "sentence_id": 26,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "felt",
+            "sentence_id": 26,
+            "start": 26,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "overturn",
+            "sentence_id": 26,
+            "start": 66,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "conviction",
+            "sentence_id": 26,
+            "start": 79,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "appeal",
+            "sentence_id": 26,
+            "start": 93,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "told",
+            "sentence_id": 27,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "attacked",
+            "sentence_id": 27,
+            "start": 41,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "two white men",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Jussie Smollett",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 52,
+            "token": "poured",
+            "sentence_id": 27,
+            "start": 55,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "two white men",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Jussie Smollett",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 53,
+            "token": "put",
+            "sentence_id": 27,
+            "start": 77,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "shouted",
+            "sentence_id": 27,
+            "start": 109,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "alleged",
+            "sentence_id": 29,
+            "start": 24,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "paid",
+            "sentence_id": 29,
+            "start": 50,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "stage",
+            "sentence_id": 29,
+            "start": 154,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "attack",
+            "sentence_id": 29,
+            "start": 164,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "faked",
+            "sentence_id": 30,
+            "start": 9,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "attack",
+            "sentence_id": 30,
+            "start": 19,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "said",
+            "sentence_id": 30,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "get",
+            "sentence_id": 30,
+            "start": 47,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "told",
+            "sentence_id": 31,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "arguments",
+            "sentence_id": 31,
+            "start": 54,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "refused",
+            "sentence_id": 31,
+            "start": 92,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "help",
+            "sentence_id": 31,
+            "start": 103,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "investigate",
+            "sentence_id": 31,
+            "start": 138,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "attack",
+            "sentence_id": 31,
+            "start": 154,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "turning",
+            "sentence_id": 31,
+            "start": 164,
+            "end": 171,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "submitting",
+            "sentence_id": 31,
+            "start": 190,
+            "end": 200,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "test",
+            "sentence_id": 31,
+            "start": 210,
+            "end": 214,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "said",
+            "sentence_id": 32,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "paid",
+            "sentence_id": 32,
+            "start": 21,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "training",
+            "sentence_id": 32,
+            "start": 71,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "claimed",
+            "sentence_id": 33,
+            "start": 8,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "had",
+            "sentence_id": 33,
+            "start": 55,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "encounter",
+            "sentence_id": 33,
+            "start": 68,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "harbored",
+            "sentence_id": 33,
+            "start": 109,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "denied",
+            "sentence_id": 34,
+            "start": 22,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "claims",
+            "sentence_id": 34,
+            "start": 35,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "said",
+            "sentence_id": 35,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "refused",
+            "sentence_id": 35,
+            "start": 37,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "help",
+            "sentence_id": 35,
+            "start": 48,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 84,
+            "token": "want",
+            "sentence_id": 35,
+            "start": 82,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "attack",
+            "sentence_id": 35,
+            "start": 99,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "hurt",
+            "sentence_id": 35,
+            "start": 109,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 87,
+            "token": "faced",
+            "sentence_id": 36,
+            "start": 29,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 88,
+            "token": "allegations",
+            "sentence_id": 36,
+            "start": 35,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "faking",
+            "sentence_id": 36,
+            "start": 50,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 90,
+            "token": "attack",
+            "sentence_id": 36,
+            "start": 61,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 91,
+            "token": "dropped",
+            "sentence_id": 36,
+            "start": 76,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Democratic President Joe Biden",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                11,
+                16,
+                10,
+                15
+            ]
+        },
+        {
+            "text": "homophobia",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                11,
+                16,
+                25,
+                31
+            ]
+        },
+        {
+            "text": "racism",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                11,
+                16,
+                25,
+                31
+            ]
+        },
+        {
+            "text": "racist and anti-gay hate attack",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                10,
+                15
+            ]
+        },
+        {
+            "text": "Democratic Vice President Kamala Harris",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                21,
+                25,
+                27,
+                31
+            ]
+        },
+        {
+            "text": "Jussie Smollett",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                21,
+                27,
+                51,
+                52
+            ]
+        },
+        {
+            "text": "two white men",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                51,
+                52
+            ]
+        }
+    ]
+}

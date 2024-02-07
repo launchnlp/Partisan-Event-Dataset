@@ -1,0 +1,1709 @@
+{
+    "title": "Trey Gowdy Focusing On Hillary Clinton Allies In Closed Benghazi Committee Interviews",
+    "id": "STORY_87_DOCUMENT_1",
+    "old_id": "TRIPLET_029_DOCUMENT_0",
+    "split": "train",
+    "date": "2015-10-18",
+    "topic": "us_house",
+    "source": "HuffPost",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Rep. Trey Gowdy ( R - S.C. ) has been attending Benghazi committee interviews with Hillary Clinton allies , not with intelligence officials or diplomatic security agents who survived the 2012 attack ."
+        },
+        {
+            "id": 1,
+            "text": "WASHINGTON --"
+        },
+        {
+            "id": 2,
+            "text": "Rep. Trey Gowdy ( R - S.C. ) insists his Benghazi Committee investigation is n't about hurting 2016 Democratic presidential candidate Hillary Clinton in the polls ."
+        },
+        {
+            "id": 3,
+            "text": "It 's about providing a definitive account of the 2012 attack on a U.S. consulate in Libya ."
+        },
+        {
+            "id": 4,
+            "text": "But if you look at the witness interviews he 's attended , and not attended , there is a clear theme : Gowdy is mostly there for the people directly connected to Clinton ."
+        },
+        {
+            "id": 5,
+            "text": "A House Democratic aide familiar with the committee 's process tells The Huffington Post that , as of Friday morning , there have been 53 interviews and depositions with witnesses called in for Gowdy 's probe ."
+        },
+        {
+            "id": 6,
+            "text": "The closed - door interviews are staff - led , said the aide , so when members do come , they are typically passive observers ."
+        },
+        {
+            "id": 7,
+            "text": "Gowdy has attended fewer than 10 of the 53 ."
+        },
+        {
+            "id": 8,
+            "text": "He was there for Cheryl Mills , Clinton 's chief of staff when she was secretary of state ; Jake Sullivan , Clinton 's former deputy chief of staff and current foreign policy adviser on her presidential campaign ; Sidney Blumenthal , a longtime Clinton adviser ; and Bryan Pagliano , a State Department staffer who managed Clinton 's private email server ."
+        },
+        {
+            "id": 9,
+            "text": "Whom did n't Gowdy go to hear ?"
+        },
+        {
+            "id": 10,
+            "text": "Three of the four diplomatic security agents who survived the terrorist attack ."
+        },
+        {
+            "id": 11,
+            "text": "He also did n't attend interviews with CIA Deputy Director Michael Morell or former Defense Intelligence Agency Director Michael Flynn ."
+        },
+        {
+            "id": 12,
+            "text": "\" Would seem to suggest where his priorities lie , \" the aide said ."
+        },
+        {
+            "id": 13,
+            "text": "Gowdy spokesman Jamal Ware said the congressman has been to plenty of meetings relating to the Benghazi investigation ."
+        },
+        {
+            "id": 14,
+            "text": "\u201c Chairman Gowdy has been to interviews and meetings running the gamut from attack survivors to DOJ debriefings to compliance hearings to intelligence officials , interviews and meetings that are both classified and unclassified , both before and during the pendency of the current Select Committee investigation , \" Ware said ."
+        },
+        {
+            "id": 15,
+            "text": "\" He has attended to far more matters that do not involve Clinton than those that do , including ones involving the White House , State Department on witness document production , and the CIA . \""
+        },
+        {
+            "id": 16,
+            "text": "He added that Rep. Elijah Cummings ( Md. ) , the ranking Democrat on the committee , was n't at many of those witness interviews either ."
+        },
+        {
+            "id": 17,
+            "text": "Republicans on the committee brought in Huma Abedin , a top Clinton aide , on Friday ."
+        },
+        {
+            "id": 18,
+            "text": "Cummings said it made no sense that she was there ."
+        },
+        {
+            "id": 19,
+            "text": "\" She has no policy responsibilities , no operational responsibilities , was not with Secretary Clinton on the night of this phenomenal tragedy , \" Cummings told reporters ."
+        },
+        {
+            "id": 20,
+            "text": "\" The question also becomes whether this is a taxpayer - funded effort to derail the candidacy of Hillary Clinton . \""
+        },
+        {
+            "id": 21,
+            "text": "Gowdy did not attend Abedin 's interview ."
+        },
+        {
+            "id": 22,
+            "text": "Republicans continue to say their probe is n't political , but House Majority Leader Kevin McCarthy ( R - Calif . ) suggested otherwise last month when he said the committee has succeeded in hurting Clinton 's presidential bid ."
+        },
+        {
+            "id": 23,
+            "text": "Rep. Richard Hanna ( R - N.Y. ) , too , said Wednesday that the panel was set up largely to go after Clinton ."
+        },
+        {
+            "id": 24,
+            "text": "\" This may not be politically correct , but I think that there was a big part of this investigation that was designed to go after people and an individual , Hillary Clinton , \" Hanna said on a New York radio show ."
+        },
+        {
+            "id": 25,
+            "text": "Gowdy slammed Hanna shortly afterward ."
+        },
+        {
+            "id": 26,
+            "text": "\u201c My team of investigators , drawn from the military , federal agencies and the congressional oversight and ethics committees , has worked hard , and in an above - board manner , \" he said in a statement ."
+        },
+        {
+            "id": 27,
+            "text": "\" It is unfortunate when claims are made by those who do not know what the committee has done , why it has done it , or the results of its work . \""
+        },
+        {
+            "id": 28,
+            "text": "Republican leaders formed the Select Committee on Benghazi nearly a year and a half ago and , so far , have spent $ 4.5 million on its work ."
+        },
+        {
+            "id": 29,
+            "text": "There have been at least seven previous investigations ."
+        },
+        {
+            "id": 30,
+            "text": "Clinton is testifying before the full committee on Oct. 22 ."
+        },
+        {
+            "id": 31,
+            "text": "This post has been updated to note that Gowdy 's spokesman said Cummings has n't attended many of the committee interviews either ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "attending",
+            "sentence_id": 0,
+            "start": 38,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rep. Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Hillary Clinton allies",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "interviews",
+            "sentence_id": 0,
+            "start": 67,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "survived",
+            "sentence_id": 0,
+            "start": 174,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "attack",
+            "sentence_id": 0,
+            "start": 192,
+            "end": 198,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "insists",
+            "sentence_id": 2,
+            "start": 29,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rep. Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Benghazi Committee investigation",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "investigation",
+            "sentence_id": 2,
+            "start": 60,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "hurting",
+            "sentence_id": 2,
+            "start": 87,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Benghazi Committee investigation",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "providing",
+            "sentence_id": 3,
+            "start": 12,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Benghazi Committee investigation",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "2012 attack on a U.S. consulate in Libya",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 8,
+            "token": "attack",
+            "sentence_id": 3,
+            "start": 55,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "look",
+            "sentence_id": 4,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "interviews",
+            "sentence_id": 4,
+            "start": 31,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "attended",
+            "sentence_id": 4,
+            "start": 48,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "attended",
+            "sentence_id": 4,
+            "start": 67,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "there",
+            "sentence_id": 4,
+            "start": 119,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rep. Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Hillary Clinton allies",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 14,
+            "token": "tells",
+            "sentence_id": 5,
+            "start": 63,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "interviews",
+            "sentence_id": 5,
+            "start": 138,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "depositions",
+            "sentence_id": 5,
+            "start": 153,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "called",
+            "sentence_id": 5,
+            "start": 180,
+            "end": 186,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "probe",
+            "sentence_id": 5,
+            "start": 203,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rep. Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Benghazi Committee investigation",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "interviews",
+            "sentence_id": 6,
+            "start": 18,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 47,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "come",
+            "sentence_id": 6,
+            "start": 82,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "attended",
+            "sentence_id": 7,
+            "start": 10,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rep. Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "53 interviews and depositions",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "there",
+            "sentence_id": 8,
+            "start": 7,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rep. Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Cheryl Mills",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "managed",
+            "sentence_id": 8,
+            "start": 315,
+            "end": 322,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "go",
+            "sentence_id": 9,
+            "start": 19,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rep. Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "53 interviews and depositions",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "hear",
+            "sentence_id": 9,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "survived",
+            "sentence_id": 10,
+            "start": 49,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "attack",
+            "sentence_id": 10,
+            "start": 72,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "attend",
+            "sentence_id": 11,
+            "start": 16,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rep. Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "CIA Deputy Director Michael Morell or",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Defense Intelligence Agency Director Michael Flynn",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 30,
+            "token": "interviews",
+            "sentence_id": 11,
+            "start": 23,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "seem",
+            "sentence_id": 12,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "suggest",
+            "sentence_id": 12,
+            "start": 16,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "lie",
+            "sentence_id": 12,
+            "start": 45,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 62,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 27,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "been",
+            "sentence_id": 13,
+            "start": 52,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rep. Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "53 interviews and depositions",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 37,
+            "token": "meetings",
+            "sentence_id": 13,
+            "start": 70,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "investigation",
+            "sentence_id": 13,
+            "start": 104,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "been",
+            "sentence_id": 14,
+            "start": 21,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rep. Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "53 interviews and depositions",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 40,
+            "token": "interviews",
+            "sentence_id": 14,
+            "start": 29,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "meetings",
+            "sentence_id": 14,
+            "start": 44,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "attack",
+            "sentence_id": 14,
+            "start": 76,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "debriefings",
+            "sentence_id": 14,
+            "start": 100,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "hearings",
+            "sentence_id": 14,
+            "start": 126,
+            "end": 134,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "interviews",
+            "sentence_id": 14,
+            "start": 163,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "meetings",
+            "sentence_id": 14,
+            "start": 178,
+            "end": 186,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "investigation",
+            "sentence_id": 14,
+            "start": 299,
+            "end": 312,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "said",
+            "sentence_id": 14,
+            "start": 322,
+            "end": 326,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "attended",
+            "sentence_id": 15,
+            "start": 9,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rep. Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "matters that do not involve Clinton",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 50,
+            "token": "added",
+            "sentence_id": 16,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "interviews",
+            "sentence_id": 16,
+            "start": 118,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "brought",
+            "sentence_id": 17,
+            "start": 29,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "Huma Abedin",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 53,
+            "token": "said",
+            "sentence_id": 18,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "made",
+            "sentence_id": 18,
+            "start": 17,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Elijah Cummings",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "Huma Abedin",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 55,
+            "token": "tragedy",
+            "sentence_id": 19,
+            "start": 136,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "told",
+            "sentence_id": 19,
+            "start": 157,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "becomes",
+            "sentence_id": 20,
+            "start": 20,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "effort",
+            "sentence_id": 20,
+            "start": 64,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "derail",
+            "sentence_id": 20,
+            "start": 74,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "taxpayer - funded effort",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Hillary Clinton",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 60,
+            "token": "attend",
+            "sentence_id": 21,
+            "start": 14,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rep. Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "Abedin 's interview",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 61,
+            "token": "interview",
+            "sentence_id": 21,
+            "start": 31,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "continue",
+            "sentence_id": 22,
+            "start": 12,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "say",
+            "sentence_id": 22,
+            "start": 24,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "probe",
+            "sentence_id": 22,
+            "start": 34,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "suggested",
+            "sentence_id": 22,
+            "start": 116,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "said",
+            "sentence_id": 22,
+            "start": 155,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "succeeded",
+            "sentence_id": 22,
+            "start": 178,
+            "end": 187,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Clinton 's presidential bid",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 68,
+            "token": "hurting",
+            "sentence_id": 22,
+            "start": 191,
+            "end": 198,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "Clinton 's presidential bid",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 69,
+            "token": "said",
+            "sentence_id": 23,
+            "start": 40,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "set",
+            "sentence_id": 23,
+            "start": 74,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "go",
+            "sentence_id": 23,
+            "start": 92,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "think",
+            "sentence_id": 24,
+            "start": 46,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "investigation",
+            "sentence_id": 24,
+            "start": 86,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "designed",
+            "sentence_id": 24,
+            "start": 109,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "go",
+            "sentence_id": 24,
+            "start": 121,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "said",
+            "sentence_id": 24,
+            "start": 183,
+            "end": 187,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "slammed",
+            "sentence_id": 25,
+            "start": 6,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Rep. Trey Gowdy",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "Richard Hanna",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 78,
+            "token": "worked",
+            "sentence_id": 26,
+            "start": 132,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "said",
+            "sentence_id": 26,
+            "start": 184,
+            "end": 188,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "claims",
+            "sentence_id": 27,
+            "start": 25,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "made",
+            "sentence_id": 27,
+            "start": 36,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "know",
+            "sentence_id": 27,
+            "start": 61,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "done",
+            "sentence_id": 27,
+            "start": 89,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 84,
+            "token": "done",
+            "sentence_id": 27,
+            "start": 107,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "work",
+            "sentence_id": 27,
+            "start": 139,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "formed",
+            "sentence_id": 28,
+            "start": 19,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "Select Committee on Benghazi",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 87,
+            "token": "spent",
+            "sentence_id": 28,
+            "start": 108,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 88,
+            "token": "work",
+            "sentence_id": 28,
+            "start": 135,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "investigations",
+            "sentence_id": 29,
+            "start": 40,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 90,
+            "token": "testifying",
+            "sentence_id": 30,
+            "start": 11,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 91,
+            "token": "updated",
+            "sentence_id": 31,
+            "start": 19,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 92,
+            "token": "note",
+            "sentence_id": 31,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 93,
+            "token": "said",
+            "sentence_id": 31,
+            "start": 59,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 94,
+            "token": "attended",
+            "sentence_id": 31,
+            "start": 81,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 95,
+            "token": "interviews",
+            "sentence_id": 31,
+            "start": 112,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Rep. Trey Gowdy",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                0,
+                4,
+                13,
+                18,
+                22,
+                23,
+                25,
+                29,
+                36,
+                39,
+                49,
+                60,
+                77
+            ]
+        },
+        {
+            "text": "Hillary Clinton allies",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                0,
+                13
+            ]
+        },
+        {
+            "text": "Benghazi Committee investigation",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                4,
+                6,
+                7,
+                18
+            ]
+        },
+        {
+            "text": "Hillary Clinton",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                6,
+                59
+            ]
+        },
+        {
+            "text": "2012 attack on a U.S. consulate in Libya",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                7
+            ]
+        },
+        {
+            "text": "53 interviews and depositions",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                22,
+                25,
+                36,
+                39
+            ]
+        },
+        {
+            "text": "Cheryl Mills",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                23
+            ]
+        },
+        {
+            "text": "CIA Deputy Director Michael Morell or",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                29
+            ]
+        },
+        {
+            "text": "Defense Intelligence Agency Director Michael Flynn",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                29
+            ]
+        },
+        {
+            "text": "matters that do not involve Clinton",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                49
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                52,
+                67,
+                68,
+                86
+            ]
+        },
+        {
+            "text": "Huma Abedin",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                52,
+                54
+            ]
+        },
+        {
+            "text": "Elijah Cummings",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                54
+            ]
+        },
+        {
+            "text": "taxpayer - funded effort",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": [
+                59
+            ]
+        },
+        {
+            "text": "Abedin 's interview",
+            "ideology": "Neutral",
+            "id": 14,
+            "events": [
+                60
+            ]
+        },
+        {
+            "text": "Clinton 's presidential bid",
+            "ideology": "Left",
+            "id": 15,
+            "events": [
+                67,
+                68
+            ]
+        },
+        {
+            "text": "Richard Hanna",
+            "ideology": "Right",
+            "id": 16,
+            "events": [
+                77
+            ]
+        },
+        {
+            "text": "Select Committee on Benghazi",
+            "ideology": "Neutral",
+            "id": 17,
+            "events": [
+                86
+            ]
+        }
+    ]
+}

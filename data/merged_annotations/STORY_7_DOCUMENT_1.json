@@ -1,0 +1,1353 @@
+{
+    "title": "Biden To Host George Floyd\u2019s Family At White House On Anniversary Of His Death",
+    "id": "STORY_7_DOCUMENT_1",
+    "old_id": "5646_1",
+    "split": "train",
+    "date": "2021-05-23",
+    "topic": "race-and-racism",
+    "source": "The Daily Wire",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Joe Biden will host George Floyd\u2019s family at the White House this week to mark a year since Floyd was killed while in the custody of the Minneapolis Police Department, sparking the national anti-racism and anti-police brutality movement."
+        },
+        {
+            "id": 1,
+            "text": "Biden will not, however, meet his stated deadline for passing the Geroge Floyd Justice in Policing Act by May 25th, amid concerns that the existing draft measure does not have \u201cteeth.\u201d"
+        },
+        {
+            "id": 2,
+            "text": "\u201cPresident Joe Biden will host George Floyd\u2019s family at the White House on Tuesday,\u201d CNBC reported Sunday."
+        },
+        {
+            "id": 3,
+            "text": "\u201cThe visit marks the one-year anniversary of Floyd\u2019s death, which triggered international protests against police brutality and racism in the criminal justice system.\u201d"
+        },
+        {
+            "id": 4,
+            "text": "Biden has been communicating with the Floyd family for some time, speaking with the family both before and after a verdict came down in the trial of Derek Chauvin, who was charged with murdering Floyd when he knelt on Floyd\u2019s neck for nine minutes during an arrest last May."
+        },
+        {
+            "id": 5,
+            "text": "Chauvin was eventually convicted on three charges: second-degree murder, third-degree murder, and manslaughter."
+        },
+        {
+            "id": 6,
+            "text": "He is awaiting sentencing and is expected to serve at least 12 years in prison."
+        },
+        {
+            "id": 7,
+            "text": "The president had pledged, during his special address to a joint session of Congress last month, that the Senate would pass the George Floyd Justice in Policing"
+        },
+        {
+            "id": 8,
+            "text": "Act by the one-year anniversary of Floyd\u2019s death, but Congressional sources told Politico that the White House does not expect that the police reform bill will pass anytime soon and that they are waiting on a bipartisan \u201ccompromise\u201d agreement."
+        },
+        {
+            "id": 9,
+            "text": "\u201c[A]fter calling Congress to task, the White House has taken a largely deferential approach to the negotiations."
+        },
+        {
+            "id": 10,
+            "text": "Senior staff have been in frequent contact with Hill negotiators but are also giving lawmakers space as they work out a compromise on the major piece of legislation named after Floyd,\u201d Politico noted Sunday."
+        },
+        {
+            "id": 11,
+            "text": "\u201cNo major red lines have been set."
+        },
+        {
+            "id": 12,
+            "text": "Nor have they stressed obedience to the timeline that the president himself touted.\u201d"
+        },
+        {
+            "id": 13,
+            "text": "Racial justice advocates, including Rev. Al Sharpton, told Politico that they are fine with the delay if it means the eventual bill will have \u201cteeth.\u201d"
+        },
+        {
+            "id": 14,
+            "text": "\u201cMy concern is, and I\u2019ve communicated this to the White House, is that we come with a toothless bill to meet a hard deadline,\u201d Sharpton told the outlet."
+        },
+        {
+            "id": 15,
+            "text": "\u201cI\u2019d rather have a bill with teeth late than a toothless bill on time.\u201d"
+        },
+        {
+            "id": 16,
+            "text": "White House Press Secretary Jen Psaki also defended the White House\u2019s delay on the bill, telling reporters that the bipartisan compromise bill will mean a more effective measure."
+        },
+        {
+            "id": 17,
+            "text": "\u201cWe are not going to slow our efforts to get this done, but we can also be transparent about the fact that it\u2019s going to take a little bit more time,\u201d Psaki said during a press conference Friday."
+        },
+        {
+            "id": 18,
+            "text": "\u201cThe president wants to sign it into law as quickly as possible.\u201d"
+        },
+        {
+            "id": 19,
+            "text": "The delay may seem acceptable to the White House because it appears to stem from a disagreement between Democrats and not just between Democrats and Republicans."
+        },
+        {
+            "id": 20,
+            "text": "Some Democrats (and many Republicans) have bristled at the concept of ending qualified immunity for police officers, leaving them open to civil suits for rights violations."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "host",
+            "sentence_id": 0,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "mark",
+            "sentence_id": 0,
+            "start": 84,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "killed",
+            "sentence_id": 0,
+            "start": 112,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "sparking",
+            "sentence_id": 0,
+            "start": 178,
+            "end": 186,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "movement",
+            "sentence_id": 0,
+            "start": 238,
+            "end": 246,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "meet",
+            "sentence_id": 1,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "George Floyd Justice in Policing Act",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "passing",
+            "sentence_id": 1,
+            "start": 54,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "George Floyd Justice in Policing Act",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "host",
+            "sentence_id": 2,
+            "start": 26,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "reported",
+            "sentence_id": 2,
+            "start": 90,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "visit",
+            "sentence_id": 3,
+            "start": 5,
+            "end": 10,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "marks",
+            "sentence_id": 3,
+            "start": 11,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "anniversary",
+            "sentence_id": 3,
+            "start": 30,
+            "end": 41,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "death",
+            "sentence_id": 3,
+            "start": 53,
+            "end": 58,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "triggered",
+            "sentence_id": 3,
+            "start": 66,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "protests",
+            "sentence_id": 3,
+            "start": 90,
+            "end": 98,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "brutality",
+            "sentence_id": 3,
+            "start": 114,
+            "end": 123,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "communicating",
+            "sentence_id": 4,
+            "start": 15,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "speaking",
+            "sentence_id": 4,
+            "start": 66,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "verdict",
+            "sentence_id": 4,
+            "start": 115,
+            "end": 122,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "came",
+            "sentence_id": 4,
+            "start": 123,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "trial",
+            "sentence_id": 4,
+            "start": 140,
+            "end": 145,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "charged",
+            "sentence_id": 4,
+            "start": 172,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "murdering",
+            "sentence_id": 4,
+            "start": 185,
+            "end": 194,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "knelt",
+            "sentence_id": 4,
+            "start": 209,
+            "end": 214,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "arrest",
+            "sentence_id": 4,
+            "start": 258,
+            "end": 264,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "convicted",
+            "sentence_id": 5,
+            "start": 23,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "awaiting",
+            "sentence_id": 6,
+            "start": 6,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "sentencing",
+            "sentence_id": 6,
+            "start": 15,
+            "end": 25,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "expected",
+            "sentence_id": 6,
+            "start": 33,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "serve",
+            "sentence_id": 6,
+            "start": 45,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "pledged",
+            "sentence_id": 7,
+            "start": 18,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "George Floyd Justice in Policing Act",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "address",
+            "sentence_id": 7,
+            "start": 46,
+            "end": 53,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "pass",
+            "sentence_id": 7,
+            "start": 119,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "George Floyd Justice in Policing Act",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "death",
+            "sentence_id": 8,
+            "start": 43,
+            "end": 48,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "told",
+            "sentence_id": 8,
+            "start": 76,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "expect",
+            "sentence_id": 8,
+            "start": 120,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "George Floyd Justice in Policing Act",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 36,
+            "token": "pass",
+            "sentence_id": 8,
+            "start": 160,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "George Floyd Justice in Policing Act",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "waiting",
+            "sentence_id": 8,
+            "start": 196,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "agreement",
+            "sentence_id": 8,
+            "start": 233,
+            "end": 242,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "calling",
+            "sentence_id": 9,
+            "start": 9,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "taken",
+            "sentence_id": 9,
+            "start": 55,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "George Floyd Justice in Policing Act",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "negotiations",
+            "sentence_id": 9,
+            "start": 99,
+            "end": 111,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "giving",
+            "sentence_id": 10,
+            "start": 78,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 43,
+            "token": "work",
+            "sentence_id": 10,
+            "start": 109,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "compromise",
+            "sentence_id": 10,
+            "start": 120,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "noted",
+            "sentence_id": 10,
+            "start": 194,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "set",
+            "sentence_id": 11,
+            "start": 30,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "George Floyd Justice in Policing Act",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "stressed",
+            "sentence_id": 12,
+            "start": 14,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "George Floyd Justice in Policing Act",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 48,
+            "token": "touted",
+            "sentence_id": 12,
+            "start": 76,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "George Floyd Justice in Policing Act",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 49,
+            "token": "told",
+            "sentence_id": 13,
+            "start": 54,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "fine",
+            "sentence_id": 13,
+            "start": 82,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "George Floyd Justice in Policing Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 51,
+            "token": "delay",
+            "sentence_id": 13,
+            "start": 96,
+            "end": 101,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "means",
+            "sentence_id": 13,
+            "start": 108,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "communicated",
+            "sentence_id": 14,
+            "start": 25,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "come",
+            "sentence_id": 14,
+            "start": 74,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 55,
+            "token": "meet",
+            "sentence_id": 14,
+            "start": 104,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "told",
+            "sentence_id": 14,
+            "start": 136,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "defended",
+            "sentence_id": 16,
+            "start": 43,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "White House Press Secretary Jen Psaki",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 58,
+            "token": "delay",
+            "sentence_id": 16,
+            "start": 70,
+            "end": 75,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "telling",
+            "sentence_id": 16,
+            "start": 89,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "mean",
+            "sentence_id": 16,
+            "start": 148,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "bipartisan compromise bill",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 61,
+            "token": "slow",
+            "sentence_id": 17,
+            "start": 21,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "George Floyd Justice in Policing Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 62,
+            "token": "efforts",
+            "sentence_id": 17,
+            "start": 30,
+            "end": 37,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "get",
+            "sentence_id": 17,
+            "start": 41,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "George Floyd Justice in Policing Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 64,
+            "token": "transparent",
+            "sentence_id": 17,
+            "start": 75,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "the White House\u2019s delay on the bill",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 65,
+            "token": "take",
+            "sentence_id": 17,
+            "start": 121,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 66,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 157,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "conference",
+            "sentence_id": 17,
+            "start": 177,
+            "end": 187,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "wants",
+            "sentence_id": 18,
+            "start": 15,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "George Floyd Justice in Policing Act",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 69,
+            "token": "sign",
+            "sentence_id": 18,
+            "start": 24,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "the Geroge Floyd Justice in Policing Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 70,
+            "token": "delay",
+            "sentence_id": 19,
+            "start": 4,
+            "end": 9,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "seem",
+            "sentence_id": 19,
+            "start": 14,
+            "end": 18,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "appears",
+            "sentence_id": 19,
+            "start": 60,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "stem",
+            "sentence_id": 19,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "the White House\u2019s delay on the bill",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 74,
+            "token": "disagreement",
+            "sentence_id": 19,
+            "start": 83,
+            "end": 95,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "bristled",
+            "sentence_id": 20,
+            "start": 43,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 76,
+            "token": "ending",
+            "sentence_id": 20,
+            "start": 70,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the Geroge Floyd Justice in Policing Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 77,
+            "token": "leaving",
+            "sentence_id": 20,
+            "start": 117,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 78,
+            "token": "violations",
+            "sentence_id": 20,
+            "start": 161,
+            "end": 171,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "President Joe Biden",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                32,
+                5,
+                6,
+                68,
+                69,
+                46,
+                48,
+                30,
+                35,
+                40,
+                47,
+                57,
+                57,
+                61,
+                63,
+                64
+            ]
+        },
+        {
+            "text": "George Floyd Justice in Policing Act",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                36,
+                5,
+                6,
+                30,
+                32,
+                35,
+                40,
+                46,
+                47,
+                48,
+                61,
+                63,
+                68
+            ]
+        },
+        {
+            "text": "bipartisan compromise bill",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                60
+            ]
+        },
+        {
+            "text": "White House Press Secretary Jen Psaki",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                57
+            ]
+        },
+        {
+            "text": "the Geroge Floyd Justice in Policing Act",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                69,
+                76
+            ]
+        },
+        {
+            "text": "the White House\u2019s delay on the bill",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                64
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                73
+            ]
+        }
+    ]
+}

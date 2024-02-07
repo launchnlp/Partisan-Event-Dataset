@@ -1,0 +1,1949 @@
+{
+    "title": "EPA claims replacement for Obama coal rule would save $400 million annually, reduce carbon pollution",
+    "id": "STORY_92_DOCUMENT_0",
+    "old_id": "3185_1",
+    "split": "train",
+    "date": "2018-08-21",
+    "topic": "energy",
+    "source": "Washington Examiner",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Trump administration officially rolled out its replacement for the Clean Power Plan, former President Barack Obama\u2019s signature initiative to combat climate change, with claims that the revision would save money while also slightly reducing carbon dioxide pollution."
+        },
+        {
+            "id": 1,
+            "text": "The Environmental Protection Agency on Tuesday morning released its plan, renamed the \u201cAffordable Clean Energy Rule,\u201d that the agency said would provide $400 million in annual benefits, while reducing carbon emission levels by up to 1.5 percent by 2030."
+        },
+        {
+            "id": 2,
+            "text": "President Trump is expected to tout the new rule at a rally in coal-friendly West Virginia Tuesday night."
+        },
+        {
+            "id": 3,
+            "text": "\u201cThe ACE Rule would restore the rule of law and empower states to reduce greenhouse gas emissions and provide modern, reliable, and affordable energy for all Americans,\u201d said EPA Acting Administrator Andrew Wheeler."
+        },
+        {
+            "id": 4,
+            "text": "\u201cToday\u2019s proposal provides the states and regulated community the certainty they need to continue environmental progress while fulfilling President Trump\u2019s goal of energy dominance.\u201d"
+        },
+        {
+            "id": 5,
+            "text": "The much more ambitious 2015 Clean Power Plan, which was never implemented because of a Supreme Court stay, required states to reduce carbon dioxide emissions 32 percent below 2005 levels by 2030, by shifting away from coal plants to natural gas and renewable energy."
+        },
+        {
+            "id": 6,
+            "text": "It was the pledge that underpinned the U.S.\u2019 commitment to the Paris climate change agreement before Trump rejected the deal."
+        },
+        {
+            "id": 7,
+            "text": "The Trump administration argues that Obama based the Clean Power Plan on an overbroad interpretation of the Clean Air Act, and its new rule fits more squarely into what the law allows for."
+        },
+        {
+            "id": 8,
+            "text": "The Trump EPA replacement plan gives more power to states to regulate their coal plants."
+        },
+        {
+            "id": 9,
+            "text": "The rewritten rule will achieve more modest carbon reduction impacts because it regulates power plants individually, instead of pushing for broad changes to the U.S. electricity mix, which is already naturally shifting away from coal to cheaper and cleaner alternatives."
+        },
+        {
+            "id": 10,
+            "text": "The EPA would mandate heat rate improvements in power plants, enabling them to run more efficiently by burning less coal to produce the same amount of electricity."
+        },
+        {
+            "id": 11,
+            "text": "And it would ease regulations that force power plants to undergo new pollution reviews when they upgrade facilities."
+        },
+        {
+            "id": 12,
+            "text": "States would have three years to submit a compliance plan to improve efficiency at coal plants."
+        },
+        {
+            "id": 13,
+            "text": "EPA would have one year to approve or deny state plans."
+        },
+        {
+            "id": 14,
+            "text": "If it deems a state plan insufficient, the EPA said it would impose a federal plan on a state within two years."
+        },
+        {
+            "id": 15,
+            "text": "The EPA also acknowledged the weaker rule would lead to a potential rise in soot and other particulate matter that contribute to health issues such as asthma and lung disease, although the agency has other means to regulate those."
+        },
+        {
+            "id": 16,
+            "text": "It projects the revised rule could lead to between 470 and 1,400 premature deaths each year by 2030 compared to the Obama plan."
+        },
+        {
+            "id": 17,
+            "text": "In choosing to replace the Clean Power Plan, rather than repeal it outright, the EPA is acknowledging the federal government is legally obligated to regulate emissions of carbon and other greenhouse gases that cause global warming."
+        },
+        {
+            "id": 18,
+            "text": "It decided not to contest the endangerment finding, as some conservatives pushed the agency to do."
+        },
+        {
+            "id": 19,
+            "text": "That finding is a 2009 EPA policy that created the basis for regulating carbon dioxide, a greenhouse gas contributing to climate change."
+        },
+        {
+            "id": 20,
+            "text": "It stems from a 2007 Supreme Court ruling that said carbon dioxide is a pollutant endangering public health that the EPA should regulate under the Clean Air Act."
+        },
+        {
+            "id": 21,
+            "text": "Environmentalists and Democratic states quickly vowed to sue over the proposal, arguing the Trump plan does not do enough to cover the legal obligation to regulate carbon dioxide emissions."
+        },
+        {
+            "id": 22,
+            "text": "Critics say the proposal would not significantly cut carbon emissions because it would help keep alive coal plants that would otherwise retire."
+        },
+        {
+            "id": 23,
+            "text": "Even coal supporters, however, admit the more limited regulation won\u2019t entice new coal development, although it may delay some retirements."
+        },
+        {
+            "id": 24,
+            "text": "Since 2010, nearly 40 percent of the capacity of the nation\u2019s coal-fired power plants has been shut down or designated for closure, according to the American Coalition for Clean Coal Electricity, a trade group supporting the industry."
+        },
+        {
+            "id": 25,
+            "text": "The Trump EPA proposal still faces a 60-day public comment period before being finalized."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "rolled",
+            "sentence_id": 0,
+            "start": 36,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "combat",
+            "sentence_id": 0,
+            "start": 145,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "climate change",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 22,
+                    "text": "Clean Power Plan",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 2,
+            "token": "claims",
+            "sentence_id": 0,
+            "start": 173,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "save",
+            "sentence_id": 0,
+            "start": 204,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "money",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "reducing",
+            "sentence_id": 0,
+            "start": 235,
+            "end": 243,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "released",
+            "sentence_id": 1,
+            "start": 55,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "renamed",
+            "sentence_id": 1,
+            "start": 74,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 134,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "provide",
+            "sentence_id": 1,
+            "start": 145,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "money",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "reducing",
+            "sentence_id": 1,
+            "start": 192,
+            "end": 200,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "carbon dioxide pollution",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "expected",
+            "sentence_id": 2,
+            "start": 19,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "tout",
+            "sentence_id": 2,
+            "start": 31,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "rally",
+            "sentence_id": 2,
+            "start": 54,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "restore",
+            "sentence_id": 3,
+            "start": 20,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "rule of law",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 14,
+            "token": "empower",
+            "sentence_id": 3,
+            "start": 48,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "reduce",
+            "sentence_id": 3,
+            "start": 66,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "carbon dioxide pollution",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 16,
+            "token": "provide",
+            "sentence_id": 3,
+            "start": 102,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "affordable energy",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 170,
+            "end": 174,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "provides",
+            "sentence_id": 4,
+            "start": 18,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "need",
+            "sentence_id": 4,
+            "start": 81,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "continue",
+            "sentence_id": 4,
+            "start": 89,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "progress",
+            "sentence_id": 4,
+            "start": 112,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "climate change",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "fulfilling",
+            "sentence_id": 4,
+            "start": 127,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "implemented",
+            "sentence_id": 5,
+            "start": 63,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "stay",
+            "sentence_id": 5,
+            "start": 102,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "required",
+            "sentence_id": 5,
+            "start": 108,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "2015 Clean Power Plan",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "carbon dioxide pollution",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "reduce",
+            "sentence_id": 5,
+            "start": 127,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "shifting",
+            "sentence_id": 5,
+            "start": 200,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "underpinned",
+            "sentence_id": 6,
+            "start": 23,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "commitment",
+            "sentence_id": 6,
+            "start": 45,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "rejected",
+            "sentence_id": 6,
+            "start": 107,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "argues",
+            "sentence_id": 7,
+            "start": 25,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "based",
+            "sentence_id": 7,
+            "start": 43,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "interpretation",
+            "sentence_id": 7,
+            "start": 86,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 19,
+                    "text": "Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "2015 Clean Power Plan",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 34,
+            "token": "fits",
+            "sentence_id": 7,
+            "start": 140,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "allows",
+            "sentence_id": 7,
+            "start": 177,
+            "end": 183,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "gives",
+            "sentence_id": 8,
+            "start": 31,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "power plants",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "regulate",
+            "sentence_id": 8,
+            "start": 61,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "achieve",
+            "sentence_id": 9,
+            "start": 24,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "carbon reduction impacts",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "regulates",
+            "sentence_id": 9,
+            "start": 80,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "power plants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "pushing",
+            "sentence_id": 9,
+            "start": 128,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "changes",
+            "sentence_id": 9,
+            "start": 146,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "shifting",
+            "sentence_id": 9,
+            "start": 210,
+            "end": 218,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "mandate",
+            "sentence_id": 10,
+            "start": 14,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "power plants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "improvements",
+            "sentence_id": 10,
+            "start": 32,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "enabling",
+            "sentence_id": 10,
+            "start": 62,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "carbon reduction impacts",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "burning",
+            "sentence_id": 10,
+            "start": 103,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "produce",
+            "sentence_id": 10,
+            "start": 124,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "ease",
+            "sentence_id": 11,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "power plants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "force",
+            "sentence_id": 11,
+            "start": 35,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "undergo",
+            "sentence_id": 11,
+            "start": 57,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "upgrade",
+            "sentence_id": 11,
+            "start": 97,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "have",
+            "sentence_id": 12,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "submit",
+            "sentence_id": 12,
+            "start": 33,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "improve",
+            "sentence_id": 12,
+            "start": 61,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "have",
+            "sentence_id": 13,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "approve",
+            "sentence_id": 13,
+            "start": 27,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "deny",
+            "sentence_id": 13,
+            "start": 38,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "deems",
+            "sentence_id": 14,
+            "start": 6,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "said",
+            "sentence_id": 14,
+            "start": 47,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "impose",
+            "sentence_id": 14,
+            "start": 61,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "acknowledged",
+            "sentence_id": 15,
+            "start": 13,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "lead",
+            "sentence_id": 15,
+            "start": 48,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "health issues",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 63,
+            "token": "rise",
+            "sentence_id": 15,
+            "start": 68,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "health issues",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 64,
+            "token": "contribute",
+            "sentence_id": 15,
+            "start": 115,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "regulate",
+            "sentence_id": 15,
+            "start": 215,
+            "end": 223,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "power plants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 66,
+            "token": "projects",
+            "sentence_id": 16,
+            "start": 3,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "lead",
+            "sentence_id": 16,
+            "start": 35,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "health issues",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 68,
+            "token": "choosing",
+            "sentence_id": 17,
+            "start": 3,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "replace",
+            "sentence_id": 17,
+            "start": 15,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "repeal",
+            "sentence_id": 17,
+            "start": 57,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "acknowledging",
+            "sentence_id": 17,
+            "start": 88,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "obligated",
+            "sentence_id": 17,
+            "start": 136,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "regulate",
+            "sentence_id": 17,
+            "start": 149,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "cause",
+            "sentence_id": 17,
+            "start": 210,
+            "end": 215,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "decided",
+            "sentence_id": 18,
+            "start": 3,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "contest",
+            "sentence_id": 18,
+            "start": 18,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "finding",
+            "sentence_id": 18,
+            "start": 43,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "pushed",
+            "sentence_id": 18,
+            "start": 74,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "do",
+            "sentence_id": 18,
+            "start": 95,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "created",
+            "sentence_id": 19,
+            "start": 39,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "stems",
+            "sentence_id": 20,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "ruling",
+            "sentence_id": 20,
+            "start": 35,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "said",
+            "sentence_id": 20,
+            "start": 47,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 84,
+            "token": "regulate",
+            "sentence_id": 20,
+            "start": 128,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "vowed",
+            "sentence_id": 21,
+            "start": 48,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "sue",
+            "sentence_id": 21,
+            "start": 57,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "Democratic states",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Environmentalists",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 87,
+            "token": "arguing",
+            "sentence_id": 21,
+            "start": 80,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 88,
+            "token": "do",
+            "sentence_id": 21,
+            "start": 112,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "carbon dioxide pollution",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 89,
+            "token": "cover",
+            "sentence_id": 21,
+            "start": 125,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 90,
+            "token": "regulate",
+            "sentence_id": 21,
+            "start": 155,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 91,
+            "token": "say",
+            "sentence_id": 22,
+            "start": 8,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 92,
+            "token": "cut",
+            "sentence_id": 22,
+            "start": 49,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "carbon dioxide pollution",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 93,
+            "token": "help",
+            "sentence_id": 22,
+            "start": 87,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 94,
+            "token": "keep",
+            "sentence_id": 22,
+            "start": 92,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "power plants",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 95,
+            "token": "retire",
+            "sentence_id": 22,
+            "start": 136,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 96,
+            "token": "admit",
+            "sentence_id": 23,
+            "start": 31,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 97,
+            "token": "entice",
+            "sentence_id": 23,
+            "start": 71,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "power plants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 98,
+            "token": "delay",
+            "sentence_id": 23,
+            "start": 116,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Affordable Clean Energy Rule",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "power plants",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 99,
+            "token": "retirements",
+            "sentence_id": 23,
+            "start": 127,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 100,
+            "token": "shut",
+            "sentence_id": 24,
+            "start": 95,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 101,
+            "token": "designated",
+            "sentence_id": 24,
+            "start": 108,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 102,
+            "token": "according",
+            "sentence_id": 24,
+            "start": 132,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 103,
+            "token": "faces",
+            "sentence_id": 25,
+            "start": 29,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 104,
+            "token": "finalized",
+            "sentence_id": 25,
+            "start": 79,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "climate change",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                1,
+                21
+            ]
+        },
+        {
+            "text": "carbon dioxide pollution",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                9,
+                88,
+                25,
+                92,
+                15
+            ]
+        },
+        {
+            "text": "Affordable Clean Energy Rule",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                3,
+                4,
+                8,
+                9,
+                11,
+                13,
+                14,
+                15,
+                16,
+                18,
+                21,
+                22,
+                36,
+                38,
+                39,
+                40,
+                45,
+                48,
+                62,
+                63,
+                65,
+                67,
+                86,
+                88,
+                92,
+                94,
+                97,
+                98,
+                43
+            ]
+        },
+        {
+            "text": "rule of law",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                13
+            ]
+        },
+        {
+            "text": "affordable energy",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                16
+            ]
+        },
+        {
+            "text": "Democratic states",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                86
+            ]
+        },
+        {
+            "text": "Environmentalists",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                86
+            ]
+        },
+        {
+            "text": "Americans",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": [
+                14,
+                18,
+                40
+            ]
+        },
+        {
+            "text": "President Trump",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                22,
+                11
+            ]
+        },
+        {
+            "text": "carbon reduction impacts",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                38
+            ]
+        },
+        {
+            "text": "power plants",
+            "ideology": "Neutral",
+            "id": 16,
+            "events": [
+                48,
+                65,
+                36,
+                39,
+                97,
+                98,
+                43,
+                94
+            ]
+        },
+        {
+            "text": "money",
+            "ideology": "Neutral",
+            "id": 17,
+            "events": [
+                3,
+                8
+            ]
+        },
+        {
+            "text": "2015 Clean Power Plan",
+            "ideology": "Left",
+            "id": 18,
+            "events": [
+                25,
+                33
+            ]
+        },
+        {
+            "text": "Obama",
+            "ideology": "Left",
+            "id": 19,
+            "events": [
+                33
+            ]
+        },
+        {
+            "text": "health issues",
+            "ideology": "Neutral",
+            "id": 21,
+            "events": [
+                62,
+                67,
+                63
+            ]
+        },
+        {
+            "text": "Clean Power Plan",
+            "ideology": "Left",
+            "id": 22,
+            "events": [
+                1
+            ]
+        }
+    ]
+}

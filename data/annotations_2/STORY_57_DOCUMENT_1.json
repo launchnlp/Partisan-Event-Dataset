@@ -1,0 +1,2112 @@
+{
+    "title": "How Democrats Can Win With Medicare For All",
+    "id": "STORY_57_DOCUMENT_1",
+    "old_id": "2539_1",
+    "split": "train",
+    "date": "2017-08-31",
+    "topic": "healthcare",
+    "source": "HuffPost",
+    "media_ideology": "Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Elected officials in both parties, but especially Democrats, are failing the American people on health care."
+        },
+        {
+            "id": 1,
+            "text": "This failure to think outside of the box is what\u2019s kept our country from joining the rest of the industrialized world in offering universal health care."
+        },
+        {
+            "id": 2,
+            "text": "We live in a country that sent people to the moon."
+        },
+        {
+            "id": 3,
+            "text": "This accomplishment, along with other bold leaps of faith, required political will, determination and imagination."
+        },
+        {
+            "id": 4,
+            "text": "Providing health care for all of our citizens requires the same force of will."
+        },
+        {
+            "id": 5,
+            "text": "It is an attainable goal that is not only morally right, it is politically and economically viable policy position that Democrats can win on."
+        },
+        {
+            "id": 6,
+            "text": "It is imperative that Democrats take a stand and embrace Medicare for All and other progressive policies that address the needs of millions of Americans."
+        },
+        {
+            "id": 7,
+            "text": "Poll after poll says that Americans, from all walks of life, are ready for universal health care."
+        },
+        {
+            "id": 8,
+            "text": "By now it\u2019s been widely reported that a majority of Democrats support a single payer health care system."
+        },
+        {
+            "id": 9,
+            "text": "Republican voters are also changing their minds about how our country tackles rising health care costs."
+        },
+        {
+            "id": 10,
+            "text": "A recent YouGov poll found 40 percent of Trump voters support expanding Medicare to all Americans."
+        },
+        {
+            "id": 11,
+            "text": "Among all Republicans, the share rises to 46 percent."
+        },
+        {
+            "id": 12,
+            "text": "Even Republicans in office are waking to the knowledge that health care access is important to voters on both sides of the aisle."
+        },
+        {
+            "id": 13,
+            "text": "When the Senate was creating their repeal bill, the most progressive parts of the Affordable Care Act, Medicaid expansion and regulating the insurance companies, were the policies Senate Republicans with the most and ultimately failed to repeal."
+        },
+        {
+            "id": 14,
+            "text": "Medicaid expansion benefited 23 million people who, until its passage, were left to the mercies of insurance companies."
+        },
+        {
+            "id": 15,
+            "text": "We must speak to those 23 million people and the 27 million who are still without health care about the moral obligation this country has to provide quality health care to everyone."
+        },
+        {
+            "id": 16,
+            "text": "If Democrats hope to win majorities again they must expand the electorate."
+        },
+        {
+            "id": 17,
+            "text": "This can be done by taking bold positions and advancing a public policy agenda that speaks to the needs of the overwhelming majority of Americans."
+        },
+        {
+            "id": 18,
+            "text": "One of the ways to do that is by supporting universal health care."
+        },
+        {
+            "id": 19,
+            "text": "\u201cThis is not the time for our party to move to the center.\"\u201d"
+        },
+        {
+            "id": 20,
+            "text": "It\u2019s time to stop talking about what we cannot do and start to dream big, drive hard and demonstrate to the American people that Democrats are prepared to serve and lead."
+        },
+        {
+            "id": 21,
+            "text": "If this summer\u2019s health care debacle proved anything, it is that there is support for so called \u201cprogressive\u201d policies \u2015 universal health care coverage, raising the minimum wage, taxing Wall Street, and college tuition for everyone."
+        },
+        {
+            "id": 22,
+            "text": "Right now, our country is reeling under the leadership of a president that cannot tell the difference between peaceful protesters and white supremacists."
+        },
+        {
+            "id": 23,
+            "text": "This is not the time for our party to move to the center."
+        },
+        {
+            "id": 24,
+            "text": "At the 2016 Democratic Convention, Democrats passed one of the most progressive party platforms in our history."
+        },
+        {
+            "id": 25,
+            "text": "The more Democrats try to abandon the values and policies embodied in our platform, the more we will continue to lose."
+        },
+        {
+            "id": 26,
+            "text": "We can\u2019t win by running on incrementalism."
+        },
+        {
+            "id": 27,
+            "text": "In 2008, we won the White House by talking to voters in red states and blue states about how we can change our country for the better."
+        },
+        {
+            "id": 28,
+            "text": "Slogans like \u201cYes we can\u201d and a \u201cA future to believe in\u201d are not just empty promises."
+        },
+        {
+            "id": 29,
+            "text": "They speak to the promises we hold in our hearts that our country can be better for those who are here and for those who are yet to come."
+        },
+        {
+            "id": 30,
+            "text": "We must continue to be the party that fights for working people of all ethnicities."
+        },
+        {
+            "id": 31,
+            "text": "When 27 million people are still without any access to health care coverage, it is our responsibility to speak to the millions of people about why it is wrong that insurance companies make billions in profits but they are left out in the cold."
+        },
+        {
+            "id": 32,
+            "text": "Our country is the richest in the history of the world."
+        },
+        {
+            "id": 33,
+            "text": "We should be working to expand and improve successful programs like Medicare, and offer more to our citizens."
+        },
+        {
+            "id": 34,
+            "text": "Instead, we\u2019ve allowed billionaires, not doctors, to decide which services people need while weighing their worth against profits."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "failing",
+            "sentence_id": 0,
+            "start": 65,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 1,
+            "token": "failure",
+            "sentence_id": 1,
+            "start": 5,
+            "end": 12,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "think",
+            "sentence_id": 1,
+            "start": 16,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 3,
+            "token": "kept",
+            "sentence_id": 1,
+            "start": 51,
+            "end": 55,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "joining",
+            "sentence_id": 1,
+            "start": 73,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "American people",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "offering",
+            "sentence_id": 1,
+            "start": 121,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "live",
+            "sentence_id": 2,
+            "start": 3,
+            "end": 7,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "sent",
+            "sentence_id": 2,
+            "start": 26,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "accomplishment",
+            "sentence_id": 3,
+            "start": 5,
+            "end": 19,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "leaps",
+            "sentence_id": 3,
+            "start": 43,
+            "end": 48,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "required",
+            "sentence_id": 3,
+            "start": 59,
+            "end": 67,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "Providing",
+            "sentence_id": 4,
+            "start": 0,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "requires",
+            "sentence_id": 4,
+            "start": 46,
+            "end": 54,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "win",
+            "sentence_id": 5,
+            "start": 134,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 14,
+            "token": "take",
+            "sentence_id": 6,
+            "start": 32,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 15,
+            "token": "embrace",
+            "sentence_id": 6,
+            "start": 49,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 16,
+            "token": "address",
+            "sentence_id": 6,
+            "start": 110,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 17,
+            "token": "says",
+            "sentence_id": 7,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "ready",
+            "sentence_id": 7,
+            "start": 65,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "American people",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 19,
+            "token": "reported",
+            "sentence_id": 8,
+            "start": 24,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "support",
+            "sentence_id": 8,
+            "start": 62,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 21,
+            "token": "changing",
+            "sentence_id": 9,
+            "start": 27,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Republican voters",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 22,
+            "token": "found",
+            "sentence_id": 10,
+            "start": 21,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "support",
+            "sentence_id": 10,
+            "start": 54,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Trump voters",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 24,
+            "token": "expanding",
+            "sentence_id": 10,
+            "start": 62,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Medicare",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "rises",
+            "sentence_id": 11,
+            "start": 33,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Republican voters",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "waking",
+            "sentence_id": 12,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 27,
+            "token": "creating",
+            "sentence_id": 13,
+            "start": 20,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "the Senate",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "failed",
+            "sentence_id": 13,
+            "start": 228,
+            "end": 234,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Medicaid expansion and regulating the insurance companies",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 29,
+            "token": "repeal",
+            "sentence_id": 13,
+            "start": 238,
+            "end": 244,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Medicaid expansion and regulating the insurance companies",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 30,
+            "token": "benefited",
+            "sentence_id": 14,
+            "start": 19,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Medicaid expansion",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 31,
+            "token": "passage",
+            "sentence_id": 14,
+            "start": 62,
+            "end": 69,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "left",
+            "sentence_id": 14,
+            "start": 76,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "American people",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "insurance companies",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Medicaid expansion",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 33,
+            "token": "speak",
+            "sentence_id": 15,
+            "start": 8,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 34,
+            "token": "provide",
+            "sentence_id": 15,
+            "start": 141,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "Medicaid expansion",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 35,
+            "token": "hope",
+            "sentence_id": 16,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "win",
+            "sentence_id": 16,
+            "start": 21,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "expand",
+            "sentence_id": 16,
+            "start": 52,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "done",
+            "sentence_id": 17,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "taking",
+            "sentence_id": 17,
+            "start": 20,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 40,
+            "token": "advancing",
+            "sentence_id": 17,
+            "start": 46,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 41,
+            "token": "speaks",
+            "sentence_id": 17,
+            "start": 84,
+            "end": 90,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "do",
+            "sentence_id": 18,
+            "start": 19,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "supporting",
+            "sentence_id": 18,
+            "start": 33,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 44,
+            "token": "move",
+            "sentence_id": 19,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 45,
+            "token": "stop",
+            "sentence_id": 20,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 46,
+            "token": "talking",
+            "sentence_id": 20,
+            "start": 18,
+            "end": 25,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "start",
+            "sentence_id": 20,
+            "start": 54,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "dream",
+            "sentence_id": 20,
+            "start": 63,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 49,
+            "token": "drive",
+            "sentence_id": 20,
+            "start": 74,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 50,
+            "token": "demonstrate",
+            "sentence_id": 20,
+            "start": 89,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 51,
+            "token": "prepared",
+            "sentence_id": 20,
+            "start": 143,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 52,
+            "token": "serve",
+            "sentence_id": 20,
+            "start": 155,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 53,
+            "token": "lead",
+            "sentence_id": 20,
+            "start": 165,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 54,
+            "token": "debacle",
+            "sentence_id": 21,
+            "start": 29,
+            "end": 36,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "proved",
+            "sentence_id": 21,
+            "start": 37,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "raising",
+            "sentence_id": 21,
+            "start": 153,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 57,
+            "token": "taxing",
+            "sentence_id": 21,
+            "start": 179,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "reeling",
+            "sentence_id": 22,
+            "start": 26,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "our country",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "a president",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 59,
+            "token": "tell",
+            "sentence_id": 22,
+            "start": 82,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "a president",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 60,
+            "token": "move",
+            "sentence_id": 23,
+            "start": 38,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "\u201cprogressive\u201d policies",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 61,
+            "token": "passed",
+            "sentence_id": 24,
+            "start": 45,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 62,
+            "token": "try",
+            "sentence_id": 25,
+            "start": 19,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "abandon",
+            "sentence_id": 25,
+            "start": 26,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 64,
+            "token": "continue",
+            "sentence_id": 25,
+            "start": 101,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 65,
+            "token": "lose",
+            "sentence_id": 25,
+            "start": 113,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 66,
+            "token": "win",
+            "sentence_id": 26,
+            "start": 9,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "incrementalism",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 67,
+            "token": "running",
+            "sentence_id": 26,
+            "start": 16,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "incrementalism",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 68,
+            "token": "won",
+            "sentence_id": 27,
+            "start": 12,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 69,
+            "token": "talking",
+            "sentence_id": 27,
+            "start": 35,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 70,
+            "token": "change",
+            "sentence_id": 27,
+            "start": 100,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 71,
+            "token": "believe",
+            "sentence_id": 28,
+            "start": 45,
+            "end": 52,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "speak",
+            "sentence_id": 29,
+            "start": 5,
+            "end": 10,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "hold",
+            "sentence_id": 29,
+            "start": 30,
+            "end": 34,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "come",
+            "sentence_id": 29,
+            "start": 132,
+            "end": 136,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "continue",
+            "sentence_id": 30,
+            "start": 8,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 76,
+            "token": "be",
+            "sentence_id": 30,
+            "start": 20,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "fights",
+            "sentence_id": 30,
+            "start": 38,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 78,
+            "token": "speak",
+            "sentence_id": 31,
+            "start": 105,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 79,
+            "token": "make",
+            "sentence_id": 31,
+            "start": 184,
+            "end": 188,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "insurance companies",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 80,
+            "token": "left",
+            "sentence_id": 31,
+            "start": 222,
+            "end": 226,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "American people",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 81,
+            "token": "working",
+            "sentence_id": 33,
+            "start": 13,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 82,
+            "token": "expand",
+            "sentence_id": 33,
+            "start": 24,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 83,
+            "token": "improve",
+            "sentence_id": 33,
+            "start": 35,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Medicare For All",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 84,
+            "token": "offer",
+            "sentence_id": 33,
+            "start": 82,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 85,
+            "token": "allowed",
+            "sentence_id": 34,
+            "start": 15,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 86,
+            "token": "decide",
+            "sentence_id": 34,
+            "start": 53,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "billionaires",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 87,
+            "token": "weighing",
+            "sentence_id": 34,
+            "start": 93,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "billionaires",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                0,
+                2,
+                13,
+                14,
+                15,
+                20,
+                33,
+                36,
+                37,
+                39,
+                40,
+                43,
+                44,
+                45,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                56,
+                57,
+                60,
+                61,
+                63,
+                65,
+                64,
+                66,
+                67,
+                68,
+                69,
+                70,
+                75,
+                77,
+                78,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87
+            ]
+        },
+        {
+            "text": "American people",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                4,
+                18,
+                32,
+                80
+            ]
+        },
+        {
+            "text": "Medicare For All",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                4,
+                5,
+                11,
+                13,
+                15,
+                16,
+                18,
+                20,
+                21,
+                23,
+                24,
+                25,
+                26,
+                36,
+                37,
+                43,
+                44,
+                45,
+                48,
+                49,
+                50,
+                78,
+                82,
+                83
+            ]
+        },
+        {
+            "text": "Republican voters",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                21,
+                25
+            ]
+        },
+        {
+            "text": "Trump voters",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                23
+            ]
+        },
+        {
+            "text": "Medicare",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                24
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                26,
+                28,
+                29,
+                79,
+                80
+            ]
+        },
+        {
+            "text": "the Senate",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                27
+            ]
+        },
+        {
+            "text": "Medicaid expansion and regulating the insurance companies",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                28,
+                29
+            ]
+        },
+        {
+            "text": "Medicaid expansion",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                30,
+                32,
+                34
+            ]
+        },
+        {
+            "text": "insurance companies",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                32,
+                79
+            ]
+        },
+        {
+            "text": "our country",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                58
+            ]
+        },
+        {
+            "text": "a president",
+            "ideology": "Right",
+            "id": 12,
+            "events": [
+                58,
+                59
+            ]
+        },
+        {
+            "text": "\u201cprogressive\u201d policies",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                60
+            ]
+        },
+        {
+            "text": "incrementalism",
+            "ideology": "Left",
+            "id": 14,
+            "events": [
+                66,
+                67
+            ]
+        },
+        {
+            "text": "billionaires",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                86,
+                87
+            ]
+        }
+    ]
+}

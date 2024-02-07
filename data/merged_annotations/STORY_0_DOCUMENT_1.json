@@ -1,0 +1,1240 @@
+{
+    "title": "Marijuana Industry Braces For Looming Federal Crackdown From Sessions",
+    "id": "STORY_0_DOCUMENT_1",
+    "old_id": "2476_2",
+    "split": "train",
+    "date": "2017-07-24",
+    "topic": "public-health",
+    "source": "The Daily Caller",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Center",
+    "news": [
+        {
+            "id": 0,
+            "text": "A report on crime rates and public safety from the Trump administration is due out this week and is expected to contain recommendations for restricting state marijuana laws."
+        },
+        {
+            "id": 1,
+            "text": "The marijuana industry is anxiously awaiting a report from the Department of Justice\u2019s (DOJ) Task Force on Crime Reduction and Public Safety, which they fear will advocate that Attorney General Jeff Sessions interfere with state legalization laws."
+        },
+        {
+            "id": 2,
+            "text": "Industry experts note that Sessions has recently stepped up his rhetoric on the threat of violent crime in the U.S., which he partially links to greater access to marijuana, reports The Hill."
+        },
+        {
+            "id": 3,
+            "text": "Sessions charged the task force with reviewing existing federal policy on marijuana legalization and providing recommendations to him no later than July 27."
+        },
+        {
+            "id": 4,
+            "text": "Officials have also been reviewing the Cole Memorandum, a set of guidelines established in 2013 that directs the DOJ to focus marijuana enforcement efforts on violent crimes and distribution in states without legalization laws."
+        },
+        {
+            "id": 5,
+            "text": "Industry insiders predict that the task force will recommend increased prison sentences for users, distributors and growers of marijuana."
+        },
+        {
+            "id": 6,
+            "text": "Democratic Sen. Cory Booker recently slammed Sessions as \u201cone of the greatest threats to the safety of our local communities in America,\u201d for threatening state legalization laws."
+        },
+        {
+            "id": 7,
+            "text": "\u201cIf you try to start prosecuting marijuana\u2026you create more violence and more danger as well as greater government cost,\u201d Booker told The Hill on Sunday."
+        },
+        {
+            "id": 8,
+            "text": "\u201cThese policies that he\u2019s doing ultimately go to the core of the safety of our communities."
+        },
+        {
+            "id": 9,
+            "text": "If we can overcome Strom Thurmond\u2019s filibuster against the civil rights bill, we can overcome a U.S. Attorney General who is out of step with history and out of step with his party.\u201d"
+        },
+        {
+            "id": 10,
+            "text": "Sessions, a stanch opponent of marijuana legalization, has made numerous attempts to encroach on state legalization laws since becoming attorney general."
+        },
+        {
+            "id": 11,
+            "text": "A letter from Sessions to Congress leaked June 13 showing that he petitioned lawmakers to scale back legal protections for medical marijuana."
+        },
+        {
+            "id": 12,
+            "text": "In the letter sent to Congress in May, Sessions asks that they dismantle the Rohrabacher-Farr amendment, which passed in 2014 and prevents the DOJ from using federal funds to prosecute individuals in states with medical legalization."
+        },
+        {
+            "id": 13,
+            "text": "Sessions argues that these protections undermine the DOJ\u2019s ability to combat the illegal drug trade."
+        },
+        {
+            "id": 14,
+            "text": "Sessions cites the current drug epidemic involving opioids as reason to remove the restrictions placed on the Justice Department."
+        },
+        {
+            "id": 15,
+            "text": "Federal officials estimate that drug overdoses killed more than 60,000 Americans in 2016."
+        },
+        {
+            "id": 16,
+            "text": "Recent research, however, suggests that legal marijuana is helping reduce abuse rates of prescription drugs."
+        },
+        {
+            "id": 17,
+            "text": "A study published in Drug and Alcohol Dependence in March found that hospitalization rates for opioid abuse and dependence in states with medical marijuana are roughly 23 percent lower than states without legal access."
+        },
+        {
+            "id": 18,
+            "text": "Medical marijuana is legal in 29 states and Washington, D.C., where it is also legal for recreational use."
+        },
+        {
+            "id": 19,
+            "text": "Nearly 20 percent of Americans now have access to legal pot."
+        },
+        {
+            "id": 20,
+            "text": "Follow Steve on Twitter"
+        },
+        {
+            "id": 21,
+            "text": "All content created by the Daily Caller News Foundation, an independent and nonpartisan newswire service, is available without charge to any legitimate news publisher that can provide a large audience."
+        },
+        {
+            "id": 22,
+            "text": "All republished articles must include our reporter\u2019s byline and their DCNF affiliation."
+        },
+        {
+            "id": 23,
+            "text": "For any questions about our guidelines or partnering with us, please contact licensing@dailycallernewsfoundation.org."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "due",
+            "sentence_id": 0,
+            "start": 75,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "expected",
+            "sentence_id": 0,
+            "start": 100,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "contain",
+            "sentence_id": 0,
+            "start": 112,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "recommendations",
+            "sentence_id": 0,
+            "start": 120,
+            "end": 135,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "restricting",
+            "sentence_id": 0,
+            "start": 140,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "awaiting",
+            "sentence_id": 1,
+            "start": 36,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "fear",
+            "sentence_id": 1,
+            "start": 153,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "advocate",
+            "sentence_id": 1,
+            "start": 163,
+            "end": 171,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "interfere",
+            "sentence_id": 1,
+            "start": 208,
+            "end": 217,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Jeff Sessions",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "note",
+            "sentence_id": 2,
+            "start": 17,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "stepped",
+            "sentence_id": 2,
+            "start": 49,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Jeff Sessions",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "violent crime",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "links",
+            "sentence_id": 2,
+            "start": 136,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "violent crime",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "access to marijuana",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "reports",
+            "sentence_id": 2,
+            "start": 174,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "charged",
+            "sentence_id": 3,
+            "start": 9,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "reviewing",
+            "sentence_id": 3,
+            "start": 37,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "providing",
+            "sentence_id": 3,
+            "start": 101,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "recommendations",
+            "sentence_id": 3,
+            "start": 111,
+            "end": 126,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "reviewing",
+            "sentence_id": 4,
+            "start": 25,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "established",
+            "sentence_id": 4,
+            "start": 76,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "directs",
+            "sentence_id": 4,
+            "start": 101,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "focus",
+            "sentence_id": 4,
+            "start": 120,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "predict",
+            "sentence_id": 5,
+            "start": 18,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "recommend",
+            "sentence_id": 5,
+            "start": 51,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "slammed",
+            "sentence_id": 6,
+            "start": 37,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Cory Booker",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Jeff Sessions",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "threatening",
+            "sentence_id": 6,
+            "start": 142,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Jeff Sessions",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "state legalization laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 25,
+            "token": "try",
+            "sentence_id": 7,
+            "start": 8,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "start",
+            "sentence_id": 7,
+            "start": 15,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "prosecuting",
+            "sentence_id": 7,
+            "start": 21,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Jeff Sessions",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "access to marijuana",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "create",
+            "sentence_id": 7,
+            "start": 47,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Jeff Sessions",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "violent crime",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 29,
+            "token": "told",
+            "sentence_id": 7,
+            "start": 128,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "doing",
+            "sentence_id": 8,
+            "start": 26,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "go",
+            "sentence_id": 8,
+            "start": 43,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "Federal Crackdown",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "violent crime",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "overcome",
+            "sentence_id": 9,
+            "start": 10,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 18,
+                    "text": "Strom Thurmond\u2019s filibuster",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 33,
+            "token": "filibuster",
+            "sentence_id": 9,
+            "start": 36,
+            "end": 46,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "overcome",
+            "sentence_id": 9,
+            "start": 85,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Jeff Sessions",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 35,
+            "token": "made",
+            "sentence_id": 10,
+            "start": 59,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "attempts",
+            "sentence_id": 10,
+            "start": 73,
+            "end": 81,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "encroach",
+            "sentence_id": 10,
+            "start": 85,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Jeff Sessions",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "state legalization laws",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "becoming",
+            "sentence_id": 10,
+            "start": 127,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "leaked",
+            "sentence_id": 11,
+            "start": 35,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "showing",
+            "sentence_id": 11,
+            "start": 50,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "petitioned",
+            "sentence_id": 11,
+            "start": 66,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "scale",
+            "sentence_id": 11,
+            "start": 90,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "sent",
+            "sentence_id": 12,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "asks",
+            "sentence_id": 12,
+            "start": 48,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "dismantle",
+            "sentence_id": 12,
+            "start": 63,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Rohrabacher-Farr amendment",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "Jeff Sessions",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 46,
+            "token": "passed",
+            "sentence_id": 12,
+            "start": 111,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "prevents",
+            "sentence_id": 12,
+            "start": 130,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "using",
+            "sentence_id": 12,
+            "start": 152,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "prosecute",
+            "sentence_id": 12,
+            "start": 175,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "argues",
+            "sentence_id": 13,
+            "start": 9,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "undermine",
+            "sentence_id": 13,
+            "start": 39,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Rohrabacher-Farr amendment",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "Department of Justice",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "combat",
+            "sentence_id": 13,
+            "start": 70,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 19,
+                    "text": "Department of Justice",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "access to marijuana",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 53,
+            "token": "cites",
+            "sentence_id": 14,
+            "start": 9,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "epidemic",
+            "sentence_id": 14,
+            "start": 32,
+            "end": 40,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "remove",
+            "sentence_id": 14,
+            "start": 72,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "access to marijuana",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 19,
+                    "text": "Department of Justice",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 56,
+            "token": "placed",
+            "sentence_id": 14,
+            "start": 96,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "estimate",
+            "sentence_id": 15,
+            "start": 18,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "killed",
+            "sentence_id": 15,
+            "start": 47,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "Federal Crackdown",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "drug overdoses",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 59,
+            "token": "suggests",
+            "sentence_id": 16,
+            "start": 26,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "helping",
+            "sentence_id": 16,
+            "start": 59,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "access to marijuana",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "drug overdoses",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 61,
+            "token": "reduce",
+            "sentence_id": 16,
+            "start": 67,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "access to marijuana",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "drug overdoses",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 62,
+            "token": "published",
+            "sentence_id": 17,
+            "start": 8,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "found",
+            "sentence_id": 17,
+            "start": 58,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "drug overdoses",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "access to marijuana",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 64,
+            "token": "provide",
+            "sentence_id": 21,
+            "start": 176,
+            "end": 183,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "include",
+            "sentence_id": 22,
+            "start": 30,
+            "end": 37,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "partnering",
+            "sentence_id": 23,
+            "start": 42,
+            "end": 52,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "contact",
+            "sentence_id": 23,
+            "start": 69,
+            "end": 76,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "violent crime",
+            "ideology": "Neutral",
+            "id": 0,
+            "events": [
+                11,
+                10,
+                28,
+                31
+            ]
+        },
+        {
+            "text": "access to marijuana",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                11,
+                27,
+                52,
+                55,
+                60,
+                61,
+                63
+            ]
+        },
+        {
+            "text": "Cory Booker",
+            "ideology": "Left",
+            "id": 3,
+            "events": []
+        },
+        {
+            "text": "state legalization laws",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                37
+            ]
+        },
+        {
+            "text": "Rohrabacher-Farr amendment",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                51,
+                45
+            ]
+        },
+        {
+            "text": "Jeff Sessions",
+            "ideology": "Right",
+            "id": 12,
+            "events": [
+                23,
+                24,
+                34,
+                37,
+                8,
+                10,
+                27,
+                28,
+                45
+            ]
+        },
+        {
+            "text": "Federal Crackdown",
+            "ideology": "Right",
+            "id": 13,
+            "events": [
+                31,
+                58
+            ]
+        },
+        {
+            "text": "drug overdoses",
+            "ideology": "Neutral",
+            "id": 17,
+            "events": [
+                60,
+                61,
+                63
+            ]
+        },
+        {
+            "text": "Strom Thurmond\u2019s filibuster",
+            "ideology": "Right",
+            "id": 18,
+            "events": [
+                32
+            ]
+        },
+        {
+            "text": "Department of Justice",
+            "ideology": "Neutral",
+            "id": 19,
+            "events": [
+                51,
+                52,
+                55
+            ]
+        }
+    ]
+}

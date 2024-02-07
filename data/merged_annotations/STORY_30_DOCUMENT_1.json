@@ -1,0 +1,2263 @@
+{
+    "title": "Health Site Chief Expects Low Initial Enrollment Number",
+    "id": "STORY_30_DOCUMENT_1",
+    "old_id": "TRIPLET_206_DOCUMENT_1",
+    "split": "train",
+    "date": "2013-10-29",
+    "topic": "healthcare",
+    "source": "New York Times (News)",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Center",
+    "news": [
+        {
+            "id": 0,
+            "text": "WASHINGTON \u2014 Marilyn B. Tavenner , the official in charge of President Obama \u2019s health insurance marketplace , apologized on Tuesday to millions of Americans who have been frustrated in trying to buy insurance under the new health care law ."
+        },
+        {
+            "id": 1,
+            "text": "\u201c I want to apologize to you that the website is not working as well as it should , \u201d Ms. Tavenner said , in remarks addressed to the public during testimony before the House Ways Means Committee ."
+        },
+        {
+            "id": 2,
+            "text": "Ms. Tavenner , the administrator of the federal Centers for Medicare and Medicaid Services , said that \u201c nearly 700,000 applications have been submitted to the federal and state marketplaces \u201d in the last four weeks ."
+        },
+        {
+            "id": 3,
+            "text": "But she repeatedly refused to say how many of those people had actually enrolled in health insurance plans since the federal and state marketplaces , or exchanges , opened on Oct. 1 ."
+        },
+        {
+            "id": 4,
+            "text": "\u201c That number will not be available until mid-November , \u201d Ms. Tavenner said ."
+        },
+        {
+            "id": 5,
+            "text": "\u201c We expect the initial number to be small . \u201d"
+        },
+        {
+            "id": 6,
+            "text": "The chairman of the Ways and Means Committee , Representative Dave Camp , Republican of Michigan , said that at least 146,000 Michigan residents had recently received notices that their current insurance policies would be canceled because the coverage did not meet requirements of the new health care law ."
+        },
+        {
+            "id": 7,
+            "text": "\u201c In fact , \u201d Mr. Camp said , \u201c based on what little information the administration has disclosed , it turns out that more people have received cancellation notices for their health care plans this month than have enrolled in the exchanges . \u201d"
+        },
+        {
+            "id": 8,
+            "text": "Ms. Tavenner said that existing insurance policies were , in many cases , inferior to the new policies they could get ."
+        },
+        {
+            "id": 9,
+            "text": "In compliance with the health care law , she said , new policies will provide more benefits and pay a larger share of medical costs than many existing policies ."
+        },
+        {
+            "id": 10,
+            "text": "Representative Kevin Brady , Republican of Texas , asked Ms. Tavenner what she would tell people who were losing their current insurance but could not get coverage on the balky federal website ."
+        },
+        {
+            "id": 11,
+            "text": "\u201c My constituents are frightened , \u201d Mr. Brady said ."
+        },
+        {
+            "id": 12,
+            "text": "\u201c They are being forced out of health care plans they like ."
+        },
+        {
+            "id": 13,
+            "text": "The clock is ticking ."
+        },
+        {
+            "id": 14,
+            "text": "The federal website is broken ."
+        },
+        {
+            "id": 15,
+            "text": "Their health care is n\u2019t a glitch . \u201d"
+        },
+        {
+            "id": 16,
+            "text": "Ms. Tavenner said consumers could seek help from a telephone call center established by the government ."
+        },
+        {
+            "id": 17,
+            "text": "To enroll , she said , \u201c there are more methods than just the website . \u201d"
+        },
+        {
+            "id": 18,
+            "text": "Representative John Lewis , Democrat of Georgia , pushed back against Republican attacks on the law and on the administration ."
+        },
+        {
+            "id": 19,
+            "text": "\u201c The Affordable Care Act is working , \u201d Mr. Lewis said ."
+        },
+        {
+            "id": 20,
+            "text": "\u201c It is making health insurance affordable and accessible to hundreds of thousands of citizens who never had it before ."
+        },
+        {
+            "id": 21,
+            "text": "Health care is a right and not a privilege . \u201d"
+        },
+        {
+            "id": 22,
+            "text": "But while she admitted the failings of the site , Ms. Tavenner tried to hold back a bipartisan clamor for a delay in enforcement of the requirement for most Americans to carry health insurance starting next year ."
+        },
+        {
+            "id": 23,
+            "text": "Lawmakers say it would be unfair to punish Americans for going without insurance if they cannot obtain it on the federal marketplace built by dozens of companies under contract with Ms. Tavenner \u2019s agency ."
+        },
+        {
+            "id": 24,
+            "text": "Two of the contractors who worked on the site , testified last week before another congressional committee that the Medicare agency had failed to coordinate the work of dozens of contractors and did not begin \u201c end - to - end testing \u201d of the system as a whole until two weeks before it opened to the public on Oct. 1 ."
+        },
+        {
+            "id": 25,
+            "text": "The tests , they said , revealed flaws in the software and suggested that the site could not handle large numbers of users trying to log on at the same time ."
+        },
+        {
+            "id": 26,
+            "text": "Ms. Tavenner \u2014 like her boss , Kathleen Sebelius , the secretary of health and human services , and her deputy , Gary M. Cohen \u2014 repeatedly assured Congress in the last year that the federal marketplace and its website would be ready on Oct. 1 ."
+        },
+        {
+            "id": 27,
+            "text": "Ms. Tavenner said Tuesday that \u201c nearly 700,000 applications have been submitted to the federal and state marketplaces \u201d in the last four weeks ."
+        },
+        {
+            "id": 28,
+            "text": "\u201c This tremendous interest , with over 20 million unique visits to date to HealthCare.gov , confirms that the American people are looking for quality , affordable health coverage , \u201d said Ms. Tavenner , whose agency insures more than 100 million people through Medicare and Medicaid ."
+        },
+        {
+            "id": 29,
+            "text": "The rocky rollout of the new federal insurance program has irked many consumers , caused some to question the competence of federal officials and created a political crisis for Mr. Obama ."
+        },
+        {
+            "id": 30,
+            "text": "\u201c Some have had trouble creating accounts and logging in to the site , \u201d Ms. Tavenner said ."
+        },
+        {
+            "id": 31,
+            "text": "\u201c Others have received confusing error messages , or had to wait for slow page loads or forms that failed to respond in a timely fashion . \u201d"
+        },
+        {
+            "id": 32,
+            "text": "But , she said , \u201c We will address these initial and any ongoing problems , and build a website that fully delivers on the promise of the Affordable Care Act . \u201d"
+        },
+        {
+            "id": 33,
+            "text": "The chairman of the Ways and Means Committee , Representative Dave Camp , Republican of Michigan , said : \u201c Sooner or later the administration needs to admit the law is unworkable ."
+        },
+        {
+            "id": 34,
+            "text": "People do n\u2019t have access to health plans , they cannot compare coverage options and the true cost is often underreported or completely hidden . \u201d"
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "apologized",
+            "sentence_id": 0,
+            "start": 111,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Marilyn B. Tavenner",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "frustrated",
+            "sentence_id": 0,
+            "start": 172,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 2,
+            "token": "trying",
+            "sentence_id": 0,
+            "start": 186,
+            "end": 192,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "buy",
+            "sentence_id": 0,
+            "start": 196,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "want",
+            "sentence_id": 1,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "apologize",
+            "sentence_id": 1,
+            "start": 12,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Marilyn B. Tavenner",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "working",
+            "sentence_id": 1,
+            "start": 53,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 99,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "addressed",
+            "sentence_id": 1,
+            "start": 117,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "testimony",
+            "sentence_id": 1,
+            "start": 148,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 93,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "submitted",
+            "sentence_id": 2,
+            "start": 143,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "refused",
+            "sentence_id": 3,
+            "start": 19,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Marilyn B. Tavenner",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 13,
+            "token": "say",
+            "sentence_id": 3,
+            "start": 30,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "enrolled",
+            "sentence_id": 3,
+            "start": 72,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "opened",
+            "sentence_id": 3,
+            "start": 165,
+            "end": 171,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "available",
+            "sentence_id": 4,
+            "start": 26,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 72,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "expect",
+            "sentence_id": 5,
+            "start": 5,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 99,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "received",
+            "sentence_id": 6,
+            "start": 158,
+            "end": 166,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "canceled",
+            "sentence_id": 6,
+            "start": 222,
+            "end": 230,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 22,
+            "token": "meet",
+            "sentence_id": 6,
+            "start": 260,
+            "end": 264,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 23,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "disclosed",
+            "sentence_id": 7,
+            "start": 88,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "turns",
+            "sentence_id": 7,
+            "start": 103,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "received",
+            "sentence_id": 7,
+            "start": 135,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 18,
+                    "text": "cancellation notices for their health care plans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 27,
+            "token": "enrolled",
+            "sentence_id": 7,
+            "start": 214,
+            "end": 222,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "inferior",
+            "sentence_id": 8,
+            "start": 74,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "existing insurance policies",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 30,
+            "token": "get",
+            "sentence_id": 8,
+            "start": 114,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 45,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "provide",
+            "sentence_id": 9,
+            "start": 70,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "new policies",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "pay",
+            "sentence_id": 9,
+            "start": 96,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "new policies",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 34,
+            "token": "asked",
+            "sentence_id": 10,
+            "start": 51,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "tell",
+            "sentence_id": 10,
+            "start": 85,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "losing",
+            "sentence_id": 10,
+            "start": 106,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 17,
+                    "text": "current insurance policies",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 37,
+            "token": "get",
+            "sentence_id": 10,
+            "start": 151,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "frightened",
+            "sentence_id": 11,
+            "start": 22,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 39,
+            "token": "said",
+            "sentence_id": 11,
+            "start": 47,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "forced",
+            "sentence_id": 12,
+            "start": 17,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 41,
+            "token": "ticking",
+            "sentence_id": 13,
+            "start": 13,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "broken",
+            "sentence_id": 14,
+            "start": 23,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 43,
+            "token": "said",
+            "sentence_id": 16,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "seek",
+            "sentence_id": 16,
+            "start": 34,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "established",
+            "sentence_id": 16,
+            "start": 73,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "enroll",
+            "sentence_id": 17,
+            "start": 3,
+            "end": 9,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "pushed",
+            "sentence_id": 18,
+            "start": 50,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "John Lewis",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 20,
+                    "text": "Republican attacks",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 49,
+            "token": "attacks",
+            "sentence_id": 18,
+            "start": 81,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Republican",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 50,
+            "token": "working",
+            "sentence_id": 19,
+            "start": 29,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "said",
+            "sentence_id": 19,
+            "start": 51,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "making",
+            "sentence_id": 20,
+            "start": 8,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 53,
+            "token": "admitted",
+            "sentence_id": 22,
+            "start": 14,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Marilyn B. Tavenner",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 54,
+            "token": "failings",
+            "sentence_id": 22,
+            "start": 27,
+            "end": 35,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "tried",
+            "sentence_id": 22,
+            "start": 63,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Marilyn B. Tavenner",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 21,
+                    "text": "enforcement of the requirement for most Americans to carry health insurance",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 56,
+            "token": "hold",
+            "sentence_id": 22,
+            "start": 72,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 57,
+            "token": "clamor",
+            "sentence_id": 22,
+            "start": 95,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "delay",
+            "sentence_id": 22,
+            "start": 108,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "enforcement",
+            "sentence_id": 22,
+            "start": 117,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "carry",
+            "sentence_id": 22,
+            "start": 170,
+            "end": 175,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "starting",
+            "sentence_id": 22,
+            "start": 193,
+            "end": 201,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "say",
+            "sentence_id": 23,
+            "start": 10,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "punish",
+            "sentence_id": 23,
+            "start": 36,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 64,
+            "token": "going",
+            "sentence_id": 23,
+            "start": 57,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "obtain",
+            "sentence_id": 23,
+            "start": 96,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "worked",
+            "sentence_id": 24,
+            "start": 27,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "testified",
+            "sentence_id": 24,
+            "start": 48,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "failed",
+            "sentence_id": 24,
+            "start": 136,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "the federal Centers for Medicare and Medicaid Services",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 69,
+            "token": "coordinate",
+            "sentence_id": 24,
+            "start": 146,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "work",
+            "sentence_id": 24,
+            "start": 161,
+            "end": 165,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "begin",
+            "sentence_id": 24,
+            "start": 203,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "the federal Centers for Medicare and Medicaid Services",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "end - to - end testing",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 72,
+            "token": "testing",
+            "sentence_id": 24,
+            "start": 226,
+            "end": 233,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "opened",
+            "sentence_id": 24,
+            "start": 287,
+            "end": 293,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "tests",
+            "sentence_id": 25,
+            "start": 4,
+            "end": 9,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "said",
+            "sentence_id": 25,
+            "start": 17,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "revealed",
+            "sentence_id": 25,
+            "start": 24,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "end - to - end testing",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "the federal Centers for Medicare and Medicaid Services",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 77,
+            "token": "suggested",
+            "sentence_id": 25,
+            "start": 59,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "handle",
+            "sentence_id": 25,
+            "start": 93,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "the federal Centers for Medicare and Medicaid Services",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 24,
+                    "text": "large numbers of users",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 79,
+            "token": "trying",
+            "sentence_id": 25,
+            "start": 123,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "log",
+            "sentence_id": 25,
+            "start": 133,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "assured",
+            "sentence_id": 26,
+            "start": 140,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Marilyn B. Tavenner",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 25,
+                    "text": "Congress",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "the federal Centers for Medicare and Medicaid Services",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 82,
+            "token": "ready",
+            "sentence_id": 26,
+            "start": 228,
+            "end": 233,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "said",
+            "sentence_id": 27,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 84,
+            "token": "submitted",
+            "sentence_id": 27,
+            "start": 71,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "applications",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "the federal Centers for Medicare and Medicaid Services",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 85,
+            "token": "visits",
+            "sentence_id": 28,
+            "start": 57,
+            "end": 63,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "confirms",
+            "sentence_id": 28,
+            "start": 92,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 87,
+            "token": "looking",
+            "sentence_id": 28,
+            "start": 130,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 88,
+            "token": "said",
+            "sentence_id": 28,
+            "start": 183,
+            "end": 187,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "rollout",
+            "sentence_id": 29,
+            "start": 10,
+            "end": 17,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 90,
+            "token": "irked",
+            "sentence_id": 29,
+            "start": 59,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 91,
+            "token": "caused",
+            "sentence_id": 29,
+            "start": 82,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 92,
+            "token": "question",
+            "sentence_id": 29,
+            "start": 97,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 93,
+            "token": "created",
+            "sentence_id": 29,
+            "start": 146,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 94,
+            "token": "crisis",
+            "sentence_id": 29,
+            "start": 166,
+            "end": 172,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 95,
+            "token": "had",
+            "sentence_id": 30,
+            "start": 12,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "the federal Centers for Medicare and Medicaid Services",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 96,
+            "token": "creating",
+            "sentence_id": 30,
+            "start": 24,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 97,
+            "token": "logging",
+            "sentence_id": 30,
+            "start": 46,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 98,
+            "token": "said",
+            "sentence_id": 30,
+            "start": 86,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 99,
+            "token": "received",
+            "sentence_id": 31,
+            "start": 14,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "the federal Centers for Medicare and Medicaid Services",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 29,
+                    "text": "confusing error messages",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 100,
+            "token": "wait",
+            "sentence_id": 31,
+            "start": 60,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 30,
+                    "text": "slow page loads",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "the federal Centers for Medicare and Medicaid Services",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 101,
+            "token": "failed",
+            "sentence_id": 31,
+            "start": 99,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "the federal Centers for Medicare and Medicaid Services",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 102,
+            "token": "respond",
+            "sentence_id": 31,
+            "start": 109,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 103,
+            "token": "said",
+            "sentence_id": 32,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 104,
+            "token": "address",
+            "sentence_id": 32,
+            "start": 27,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "the federal Centers for Medicare and Medicaid Services",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 105,
+            "token": "build",
+            "sentence_id": 32,
+            "start": 80,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "the federal Centers for Medicare and Medicaid Services",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 106,
+            "token": "delivers",
+            "sentence_id": 32,
+            "start": 107,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 107,
+            "token": "said",
+            "sentence_id": 33,
+            "start": 99,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 108,
+            "token": "needs",
+            "sentence_id": 33,
+            "start": 143,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 109,
+            "token": "admit",
+            "sentence_id": 33,
+            "start": 152,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Marilyn B. Tavenner",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 110,
+            "token": "compare",
+            "sentence_id": 34,
+            "start": 56,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 111,
+            "token": "hidden",
+            "sentence_id": 34,
+            "start": 136,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "The Affordable Care Act",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 32,
+                    "text": "true cost",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 112,
+            "token": "underreported",
+            "sentence_id": 34,
+            "start": 108,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Americans",
+            "ideology": "Neutral",
+            "id": 0,
+            "events": [
+                26,
+                36,
+                38,
+                40,
+                52,
+                68,
+                86,
+                90,
+                92,
+                95,
+                99,
+                100,
+                101,
+                110,
+                37,
+                44
+            ]
+        },
+        {
+            "text": "The Affordable Care Act",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                26,
+                36,
+                40,
+                50,
+                52,
+                53,
+                63,
+                86,
+                87,
+                90,
+                109,
+                110
+            ]
+        },
+        {
+            "text": "Marilyn B. Tavenner",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                12,
+                55,
+                109
+            ]
+        },
+        {
+            "text": "existing insurance policies",
+            "ideology": "N/A",
+            "id": 4,
+            "events": [
+                29,
+                21
+            ]
+        },
+        {
+            "text": "new policies",
+            "ideology": "N/A",
+            "id": 5,
+            "events": []
+        },
+        {
+            "text": "John Lewis",
+            "ideology": "Left",
+            "id": 9,
+            "events": []
+        },
+        {
+            "text": "Republican",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                49
+            ]
+        },
+        {
+            "text": "the federal Centers for Medicare and Medicaid Services",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                63,
+                81,
+                84,
+                95,
+                100,
+                101
+            ]
+        },
+        {
+            "text": "end - to - end testing",
+            "ideology": "N/A",
+            "id": 13,
+            "events": [
+                71
+            ]
+        },
+        {
+            "text": "applications",
+            "ideology": "Neutral",
+            "id": 14,
+            "events": [
+                84
+            ]
+        },
+        {
+            "text": "Barack Obama",
+            "ideology": "Left",
+            "id": 16,
+            "events": []
+        },
+        {
+            "text": "current insurance policies",
+            "ideology": "Neutral",
+            "id": 17,
+            "events": [
+                36
+            ]
+        },
+        {
+            "text": "cancellation notices for their health care plans",
+            "ideology": "Neutral",
+            "id": 18,
+            "events": [
+                26
+            ]
+        },
+        {
+            "text": "Republican attacks",
+            "ideology": "Right",
+            "id": 20,
+            "events": [
+                48
+            ]
+        },
+        {
+            "text": "enforcement of the requirement for most Americans to carry health insurance",
+            "ideology": "Left",
+            "id": 21,
+            "events": [
+                55
+            ]
+        },
+        {
+            "text": "large numbers of users",
+            "ideology": "Neutral",
+            "id": 24,
+            "events": [
+                78
+            ]
+        },
+        {
+            "text": "Congress",
+            "ideology": "Neutral",
+            "id": 25,
+            "events": [
+                81
+            ]
+        },
+        {
+            "text": "confusing error messages",
+            "ideology": "Neutral",
+            "id": 29,
+            "events": [
+                99
+            ]
+        },
+        {
+            "text": "slow page loads",
+            "ideology": "Neutral",
+            "id": 30,
+            "events": [
+                100
+            ]
+        },
+        {
+            "text": "true cost",
+            "ideology": "Neutral",
+            "id": 32,
+            "events": [
+                111
+            ]
+        }
+    ]
+}

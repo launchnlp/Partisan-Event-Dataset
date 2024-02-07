@@ -1,0 +1,1040 @@
+{
+    "title": "Trump tax returns released to public after multiyear battle by Democrats",
+    "id": "STORY_137_DOCUMENT_1",
+    "old_id": "7510_2",
+    "split": "test",
+    "date": "2022-12-30",
+    "topic": "tax",
+    "source": "Washington Examiner",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Former President Donald Trump's tax returns have been released in full after a multiyear quest by Democrats."
+        },
+        {
+            "id": 1,
+            "text": "The returns, which cover six years of Trump's life, were entered into the congressional record on Friday morning."
+        },
+        {
+            "id": 2,
+            "text": "Bank account information, Social Security numbers, and other information were redacted from the returns before their public release."
+        },
+        {
+            "id": 3,
+            "text": "The release includes not only Trump's tax returns but also returns from eight business entities affiliated with the former president."
+        },
+        {
+            "id": 4,
+            "text": "TRUMP'S TAX RETURNS TO BE PLACED INTO CONGRESSIONAL RECORD"
+        },
+        {
+            "id": 5,
+            "text": "Democrats have been using the legal system to try to obtain the returns for more than three years."
+        },
+        {
+            "id": 6,
+            "text": "House Ways and Means Committee Chairman Richard Neal (D-MA) had requested the documents under a law that provides the group with the authority to obtain taxpayer records."
+        },
+        {
+            "id": 7,
+            "text": "Republicans have cast the move as setting a dangerous precedent going forward and accused Democrats of only releasing the returns to inflict political damage against the former president."
+        },
+        {
+            "id": 8,
+            "text": "Trump broke tradition by refusing to make his tax returns public as a presidential candidate in 2016, though he was not required by law to do so."
+        },
+        {
+            "id": 9,
+            "text": "He also didn't release his returns as president, and as a result, Democrats have sought to get their hands on Trump's returns for years."
+        },
+        {
+            "id": 10,
+            "text": "Trump tried to block the request from the House Ways and Means Committee, but lower courts affirmed that the committee has broad authority to request such documents."
+        },
+        {
+            "id": 11,
+            "text": "Last month, the Supreme Court denied Trump\u2019s request for a temporary order that would have prevented the committee from obtaining his tax records."
+        },
+        {
+            "id": 12,
+            "text": "\u201cThis is a regrettable stain on the Ways and Means Committee and Congress, and will make American politics even more divisive and disheartening."
+        },
+        {
+            "id": 13,
+            "text": "In the long run, Democrats will come to regret it,\" said ranking member Kevin Brady (R-TX) after the documents were released on Friday."
+        },
+        {
+            "id": 14,
+            "text": "Meanwhile, Democrats have focused on the finding that while the IRS is required to conduct annual audits of sitting presidents\u2019 tax returns, the agency failed to do so during Trump\u2019s first two years in office."
+        },
+        {
+            "id": 15,
+            "text": "\u201cOur findings turned out to be simple \u2014 IRS did not begin their mandatory audit of the former president until I made my initial request,\u201d said Neal on Friday."
+        },
+        {
+            "id": 16,
+            "text": "Trump himself has also bashed the decision to release the tax returns."
+        },
+        {
+            "id": 17,
+            "text": "In a statement, the former president blasted the move and said Democrats have \"weaponized everything, but remember that is a dangerous two-way street.\""
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "released",
+            "sentence_id": 0,
+            "start": 54,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "quest",
+            "sentence_id": 0,
+            "start": 89,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "cover",
+            "sentence_id": 1,
+            "start": 19,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "entered",
+            "sentence_id": 1,
+            "start": 57,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "redacted",
+            "sentence_id": 2,
+            "start": 78,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "release",
+            "sentence_id": 2,
+            "start": 124,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "release",
+            "sentence_id": 3,
+            "start": 4,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "includes",
+            "sentence_id": 3,
+            "start": 12,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "PLACED",
+            "sentence_id": 4,
+            "start": 26,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "using",
+            "sentence_id": 5,
+            "start": 20,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "try",
+            "sentence_id": 5,
+            "start": 46,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "obtain",
+            "sentence_id": 5,
+            "start": 53,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "requested",
+            "sentence_id": 6,
+            "start": 64,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "provides",
+            "sentence_id": 6,
+            "start": 105,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "obtain",
+            "sentence_id": 6,
+            "start": 146,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "cast",
+            "sentence_id": 7,
+            "start": 17,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "move",
+            "sentence_id": 7,
+            "start": 26,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "setting",
+            "sentence_id": 7,
+            "start": 34,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "dangerous precedent",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 18,
+            "token": "accused",
+            "sentence_id": 7,
+            "start": 82,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "releasing",
+            "sentence_id": 7,
+            "start": 108,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "inflict",
+            "sentence_id": 7,
+            "start": 133,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "broke",
+            "sentence_id": 8,
+            "start": 6,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "refusing",
+            "sentence_id": 8,
+            "start": 25,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Donald Trump's tax returns",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 23,
+            "token": "make",
+            "sentence_id": 8,
+            "start": 37,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "required",
+            "sentence_id": 8,
+            "start": 120,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "law",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 25,
+            "token": "do",
+            "sentence_id": 8,
+            "start": 139,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "release",
+            "sentence_id": 9,
+            "start": 15,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "sought",
+            "sentence_id": 9,
+            "start": 81,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "get",
+            "sentence_id": 9,
+            "start": 91,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "tried",
+            "sentence_id": 10,
+            "start": 6,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "block",
+            "sentence_id": 10,
+            "start": 15,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "request",
+            "sentence_id": 10,
+            "start": 25,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "affirmed",
+            "sentence_id": 10,
+            "start": 91,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "request",
+            "sentence_id": 10,
+            "start": 142,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "denied",
+            "sentence_id": 11,
+            "start": 30,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "request",
+            "sentence_id": 11,
+            "start": 45,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "order",
+            "sentence_id": 11,
+            "start": 69,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "prevented",
+            "sentence_id": 11,
+            "start": 91,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "obtaining",
+            "sentence_id": 11,
+            "start": 120,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "make",
+            "sentence_id": 12,
+            "start": 84,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "come",
+            "sentence_id": 13,
+            "start": 32,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "regret",
+            "sentence_id": 13,
+            "start": 40,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "request from the House Ways and Means Committee",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 52,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "released",
+            "sentence_id": 13,
+            "start": 116,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "focused",
+            "sentence_id": 14,
+            "start": 26,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "finding",
+            "sentence_id": 14,
+            "start": 41,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "required",
+            "sentence_id": 14,
+            "start": 71,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "conduct",
+            "sentence_id": 14,
+            "start": 83,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "audits",
+            "sentence_id": 14,
+            "start": 98,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "failed",
+            "sentence_id": 14,
+            "start": 152,
+            "end": 158,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "do",
+            "sentence_id": 14,
+            "start": 162,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "findings",
+            "sentence_id": 15,
+            "start": 5,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "turned",
+            "sentence_id": 15,
+            "start": 14,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "begin",
+            "sentence_id": 15,
+            "start": 52,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "audit",
+            "sentence_id": 15,
+            "start": 74,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "made",
+            "sentence_id": 15,
+            "start": 112,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "request",
+            "sentence_id": 15,
+            "start": 128,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "said",
+            "sentence_id": 15,
+            "start": 138,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "bashed",
+            "sentence_id": 16,
+            "start": 23,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "releasing of Trump's tax returns",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 59,
+            "token": "decision",
+            "sentence_id": 16,
+            "start": 34,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "release",
+            "sentence_id": 16,
+            "start": 46,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "blasted",
+            "sentence_id": 17,
+            "start": 37,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "releasing of Trump's tax returns",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 62,
+            "token": "move",
+            "sentence_id": 17,
+            "start": 49,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 58,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "weaponized",
+            "sentence_id": 17,
+            "start": 79,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "everything",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 65,
+            "token": "remember",
+            "sentence_id": 17,
+            "start": 106,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                17,
+                18,
+                20,
+                41,
+                64
+            ]
+        },
+        {
+            "text": "dangerous precedent",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                17
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                18
+            ]
+        },
+        {
+            "text": "Donald Trump",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                20,
+                24,
+                22,
+                58,
+                61
+            ]
+        },
+        {
+            "text": "law",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                24
+            ]
+        },
+        {
+            "text": "Donald Trump's tax returns",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                22
+            ]
+        },
+        {
+            "text": "request from the House Ways and Means Committee",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                41
+            ]
+        },
+        {
+            "text": "releasing of Trump's tax returns",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                58,
+                61
+            ]
+        },
+        {
+            "text": "everything",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                64
+            ]
+        }
+    ]
+}

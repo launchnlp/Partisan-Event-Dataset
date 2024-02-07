@@ -1,0 +1,1507 @@
+{
+    "title": "Trump\u2019s indictment has united the Republican Party in apocalyptic rage",
+    "id": "STORY_141_DOCUMENT_0",
+    "old_id": "7854_2",
+    "split": "test",
+    "date": "2023-04-03",
+    "topic": "2024-election",
+    "source": "Vox",
+    "media_ideology": "Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Thursday night was the most cringe moment in American politics since the high times of the #resistance in the early Trump administration."
+        },
+        {
+            "id": 1,
+            "text": "After news broke that Donald Trump had become the first president in US history to be charged with a crime, there were labored, overwrought historical analogies (the number of times Fox News personalities mentioned that the Rubicon had been crossed would have allowed Caesar\u2019s entire legion to go back and forth across the ancient Roman river a dozen times)."
+        },
+        {
+            "id": 2,
+            "text": "There was ample partisan wish-casting, as right-wingers shared their fantasies of President Joe Biden condemning the prosecution of Trump in New York in order to bring our country together."
+        },
+        {
+            "id": 3,
+            "text": "And, of course, there were dark anxieties that this would spell the end of American democracy and represented what Donald Trump Jr. simply called \u201cCommunist level shit.\u201d"
+        },
+        {
+            "id": 4,
+            "text": "These takes united the Republican Party \u2014 figures from Trump-cautious politicians like Virginia Gov. Glenn Youngkin and Sen."
+        },
+        {
+            "id": 5,
+            "text": "Thom Tillis (R-NC) to ardent MAGA die-hards like Reps."
+        },
+        {
+            "id": 6,
+            "text": "Paul Gosar (R-AZ) and Elise Stefanik (R-NY) joined in condemning the indictment of Trump by a Manhattan grand jury, which is reportedly over allegations that he had illegally covered up hush money payments to porn actress Stormy Daniels prior to the 2016 presidential election (although the indictment has still not been released)."
+        },
+        {
+            "id": 7,
+            "text": "Among Republicans, there was a consensus that this prosecution was entirely political and a threat to the rule of law."
+        },
+        {
+            "id": 8,
+            "text": "Youngkin insisted on Twitter that \u201cArresting a presidential candidate on a manufactured basis should not happen in America,\u201d while Gosar called the indictment \u201ca clear and brazen political persecution.\u201d"
+        },
+        {
+            "id": 9,
+            "text": "The question is whether that consensus will also apply to whether Trump should be the Republican nominee for president."
+        },
+        {
+            "id": 10,
+            "text": "In the short term, there was no doubt that the indictment will offer a surge of momentum to Trump\u2019s presidential campaign \u2014 his rivals almost uniformly came out in support, and this can only juice the small-dollar base that Trump relies on."
+        },
+        {
+            "id": 11,
+            "text": "But it\u2019s still more than 10 months until the scheduled date of the Iowa caucuses."
+        },
+        {
+            "id": 12,
+            "text": "The underlying argument for any serious challenge to the former president is that, while Republican voters think Trump was a good president who delivered a strong economy and steady foreign policy, there is a majority that is tired of the drama."
+        },
+        {
+            "id": 13,
+            "text": "And, if there\u2019s anything that a criminal trial over hush money payments to a porn star will have, it\u2019s drama."
+        },
+        {
+            "id": 14,
+            "text": "For all the vitriolic tweets on Thursday night, it\u2019s unclear if that rhetoric can be kept up over the weeks and months ahead."
+        },
+        {
+            "id": 15,
+            "text": "It\u2019s not just that Trump is facing other prosecutions in far more serious matters, like his treatment of classified documents and his conduct around the January 6 attack on the Capitol, but that any trial will be fundamentally absurd and the facts of the case are lurid."
+        },
+        {
+            "id": 16,
+            "text": "They involve Trump allegedly having a brief sexual liaison with a prominent actress in pornographic movies, followed by a platonic meeting where the two watched Shark Week together where Trump expressed his fundamental loathing of sharks."
+        },
+        {
+            "id": 17,
+            "text": "Daniels told 60 Minutes in 2018 that Trump had said \u201cI hope all the sharks die\u201d while the two watched a nature documentary together."
+        },
+        {
+            "id": 18,
+            "text": "He then had Michael Cohen, his since criminally convicted attorney and fixer, pay off Daniels to avoid her from coming forward in the waning days of the 2016 presidential election."
+        },
+        {
+            "id": 19,
+            "text": "None of this may matter for Trump\u2019s hardcore base, which will comprise a significant fraction of the Republican electorate under any circumstance."
+        },
+        {
+            "id": 20,
+            "text": "But the question is whether it matters to the GOP voters who are up for grabs \u2014 those who are not enamored of the former president but care more about owning the libs than about the constitutional niceties implicated in the January 6 attack on the Capitol."
+        },
+        {
+            "id": 21,
+            "text": "It will certainly lead to those Republicans rallying around the flag in the days and weeks to come."
+        },
+        {
+            "id": 22,
+            "text": "After all, based on the reported allegations, it may be a strained legal case based on a novel argument that is offered by a prosecutor who otherwise has been notable for his comparative reluctance to press charges against first-time, nonviolent offenders."
+        },
+        {
+            "id": 23,
+            "text": "In a Republican primary electorate where Trump fatigue has been creeping in, the charges serve as amphetamines that provide the stimulation of outrage to those Republican primary voters who might otherwise be weary of constant drama."
+        },
+        {
+            "id": 24,
+            "text": "But every high is eventually followed by a crash, and the question is whether Trump can keep the outrage pumping for the next two years \u2014 then again, he has done it for the past seven."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "broke",
+            "sentence_id": 1,
+            "start": 11,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "become",
+            "sentence_id": 1,
+            "start": 39,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "charged",
+            "sentence_id": 1,
+            "start": 86,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "crime",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 3,
+            "token": "mentioned",
+            "sentence_id": 1,
+            "start": 205,
+            "end": 214,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "crossed",
+            "sentence_id": 1,
+            "start": 241,
+            "end": 248,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "allowed",
+            "sentence_id": 1,
+            "start": 260,
+            "end": 267,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "go",
+            "sentence_id": 1,
+            "start": 294,
+            "end": 296,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "shared",
+            "sentence_id": 2,
+            "start": 56,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "right-wingers",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "fantasies",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "condemning",
+            "sentence_id": 2,
+            "start": 102,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "prosecution",
+            "sentence_id": 2,
+            "start": 117,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "bring",
+            "sentence_id": 2,
+            "start": 162,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "spell",
+            "sentence_id": 3,
+            "start": 58,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "represented",
+            "sentence_id": 3,
+            "start": 98,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "called",
+            "sentence_id": 3,
+            "start": 139,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "united",
+            "sentence_id": 4,
+            "start": 12,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "joined",
+            "sentence_id": 6,
+            "start": 44,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "condemning",
+            "sentence_id": 6,
+            "start": 54,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Paul Gosar",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Elise Stefanik",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "indictment of Trump",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 17,
+            "token": "indictment",
+            "sentence_id": 6,
+            "start": 69,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "covered",
+            "sentence_id": 6,
+            "start": 175,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "hush money payments",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "payments",
+            "sentence_id": 6,
+            "start": 197,
+            "end": 205,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "election",
+            "sentence_id": 6,
+            "start": 268,
+            "end": 276,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "released",
+            "sentence_id": 6,
+            "start": 321,
+            "end": 329,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "prosecution",
+            "sentence_id": 7,
+            "start": 51,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "threat",
+            "sentence_id": 7,
+            "start": 92,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "indictment of Trump",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "the rule of law",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 24,
+            "token": "insisted",
+            "sentence_id": 8,
+            "start": 9,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "Arresting",
+            "sentence_id": 8,
+            "start": 35,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "happen",
+            "sentence_id": 8,
+            "start": 105,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "called",
+            "sentence_id": 8,
+            "start": 137,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Paul Gosar",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "indictment of Trump",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 28,
+            "token": "indictment",
+            "sentence_id": 8,
+            "start": 148,
+            "end": 158,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "persecution",
+            "sentence_id": 8,
+            "start": 189,
+            "end": 200,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "apply",
+            "sentence_id": 9,
+            "start": 49,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "indictment",
+            "sentence_id": 10,
+            "start": 47,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "offer",
+            "sentence_id": 10,
+            "start": 63,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "surge",
+            "sentence_id": 10,
+            "start": 71,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "indictment of Trump",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "Trump\u2019s presidential campaign",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 34,
+            "token": "came",
+            "sentence_id": 10,
+            "start": 152,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "juice",
+            "sentence_id": 10,
+            "start": 191,
+            "end": 196,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "challenge",
+            "sentence_id": 12,
+            "start": 40,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "think",
+            "sentence_id": 12,
+            "start": 107,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "delivered",
+            "sentence_id": 12,
+            "start": 144,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "strong economy",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "tired",
+            "sentence_id": 12,
+            "start": 226,
+            "end": 231,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "voters",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "trial",
+            "sentence_id": 13,
+            "start": 41,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "hush money payments",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "payments",
+            "sentence_id": 13,
+            "start": 63,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "kept",
+            "sentence_id": 14,
+            "start": 85,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "facing",
+            "sentence_id": 15,
+            "start": 28,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "prosecutions",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "prosecutions",
+            "sentence_id": 15,
+            "start": 41,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "treatment",
+            "sentence_id": 15,
+            "start": 92,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "classified documents",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "conduct",
+            "sentence_id": 15,
+            "start": 134,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "January 6 attack on the Capitol",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "attack",
+            "sentence_id": 15,
+            "start": 163,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "trial",
+            "sentence_id": 15,
+            "start": 199,
+            "end": 204,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "involve",
+            "sentence_id": 16,
+            "start": 5,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "having",
+            "sentence_id": 16,
+            "start": 29,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "sexual liaison",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "liaison",
+            "sentence_id": 16,
+            "start": 51,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "meeting",
+            "sentence_id": 16,
+            "start": 131,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "watched",
+            "sentence_id": 16,
+            "start": 153,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "expressed",
+            "sentence_id": 16,
+            "start": 193,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "told",
+            "sentence_id": 17,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 47,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "hope",
+            "sentence_id": 17,
+            "start": 55,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "die",
+            "sentence_id": 17,
+            "start": 75,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "watched",
+            "sentence_id": 17,
+            "start": 94,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "had",
+            "sentence_id": 18,
+            "start": 8,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "convicted",
+            "sentence_id": 18,
+            "start": 48,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "pay",
+            "sentence_id": 18,
+            "start": 78,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "Stormy Daniels",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 63,
+            "token": "avoid",
+            "sentence_id": 18,
+            "start": 97,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "coming",
+            "sentence_id": 18,
+            "start": 112,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "election",
+            "sentence_id": 18,
+            "start": 171,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "matter",
+            "sentence_id": 19,
+            "start": 17,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "comprise",
+            "sentence_id": 19,
+            "start": 62,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "matters",
+            "sentence_id": 20,
+            "start": 31,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "enamored",
+            "sentence_id": 20,
+            "start": 98,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "GOP voters",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 70,
+            "token": "care",
+            "sentence_id": 20,
+            "start": 135,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "GOP voters",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "January 6 attack on the Capitol",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 71,
+            "token": "attack",
+            "sentence_id": 20,
+            "start": 234,
+            "end": 240,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "lead",
+            "sentence_id": 21,
+            "start": 18,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "rallying",
+            "sentence_id": 21,
+            "start": 44,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "offered",
+            "sentence_id": 22,
+            "start": 112,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "press",
+            "sentence_id": 22,
+            "start": 201,
+            "end": 206,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "creeping",
+            "sentence_id": 23,
+            "start": 64,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "serve",
+            "sentence_id": 23,
+            "start": 89,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "provide",
+            "sentence_id": 23,
+            "start": 116,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "weary",
+            "sentence_id": 23,
+            "start": 209,
+            "end": 214,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 17,
+                    "text": "GOP voters",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 80,
+            "token": "followed",
+            "sentence_id": 24,
+            "start": 29,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "crash",
+            "sentence_id": 24,
+            "start": 43,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "keep",
+            "sentence_id": 24,
+            "start": 88,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "pumping",
+            "sentence_id": 24,
+            "start": 105,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 84,
+            "token": "done",
+            "sentence_id": 24,
+            "start": 157,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Donald Trump",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                2,
+                18,
+                38,
+                39,
+                40,
+                43,
+                45,
+                46,
+                50,
+                62,
+                69,
+                79
+            ]
+        },
+        {
+            "text": "crime",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "right-wingers",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                7
+            ]
+        },
+        {
+            "text": "fantasies",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                7
+            ]
+        },
+        {
+            "text": "Paul Gosar",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                16,
+                27
+            ]
+        },
+        {
+            "text": "Elise Stefanik",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                16
+            ]
+        },
+        {
+            "text": "indictment of Trump",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                16,
+                23,
+                27,
+                33
+            ]
+        },
+        {
+            "text": "hush money payments",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                18,
+                40
+            ]
+        },
+        {
+            "text": "the rule of law",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                23
+            ]
+        },
+        {
+            "text": "Trump\u2019s presidential campaign",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                33
+            ]
+        },
+        {
+            "text": "strong economy",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                38
+            ]
+        },
+        {
+            "text": "voters",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                39
+            ]
+        },
+        {
+            "text": "prosecutions",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                43
+            ]
+        },
+        {
+            "text": "classified documents",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": [
+                45
+            ]
+        },
+        {
+            "text": "January 6 attack on the Capitol",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                46,
+                70
+            ]
+        },
+        {
+            "text": "sexual liaison",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                50
+            ]
+        },
+        {
+            "text": "Stormy Daniels",
+            "ideology": "Neutral",
+            "id": 16,
+            "events": [
+                62
+            ]
+        },
+        {
+            "text": "GOP voters",
+            "ideology": "Right",
+            "id": 17,
+            "events": [
+                69,
+                70,
+                79
+            ]
+        }
+    ]
+}

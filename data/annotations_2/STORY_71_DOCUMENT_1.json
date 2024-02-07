@@ -1,0 +1,1168 @@
+{
+    "title": "First Take: Can a 'wacko bird' take flight in the GOP?",
+    "id": "STORY_71_DOCUMENT_1",
+    "old_id": "TRIPLET_021_DOCUMENT_0",
+    "split": "train",
+    "date": "2015-03-23",
+    "topic": "elections",
+    "source": "USA TODAY",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "",
+    "news": [
+        {
+            "id": 0,
+            "text": "Ted Cruz is n't shy ."
+        },
+        {
+            "id": 1,
+            "text": "He 's combative ."
+        },
+        {
+            "id": 2,
+            "text": "He rejects compromise as \" the mushy middle ."
+        },
+        {
+            "id": 3,
+            "text": "\" He 's not inclined to wait his turn ."
+        },
+        {
+            "id": 4,
+            "text": "And he does n't seem to mind annoying his Republican elders with tactics that critics see as destructive and short - sighted ."
+        },
+        {
+            "id": 5,
+            "text": "So perhaps it 's no surprise that little more than two years after he was sworn in to the Senate , the 44 - year - old Texan on Monday became the first contender to officially announce his campaign for the Republican presidential nomination in 2016 ."
+        },
+        {
+            "id": 6,
+            "text": "He skipped the one - step - at - a - time tradition of announcing an \" exploratory \" committee to declare flatly that he was in the race ."
+        },
+        {
+            "id": 7,
+            "text": "\" It 's going to take a new generation of courageous conservatives to help make America great again , \" Cruz said in a 30 - second video he posted on Twitter early Monday morning , followed by a speech at Liberty University , \" and I 'm ready to stand with you to lead the fight . \""
+        },
+        {
+            "id": 8,
+            "text": "He wo n't be lonely for long ."
+        },
+        {
+            "id": 9,
+            "text": "Kentucky Sen. Rand Paul is slated to announce his candidacy in two weeks , likely followed in short order by yet another Republican senator , Marco Rubio of Florida ."
+        },
+        {
+            "id": 10,
+            "text": "That 's not to mention the governors ( Wisconsin 's Scott Walker , New Jersey 's Chris Christie , Louisiana 's Bobby Jindal ) , the former governors ( Florida 's Jeb Bush , Texas ' Rick Perry , Arkansas ' Mike Huckabee ) , the former senators ( Pennsylvania 's Rick Santorum ) and the others who already are visiting Iowa and New Hampshire and hiring staffers for nascent campaigns ."
+        },
+        {
+            "id": 11,
+            "text": "At his speech , a handful of students in a prominent front row sported red \" Stand With Rand \" sweatshirts ."
+        },
+        {
+            "id": 12,
+            "text": "Cruz has been overshadowed in recent months by Bush , Walker and other contenders who have more muscular fundraising networks and stronger institutional support ."
+        },
+        {
+            "id": 13,
+            "text": "In the Senate , he has been more of an agitator than a legislator ."
+        },
+        {
+            "id": 14,
+            "text": "Arizona Sen . John McCain , the GOP 's 2008 nominee , once called him a \" wacko bird . \""
+        },
+        {
+            "id": 15,
+            "text": "That said , Cruz is worth watching ."
+        },
+        {
+            "id": 16,
+            "text": "For one thing , the skills he honed as a college debater at Princeton \u2014 he was named U.S. National Speaker of the Year in 1992 \u2014 should serve him well in the series of crowded primary debates ."
+        },
+        {
+            "id": 17,
+            "text": "For another , while his Tea Party credentials might be a mixed blessing in a general election , in the primaries they align him with the most energized forces in the Republican grass roots today ."
+        },
+        {
+            "id": 18,
+            "text": "That helped him upset the establishment 's favorite , lieutenant governor David Dewhurst , for the Republican Senate nomination in 2012 ."
+        },
+        {
+            "id": 19,
+            "text": "What 's more , the locale Cruz chose to make Monday 's announcement reflects his efforts to broaden his electoral base by wooing Christian conservatives , another key group in the GOP coalition ."
+        },
+        {
+            "id": 20,
+            "text": "He spoke at the Lynchburg , Va. , school founded by evangelical leader Jerry Falwell that describes itself on its website as the largest Christian university in the world ."
+        },
+        {
+            "id": 21,
+            "text": "His speech had the ring of the religious testimony of an evangelical church ."
+        },
+        {
+            "id": 22,
+            "text": "He declared his opposition to abortion and his support of traditional marriage ."
+        },
+        {
+            "id": 23,
+            "text": "He emotionally described how his father 's embrace of Jesus saved his parents ' marriage ."
+        },
+        {
+            "id": 24,
+            "text": "His father , Rafael , a pastor at a suburban Dallas church , fled Castro 's Cuba in 1957 ."
+        },
+        {
+            "id": 25,
+            "text": "Cruz 's Cuban - American heritage would be a selling point for the Republican Party as it tries to reach out to Hispanic voters , although his hardline stance on immigration could be a complication with those voters ."
+        },
+        {
+            "id": 26,
+            "text": "And speaking of biography , he has an education that might surprise those inclined to dismiss him : He was graduated from Princeton and then from Harvard Law School , magna cum laude , before clerking at the Supreme Court for Chief Justice William Rehnquist ."
+        },
+        {
+            "id": 27,
+            "text": "At one point , he urged his audience to \" take out your cellphones \" and text the word \" Constitution \" or \" Liberty \" \u2014 \" we 're flexible , \" he said \u2014 to a number linked to his campaign ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "rejects",
+            "sentence_id": 2,
+            "start": 3,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "inclined",
+            "sentence_id": 3,
+            "start": 12,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "wait",
+            "sentence_id": 3,
+            "start": 24,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "seem",
+            "sentence_id": 4,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "mind",
+            "sentence_id": 4,
+            "start": 24,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "republican elders",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "annoying",
+            "sentence_id": 4,
+            "start": 29,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "republican elders",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "see",
+            "sentence_id": 4,
+            "start": 86,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "sworn",
+            "sentence_id": 5,
+            "start": 74,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "became",
+            "sentence_id": 5,
+            "start": 135,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "announce",
+            "sentence_id": 5,
+            "start": 176,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 10,
+            "token": "campaign",
+            "sentence_id": 5,
+            "start": 189,
+            "end": 197,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "skipped",
+            "sentence_id": 6,
+            "start": 3,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "announcing",
+            "sentence_id": 6,
+            "start": 55,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "declare",
+            "sentence_id": 6,
+            "start": 98,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "help",
+            "sentence_id": 7,
+            "start": 70,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "make",
+            "sentence_id": 7,
+            "start": 75,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "courageous conservatives",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 16,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 109,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "posted",
+            "sentence_id": 7,
+            "start": 140,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "speech",
+            "sentence_id": 7,
+            "start": 195,
+            "end": 201,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "ready",
+            "sentence_id": 7,
+            "start": 237,
+            "end": 242,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "stand",
+            "sentence_id": 7,
+            "start": 246,
+            "end": 251,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "lead",
+            "sentence_id": 7,
+            "start": 264,
+            "end": 268,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "fight",
+            "sentence_id": 7,
+            "start": 273,
+            "end": 278,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "slated",
+            "sentence_id": 9,
+            "start": 27,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "announce",
+            "sentence_id": 9,
+            "start": 37,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "candidacy",
+            "sentence_id": 9,
+            "start": 50,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "followed",
+            "sentence_id": 9,
+            "start": 82,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "visiting",
+            "sentence_id": 10,
+            "start": 308,
+            "end": 316,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "hiring",
+            "sentence_id": 10,
+            "start": 344,
+            "end": 350,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "speech",
+            "sentence_id": 11,
+            "start": 7,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "sported",
+            "sentence_id": 11,
+            "start": 63,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "students",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "overshadowed",
+            "sentence_id": 12,
+            "start": 14,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "called",
+            "sentence_id": 14,
+            "start": 59,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "john mccain",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "watching",
+            "sentence_id": 15,
+            "start": 26,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 34,
+            "token": "honed",
+            "sentence_id": 16,
+            "start": 30,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "named",
+            "sentence_id": 16,
+            "start": 79,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 36,
+            "token": "serve",
+            "sentence_id": 16,
+            "start": 136,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "debates",
+            "sentence_id": 16,
+            "start": 184,
+            "end": 191,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "align",
+            "sentence_id": 17,
+            "start": 118,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 39,
+            "token": "helped",
+            "sentence_id": 18,
+            "start": 5,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "upset",
+            "sentence_id": 18,
+            "start": 16,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "chose",
+            "sentence_id": 19,
+            "start": 31,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "make",
+            "sentence_id": 19,
+            "start": 40,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "announcement",
+            "sentence_id": 19,
+            "start": 55,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "reflects",
+            "sentence_id": 19,
+            "start": 68,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "efforts",
+            "sentence_id": 19,
+            "start": 81,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "broaden",
+            "sentence_id": 19,
+            "start": 92,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "wooing",
+            "sentence_id": 19,
+            "start": 122,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "christian conservatives",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 48,
+            "token": "spoke",
+            "sentence_id": 20,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "founded",
+            "sentence_id": 20,
+            "start": 41,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "describes",
+            "sentence_id": 20,
+            "start": 90,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "speech",
+            "sentence_id": 21,
+            "start": 4,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "declared",
+            "sentence_id": 22,
+            "start": 3,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "opposition",
+            "sentence_id": 22,
+            "start": 16,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 54,
+            "token": "support",
+            "sentence_id": 22,
+            "start": 47,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "described",
+            "sentence_id": 23,
+            "start": 15,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "embrace",
+            "sentence_id": 23,
+            "start": 43,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "saved",
+            "sentence_id": 23,
+            "start": 60,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "fled",
+            "sentence_id": 24,
+            "start": 61,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "tries",
+            "sentence_id": 25,
+            "start": 90,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "reach",
+            "sentence_id": 25,
+            "start": 99,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "has",
+            "sentence_id": 26,
+            "start": 31,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "those inclined to dismiss him",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 62,
+            "token": "surprise",
+            "sentence_id": 26,
+            "start": 59,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "dismiss",
+            "sentence_id": 26,
+            "start": 86,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "graduated",
+            "sentence_id": 26,
+            "start": 107,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "clerking",
+            "sentence_id": 26,
+            "start": 192,
+            "end": 200,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "urged",
+            "sentence_id": 27,
+            "start": 18,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "liberty",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "ted cruz",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 67,
+            "token": "take",
+            "sentence_id": 27,
+            "start": 42,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "text",
+            "sentence_id": 27,
+            "start": 73,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "said",
+            "sentence_id": 27,
+            "start": 146,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "republican elders",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                4,
+                5
+            ]
+        },
+        {
+            "text": "ted cruz",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                4,
+                5,
+                9,
+                15,
+                30,
+                31,
+                32,
+                33,
+                35,
+                38,
+                47,
+                53,
+                61,
+                66
+            ]
+        },
+        {
+            "text": "courageous conservatives",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                15
+            ]
+        },
+        {
+            "text": "students",
+            "ideology": "Uncertain",
+            "id": 3,
+            "events": [
+                30
+            ]
+        },
+        {
+            "text": "john mccain",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                32
+            ]
+        },
+        {
+            "text": "christian conservatives",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                47
+            ]
+        },
+        {
+            "text": "abortion",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                53
+            ]
+        },
+        {
+            "text": "those inclined to dismiss him",
+            "ideology": "Uncertain",
+            "id": 7,
+            "events": [
+                61
+            ]
+        },
+        {
+            "text": "liberty",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                66
+            ]
+        }
+    ]
+}

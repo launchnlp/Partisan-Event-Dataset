@@ -1,0 +1,1036 @@
+{
+    "title": "Democrat senator refuses to leave all-white private beach club despite championing racial justice",
+    "id": "STORY_84_DOCUMENT_0",
+    "old_id": "5728_0",
+    "split": "train",
+    "date": "2021-06-21",
+    "topic": "race-and-racism",
+    "source": "The Independent",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Democratic US Senator Sheldon Whitehouse has apologised for \u2013 but has not left \u2013 an elite private beach club that refuses to accept anyone who is not white."
+        },
+        {
+            "id": 1,
+            "text": "GoLocal Providence, a local publication in Providence, Rhode Island, confronted Mr Whitehouse in 2017 about his membership at Bailey's Beach Club in Newport, which does not allow minorities into its ranks and is considered to be one of the most exclusive clubs in the US."
+        },
+        {
+            "id": 2,
+            "text": "\"I think it would be nice if they changed a little bit, but it's not my position,\" Mr Whitehouse told the outlet at the time."
+        },
+        {
+            "id": 3,
+            "text": "The publication approached him again this year, asking if the club has made any progress on its regressive acceptance policies since that interview."
+        },
+        {
+            "id": 4,
+            "text": "\"I think the people who are running the place are still working on that and I'm sorry it hasn't happened yet,\" Mr Whitehouse said."
+        },
+        {
+            "id": 5,
+            "text": "Membership to a whites-only elite social club would generate criticism for any politician, but Mr Whitehouse\u2019s position as not only a Democrat but one who claims to champion progressive issues makes his patronage of the club even more infuriating for his critics."
+        },
+        {
+            "id": 6,
+            "text": "Both Mr Whitehouse and his wife Sandra have been members at the club for decades."
+        },
+        {
+            "id": 7,
+            "text": "The exclusive organisation includes many prominent and wealthy individuals from Newport, Palm Beach and New York."
+        },
+        {
+            "id": 8,
+            "text": "When Mr Whitehouse was confronted by the issue the day before Juneteenth, which was made a federal holiday this year, he said the club still needed to \"work\" through its acceptance issues, and justified his inclusion in the group by saying it was a \"tradition\u201d."
+        },
+        {
+            "id": 9,
+            "text": "\u201cIt's a long tradition in Rhode Island and there are many of them and I think we just need to work our way through the issues, thank you,\u201d Mr Whitehouse said."
+        },
+        {
+            "id": 10,
+            "text": "Ms Whitehouse is reportedly at the facility during most days in the summer."
+        },
+        {
+            "id": 11,
+            "text": "Despite his inclusion in the club, Mr Whitehouse has spoken out about systemic racism in the US."
+        },
+        {
+            "id": 12,
+            "text": "Following the deaths of George Floyd, Ahmaud Arbery and Breonna Taylor, the senator issued a statement of solidarity with the racial justice movement."
+        },
+        {
+            "id": 13,
+            "text": "\"We hear the voices of the peaceful protesters who have marched."
+        },
+        {
+            "id": 14,
+            "text": "We can and must do better to root out systemic racism in its many forms,\" he said."
+        },
+        {
+            "id": 15,
+            "text": "The apparent contradiction between the senator's words and actions have earned him criticism from local progressive leaders."
+        },
+        {
+            "id": 16,
+            "text": "In a 2017 GoLocal editorial, labour leader and activist Mike Araujo condemned the senator for his membership at the exclusionary club."
+        },
+        {
+            "id": 17,
+            "text": "\"I find Senator Whitehouse\u2019s position on his membership of the historically restricted Bailey\u2019s Beach Club deeply disappointing yet not surprising,\" he said."
+        },
+        {
+            "id": 18,
+            "text": "\"Racism is the air we breathe in this country, there is no place, absolutely no place that can be named that was not the site of a forcible removal or slaughter of indigenous people, or the trade, whipping, and forced labor of Black people.\""
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "apologised",
+            "sentence_id": 0,
+            "start": 45,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic US Senator Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Bailey's Beach Club",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 1,
+            "token": "left",
+            "sentence_id": 0,
+            "start": 74,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic US Senator Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Bailey's Beach Club",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "refuses",
+            "sentence_id": 0,
+            "start": 114,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "accept",
+            "sentence_id": 0,
+            "start": 125,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "confronted",
+            "sentence_id": 1,
+            "start": 69,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "allow",
+            "sentence_id": 1,
+            "start": 173,
+            "end": 178,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "considered",
+            "sentence_id": 1,
+            "start": 212,
+            "end": 222,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "think",
+            "sentence_id": 2,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic US Senator Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Bailey's Beach Club",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "changed",
+            "sentence_id": 2,
+            "start": 34,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "told",
+            "sentence_id": 2,
+            "start": 97,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "approached",
+            "sentence_id": 3,
+            "start": 16,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "asking",
+            "sentence_id": 3,
+            "start": 48,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "made",
+            "sentence_id": 3,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "progress",
+            "sentence_id": 3,
+            "start": 80,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "interview",
+            "sentence_id": 3,
+            "start": 138,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "think",
+            "sentence_id": 4,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "running",
+            "sentence_id": 4,
+            "start": 28,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "working",
+            "sentence_id": 4,
+            "start": 56,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "sorry",
+            "sentence_id": 4,
+            "start": 80,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic US Senator Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Bailey's Beach Club",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 19,
+            "token": "happened",
+            "sentence_id": 4,
+            "start": 96,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 125,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "generate",
+            "sentence_id": 5,
+            "start": 52,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "claims",
+            "sentence_id": 5,
+            "start": 155,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic US Senator Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "progressive issues",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "champion",
+            "sentence_id": 5,
+            "start": 165,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "confronted",
+            "sentence_id": 8,
+            "start": 23,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "made",
+            "sentence_id": 8,
+            "start": 84,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 121,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "needed",
+            "sentence_id": 8,
+            "start": 141,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "work",
+            "sentence_id": 8,
+            "start": 152,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "justified",
+            "sentence_id": 8,
+            "start": 193,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic US Senator Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Bailey's Beach Club",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 30,
+            "token": "inclusion",
+            "sentence_id": 8,
+            "start": 207,
+            "end": 216,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "saying",
+            "sentence_id": 8,
+            "start": 233,
+            "end": 239,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "think",
+            "sentence_id": 9,
+            "start": 72,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "need",
+            "sentence_id": 9,
+            "start": 86,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "work",
+            "sentence_id": 9,
+            "start": 94,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "said",
+            "sentence_id": 9,
+            "start": 153,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "inclusion",
+            "sentence_id": 11,
+            "start": 12,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic US Senator Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Bailey's Beach Club",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "spoken",
+            "sentence_id": 11,
+            "start": 53,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic US Senator Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "systemic racism in the US",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 38,
+            "token": "deaths",
+            "sentence_id": 12,
+            "start": 14,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "issued",
+            "sentence_id": 12,
+            "start": 84,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic US Senator Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "statement of solidarity",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 40,
+            "token": "hear",
+            "sentence_id": 13,
+            "start": 4,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic US Senator Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "peaceful protesters",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 41,
+            "token": "marched",
+            "sentence_id": 13,
+            "start": 56,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "do",
+            "sentence_id": 14,
+            "start": 16,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "root",
+            "sentence_id": 14,
+            "start": 29,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic US Senator Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "systemic racism in the US",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 44,
+            "token": "said",
+            "sentence_id": 14,
+            "start": 77,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "contradiction",
+            "sentence_id": 15,
+            "start": 13,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic US Senator Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "earned",
+            "sentence_id": 15,
+            "start": 72,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "condemned",
+            "sentence_id": 16,
+            "start": 68,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "labour leader and activist Mike Araujo",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Democratic US Senator Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 48,
+            "token": "membership",
+            "sentence_id": 16,
+            "start": 98,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "find",
+            "sentence_id": 17,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "disappointing",
+            "sentence_id": 17,
+            "start": 114,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic US Senator Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Bailey's Beach Club",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 152,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Democratic US Senator Sheldon Whitehouse",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "labour leader and activist Mike Araujo",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 52,
+            "token": "breathe",
+            "sentence_id": 18,
+            "start": 22,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "named",
+            "sentence_id": 18,
+            "start": 98,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "removal",
+            "sentence_id": 18,
+            "start": 140,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "slaughter",
+            "sentence_id": 18,
+            "start": 151,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "trade",
+            "sentence_id": 18,
+            "start": 190,
+            "end": 195,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "whipping",
+            "sentence_id": 18,
+            "start": 197,
+            "end": 205,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Democratic US Senator Sheldon Whitehouse",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                0,
+                1,
+                7,
+                18,
+                29,
+                36,
+                37,
+                40,
+                43,
+                39,
+                45,
+                47,
+                51,
+                50
+            ]
+        },
+        {
+            "text": "Bailey's Beach Club",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                0,
+                1,
+                7,
+                18,
+                29,
+                36,
+                50
+            ]
+        },
+        {
+            "text": "systemic racism in the US",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                37,
+                43
+            ]
+        },
+        {
+            "text": "peaceful protesters",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                40
+            ]
+        },
+        {
+            "text": "statement of solidarity",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                39
+            ]
+        },
+        {
+            "text": "labour leader and activist Mike Araujo",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                47,
+                51
+            ]
+        },
+        {
+            "text": "progressive issues",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                22
+            ]
+        }
+    ]
+}

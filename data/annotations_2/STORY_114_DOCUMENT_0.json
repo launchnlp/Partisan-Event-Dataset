@@ -1,0 +1,1585 @@
+{
+    "title": "Biden's 'symbolic' ethanol move will do little to help crunched consumers",
+    "id": "STORY_114_DOCUMENT_0",
+    "old_id": "6560_0",
+    "split": "dev",
+    "date": "2022-04-13",
+    "topic": "energy",
+    "source": "Washington Examiner",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Joe Biden unveiled a new effort this week to lower gas prices by increasing reliance on ethanol until the fall, touting it as a way to fight inflation despite indications that the move will have a minimal impact on most people."
+        },
+        {
+            "id": 1,
+            "text": "\u201cI\u2019m doing everything within my power by executive orders to bring down prices and address the Putin price hikes,\u201d Biden said Tuesday at an event in Iowa, continuing to blame prices that began rising months ago on Russia\u2019s recent invasion of Ukraine ."
+        },
+        {
+            "id": 2,
+            "text": "Biden\u2019s new measure would temporarily remove limits this year on when gas stations can sell an ethanol blend called E15, or fuel that is 15% ethanol and 85% gasoline."
+        },
+        {
+            "id": 3,
+            "text": "While a similar blend, E10, containing 10% ethanol can be sold year-round, the Environmental Protection Agency forbids the sale of E15 from June 1 through Sept. 15 annually over concerns that burning the fuel during the summer heat could worsen pollution."
+        },
+        {
+            "id": 4,
+            "text": "Administration officials have said the emergency waiver can lower gas prices by up to 10 cents per gallon at the 2,300 gas stations that sell E15."
+        },
+        {
+            "id": 5,
+            "text": "That\u2019s just a fraction of the country\u2019s 150,000 gas stations, however, meaning most people won\u2019t experience any benefit from the measure."
+        },
+        {
+            "id": 6,
+            "text": "\u201cIt\u2019s a symbolic move, but it reminds me of a joke:"
+        },
+        {
+            "id": 7,
+            "text": "It\u2019s the thought that counts, and it\u2019s a cheap thought,\u201d Charles Lipson, political science professor emeritus at the University of Chicago, told the Washington Examiner."
+        },
+        {
+            "id": 8,
+            "text": "\u201cIt won\u2019t do anything.\u201d"
+        },
+        {
+            "id": 9,
+            "text": "\u201cThe main thing to read out of this, really, is that Biden refuses to address the two or three main issues because doing so would be going back on his campaign promises and rebutting the key green energy constituency in the Democratic Party as well as admitting that he had it wrong and the Republicans had it right,\u201d Lipson added."
+        },
+        {
+            "id": 10,
+            "text": "Lipson said Biden has shied away from increasing domestic production of traditional fuels and freeing up the permitting process for new projects, which experts have said would ultimately have a much more direct impact on gas prices than any of the moves Biden has made so far."
+        },
+        {
+            "id": 11,
+            "text": "The cost of producing corn, the key ingredient in ethanol, is skyrocketing as the costs of virtually all goods rise as well."
+        },
+        {
+            "id": 12,
+            "text": "Farmers have attributed the climbing cost of production to higher fuel prices, trouble finding workers, and an international fertilizer shortage that has experts sounding the alarm about potential food shortages on the horizon."
+        },
+        {
+            "id": 13,
+            "text": "In some areas, growing corn has become 40% more expensive per acre than in previous harvests."
+        },
+        {
+            "id": 14,
+            "text": "Corn prices overall have risen roughly 30% this year, driving up the cost of producing ethanol."
+        },
+        {
+            "id": 15,
+            "text": "The E15 blend currently costs just 3% less than already available E10 fuel, which further limits the savings drivers can expect from the waiver."
+        },
+        {
+            "id": 16,
+            "text": "And some experts have argued that the ethanol measure could indirectly lead to an even bigger spike in food prices by juicing demand for corn and soy, another ingredient in ethanol."
+        },
+        {
+            "id": 17,
+            "text": "Biden has faced political pressure to do more to fight inflation as the cost of living rises to the highest level in decades."
+        },
+        {
+            "id": 18,
+            "text": "On the same day he traveled to Iowa to unveil his ethanol waiver, Biden\u2019s Bureau of Labor Statistics said inflation rose 8.5% last month, compared to the same period last year \u2014 the worst increase in more than 40 years."
+        },
+        {
+            "id": 19,
+            "text": "Price spikes were even higher in some areas key to people's regular spending habits \u2014 the cost of meat, poultry, fish, and eggs, for example, rose 13.7%."
+        },
+        {
+            "id": 20,
+            "text": "Gas prices rose an astonishing 48%."
+        },
+        {
+            "id": 21,
+            "text": "Polls have shown voters are increasingly concerned with the rising prices, and Democrats have found themselves on defense over an issue that could cost them their congressional majorities in November."
+        },
+        {
+            "id": 22,
+            "text": "\"It's not only gas prices."
+        },
+        {
+            "id": 23,
+            "text": "It's that gas prices are among the most visible signs of inflation, and inflation is a twofold problem,\" Lipson said."
+        },
+        {
+            "id": 24,
+            "text": "\"One, people don't like inflation under any circumstances."
+        },
+        {
+            "id": 25,
+            "text": "But they really hate it when inflation outpaces the rise of their salaries because that means that their real income is lower."
+        },
+        {
+            "id": 26,
+            "text": "And that's what's happened.\""
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "unveiled",
+            "sentence_id": 0,
+            "start": 20,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "effort",
+            "sentence_id": 0,
+            "start": 35,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "lower",
+            "sentence_id": 0,
+            "start": 55,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "increasing",
+            "sentence_id": 0,
+            "start": 75,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "touting",
+            "sentence_id": 0,
+            "start": 122,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "fight",
+            "sentence_id": 0,
+            "start": 145,
+            "end": 150,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "move",
+            "sentence_id": 0,
+            "start": 190,
+            "end": 194,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "have",
+            "sentence_id": 0,
+            "start": 200,
+            "end": 204,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "impact",
+            "sentence_id": 0,
+            "start": 215,
+            "end": 221,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "crunched consumers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "increasing reliance on ethanol",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "doing",
+            "sentence_id": 1,
+            "start": 5,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "bring",
+            "sentence_id": 1,
+            "start": 61,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "crunched consumers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 11,
+            "token": "address",
+            "sentence_id": 1,
+            "start": 83,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "hikes",
+            "sentence_id": 1,
+            "start": 107,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 121,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "event",
+            "sentence_id": 1,
+            "start": 140,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "continuing",
+            "sentence_id": 1,
+            "start": 155,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "blame",
+            "sentence_id": 1,
+            "start": 169,
+            "end": 174,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "Putin",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "began",
+            "sentence_id": 1,
+            "start": 187,
+            "end": 192,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "rising",
+            "sentence_id": 1,
+            "start": 193,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "invasion",
+            "sentence_id": 1,
+            "start": 230,
+            "end": 238,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "remove",
+            "sentence_id": 2,
+            "start": 38,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "sell",
+            "sentence_id": 2,
+            "start": 87,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "sold",
+            "sentence_id": 3,
+            "start": 58,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "forbids",
+            "sentence_id": 3,
+            "start": 111,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "sale",
+            "sentence_id": 3,
+            "start": 123,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "burning",
+            "sentence_id": 3,
+            "start": 192,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "worsen",
+            "sentence_id": 3,
+            "start": 238,
+            "end": 244,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "increasing reliance on ethanol",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "pollution",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "lower",
+            "sentence_id": 4,
+            "start": 60,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "crunched consumers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 29,
+            "token": "sell",
+            "sentence_id": 4,
+            "start": 137,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "experience",
+            "sentence_id": 5,
+            "start": 97,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "crunched consumers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "increasing reliance on ethanol",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "move",
+            "sentence_id": 6,
+            "start": 17,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "reminds",
+            "sentence_id": 6,
+            "start": 30,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "crunched consumers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "told",
+            "sentence_id": 7,
+            "start": 140,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "do",
+            "sentence_id": 8,
+            "start": 10,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "increasing reliance on ethanol",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "crunched consumers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "read",
+            "sentence_id": 9,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "refuses",
+            "sentence_id": 9,
+            "start": 59,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "pollution",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "address",
+            "sentence_id": 9,
+            "start": 70,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "going",
+            "sentence_id": 9,
+            "start": 133,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "rebutting",
+            "sentence_id": 9,
+            "start": 173,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "pollution",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "admitting",
+            "sentence_id": 9,
+            "start": 252,
+            "end": 261,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "added",
+            "sentence_id": 9,
+            "start": 325,
+            "end": 330,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "said",
+            "sentence_id": 10,
+            "start": 7,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "shied",
+            "sentence_id": 10,
+            "start": 22,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "domestic production of traditional fuels",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "increasing",
+            "sentence_id": 10,
+            "start": 38,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "freeing",
+            "sentence_id": 10,
+            "start": 94,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "gas prices",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "said",
+            "sentence_id": 10,
+            "start": 165,
+            "end": 169,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "have",
+            "sentence_id": 10,
+            "start": 187,
+            "end": 191,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "moves",
+            "sentence_id": 10,
+            "start": 248,
+            "end": 253,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "made",
+            "sentence_id": 10,
+            "start": 264,
+            "end": 268,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "skyrocketing",
+            "sentence_id": 11,
+            "start": 62,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "increasing reliance on ethanol",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "crunched consumers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 51,
+            "token": "rise",
+            "sentence_id": 11,
+            "start": 111,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "attributed",
+            "sentence_id": 12,
+            "start": 13,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "finding",
+            "sentence_id": 12,
+            "start": 87,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "shortage",
+            "sentence_id": 12,
+            "start": 136,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "sounding",
+            "sentence_id": 12,
+            "start": 162,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "shortages",
+            "sentence_id": 12,
+            "start": 202,
+            "end": 211,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "become",
+            "sentence_id": 13,
+            "start": 32,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "risen",
+            "sentence_id": 14,
+            "start": 25,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "driving",
+            "sentence_id": 14,
+            "start": 54,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "costs",
+            "sentence_id": 15,
+            "start": 24,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "limits",
+            "sentence_id": 15,
+            "start": 90,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "gas prices",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "crunched consumers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 62,
+            "token": "savings",
+            "sentence_id": 15,
+            "start": 101,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "expect",
+            "sentence_id": 15,
+            "start": 121,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "argued",
+            "sentence_id": 16,
+            "start": 22,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "lead",
+            "sentence_id": 16,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "increasing reliance on ethanol",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "food prices",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 66,
+            "token": "spike",
+            "sentence_id": 16,
+            "start": 94,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "increasing reliance on ethanol",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "food prices",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 67,
+            "token": "juicing",
+            "sentence_id": 16,
+            "start": 118,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "faced",
+            "sentence_id": 17,
+            "start": 10,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "do",
+            "sentence_id": 17,
+            "start": 38,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "fight",
+            "sentence_id": 17,
+            "start": 49,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "rises",
+            "sentence_id": 17,
+            "start": 87,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "traveled",
+            "sentence_id": 18,
+            "start": 19,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "unveil",
+            "sentence_id": 18,
+            "start": 39,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "said",
+            "sentence_id": 18,
+            "start": 101,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "rose",
+            "sentence_id": 18,
+            "start": 116,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "increase",
+            "sentence_id": 18,
+            "start": 188,
+            "end": 196,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "inflation",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 77,
+            "token": "spikes",
+            "sentence_id": 19,
+            "start": 6,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "rose",
+            "sentence_id": 19,
+            "start": 142,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "food prices",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 79,
+            "token": "rose",
+            "sentence_id": 20,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "gas prices",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 80,
+            "token": "shown",
+            "sentence_id": 21,
+            "start": 11,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "concerned",
+            "sentence_id": 21,
+            "start": 41,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "found",
+            "sentence_id": 21,
+            "start": 94,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "cost",
+            "sentence_id": 21,
+            "start": 147,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "inflation",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 84,
+            "token": "said",
+            "sentence_id": 23,
+            "start": 112,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "like",
+            "sentence_id": 24,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "hate",
+            "sentence_id": 25,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 87,
+            "token": "outpaces",
+            "sentence_id": 25,
+            "start": 39,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 88,
+            "token": "rise",
+            "sentence_id": 25,
+            "start": 52,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "happened",
+            "sentence_id": 26,
+            "start": 18,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "President Joe Biden",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                8,
+                10,
+                16,
+                28,
+                32,
+                36,
+                39,
+                40,
+                43,
+                45,
+                61,
+                76,
+                78,
+                79
+            ]
+        },
+        {
+            "text": "crunched consumers",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                8,
+                10,
+                28,
+                30,
+                32,
+                34,
+                50,
+                61
+            ]
+        },
+        {
+            "text": "increasing reliance on ethanol",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                8,
+                26,
+                30,
+                34,
+                50,
+                65,
+                66
+            ]
+        },
+        {
+            "text": "Putin",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                16
+            ]
+        },
+        {
+            "text": "pollution",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                26,
+                36,
+                39
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                40
+            ]
+        },
+        {
+            "text": "domestic production of traditional fuels",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                43
+            ]
+        },
+        {
+            "text": "gas prices",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                45,
+                61,
+                79
+            ]
+        },
+        {
+            "text": "food prices",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                65,
+                66,
+                78
+            ]
+        },
+        {
+            "text": "inflation",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                76,
+                83
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                83
+            ]
+        }
+    ]
+}

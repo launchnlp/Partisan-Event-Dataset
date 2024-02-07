@@ -1,0 +1,1244 @@
+{
+    "title": "'Enough': Biden Exhorts Congress To Pass Gun Control Laws",
+    "id": "STORY_98_DOCUMENT_1",
+    "old_id": "gun_2_2",
+    "split": "dev",
+    "date": "2022-06-02",
+    "topic": "gun",
+    "source": "HuffPost",
+    "media_ideology": "Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "",
+    "news": [
+        {
+            "id": 0,
+            "text": "' Enough ' : Biden Exhorts Congress To Pass Gun Control Laws ."
+        },
+        {
+            "id": 1,
+            "text": "WASHINGTON \u2015 President Joe Biden delivered the second evening address of his presidency on Thursday night , almost begging Congress to pass gun control legislation following yet another wave of mass shootings stretching from Tulsa , Oklahoma , to Buffalo , New York ."
+        },
+        {
+            "id": 2,
+            "text": "\u201c Enough , \u201d Biden said repeatedly , invoking the dozens of school shootings that have swept America over the past decade ."
+        },
+        {
+            "id": 3,
+            "text": "\u201c We ca n\u2019t fail the American people again . \u201d Biden delivered his 15 - minute speech , informed by his recent trips to both Buffalo and Uvalde , Texas , from the East Room of the White House after walking down an aisle lined with small candles ."
+        },
+        {
+            "id": 4,
+            "text": "He called on Congress to pass a suite of gun control measures : universal background check legislation , a ban on assault weapons , a national \u201c red flag \u201d law to take guns away from the mentally ill , raising the age to buy a gun to 21 and the repeal of a liability shield for gun manufacturers ."
+        },
+        {
+            "id": 5,
+            "text": "\u201c It \u2019s time to act for the children we \u2019ve lost , the children we can save , the nation we love , \u201d Biden exhorted , noting that the Centers for Disease Control and Prevention now says gun violence is the leading killer of American children , surpassing traffic accidents ."
+        },
+        {
+            "id": 6,
+            "text": "\u201c Let us finally do something . \u201d"
+        },
+        {
+            "id": 7,
+            "text": "Most of Biden \u2019s pleas will fall on deaf ears in Congress , drowned out by universal GOP opposition to almost any measure to rein in gun violence or limit the gun industry \u2019s power ."
+        },
+        {
+            "id": 8,
+            "text": "While Democrats and Republicans in the Senate are optimistic about a deal to combat school shootings in the wake of the death of 19 students and two teachers in Uvalde , only one of the deal \u2019s provisions \u2014 a strengthening of the federal background check system \u2014 would restrict gun ownership ."
+        },
+        {
+            "id": 9,
+            "text": "Other provisions under discussions include encouraging states to pass \u201c red flag \u201d laws , providing tax credits for gun owners to buy safes and improving mental health coverage ."
+        },
+        {
+            "id": 10,
+            "text": "Sen. Chris Murphy ( D - Conn. ) , who is helping negotiate the package , said small steps on gun control could eventually pave the way for more progress ."
+        },
+        {
+            "id": 11,
+            "text": "\u201c I do n\u2019t think we have to get it done all at once ."
+        },
+        {
+            "id": 12,
+            "text": "What we \u2019re trying to do is prove to Republicans that if they vote for measures that tighten up the nation \u2019s gun laws , the political sky does not fall , \u201d Murphy said in an MSNBC interview ."
+        },
+        {
+            "id": 13,
+            "text": "\u201c In fact , they \u2019ll get a lot more supporters in their home states . \u201d"
+        },
+        {
+            "id": 14,
+            "text": "Polls consistently show significant public support for stricter gun control laws , especially for stronger background checks ."
+        },
+        {
+            "id": 15,
+            "text": "Still , Biden took time in his speech to praise the Second Amendment and \u201c responsible \u201d gun owners ."
+        },
+        {
+            "id": 16,
+            "text": "\u201c This is not about taking away anyone \u2019s guns , \u201d Biden said ."
+        },
+        {
+            "id": 17,
+            "text": "\u201c It \u2019s not not about vilifying gun owners . \u201d"
+        },
+        {
+            "id": 18,
+            "text": "However , Biden cited former Supreme Court Justice Antonin Scalia \u2015 a conservative icon \u2015 who had declared that the Second Amendment was \u201c not unlimited . \u201d"
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "Exhorts",
+            "sentence_id": 0,
+            "start": 19,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "Pass",
+            "sentence_id": 0,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "gun control laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "biden",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "delivered",
+            "sentence_id": 1,
+            "start": 33,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "address",
+            "sentence_id": 1,
+            "start": 62,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "begging",
+            "sentence_id": 1,
+            "start": 115,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "pass",
+            "sentence_id": 1,
+            "start": 135,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "biden",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "gun control laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "shootings",
+            "sentence_id": 1,
+            "start": 199,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "invoking",
+            "sentence_id": 2,
+            "start": 37,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "gun control laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "shootings",
+            "sentence_id": 2,
+            "start": 67,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "swept",
+            "sentence_id": 2,
+            "start": 87,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "fail",
+            "sentence_id": 3,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "delivered",
+            "sentence_id": 3,
+            "start": 53,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "speech",
+            "sentence_id": 3,
+            "start": 79,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "informed",
+            "sentence_id": 3,
+            "start": 88,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "trips",
+            "sentence_id": 3,
+            "start": 111,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "walking",
+            "sentence_id": 3,
+            "start": 198,
+            "end": 205,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "called",
+            "sentence_id": 4,
+            "start": 3,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "pass",
+            "sentence_id": 4,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "gun control measures",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "biden",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "congress",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "take",
+            "sentence_id": 4,
+            "start": 163,
+            "end": 167,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "raising",
+            "sentence_id": 4,
+            "start": 202,
+            "end": 209,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "repeal",
+            "sentence_id": 4,
+            "start": 245,
+            "end": 251,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "act",
+            "sentence_id": 5,
+            "start": 16,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "lost",
+            "sentence_id": 5,
+            "start": 44,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "save",
+            "sentence_id": 5,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "exhorted",
+            "sentence_id": 5,
+            "start": 107,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "biden",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "gun control laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 26,
+            "token": "noting",
+            "sentence_id": 5,
+            "start": 118,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "gun control laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 27,
+            "token": "says",
+            "sentence_id": 5,
+            "start": 181,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "surpassing",
+            "sentence_id": 5,
+            "start": 244,
+            "end": 254,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "do",
+            "sentence_id": 6,
+            "start": 17,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "pleas",
+            "sentence_id": 7,
+            "start": 17,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "fall",
+            "sentence_id": 7,
+            "start": 28,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "drowned",
+            "sentence_id": 7,
+            "start": 60,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "gop",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "biden",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 33,
+            "token": "rein",
+            "sentence_id": 7,
+            "start": 125,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "limit",
+            "sentence_id": 7,
+            "start": 149,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "optimistic",
+            "sentence_id": 8,
+            "start": 50,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "deal",
+            "sentence_id": 8,
+            "start": 69,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "combat",
+            "sentence_id": 8,
+            "start": 77,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "shootings",
+            "sentence_id": 8,
+            "start": 91,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "death",
+            "sentence_id": 8,
+            "start": 120,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "strengthening",
+            "sentence_id": 8,
+            "start": 209,
+            "end": 222,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "restrict",
+            "sentence_id": 8,
+            "start": 270,
+            "end": 278,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "gun ownership",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "gun control laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 42,
+            "token": "discussions",
+            "sentence_id": 9,
+            "start": 23,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "encouraging",
+            "sentence_id": 9,
+            "start": 43,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "pass",
+            "sentence_id": 9,
+            "start": 65,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "gun control measures",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 45,
+            "token": "providing",
+            "sentence_id": 9,
+            "start": 90,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "gun control measures",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "buy",
+            "sentence_id": 9,
+            "start": 130,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "improving",
+            "sentence_id": 9,
+            "start": 144,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "helping",
+            "sentence_id": 10,
+            "start": 41,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "negotiate",
+            "sentence_id": 10,
+            "start": 49,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "said",
+            "sentence_id": 10,
+            "start": 73,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "chris murphy",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "gun control laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 51,
+            "token": "pave",
+            "sentence_id": 10,
+            "start": 122,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "progress",
+            "sentence_id": 10,
+            "start": 144,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "think",
+            "sentence_id": 11,
+            "start": 11,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "get",
+            "sentence_id": 11,
+            "start": 28,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "done",
+            "sentence_id": 11,
+            "start": 35,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "trying",
+            "sentence_id": 12,
+            "start": 12,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "do",
+            "sentence_id": 12,
+            "start": 22,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "prove",
+            "sentence_id": 12,
+            "start": 28,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "gun control laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 59,
+            "token": "vote",
+            "sentence_id": 12,
+            "start": 62,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "tighten",
+            "sentence_id": 12,
+            "start": 85,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "fall",
+            "sentence_id": 12,
+            "start": 148,
+            "end": 152,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 164,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "interview",
+            "sentence_id": 12,
+            "start": 181,
+            "end": 190,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "get",
+            "sentence_id": 13,
+            "start": 21,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "gun control laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 65,
+            "token": "show",
+            "sentence_id": 14,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "gun control laws",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "polls",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 66,
+            "token": "took",
+            "sentence_id": 15,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "speech",
+            "sentence_id": 15,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "praise",
+            "sentence_id": 15,
+            "start": 41,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "gun owners",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "second amendment",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 69,
+            "token": "taking",
+            "sentence_id": 16,
+            "start": 20,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "said",
+            "sentence_id": 16,
+            "start": 57,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "vilifying",
+            "sentence_id": 17,
+            "start": 22,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "gun owners",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 72,
+            "token": "cited",
+            "sentence_id": 18,
+            "start": 16,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "second amendment",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "biden",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 73,
+            "token": "declared",
+            "sentence_id": 18,
+            "start": 98,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "gun control laws",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                1,
+                5,
+                8,
+                25,
+                26,
+                41,
+                50,
+                58,
+                64,
+                65
+            ]
+        },
+        {
+            "text": "biden",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                1,
+                5,
+                7,
+                18,
+                25,
+                32,
+                72
+            ]
+        },
+        {
+            "text": "gun control measures",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                18,
+                44,
+                45
+            ]
+        },
+        {
+            "text": "congress",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                18
+            ]
+        },
+        {
+            "text": "gop",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                32
+            ]
+        },
+        {
+            "text": "gun ownership",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                41
+            ]
+        },
+        {
+            "text": "chris murphy",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                50
+            ]
+        },
+        {
+            "text": "polls",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                65
+            ]
+        },
+        {
+            "text": "gun owners",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                68,
+                71
+            ]
+        },
+        {
+            "text": "second amendment",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                68,
+                72
+            ]
+        }
+    ]
+}

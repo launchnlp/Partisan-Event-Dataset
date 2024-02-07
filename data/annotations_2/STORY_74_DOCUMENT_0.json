@@ -1,0 +1,554 @@
+{
+    "title": "Trump: Putin \u2018very smart\u2019 for not retaliating against U.S. over latest round of sanctions",
+    "id": "STORY_74_DOCUMENT_0",
+    "old_id": "TRIPLET_089_DOCUMENT_1",
+    "split": "train",
+    "date": "2016-12-31",
+    "topic": "politics",
+    "source": "Washington Times",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "President - elect Donald Trump on Friday hailed Russian President Vladimir Putin as \u201c very smart \u201d for not retaliating against a new round of U.S. sanctions against the former Cold War foe ."
+        },
+        {
+            "id": 1,
+            "text": "\u201c Great move on delay ( by V. Putin ) - I always knew he was very smart ! \u201d tweeted Mr. Trump ,"
+        },
+        {
+            "id": 2,
+            "text": "who weathered unrelenting criticism during the campaign for heaping praise on Mr. Putin ."
+        },
+        {
+            "id": 3,
+            "text": "The tweet suggested that Mr. Trump , who made his deal - making skills a chief argument for his presidential run , will be open to negotiating with Russia over the status of the sanctions once he takes office Jan. 20 ."
+        },
+        {
+            "id": 4,
+            "text": "Mr. Putin condemned the new round of sanctions President Obama imposed against Russia for allegedly using computer hacking to interfere with the U.S. presidential election ."
+        },
+        {
+            "id": 5,
+            "text": "But the Russian president said he would not retaliate ."
+        },
+        {
+            "id": 6,
+            "text": "Mr. Obama hit Russia with sanctions that included expelling 35 Russian intelligence agents and closing two Russian compounds in the U.S ."
+        },
+        {
+            "id": 7,
+            "text": "The parting shot at Russia was the latest rift between Mr. Obama and Mr. Trump , who urged the administration to move on from the hacking allegations ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "hailed",
+            "sentence_id": 0,
+            "start": 41,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Vladimir Putin",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 1,
+            "token": "retaliating",
+            "sentence_id": 0,
+            "start": 107,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "sanctions",
+            "sentence_id": 0,
+            "start": 147,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "move",
+            "sentence_id": 1,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "knew",
+            "sentence_id": 1,
+            "start": 49,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "1",
+                    "text": "Vladimir Putin",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "tweeted",
+            "sentence_id": 1,
+            "start": 76,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "weathered",
+            "sentence_id": 2,
+            "start": 4,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "heaping",
+            "sentence_id": 2,
+            "start": 60,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "1",
+                    "text": "Vladimir Putin",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "suggested",
+            "sentence_id": 3,
+            "start": 10,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "made",
+            "sentence_id": 3,
+            "start": 41,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "run",
+            "sentence_id": 3,
+            "start": 109,
+            "end": 112,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "open",
+            "sentence_id": 3,
+            "start": 123,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "russia",
+                    "ideology": "N/A",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "negotiating",
+            "sentence_id": 3,
+            "start": 131,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "takes",
+            "sentence_id": 3,
+            "start": 196,
+            "end": 201,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "condemned",
+            "sentence_id": 4,
+            "start": 10,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "1",
+                    "text": "Vladimir Putin",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 15,
+            "token": "sanctions",
+            "sentence_id": 4,
+            "start": 37,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "imposed",
+            "sentence_id": 4,
+            "start": 63,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "3",
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "using",
+            "sentence_id": 4,
+            "start": 100,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "hacking",
+            "sentence_id": 4,
+            "start": 115,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "interfere",
+            "sentence_id": 4,
+            "start": 126,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 26,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "retaliate",
+            "sentence_id": 5,
+            "start": 44,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "hit",
+            "sentence_id": 6,
+            "start": 10,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "3",
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "russia",
+                    "ideology": "N/A",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 23,
+            "token": "sanctions",
+            "sentence_id": 6,
+            "start": 26,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "expelling",
+            "sentence_id": 6,
+            "start": 50,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "closing",
+            "sentence_id": 6,
+            "start": 95,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "rift",
+            "sentence_id": 7,
+            "start": 42,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "3",
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": "0",
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "urged",
+            "sentence_id": 7,
+            "start": 85,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "move",
+            "sentence_id": 7,
+            "start": 113,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "hacking allegations",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Donald Trump",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "Vladimir Putin",
+            "ideology": "N/A",
+            "id": 1,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "russia",
+            "ideology": "N/A",
+            "id": 2,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "President Obama",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                14
+            ]
+        },
+        {
+            "text": "hacking allegations",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                28
+            ]
+        }
+    ]
+}

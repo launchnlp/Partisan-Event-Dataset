@@ -1,0 +1,1594 @@
+{
+    "title": "Shutdown Day 7: Trump threatens to close border without wall funding",
+    "id": "STORY_53_DOCUMENT_0",
+    "old_id": "TRIPLET_123_DOCUMENT_0",
+    "split": "train",
+    "date": "2018-12-29",
+    "topic": "federal_budget",
+    "source": "Washington Times",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Trump on Friday threatened to close the southern border if Democrats do not relent in the standoff over border wall funding , which has resulted in a partial government shutdown that has lasted a week ."
+        },
+        {
+            "id": 1,
+            "text": "\u201c We will be forced to close the Southern Border entirely if the Obstructionist Democrats do not give us the money to finish the Wall & also change the ridiculous immigration laws that our Country is saddled with , \u201d the president tweeted ."
+        },
+        {
+            "id": 2,
+            "text": "Mr. Trump previously threatened to close the southern border to stop an approaching migrant caravan ."
+        },
+        {
+            "id": 3,
+            "text": "The administration did temporarily close a border crossing that was being overwhelmed by the caravan ."
+        },
+        {
+            "id": 4,
+            "text": "In a series of tweets about the border showdown with Democrats , the president said he could justify closing the southern border as a response to the lopsided trade he said the U.S. suffers under the North American Free Trade Agreement ."
+        },
+        {
+            "id": 5,
+            "text": "Mr. Trump also expressed disbelief that the U.S. in his view has struggled for so long with porous borders and weak laws that foster rampant illegal immigration ."
+        },
+        {
+            "id": 6,
+            "text": "\u201c Hard to believe there was a Congress & President who would approve ! \u201d"
+        },
+        {
+            "id": 7,
+            "text": "he said ."
+        },
+        {
+            "id": 8,
+            "text": "The standoff over Mr. Trump \u2019s demand for roughly $ 5 billion for border security including a wall or barrier led to the partial government shutdown , now in its seventh day ."
+        },
+        {
+            "id": 9,
+            "text": "The shutdown affects 25 percent of the federal government , including the Interior , Justice and Homeland Security departments ."
+        },
+        {
+            "id": 10,
+            "text": "Acting White House Chief of Staff Mick Mulvaney said Friday that the administration proposed an unspecified amount of less than $ 5 billion for the border wall in its most recent offer to Democratic leaders last week , but never received a counteroffer ."
+        },
+        {
+            "id": 11,
+            "text": "Mr. Mulvaney said he and Vice President Mike Pence gave Senate Democratic Leader Charles E. Schumer \u201c a number below five [ $ 5 billion ] \u201d during their last face - to - face negotiation ."
+        },
+        {
+            "id": 12,
+            "text": "\u201c I \u2019m not going to tell you what it is , \u201d he said of the amount proposed ."
+        },
+        {
+            "id": 13,
+            "text": "\u201c We \u2019re here , and they know where to find us , \u201d Mr. Mulvaney told reporters ."
+        },
+        {
+            "id": 14,
+            "text": "\u201c We made an offer last Saturday night [ Dec. 22 ] ."
+        },
+        {
+            "id": 15,
+            "text": "They told us they \u2019d get back to us by the end of the week ."
+        },
+        {
+            "id": 16,
+            "text": "They got back to us last night and said \u2018 We \u2019re leaving . \u2019\u201d"
+        },
+        {
+            "id": 17,
+            "text": "Democratic leaders insist that they support border security but oppose Mr. Trump \u2019s wall , saying it is a costly and ineffective solution to illegal immigration ."
+        },
+        {
+            "id": 18,
+            "text": "They have backed various alternatives , such as drones and sensors and other high - tech solutions ."
+        },
+        {
+            "id": 19,
+            "text": "Mr. Trump said closing the border also could be justified as a response to NAFTA ."
+        },
+        {
+            "id": 20,
+            "text": "The Trump administration negotiated a rewrite of the three - way deal with Canada and Mexico ."
+        },
+        {
+            "id": 21,
+            "text": "The new trade pact , known as the U.S. Mexico Canada Agreement , is awaiting approval by Congress ."
+        },
+        {
+            "id": 22,
+            "text": "\u201c The United States loses soooo much money on Trade with Mexico under NAFTA , over 75 Billion Dollars a year ( not including Drug Money which would be many times that amount ) , that I would consider closing the Southern Border a \u201c profit making operation , \u2019 \u201d he tweeted ."
+        },
+        {
+            "id": 23,
+            "text": "\u201c We build a Wall or \u2026 close the Southern Border ."
+        },
+        {
+            "id": 24,
+            "text": "Bring our car industry back into the United States where it belongs ."
+        },
+        {
+            "id": 25,
+            "text": "Go back to pre-NAFTA , before so many of our companies and jobs were so foolishly sent to Mexico ."
+        },
+        {
+            "id": 26,
+            "text": "Either we build ( finish ) the Wall or we close the Border , \u201d Mr. Trump said ."
+        },
+        {
+            "id": 27,
+            "text": "\u2022 Dave Boyer contributed to this story ."
+        },
+        {
+            "id": 28,
+            "text": "Sign up for Daily Newsletters Manage Newsletters"
+        },
+        {
+            "id": 29,
+            "text": "Copyright \u00a9 2021"
+        },
+        {
+            "id": 30,
+            "text": "The Washington Times , LLC ."
+        },
+        {
+            "id": 31,
+            "text": "Click here for reprint permission ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "threatened",
+            "sentence_id": 0,
+            "start": 26,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "close",
+            "sentence_id": 0,
+            "start": 40,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "relent",
+            "sentence_id": 0,
+            "start": 86,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "standoff",
+            "sentence_id": 0,
+            "start": 100,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "border wall funding",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 4,
+            "token": "resulted",
+            "sentence_id": 0,
+            "start": 146,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "shutdown",
+            "sentence_id": 0,
+            "start": 179,
+            "end": 187,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "government",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "lasted",
+            "sentence_id": 0,
+            "start": 197,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "forced",
+            "sentence_id": 1,
+            "start": 13,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Southern Border",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "close",
+            "sentence_id": 1,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "give",
+            "sentence_id": 1,
+            "start": 97,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "money to finish the Wall",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "finish",
+            "sentence_id": 1,
+            "start": 118,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "change",
+            "sentence_id": 1,
+            "start": 141,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "immigration laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 12,
+            "token": "saddled",
+            "sentence_id": 1,
+            "start": 200,
+            "end": 207,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "tweeted",
+            "sentence_id": 1,
+            "start": 231,
+            "end": 238,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "threatened",
+            "sentence_id": 2,
+            "start": 21,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "migrant caravan",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "close",
+            "sentence_id": 2,
+            "start": 35,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "stop",
+            "sentence_id": 2,
+            "start": 64,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "close",
+            "sentence_id": 3,
+            "start": 35,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "migrant caravan",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 18,
+            "token": "overwhelmed",
+            "sentence_id": 3,
+            "start": 74,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "showdown",
+            "sentence_id": 4,
+            "start": 39,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 79,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "justify",
+            "sentence_id": 4,
+            "start": 93,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "closing the southern border",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "closing",
+            "sentence_id": 4,
+            "start": 101,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "response",
+            "sentence_id": 4,
+            "start": 134,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 168,
+            "end": 172,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "suffers",
+            "sentence_id": 4,
+            "start": 182,
+            "end": 189,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "expressed",
+            "sentence_id": 5,
+            "start": 15,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "struggled",
+            "sentence_id": 5,
+            "start": 65,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "U.S.",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "porous borders",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "immigration laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "foster",
+            "sentence_id": 5,
+            "start": 126,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "immigration laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "porous borders",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "illegal immigration",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 29,
+            "token": "believe",
+            "sentence_id": 6,
+            "start": 10,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "approve",
+            "sentence_id": 6,
+            "start": 61,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "Congress & President",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "immigration laws",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 31,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 3,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "standoff",
+            "sentence_id": 8,
+            "start": 4,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "demand",
+            "sentence_id": 8,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "led",
+            "sentence_id": 8,
+            "start": 110,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "shutdown",
+            "sentence_id": 8,
+            "start": 140,
+            "end": 148,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "shutdown",
+            "sentence_id": 9,
+            "start": 4,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "affects",
+            "sentence_id": 9,
+            "start": 13,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "said",
+            "sentence_id": 10,
+            "start": 48,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "proposed",
+            "sentence_id": 10,
+            "start": 84,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "offer",
+            "sentence_id": 10,
+            "start": 179,
+            "end": 184,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "received",
+            "sentence_id": 10,
+            "start": 229,
+            "end": 237,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "said",
+            "sentence_id": 11,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "gave",
+            "sentence_id": 11,
+            "start": 51,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "negotiation",
+            "sentence_id": 11,
+            "start": 175,
+            "end": 186,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "tell",
+            "sentence_id": 12,
+            "start": 20,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 47,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "proposed",
+            "sentence_id": 12,
+            "start": 66,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "know",
+            "sentence_id": 13,
+            "start": 25,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "find",
+            "sentence_id": 13,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "told",
+            "sentence_id": 13,
+            "start": 64,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "made",
+            "sentence_id": 14,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "offer",
+            "sentence_id": 14,
+            "start": 13,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "told",
+            "sentence_id": 15,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "get",
+            "sentence_id": 15,
+            "start": 21,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "got",
+            "sentence_id": 16,
+            "start": 5,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "said",
+            "sentence_id": 16,
+            "start": 35,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "leaving",
+            "sentence_id": 16,
+            "start": 49,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 58,
+            "token": "insist",
+            "sentence_id": 17,
+            "start": 19,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "border security",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 59,
+            "token": "support",
+            "sentence_id": 17,
+            "start": 36,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "oppose",
+            "sentence_id": 17,
+            "start": 64,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 61,
+            "token": "saying",
+            "sentence_id": 17,
+            "start": 91,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "backed",
+            "sentence_id": 18,
+            "start": 10,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "border security",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 63,
+            "token": "said",
+            "sentence_id": 19,
+            "start": 10,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "closing",
+            "sentence_id": 19,
+            "start": 15,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "justified",
+            "sentence_id": 19,
+            "start": 48,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "closing the southern border",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 66,
+            "token": "response",
+            "sentence_id": 19,
+            "start": 63,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "negotiated",
+            "sentence_id": 20,
+            "start": 25,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Trump",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "three - way deal",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 68,
+            "token": "rewrite",
+            "sentence_id": 20,
+            "start": 38,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "awaiting",
+            "sentence_id": 21,
+            "start": 68,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "approval",
+            "sentence_id": 21,
+            "start": 77,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "loses",
+            "sentence_id": 22,
+            "start": 20,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "consider",
+            "sentence_id": 22,
+            "start": 191,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "closing",
+            "sentence_id": 22,
+            "start": 200,
+            "end": 207,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "closing the southern border",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 15,
+                    "text": "money on Trade",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 74,
+            "token": "tweeted",
+            "sentence_id": 22,
+            "start": 265,
+            "end": 272,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "build",
+            "sentence_id": 23,
+            "start": 5,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "close",
+            "sentence_id": 23,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "Bring",
+            "sentence_id": 24,
+            "start": 0,
+            "end": 5,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "belongs",
+            "sentence_id": 24,
+            "start": 60,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "Go",
+            "sentence_id": 25,
+            "start": 0,
+            "end": 2,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "sent",
+            "sentence_id": 25,
+            "start": 82,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 16,
+                    "text": "companies and jobs",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 81,
+            "token": "build",
+            "sentence_id": 26,
+            "start": 10,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "finish",
+            "sentence_id": 26,
+            "start": 18,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "close",
+            "sentence_id": 26,
+            "start": 42,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 84,
+            "token": "said",
+            "sentence_id": 26,
+            "start": 73,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "President Trump",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                1,
+                14,
+                17,
+                21,
+                41,
+                57,
+                60,
+                65,
+                67
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                1,
+                3,
+                5,
+                7,
+                9,
+                11,
+                41,
+                57,
+                58,
+                60,
+                62,
+                80
+            ]
+        },
+        {
+            "text": "border wall funding",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                3
+            ]
+        },
+        {
+            "text": "government",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                5
+            ]
+        },
+        {
+            "text": "Southern Border",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                7
+            ]
+        },
+        {
+            "text": "money to finish the Wall",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                9
+            ]
+        },
+        {
+            "text": "immigration laws",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                11,
+                27,
+                28,
+                30
+            ]
+        },
+        {
+            "text": "migrant caravan",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                14,
+                17
+            ]
+        },
+        {
+            "text": "closing the southern border",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                21,
+                65,
+                73
+            ]
+        },
+        {
+            "text": "U.S.",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                27
+            ]
+        },
+        {
+            "text": "porous borders",
+            "ideology": "Neutral",
+            "id": 10,
+            "events": [
+                27,
+                28
+            ]
+        },
+        {
+            "text": "illegal immigration",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                28
+            ]
+        },
+        {
+            "text": "Congress & President",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                30
+            ]
+        },
+        {
+            "text": "border security",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": [
+                58,
+                62
+            ]
+        },
+        {
+            "text": "three - way deal",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                67
+            ]
+        },
+        {
+            "text": "money on Trade",
+            "ideology": "Neutral",
+            "id": 15,
+            "events": [
+                73
+            ]
+        },
+        {
+            "text": "companies and jobs",
+            "ideology": "Neutral",
+            "id": 16,
+            "events": [
+                80
+            ]
+        }
+    ]
+}

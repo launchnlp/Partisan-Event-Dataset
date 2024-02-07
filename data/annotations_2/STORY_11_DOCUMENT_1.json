@@ -1,0 +1,1514 @@
+{
+    "title": "Op-Ed: Why face mask mandates for all should be back on the table",
+    "id": "STORY_11_DOCUMENT_1",
+    "old_id": "TRIPLET_1056_DOCUMENT_0",
+    "split": "train",
+    "date": "2021-07-21",
+    "topic": "coronavirus",
+    "source": "Los Angeles Times",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "",
+    "news": [
+        {
+            "id": 0,
+            "text": "Last week , nearly every state in the U.S. experienced an increase in daily coronavirus cases ."
+        },
+        {
+            "id": 1,
+            "text": "Driven by the Delta variant , this rise and an accompanying increase in hospitalizations have sparked a debate about returning to indoor mask mandates for all , regardless of vaccination status ."
+        },
+        {
+            "id": 2,
+            "text": "Los Angeles County announced Thursday that face masks will be required indoors for both vaccinated and unvaccinated people , and the state of Hawaii has maintained a similar requirement amid rising cases ."
+        },
+        {
+            "id": 3,
+            "text": "However , officials in both New York City and Chicago recently rejected the idea of a new universal indoor mask mandate ."
+        },
+        {
+            "id": 4,
+            "text": "Are mask requirements again necessary in the U.S. ?"
+        },
+        {
+            "id": 5,
+            "text": "Our research shows why the answer is yes in many places : The unvaccinated are least likely to wear masks ."
+        },
+        {
+            "id": 6,
+            "text": "We could avoid mask mandates if everyone who is eligible gets vaccinated ."
+        },
+        {
+            "id": 7,
+            "text": "Nearly half of the U.S. population is fully vaccinated , and almost 70 % of adults ( and nearly 90 % of those 65 and up ) have received at least one dose ."
+        },
+        {
+            "id": 8,
+            "text": "But these vaccination rates vary substantially by county ."
+        },
+        {
+            "id": 9,
+            "text": "Federal and local governments must continue to find creative ways to encourage \u2014 or require \u2014 vaccination ."
+        },
+        {
+            "id": 10,
+            "text": "France recently introduced new vaccination requirements , and despite some controversy , a rush for vaccines ensued ."
+        },
+        {
+            "id": 11,
+            "text": "Until vaccination rates increase , it might seem that the simplest solution is to require those who are unvaccinated to wear masks , and several states have adopted this policy ."
+        },
+        {
+            "id": 12,
+            "text": "Masks not only help prevent those infected from spreading the virus , they also offer protection to those wearing the mask ."
+        },
+        {
+            "id": 13,
+            "text": "But that bifurcated approach does n\u2019t work well if unvaccinated individuals are unlikely to follow mask requirements when the vaccinated no longer need to wear masks ."
+        },
+        {
+            "id": 14,
+            "text": "The unvaccinated are also the least concerned about the Delta variant ."
+        },
+        {
+            "id": 15,
+            "text": "To understand the mask - wearing behaviors of the unvaccinated population , we surveyed a nationally representative sample of 939 adults in the U.S. from July 11 to July 14 ."
+        },
+        {
+            "id": 16,
+            "text": "We reminded respondents that masks have been used to limit the spread of the coronavirus and we then asked if they would wear a mask in a variety of settings where unvaccinated people were asked to do so : at a friend \u2019s party , at a grocery store , at the post office and at a job ."
+        },
+        {
+            "id": 17,
+            "text": "As a follow - up , we asked each person to tell us whether he or she has received a COVID - 19 vaccine ."
+        },
+        {
+            "id": 18,
+            "text": "We are thus able to analyze the mask - wearing habits of those who have and have not been vaccinated ."
+        },
+        {
+            "id": 19,
+            "text": "The results are striking :"
+        },
+        {
+            "id": 20,
+            "text": "In each scenario , respondents who have not been vaccinated were more likely to say they would not wear a mask than those who have received at least one vaccination shot ."
+        },
+        {
+            "id": 21,
+            "text": "Nearly half of the unvaccinated say they would not wear a mask at a party ( 49 % ) or a grocery store ( 48 % ) , despite explicit requests for them to do so ."
+        },
+        {
+            "id": 22,
+            "text": "Mask refusal rates among the unvaccinated were slightly less when we asked about the post office ( 43 % ) and work ( 37 % ) but still greater than among vaccinated respondents ."
+        },
+        {
+            "id": 23,
+            "text": "Further , the survey showed that about 15 % of all adults are both unvaccinated and unwilling to wear masks when asked to in public ."
+        },
+        {
+            "id": 24,
+            "text": "This is a significant population , which could enable the spread of dangerous new mutations like the Delta variant ."
+        },
+        {
+            "id": 25,
+            "text": "Given mask resistance , a universal requirement may be the only effective approach ."
+        },
+        {
+            "id": 26,
+            "text": "When everyone is required to wear a mask , businesses , government offices and employers do not need to worry about vaccine verification and unvaccinated people cannot easily avoid masking ."
+        },
+        {
+            "id": 27,
+            "text": "It may feel unfair that individuals shunning the vaccine and masks could cause us all to have to mask up again ."
+        },
+        {
+            "id": 28,
+            "text": "But until vaccinations are more broadly required , policies like the federal rule that everyone wear masks on planes , trains and buses is the most viable option ."
+        },
+        {
+            "id": 29,
+            "text": "More than 608,000 people have died from COVID - 19 in the United States ."
+        },
+        {
+            "id": 30,
+            "text": "To prevent more illnesses and deaths , more counties will again need to require everyone to mask up ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "experienced",
+            "sentence_id": 0,
+            "start": 43,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "increase",
+            "sentence_id": 0,
+            "start": 58,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "Driven",
+            "sentence_id": 1,
+            "start": 0,
+            "end": 6,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "rise",
+            "sentence_id": 1,
+            "start": 35,
+            "end": 39,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "increase",
+            "sentence_id": 1,
+            "start": 60,
+            "end": 68,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "sparked",
+            "sentence_id": 1,
+            "start": 94,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "debate",
+            "sentence_id": 1,
+            "start": 104,
+            "end": 110,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "returning",
+            "sentence_id": 1,
+            "start": 117,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "indoor mask mandates for all",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "increase in hospitalizations",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "mandates",
+            "sentence_id": 1,
+            "start": 142,
+            "end": 150,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "announced",
+            "sentence_id": 2,
+            "start": 19,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "required",
+            "sentence_id": 2,
+            "start": 62,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "los angeles county",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "indoor mask mandates for all",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "maintained",
+            "sentence_id": 2,
+            "start": 153,
+            "end": 163,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "state of hawaii",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "indoor mask mandates for all",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 12,
+            "token": "requirement",
+            "sentence_id": 2,
+            "start": 174,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "rejected",
+            "sentence_id": 3,
+            "start": 63,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "indoor mask mandates for all",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "chicago",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "new york city",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 14,
+            "token": "mandate",
+            "sentence_id": 3,
+            "start": 112,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "necessary",
+            "sentence_id": 4,
+            "start": 28,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "shows",
+            "sentence_id": 5,
+            "start": 13,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "wear",
+            "sentence_id": 5,
+            "start": 95,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "avoid",
+            "sentence_id": 6,
+            "start": 9,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "gets",
+            "sentence_id": 6,
+            "start": 57,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "vaccinated",
+            "sentence_id": 6,
+            "start": 62,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "received",
+            "sentence_id": 7,
+            "start": 127,
+            "end": 135,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "vary",
+            "sentence_id": 8,
+            "start": 28,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "continue",
+            "sentence_id": 9,
+            "start": 35,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "find",
+            "sentence_id": 9,
+            "start": 47,
+            "end": 51,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "encourage",
+            "sentence_id": 9,
+            "start": 69,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "federal and local governments",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "vaccination",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "require",
+            "sentence_id": 9,
+            "start": 84,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "federal and local governments",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "vaccination",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 27,
+            "token": "introduced",
+            "sentence_id": 10,
+            "start": 16,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "france",
+                    "ideology": "N/A",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "vaccination",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "rush",
+            "sentence_id": 10,
+            "start": 91,
+            "end": 95,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "ensued",
+            "sentence_id": 10,
+            "start": 109,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "increase",
+            "sentence_id": 11,
+            "start": 24,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "seem",
+            "sentence_id": 11,
+            "start": 44,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "require",
+            "sentence_id": 11,
+            "start": 82,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "indoor mask mandates for all",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 33,
+            "token": "wear",
+            "sentence_id": 11,
+            "start": 120,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "adopted",
+            "sentence_id": 11,
+            "start": 157,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "several states",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "indoor mask mandates for all",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "help",
+            "sentence_id": 12,
+            "start": 15,
+            "end": 19,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "prevent",
+            "sentence_id": 12,
+            "start": 20,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "indoor mask mandates for all",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "spreading",
+            "sentence_id": 12,
+            "start": 48,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "offer",
+            "sentence_id": 12,
+            "start": 80,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "work",
+            "sentence_id": 13,
+            "start": 38,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "unlikely",
+            "sentence_id": 13,
+            "start": 80,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "follow",
+            "sentence_id": 13,
+            "start": 92,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "need",
+            "sentence_id": 13,
+            "start": 147,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "wear",
+            "sentence_id": 13,
+            "start": 155,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "understand",
+            "sentence_id": 15,
+            "start": 3,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "surveyed",
+            "sentence_id": 15,
+            "start": 79,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "reminded",
+            "sentence_id": 16,
+            "start": 3,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "used",
+            "sentence_id": 16,
+            "start": 45,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "limit",
+            "sentence_id": 16,
+            "start": 53,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "spread",
+            "sentence_id": 16,
+            "start": 63,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "asked",
+            "sentence_id": 16,
+            "start": 101,
+            "end": 106,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "wear",
+            "sentence_id": 16,
+            "start": 121,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "asked",
+            "sentence_id": 16,
+            "start": 189,
+            "end": 194,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "do",
+            "sentence_id": 16,
+            "start": 198,
+            "end": 200,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "asked",
+            "sentence_id": 17,
+            "start": 22,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "tell",
+            "sentence_id": 17,
+            "start": 43,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "received",
+            "sentence_id": 17,
+            "start": 73,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "able",
+            "sentence_id": 18,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "analyze",
+            "sentence_id": 18,
+            "start": 20,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "vaccinated",
+            "sentence_id": 18,
+            "start": 90,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "vaccinated",
+            "sentence_id": 20,
+            "start": 49,
+            "end": 59,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "say",
+            "sentence_id": 20,
+            "start": 80,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "wear",
+            "sentence_id": 20,
+            "start": 99,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "the unvaccinated",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "indoor mask mandates for all",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 63,
+            "token": "received",
+            "sentence_id": 20,
+            "start": 131,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "say",
+            "sentence_id": 21,
+            "start": 32,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "wear",
+            "sentence_id": 21,
+            "start": 51,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "the unvaccinated",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "increase in hospitalizations",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 66,
+            "token": "requests",
+            "sentence_id": 21,
+            "start": 130,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "do",
+            "sentence_id": 21,
+            "start": 151,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "asked",
+            "sentence_id": 22,
+            "start": 69,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "showed",
+            "sentence_id": 23,
+            "start": 21,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "unwilling",
+            "sentence_id": 23,
+            "start": 84,
+            "end": 93,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "wear",
+            "sentence_id": 23,
+            "start": 97,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "asked",
+            "sentence_id": 23,
+            "start": 113,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "enable",
+            "sentence_id": 24,
+            "start": 47,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "spread",
+            "sentence_id": 24,
+            "start": 58,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "15 % of all adults are both unvaccinated and unwilling to wear masks",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 75,
+            "token": "required",
+            "sentence_id": 26,
+            "start": 17,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "wear",
+            "sentence_id": 26,
+            "start": 29,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "worry",
+            "sentence_id": 26,
+            "start": 104,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "indoor mask mandates for all",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 78,
+            "token": "avoid",
+            "sentence_id": 26,
+            "start": 175,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "masking",
+            "sentence_id": 26,
+            "start": 181,
+            "end": 188,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "feel",
+            "sentence_id": 27,
+            "start": 7,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "shunning",
+            "sentence_id": 27,
+            "start": 36,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "cause",
+            "sentence_id": 27,
+            "start": 73,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "mask",
+            "sentence_id": 27,
+            "start": 97,
+            "end": 101,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 84,
+            "token": "required",
+            "sentence_id": 28,
+            "start": 40,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "wear",
+            "sentence_id": 28,
+            "start": 96,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "died",
+            "sentence_id": 29,
+            "start": 30,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 87,
+            "token": "prevent",
+            "sentence_id": 30,
+            "start": 3,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 88,
+            "token": "deaths",
+            "sentence_id": 30,
+            "start": 30,
+            "end": 36,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "need",
+            "sentence_id": 30,
+            "start": 64,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 90,
+            "token": "require",
+            "sentence_id": 30,
+            "start": 72,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "indoor mask mandates for all",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 91,
+            "token": "mask",
+            "sentence_id": 30,
+            "start": 92,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 92,
+            "token": "be",
+            "sentence_id": 25,
+            "start": 52,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "indoor mask mandates for all",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 93,
+            "token": "is",
+            "sentence_id": 28,
+            "start": 136,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "indoor mask mandates for all",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "indoor mask mandates for all",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                7,
+                10,
+                11,
+                13,
+                32,
+                34,
+                36,
+                62,
+                92,
+                77,
+                93,
+                90
+            ]
+        },
+        {
+            "text": "increase in hospitalizations",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                7,
+                65
+            ]
+        },
+        {
+            "text": "los angeles county",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                10
+            ]
+        },
+        {
+            "text": "state of hawaii",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "chicago",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                13
+            ]
+        },
+        {
+            "text": "new york city",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                13
+            ]
+        },
+        {
+            "text": "federal and local governments",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                25,
+                26
+            ]
+        },
+        {
+            "text": "vaccination",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                25,
+                26,
+                27
+            ]
+        },
+        {
+            "text": "france",
+            "ideology": "N/A",
+            "id": 8,
+            "events": [
+                27
+            ]
+        },
+        {
+            "text": "several states",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                34
+            ]
+        },
+        {
+            "text": "the unvaccinated",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                65,
+                62
+            ]
+        },
+        {
+            "text": "15 % of all adults are both unvaccinated and unwilling to wear masks",
+            "ideology": "Right",
+            "id": 11,
+            "events": [
+                74
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1855 @@
+{
+    "title": "Biden Under Pressure to Declare Climate Emergency as Agenda Nosedives",
+    "id": "STORY_135_DOCUMENT_0",
+    "old_id": "6864_1",
+    "split": "test",
+    "date": "2022-07-19",
+    "topic": "climate-change",
+    "source": "Vanity Fair",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Now that Joe Manchin has once again pulled the rug out from under him, essentially nixing the possibility of getting any climate legislation through for the near future, Joe Biden is under pressure to do whatever he can through executive action to combat climate change."
+        },
+        {
+            "id": 1,
+            "text": "Democrats have renewed calls on Biden to take \u201cforceful, firm, and wide-ranging\u201d action on the environment in recent days \u2014 and the president appears ready to to do just that, with White House officials telling reporters that he could declare a climate emergency as soon as this week."
+        },
+        {
+            "id": 2,
+            "text": "\u201cI think realistically there is a lot he can do and there is a lot he will do,\u201d senior White House economic adviser Jared Bernstein said at a press conference Monday."
+        },
+        {
+            "id": 3,
+            "text": "\u201cThe president will aggressively fight to attack climate change because he knows it\u2019s one of the reasons he\u2019s here."
+        },
+        {
+            "id": 4,
+            "text": "And it is absolutely core to transitioning from where we are to where we need to be.\u201d"
+        },
+        {
+            "id": 5,
+            "text": "The Washington Post reported Tuesday that Biden appears to be readying to act, with an emergency declaration that could come as soon as this week and several other executive actions to curb emissions also on the way."
+        },
+        {
+            "id": 6,
+            "text": "It\u2019s unclear what the full scope of the action would include, and a White House official told the Post that no final decisions had been made."
+        },
+        {
+            "id": 7,
+            "text": "But, the official said, the \u201cpresident made clear that if the Senate doesn\u2019t act to tackle the climate crisis and strengthen our domestic clean energy industry, he will.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "The news comes during a global flashpoint around climate change, including with deadly heat waves in the United States that have strained Texas' power grid and in Europe that sent temperatures in the United Kingdom to record highs of over 40 degrees Celsius Tuesday."
+        },
+        {
+            "id": 9,
+            "text": "Unprecedented wildfires have also spread across southern Europe, as well as the U.S. state of Alaska."
+        },
+        {
+            "id": 10,
+            "text": "Manchin, the conservative West Virginia Democrat who has thwarted several of the president\u2019s legislative priorities, abruptly told party leaders last week that he would not support any new climate spending for now, citing concerns about inflation."
+        },
+        {
+            "id": 11,
+            "text": "That stunning about-face, after months of negotiations, almost certainly doomed the potential for new environmental legislation this term, which could represent the last opportunity for the foreseeable future to do so, should the GOP take back Capitol in the midterms."
+        },
+        {
+            "id": 12,
+            "text": "It was a devastating blow to the fledgling effort to address the climate crisis, and came weeks after the right-wing Supreme Court hamstrung the Environmental Protection Agency\u2019s administrative authority to regulate emissions."
+        },
+        {
+            "id": 13,
+            "text": "If the United States, the world\u2019s second-largest emitter of greenhouse gasses, is to have a chance of holding to its climate goals, including the global effort to limit temperature rise to 1.5 celsius above pre-industrial levels, it\u2019s almost certainly up to Biden now."
+        },
+        {
+            "id": 14,
+            "text": "Some Democrats, including Senate Majority Leader Chuck Schumer, have been calling for him to declare a climate emergency since the beginning of his presidency, but he has appeared to hold out hope that lawmakers could work out a legislative compromise."
+        },
+        {
+            "id": 15,
+            "text": "Now, though, \u201che\u2019s been left no other choice,\u201d as Democratic Senator Sheldon Whitehouse wrote last week."
+        },
+        {
+            "id": 16,
+            "text": "\u201cThe executive path must proceed now with speed and vigor,\u201d Whitehouse said."
+        },
+        {
+            "id": 17,
+            "text": "An emergency declaration would unlock broader executive powers to address the issue, including the authority to use congressional funds to curb emissions and support renewable energy."
+        },
+        {
+            "id": 18,
+            "text": "There are also risks, political and legal, depending on how far the administration goes:"
+        },
+        {
+            "id": 19,
+            "text": "As the Post points out, more aggressive action could cut against Biden\u2019s efforts to bring down gas prices ahead of the November midterms, and could invite legal challenges that could further undercut future climate policy."
+        },
+        {
+            "id": 20,
+            "text": "The latter has led to concern among some Democrats, who are trying to keep the door open to legislation."
+        },
+        {
+            "id": 21,
+            "text": "\u201cWhile I strongly support additional executive action by President Biden, we know a flood of Republican lawsuits will follow,\u201d Senator Ron Wyden told the Post."
+        },
+        {
+            "id": 22,
+            "text": "\u201cLegislation continues to be the best option here."
+        },
+        {
+            "id": 23,
+            "text": "The climate crisis is the issue of our time and we should keep our options open.\u201d"
+        },
+        {
+            "id": 24,
+            "text": "The fear of lawsuits is well-founded, especially given the high court\u2019s demonstrated hostility to the administrative state."
+        },
+        {
+            "id": 25,
+            "text": "But the costs of inaction or half-measures is already becoming frighteningly apparent."
+        },
+        {
+            "id": 26,
+            "text": "\u201cDuring his campaign, [Biden] promised bold climate action,\u201d Democratic Senator Jeff Merkeley wrote Monday."
+        },
+        {
+            "id": 27,
+            "text": "\u201cNow\u2019s the time to make good on that promise.\u201d"
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "pulled",
+            "sentence_id": 0,
+            "start": 36,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "nixing",
+            "sentence_id": 0,
+            "start": 83,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "getting",
+            "sentence_id": 0,
+            "start": 109,
+            "end": 116,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "under",
+            "sentence_id": 0,
+            "start": 183,
+            "end": 188,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "do",
+            "sentence_id": 0,
+            "start": 201,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "combat",
+            "sentence_id": 0,
+            "start": 248,
+            "end": 254,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "climate change",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "renewed",
+            "sentence_id": 1,
+            "start": 15,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "calls",
+            "sentence_id": 1,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "action on the environment",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "take",
+            "sentence_id": 1,
+            "start": 41,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "action",
+            "sentence_id": 1,
+            "start": 81,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "appears",
+            "sentence_id": 1,
+            "start": 142,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "ready",
+            "sentence_id": 1,
+            "start": 150,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "do",
+            "sentence_id": 1,
+            "start": 162,
+            "end": 164,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "action on the environment",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "telling",
+            "sentence_id": 1,
+            "start": 203,
+            "end": 210,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "declare",
+            "sentence_id": 1,
+            "start": 235,
+            "end": 242,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "climate emergency",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "think",
+            "sentence_id": 2,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "do",
+            "sentence_id": 2,
+            "start": 45,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "do",
+            "sentence_id": 2,
+            "start": 75,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 132,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "White House economic adviser Jared Bernstein",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "conference",
+            "sentence_id": 2,
+            "start": 148,
+            "end": 158,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "fight",
+            "sentence_id": 3,
+            "start": 33,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "attack",
+            "sentence_id": 3,
+            "start": 42,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "climate change",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "knows",
+            "sentence_id": 3,
+            "start": 75,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "transitioning",
+            "sentence_id": 4,
+            "start": 29,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "need",
+            "sentence_id": 4,
+            "start": 73,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "reported",
+            "sentence_id": 5,
+            "start": 20,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "appears",
+            "sentence_id": 5,
+            "start": 48,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "readying",
+            "sentence_id": 5,
+            "start": 62,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "act",
+            "sentence_id": 5,
+            "start": 74,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "declaration",
+            "sentence_id": 5,
+            "start": 97,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "climate emergency",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 30,
+            "token": "come",
+            "sentence_id": 5,
+            "start": 120,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "actions",
+            "sentence_id": 5,
+            "start": 174,
+            "end": 181,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "curb",
+            "sentence_id": 5,
+            "start": 185,
+            "end": 189,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "emissions",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "action",
+            "sentence_id": 6,
+            "start": 40,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "include",
+            "sentence_id": 6,
+            "start": 53,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "told",
+            "sentence_id": 6,
+            "start": 89,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "decisions",
+            "sentence_id": 6,
+            "start": 117,
+            "end": 126,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "made",
+            "sentence_id": 6,
+            "start": 136,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 18,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "made",
+            "sentence_id": 7,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "act",
+            "sentence_id": 7,
+            "start": 77,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "tackle",
+            "sentence_id": 7,
+            "start": 84,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "climate change",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "strengthen",
+            "sentence_id": 7,
+            "start": 114,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "domestic clean energy industry",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 43,
+            "token": "comes",
+            "sentence_id": 8,
+            "start": 9,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "flashpoint",
+            "sentence_id": 8,
+            "start": 31,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "waves",
+            "sentence_id": 8,
+            "start": 92,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "strained",
+            "sentence_id": 8,
+            "start": 129,
+            "end": 137,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "sent",
+            "sentence_id": 8,
+            "start": 175,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "spread",
+            "sentence_id": 9,
+            "start": 34,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "thwarted",
+            "sentence_id": 10,
+            "start": 57,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Joe Manchin",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 50,
+            "token": "told",
+            "sentence_id": 10,
+            "start": 126,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "support",
+            "sentence_id": 10,
+            "start": 173,
+            "end": 180,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "citing",
+            "sentence_id": 10,
+            "start": 215,
+            "end": 221,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "about",
+            "sentence_id": 11,
+            "start": 14,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "negotiations",
+            "sentence_id": 11,
+            "start": 42,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "doomed",
+            "sentence_id": 11,
+            "start": 73,
+            "end": 79,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Joe Manchin",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "environmental legislation",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 56,
+            "token": "represent",
+            "sentence_id": 11,
+            "start": 151,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "do",
+            "sentence_id": 11,
+            "start": 212,
+            "end": 214,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "take",
+            "sentence_id": 11,
+            "start": 234,
+            "end": 238,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "blow",
+            "sentence_id": 12,
+            "start": 21,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Joe Manchin",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "environmental legislation",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 60,
+            "token": "effort",
+            "sentence_id": 12,
+            "start": 43,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "address",
+            "sentence_id": 12,
+            "start": 53,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "came",
+            "sentence_id": 12,
+            "start": 85,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "hamstrung",
+            "sentence_id": 12,
+            "start": 131,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "right-wing Supreme Court",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "Environmental Protection Agency",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 64,
+            "token": "regulate",
+            "sentence_id": 12,
+            "start": 207,
+            "end": 215,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "holding",
+            "sentence_id": 13,
+            "start": 102,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "climate goals",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 66,
+            "token": "effort",
+            "sentence_id": 13,
+            "start": 153,
+            "end": 159,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "limit",
+            "sentence_id": 13,
+            "start": 163,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 13,
+                    "text": "temperature rise",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 68,
+            "token": "rise",
+            "sentence_id": 13,
+            "start": 181,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "calling",
+            "sentence_id": 14,
+            "start": 74,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "climate emergency",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 70,
+            "token": "declare",
+            "sentence_id": 14,
+            "start": 93,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "appeared",
+            "sentence_id": 14,
+            "start": 171,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "hold",
+            "sentence_id": 14,
+            "start": 183,
+            "end": 187,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "work",
+            "sentence_id": 14,
+            "start": 218,
+            "end": 222,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "compromise",
+            "sentence_id": 14,
+            "start": 241,
+            "end": 251,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "left",
+            "sentence_id": 15,
+            "start": 24,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 76,
+            "token": "wrote",
+            "sentence_id": 15,
+            "start": 88,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 77,
+            "token": "proceed",
+            "sentence_id": 16,
+            "start": 25,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 78,
+            "token": "said",
+            "sentence_id": 16,
+            "start": 71,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "declaration",
+            "sentence_id": 17,
+            "start": 13,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "unlock",
+            "sentence_id": 17,
+            "start": 31,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "address",
+            "sentence_id": 17,
+            "start": 66,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "use",
+            "sentence_id": 17,
+            "start": 112,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "curb",
+            "sentence_id": 17,
+            "start": 139,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 84,
+            "token": "support",
+            "sentence_id": 17,
+            "start": 158,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "goes",
+            "sentence_id": 18,
+            "start": 83,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "points",
+            "sentence_id": 19,
+            "start": 12,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 87,
+            "token": "action",
+            "sentence_id": 19,
+            "start": 40,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 88,
+            "token": "cut",
+            "sentence_id": 19,
+            "start": 53,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "efforts",
+            "sentence_id": 19,
+            "start": 73,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 90,
+            "token": "bring",
+            "sentence_id": 19,
+            "start": 84,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 14,
+                    "text": "gas prices",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 91,
+            "token": "invite",
+            "sentence_id": 19,
+            "start": 148,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 92,
+            "token": "challenges",
+            "sentence_id": 19,
+            "start": 161,
+            "end": 171,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 93,
+            "token": "undercut",
+            "sentence_id": 19,
+            "start": 191,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 94,
+            "token": "led",
+            "sentence_id": 20,
+            "start": 15,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 95,
+            "token": "trying",
+            "sentence_id": 20,
+            "start": 60,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 96,
+            "token": "keep",
+            "sentence_id": 20,
+            "start": 70,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "environmental legislation",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 97,
+            "token": "support",
+            "sentence_id": 21,
+            "start": 18,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "Senator Ron Wyden",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 98,
+            "token": "action",
+            "sentence_id": 21,
+            "start": 47,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 99,
+            "token": "know",
+            "sentence_id": 21,
+            "start": 77,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 100,
+            "token": "follow",
+            "sentence_id": 21,
+            "start": 118,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 16,
+                    "text": "Republican lawsuits",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 101,
+            "token": "told",
+            "sentence_id": 21,
+            "start": 145,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 102,
+            "token": "continues",
+            "sentence_id": 22,
+            "start": 13,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 103,
+            "token": "keep",
+            "sentence_id": 23,
+            "start": 58,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 104,
+            "token": "becoming",
+            "sentence_id": 25,
+            "start": 54,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 105,
+            "token": "campaign",
+            "sentence_id": 26,
+            "start": 12,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 106,
+            "token": "promised",
+            "sentence_id": 26,
+            "start": 30,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Joe Biden",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "action on the environment",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 107,
+            "token": "action",
+            "sentence_id": 26,
+            "start": 52,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 108,
+            "token": "wrote",
+            "sentence_id": 26,
+            "start": 94,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 109,
+            "token": "make",
+            "sentence_id": 27,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Joe Biden",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                5,
+                14,
+                12,
+                18,
+                21,
+                32,
+                29,
+                41,
+                42,
+                49,
+                65,
+                67,
+                90,
+                97,
+                100,
+                106
+            ]
+        },
+        {
+            "text": "climate change",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                5,
+                21,
+                41
+            ]
+        },
+        {
+            "text": "climate emergency",
+            "ideology": "Neutral",
+            "id": 2,
+            "events": [
+                14,
+                29,
+                69
+            ]
+        },
+        {
+            "text": "action on the environment",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                12,
+                7,
+                106
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                7,
+                69,
+                96
+            ]
+        },
+        {
+            "text": "White House economic adviser Jared Bernstein",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                18
+            ]
+        },
+        {
+            "text": "emissions",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                32
+            ]
+        },
+        {
+            "text": "domestic clean energy industry",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                42
+            ]
+        },
+        {
+            "text": "Joe Manchin",
+            "ideology": "Neutral",
+            "id": 8,
+            "events": [
+                49,
+                55,
+                59
+            ]
+        },
+        {
+            "text": "environmental legislation",
+            "ideology": "Left",
+            "id": 9,
+            "events": [
+                55,
+                59,
+                96
+            ]
+        },
+        {
+            "text": "right-wing Supreme Court",
+            "ideology": "Right",
+            "id": 10,
+            "events": [
+                63
+            ]
+        },
+        {
+            "text": "Environmental Protection Agency",
+            "ideology": "Neutral",
+            "id": 11,
+            "events": [
+                63
+            ]
+        },
+        {
+            "text": "climate goals",
+            "ideology": "Neutral",
+            "id": 12,
+            "events": [
+                65
+            ]
+        },
+        {
+            "text": "temperature rise",
+            "ideology": "Neutral",
+            "id": 13,
+            "events": [
+                67
+            ]
+        },
+        {
+            "text": "gas prices",
+            "ideology": "Neutral",
+            "id": 14,
+            "events": [
+                90
+            ]
+        },
+        {
+            "text": "Senator Ron Wyden",
+            "ideology": "Left",
+            "id": 15,
+            "events": [
+                97
+            ]
+        },
+        {
+            "text": "Republican lawsuits",
+            "ideology": "Right",
+            "id": 16,
+            "events": [
+                100
+            ]
+        }
+    ]
+}

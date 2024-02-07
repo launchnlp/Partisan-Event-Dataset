@@ -1,0 +1,752 @@
+{
+    "title": "Arizona Latinos Prefer Barack Obama, Richard Carmona ",
+    "id": "STORY_34_DOCUMENT_1",
+    "old_id": "TRIPLET_222_DOCUMENT_2",
+    "split": "train",
+    "date": "2012-10-11",
+    "topic": "elections",
+    "source": "HuffPost",
+    "media_ideology": "Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Mitt Romney has a problem with Latino voters nationwide , but things look particularly bleak for him in Arizona ."
+        },
+        {
+            "id": 1,
+            "text": "A poll posted Wednesday by Latino Decisions found 80 percent of Latino voters in Arizona prefer President Barack Obama to Romney -- eight points higher than the percentage of Latinos nationwide who support the president in other surveys from the firm ."
+        },
+        {
+            "id": 2,
+            "text": "There 's bad news in the poll for down - ticket GOP candidates as well ."
+        },
+        {
+            "id": 3,
+            "text": "Three - quarters of Latino voters said they prefer Democratic candidate Richard Carmona to Rep. Jeff Flake ( R - Ariz . ) in the senatorial race ."
+        },
+        {
+            "id": 4,
+            "text": "And 67 percent of those polled said they will vote Democrat in congressional races ."
+        },
+        {
+            "id": 5,
+            "text": "Latinos make up 30 percent of the population in Arizona , which is typically a red state ."
+        },
+        {
+            "id": 6,
+            "text": "The state 's recent history of harsh immigration legislation may be a partial culprit for the Latino community 's Democratic preference in the polls ."
+        },
+        {
+            "id": 7,
+            "text": "Nearly 70 percent of Latinos voters said immigration was either the top issue or among the most important to them ."
+        },
+        {
+            "id": 8,
+            "text": "Large majorities said Romney and Flake 's statements on immigration -- both oppose comprehensive immigration reform -- make them less enthusiastic about the Republican Party ."
+        },
+        {
+            "id": 9,
+            "text": "There is significant support for Obama 's immigration platform , particularly a recently implemented policy to stop deporting some undocumented young people ."
+        },
+        {
+            "id": 10,
+            "text": "More than half of the Latino voters polled said they knew an undocumented immigrant between the ages of 5 and 31 ."
+        },
+        {
+            "id": 11,
+            "text": "Romney said last week he would honor deferred action given by the president , but end the policy -- which would leave a majority of those who have applied out in the cold ."
+        },
+        {
+            "id": 12,
+            "text": "A separate tracking poll of Colorado Latino voters out Wednesday from Latino Decisions also found Obama leading Romney by big margins ."
+        },
+        {
+            "id": 13,
+            "text": "The same proportion as in Arizona -- 55 percent -- said they knew an undocumented immigrant between the ages of 5 and 31 , and a majority supported the president 's policy ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "has",
+            "sentence_id": 0,
+            "start": 12,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "look",
+            "sentence_id": 0,
+            "start": 69,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Mitt Romney",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "posted",
+            "sentence_id": 1,
+            "start": 7,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "found",
+            "sentence_id": 1,
+            "start": 44,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "prefer",
+            "sentence_id": 1,
+            "start": 89,
+            "end": 95,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Latino voters in Arizona",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "0",
+                    "text": "Mitt Romney",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 5,
+            "token": "support",
+            "sentence_id": 1,
+            "start": 198,
+            "end": 205,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 34,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "prefer",
+            "sentence_id": 3,
+            "start": 44,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Latino voters",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "Richard Carmona",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Jeff Flake",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 8,
+            "token": "race",
+            "sentence_id": 3,
+            "start": 140,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "said",
+            "sentence_id": 4,
+            "start": 31,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "vote",
+            "sentence_id": 4,
+            "start": 46,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "3",
+                    "text": "Latino voters",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Democrat",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 11,
+            "token": "make",
+            "sentence_id": 5,
+            "start": 8,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Arizona",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 8,
+                    "text": "Republican Party",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 12,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 36,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "3",
+                    "text": "Latino voters",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "immigration",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 17,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "statements",
+            "sentence_id": 8,
+            "start": 42,
+            "end": 52,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "oppose",
+            "sentence_id": 8,
+            "start": 76,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "Mitt Romney",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "5",
+                    "text": "Jeff Flake",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 10,
+                    "text": "immigration reform",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 16,
+            "token": "make",
+            "sentence_id": 8,
+            "start": 119,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "3",
+                    "text": "Latino voters",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "8",
+                    "text": "Republican Party",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "implemented",
+            "sentence_id": 9,
+            "start": 89,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "stop",
+            "sentence_id": 9,
+            "start": 111,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "Obama 's immigration platform",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "undocumented young people",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 19,
+            "token": "deporting",
+            "sentence_id": 9,
+            "start": 116,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "said",
+            "sentence_id": 10,
+            "start": 43,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "knew",
+            "sentence_id": 10,
+            "start": 53,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "3",
+                    "text": "Latino voters",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "12",
+                    "text": "undocumented young people",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "said",
+            "sentence_id": 11,
+            "start": 7,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "honor",
+            "sentence_id": 11,
+            "start": 31,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "given",
+            "sentence_id": 11,
+            "start": 53,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "end",
+            "sentence_id": 11,
+            "start": 82,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "leave",
+            "sentence_id": 11,
+            "start": 112,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "applied",
+            "sentence_id": 11,
+            "start": 147,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "found",
+            "sentence_id": 12,
+            "start": 92,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "leading",
+            "sentence_id": 12,
+            "start": 104,
+            "end": 111,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "2",
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "0",
+                    "text": "Mitt Romney",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 30,
+            "token": "said",
+            "sentence_id": 13,
+            "start": 51,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "knew",
+            "sentence_id": 13,
+            "start": 61,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "supported",
+            "sentence_id": 13,
+            "start": 138,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "3",
+                    "text": "Latino voters",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": "11",
+                    "text": "Obama 's immigration platform",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Mitt Romney",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                1
+            ]
+        },
+        {
+            "text": "Latino voters in Arizona",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "Barack Obama",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "Latino voters",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                7
+            ]
+        },
+        {
+            "text": "Richard Carmona",
+            "ideology": "Left",
+            "id": 4,
+            "events": [
+                7
+            ]
+        },
+        {
+            "text": "Jeff Flake",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                7
+            ]
+        },
+        {
+            "text": "Democrat",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                10
+            ]
+        },
+        {
+            "text": "Arizona",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "Republican Party",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                11
+            ]
+        },
+        {
+            "text": "immigration",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                12
+            ]
+        },
+        {
+            "text": "immigration reform",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                15
+            ]
+        },
+        {
+            "text": "Obama 's immigration platform",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                18
+            ]
+        },
+        {
+            "text": "undocumented young people",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                18
+            ]
+        }
+    ]
+}

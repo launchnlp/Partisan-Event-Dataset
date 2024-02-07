@@ -1,0 +1,755 @@
+{
+    "title": "Biden student loan forgiveness will cost $400 billion over 10 years, CBO estimates",
+    "id": "STORY_140_DOCUMENT_0",
+    "old_id": "7137_2",
+    "split": "test",
+    "date": "2022-09-26",
+    "topic": "federal-budget",
+    "source": "Washington Examiner",
+    "media_ideology": "",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "The Biden administration's plan to forgive a significant portion of federal student loans will cost roughly $400 billion, according to new estimates from the Congressional Budget Office."
+        },
+        {
+            "id": 1,
+            "text": "In a letter to Sen. Richard Burr (R-NC) and Rep. Virginia Foxx (R-NC), the senior Republicans on the Senate and House education committees, Phillip Swagel, the director of the CBO, estimated that the student loan plan announced by the Biden administration last month will cost about $400 billion but that the estimate was \"highly uncertain.\""
+        },
+        {
+            "id": 2,
+            "text": "'STUDENT LOAN SOCIALISM': BIDEN'S DEBT FORGIVENESS PANNED AS UNFAIR HANDOUT TO THE ELITE"
+        },
+        {
+            "id": 3,
+            "text": "The CBO also estimated that the administration's decision to extend the pause on loan repayment through the end of the year will cost the government $20 billion."
+        },
+        {
+            "id": 4,
+            "text": "Last month, the Biden administration announced it was forgiving $20,000 in student loans for every borrower with an annual income below $125,000 who had received a Pell Grant in their financial aid package."
+        },
+        {
+            "id": 5,
+            "text": "All other borrowers in the income bracket are eligible for $10,000 in loan forgiveness."
+        },
+        {
+            "id": 6,
+            "text": "In its analysis, the CBO did not account for the administration's changes to the income-driven repayment program, which lower borrowers' monthly payment requirements based on their income."
+        },
+        {
+            "id": 7,
+            "text": "\"The most uncertain components are the projections of how much borrowers would repay if the executive action canceling debt had not been undertaken and how much they will repay under that executive action,\" Swagel wrote in the letter."
+        },
+        {
+            "id": 8,
+            "text": "For its estimate, the CBO approximated that 95% of student loan borrowers were eligible for some forgiveness, and 65% were eligible for the full $20,000 cancellation."
+        },
+        {
+            "id": 9,
+            "text": "Of those eligible, the CBO estimated that 90% would apply for loan forgiveness, and 45% of borrowers would have their entire outstanding balance eliminated."
+        },
+        {
+            "id": 10,
+            "text": "In a statement following the release of the CBO's estimate, Foxx blasted the Biden administration, saying the White House had \"lost all sense of fiscal responsibility\" and the estimate was \"just the tip of the iceberg\" because it did not incorporate \"this administration\u2019s other efforts to transfer wealth from college graduates to hardworking taxpayers who never set foot on a college campus.\""
+        },
+        {
+            "id": 11,
+            "text": "CLICK HERE TO READ MORE FROM THE WASHINGTON EXAMINER"
+        },
+        {
+            "id": 12,
+            "text": "\"Rather than working with Congress to bring down college costs, President Biden has opted to bury the American people under our unsustainable debt,\" Foxx said."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "plan",
+            "sentence_id": 0,
+            "start": 27,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "forgive",
+            "sentence_id": 0,
+            "start": 35,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "cost",
+            "sentence_id": 0,
+            "start": 95,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "according",
+            "sentence_id": 0,
+            "start": 122,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "estimated",
+            "sentence_id": 1,
+            "start": 181,
+            "end": 190,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "announced",
+            "sentence_id": 1,
+            "start": 218,
+            "end": 227,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "cost",
+            "sentence_id": 1,
+            "start": 272,
+            "end": 276,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "PANNED",
+            "sentence_id": 2,
+            "start": 51,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "BIDEN'S DEBT FORGIVENESS",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 8,
+            "token": "estimated",
+            "sentence_id": 3,
+            "start": 13,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "decision",
+            "sentence_id": 3,
+            "start": 49,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "extend",
+            "sentence_id": 3,
+            "start": 61,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "pause",
+            "sentence_id": 3,
+            "start": 72,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "cost",
+            "sentence_id": 3,
+            "start": 129,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "BIDEN'S DEBT FORGIVENESS",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 13,
+            "token": "announced",
+            "sentence_id": 4,
+            "start": 37,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "forgiving",
+            "sentence_id": 4,
+            "start": 54,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "received",
+            "sentence_id": 4,
+            "start": 153,
+            "end": 161,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "eligible",
+            "sentence_id": 5,
+            "start": 46,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "account",
+            "sentence_id": 6,
+            "start": 33,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Congressional Budget Office",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "income-driven repayment program",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 18,
+            "token": "changes",
+            "sentence_id": 6,
+            "start": 66,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "lower",
+            "sentence_id": 6,
+            "start": 120,
+            "end": 125,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "repay",
+            "sentence_id": 7,
+            "start": 79,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "action",
+            "sentence_id": 7,
+            "start": 102,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 22,
+            "token": "canceling",
+            "sentence_id": 7,
+            "start": 109,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "undertaken",
+            "sentence_id": 7,
+            "start": 137,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "repay",
+            "sentence_id": 7,
+            "start": 171,
+            "end": 176,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "wrote",
+            "sentence_id": 7,
+            "start": 214,
+            "end": 219,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "approximated",
+            "sentence_id": 8,
+            "start": 26,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "eligible",
+            "sentence_id": 8,
+            "start": 79,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "eligible",
+            "sentence_id": 8,
+            "start": 123,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "estimated",
+            "sentence_id": 9,
+            "start": 27,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "apply",
+            "sentence_id": 9,
+            "start": 52,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "eliminated",
+            "sentence_id": 9,
+            "start": 145,
+            "end": 155,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "statement",
+            "sentence_id": 10,
+            "start": 5,
+            "end": 14,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "release",
+            "sentence_id": 10,
+            "start": 29,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "blasted",
+            "sentence_id": 10,
+            "start": 65,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "saying",
+            "sentence_id": 10,
+            "start": 99,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "lost",
+            "sentence_id": 10,
+            "start": 127,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "fiscal responsibility",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "incorporate",
+            "sentence_id": 10,
+            "start": 238,
+            "end": 249,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "BIDEN'S DEBT FORGIVENESS",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 38,
+            "token": "efforts",
+            "sentence_id": 10,
+            "start": 279,
+            "end": 286,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "transfer",
+            "sentence_id": 10,
+            "start": 290,
+            "end": 298,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "BIDEN'S DEBT FORGIVENESS",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "set",
+            "sentence_id": 10,
+            "start": 364,
+            "end": 367,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "READ",
+            "sentence_id": 11,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "working",
+            "sentence_id": 12,
+            "start": 13,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "bring",
+            "sentence_id": 12,
+            "start": 38,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "opted",
+            "sentence_id": 12,
+            "start": 84,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "bury",
+            "sentence_id": 12,
+            "start": 93,
+            "end": 97,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Biden administration",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Americans",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 46,
+            "token": "said",
+            "sentence_id": 12,
+            "start": 154,
+            "end": 158,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "BIDEN'S DEBT FORGIVENESS",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                7,
+                37,
+                39,
+                12
+            ]
+        },
+        {
+            "text": "Americans",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                7,
+                37,
+                39,
+                45,
+                12
+            ]
+        },
+        {
+            "text": "Biden administration",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                36,
+                45
+            ]
+        },
+        {
+            "text": "fiscal responsibility",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                36
+            ]
+        },
+        {
+            "text": "Congressional Budget Office",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                17
+            ]
+        },
+        {
+            "text": "income-driven repayment program",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                17
+            ]
+        }
+    ]
+}

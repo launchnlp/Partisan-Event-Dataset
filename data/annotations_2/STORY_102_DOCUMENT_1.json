@@ -1,0 +1,1273 @@
+{
+    "title": "Mr. President, Do You Favor Third-Trimester Abortions?",
+    "id": "STORY_102_DOCUMENT_1",
+    "old_id": "abortion_8_1",
+    "split": "dev",
+    "date": "2022-05-04",
+    "topic": "abortion",
+    "source": "Andrew C. McCarthy",
+    "media_ideology": "Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "",
+    "news": [
+        {
+            "id": 0,
+            "text": "Mr. President , Do You Favor Third - Trimester Abortions ?"
+        },
+        {
+            "id": 1,
+            "text": "Predictably , President Biden has had nothing meaningful to say about the outrageous , criminal leak of a draft Supreme Court opinion , but he has been quick to demagogue the justices in the putative Court majority for overturning Roe and Casey , as well as Republicans and abortion opponents ."
+        },
+        {
+            "id": 2,
+            "text": "What \u2019s at stake , the president says , is \u201c about a lot more than abortion , \u201d and he warned that \u201c this MAGA crowd is really the most extreme political organization in recent American history . \u201d"
+        },
+        {
+            "id": 3,
+            "text": "Putting aside that widespread , vibrant opposition to the taking of unborn life long predates the political emergence of Donald Trump and his \u201c make America great again \u201d movement ( on that score , see Xan \u2019s excellent analysis of \u201c What Americans Really Think about Abortion \u201d ) , the actual extremists when it comes to abortion are Democrats , very much including Joe Biden \u2014 ostensibly , a practicing Catholic \u2014 and one who once supported a constitutional amendment to empower states to overturn Roe ."
+        },
+        {
+            "id": 4,
+            "text": "The Clintons , when they led the Democratic Party , used to say that abortion should be \u201c safe , legal , and rare . \u201d"
+        },
+        {
+            "id": 5,
+            "text": "As is generally the case with the Clintons , they did n\u2019t actually believe what they were saying ."
+        },
+        {
+            "id": 6,
+            "text": "They took pains to avoid describing any kind of abortion they would outlaw for the sake of rarity ."
+        },
+        {
+            "id": 7,
+            "text": "But they felt like they had to say \u201c safe , legal , and rare \u201d because even most pro-abortion people in America and the West do not believe abortion should be available on demand , at any time , for any reason ."
+        },
+        {
+            "id": 8,
+            "text": "That is why Democrats continue to play word games and struggle with their abortion rhetoric ."
+        },
+        {
+            "id": 9,
+            "text": "They are extremists who perceive the need to camouflage their radicalism ."
+        },
+        {
+            "id": 10,
+            "text": "They are good at this ."
+        },
+        {
+            "id": 11,
+            "text": "Politically , the hardest cases for the pro-life side involve pregnancies that result from rape and incest ."
+        },
+        {
+            "id": 12,
+            "text": "Although rape and incest cases account for a microscopic percentage of total abortions in the United States , they dominate the Democrats \u2019 description of the pro-life position , and the media pepper pro-life candidates and elected officials with tough , specific questions about such cases ."
+        },
+        {
+            "id": 13,
+            "text": "By contrast , Democrats spout nonsense about \u201c safe , legal , and rare , \u201d figuring no one will challenge them on what exactly that means ."
+        },
+        {
+            "id": 14,
+            "text": "The result is that the pro-life position , though it is closer to the mainstream position , is portrayed as wild - eyed radicalism , while the pro-abortion position \u2014 even down to the euphemistic description of it as \u201c pro-choice \u201d \u2014 is cast as the very essence of reasonableness and consensus ."
+        },
+        {
+            "id": 15,
+            "text": "This should not be allowed to continue ."
+        },
+        {
+            "id": 16,
+            "text": "Every day , Biden and his flacks should be asked specific questions that will make them squirm and illustrate their abortion extremism because they cannot deliver a straightforward \u201c no \u201d answer ."
+        },
+        {
+            "id": 17,
+            "text": "\u201c Mr. President , do you favor the availability of third - trimester abortions ? \u201d \u201c Ms. Psaki , does the president favor the availability of abortion , at any point in pregnancy , when neither the life nor health of the mother is endangered ? \u201d"
+        },
+        {
+            "id": 18,
+            "text": "\u201c Can the White House describe a stage of pregnancy after which abortion should not be legally available ? \u201d"
+        },
+        {
+            "id": 19,
+            "text": "\u201c Can the White House describe any limitation on the permissible reasons for seeking an abortion that the president would support ? \u201d"
+        },
+        {
+            "id": 20,
+            "text": "Biden cannot allow himself to state support for any of the very popular restrictions that , though not banning abortion outright , limit its availability ."
+        },
+        {
+            "id": 21,
+            "text": "He cannot allow himself to suggest that the American people can be trusted to enact abortion laws for themselves through their elected representatives \u2014 precisely because he knows that Americans in most states would not vote for the abortion - on - demand regimes favored by progressive Democrats ."
+        },
+        {
+            "id": 22,
+            "text": "It is past time to make that clear by asking Biden and his aides the questions they can\u2019t answer and bristle at being asked \u2014 which , unlike abortion , actually is a rare occurrence ."
+        },
+        {
+            "id": 23,
+            "text": "That would demonstrate who the real extremists are ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "Favor",
+            "sentence_id": 0,
+            "start": 23,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "say",
+            "sentence_id": 1,
+            "start": 60,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "president biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 2,
+            "token": "leak",
+            "sentence_id": 1,
+            "start": 96,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "quick",
+            "sentence_id": 1,
+            "start": 152,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "demagogue",
+            "sentence_id": 1,
+            "start": 161,
+            "end": 170,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "the justices",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 5,
+            "token": "overturning",
+            "sentence_id": 1,
+            "start": 219,
+            "end": 230,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "roe and casey",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 6,
+            "token": "says",
+            "sentence_id": 2,
+            "start": 33,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "warned",
+            "sentence_id": 2,
+            "start": 87,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "maga crowd",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 8,
+            "token": "taking",
+            "sentence_id": 3,
+            "start": 58,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "predates",
+            "sentence_id": 3,
+            "start": 85,
+            "end": 93,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "emergence",
+            "sentence_id": 3,
+            "start": 108,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "Think",
+            "sentence_id": 3,
+            "start": 255,
+            "end": 260,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "supported",
+            "sentence_id": 3,
+            "start": 432,
+            "end": 441,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "president biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 4,
+                    "text": "constitutional amendment",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 13,
+            "token": "empower",
+            "sentence_id": 3,
+            "start": 472,
+            "end": 479,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "overturn",
+            "sentence_id": 3,
+            "start": 490,
+            "end": 498,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "led",
+            "sentence_id": 4,
+            "start": 25,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "used",
+            "sentence_id": 4,
+            "start": 52,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "say",
+            "sentence_id": 4,
+            "start": 60,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "clintons",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 18,
+            "token": "believe",
+            "sentence_id": 5,
+            "start": 67,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "clintons",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 19,
+            "token": "saying",
+            "sentence_id": 5,
+            "start": 90,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "took",
+            "sentence_id": 6,
+            "start": 5,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "clintons",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "avoid",
+            "sentence_id": 6,
+            "start": 19,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "clintons",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 22,
+            "token": "describing",
+            "sentence_id": 6,
+            "start": 25,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "outlaw",
+            "sentence_id": 6,
+            "start": 68,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "felt",
+            "sentence_id": 7,
+            "start": 9,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "clintons",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 25,
+            "token": "say",
+            "sentence_id": 7,
+            "start": 31,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "believe",
+            "sentence_id": 7,
+            "start": 132,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "available",
+            "sentence_id": 7,
+            "start": 159,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "continue",
+            "sentence_id": 8,
+            "start": 22,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 29,
+            "token": "play",
+            "sentence_id": 8,
+            "start": 34,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "struggle",
+            "sentence_id": 8,
+            "start": 54,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "perceive",
+            "sentence_id": 9,
+            "start": 24,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 32,
+            "token": "camouflage",
+            "sentence_id": 9,
+            "start": 45,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "result",
+            "sentence_id": 11,
+            "start": 79,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "account",
+            "sentence_id": 12,
+            "start": 31,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "rape and incest cases",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 35,
+            "token": "dominate",
+            "sentence_id": 12,
+            "start": 115,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "rape and incest cases",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 7,
+                    "text": "democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 36,
+            "token": "pepper",
+            "sentence_id": 12,
+            "start": 193,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "spout",
+            "sentence_id": 13,
+            "start": 24,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 38,
+            "token": "challenge",
+            "sentence_id": 13,
+            "start": 96,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "democrats",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 39,
+            "token": "portrayed",
+            "sentence_id": 14,
+            "start": 95,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "cast",
+            "sentence_id": 14,
+            "start": 237,
+            "end": 241,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "allowed",
+            "sentence_id": 15,
+            "start": 19,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "continue",
+            "sentence_id": 15,
+            "start": 30,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "asked",
+            "sentence_id": 16,
+            "start": 43,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "president biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 44,
+            "token": "squirm",
+            "sentence_id": 16,
+            "start": 88,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "illustrate",
+            "sentence_id": 16,
+            "start": 99,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "deliver",
+            "sentence_id": 16,
+            "start": 155,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "favor",
+            "sentence_id": 17,
+            "start": 25,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "availability",
+            "sentence_id": 17,
+            "start": 35,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "favor",
+            "sentence_id": 17,
+            "start": 116,
+            "end": 121,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "availability",
+            "sentence_id": 17,
+            "start": 126,
+            "end": 138,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "endangered",
+            "sentence_id": 17,
+            "start": 231,
+            "end": 241,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "describe",
+            "sentence_id": 18,
+            "start": 22,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "available",
+            "sentence_id": 18,
+            "start": 95,
+            "end": 104,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "describe",
+            "sentence_id": 19,
+            "start": 22,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "seeking",
+            "sentence_id": 19,
+            "start": 77,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "support",
+            "sentence_id": 19,
+            "start": 122,
+            "end": 129,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "allow",
+            "sentence_id": 20,
+            "start": 13,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "president biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 58,
+            "token": "state",
+            "sentence_id": 20,
+            "start": 30,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "banning",
+            "sentence_id": 20,
+            "start": 103,
+            "end": 110,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "limit",
+            "sentence_id": 20,
+            "start": 131,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "allow",
+            "sentence_id": 21,
+            "start": 10,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "president biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 62,
+            "token": "suggest",
+            "sentence_id": 21,
+            "start": 27,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "trusted",
+            "sentence_id": 21,
+            "start": 67,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "enact",
+            "sentence_id": 21,
+            "start": 78,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "knows",
+            "sentence_id": 21,
+            "start": 174,
+            "end": 179,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 66,
+            "token": "vote",
+            "sentence_id": 21,
+            "start": 220,
+            "end": 224,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "favored",
+            "sentence_id": 21,
+            "start": 264,
+            "end": 271,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "make",
+            "sentence_id": 22,
+            "start": 19,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 69,
+            "token": "asking",
+            "sentence_id": 22,
+            "start": 38,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "abortion",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "president biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 70,
+            "token": "answer",
+            "sentence_id": 22,
+            "start": 90,
+            "end": 96,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 71,
+            "token": "bristle",
+            "sentence_id": 22,
+            "start": 101,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "asked",
+            "sentence_id": 22,
+            "start": 118,
+            "end": 123,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "demonstrate",
+            "sentence_id": 23,
+            "start": 11,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Neutral",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "president biden",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "president biden",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                1,
+                12,
+                43,
+                57,
+                61,
+                69,
+                73
+            ]
+        },
+        {
+            "text": "the justices",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                4
+            ]
+        },
+        {
+            "text": "roe and casey",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                5
+            ]
+        },
+        {
+            "text": "maga crowd",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                7
+            ]
+        },
+        {
+            "text": "constitutional amendment",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                12
+            ]
+        },
+        {
+            "text": "clintons",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                17,
+                18,
+                20,
+                21,
+                24
+            ]
+        },
+        {
+            "text": "abortion",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                17,
+                21,
+                24,
+                28,
+                43,
+                65,
+                69
+            ]
+        },
+        {
+            "text": "democrats",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                28,
+                31,
+                35,
+                37,
+                38
+            ]
+        },
+        {
+            "text": "rape and incest cases",
+            "ideology": "Left",
+            "id": 8,
+            "events": [
+                34,
+                35
+            ]
+        }
+    ]
+}

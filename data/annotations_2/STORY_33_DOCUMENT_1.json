@@ -1,0 +1,875 @@
+{
+    "title": "Gay Businessman Ian Reisner Apologizes For Hosting Ted Cruz Event",
+    "id": "STORY_33_DOCUMENT_1",
+    "old_id": "1434_1",
+    "split": "train",
+    "date": "2015-04-27",
+    "topic": "LGBT",
+    "source": "HuffPost",
+    "media_ideology": "",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "LAS VEGAS, NV - APRIL 25: Republican presidential candidate U.S. Sen."
+        },
+        {
+            "id": 1,
+            "text": "Ted Cruz (R-TX) speaks during the Republican Jewish Coalition spring leadership meeting at The Venetian Las Vegas on April 25, 2015 in Las Vegas, Nevada."
+        },
+        {
+            "id": 2,
+            "text": "The Republican Jewish Coalition's annual meeting featured potential Republican presidential candidates in attendance, along with Republican super donor Sheldon Adelson."
+        },
+        {
+            "id": 3,
+            "text": "WASHINGTON -- Ian Reisner, a gay businessman who hosted an event for Sen."
+        },
+        {
+            "id": 4,
+            "text": "Ted Cruz (R-Texas) in New York this week, apologized on Sunday after furious backlash from the gay community."
+        },
+        {
+            "id": 5,
+            "text": "Reisner and his longtime partner Mati Weiderpass hosted a \"fireside chat\" with the presidential candidate, who reportedly softened his notoriously anti-gay tone at the event by claiming that, if one of his daughters were gay, \"I would love them just as much.\u201d"
+        },
+        {
+            "id": 6,
+            "text": "News of Cruz's appearance prompted a boycott of the two men's businesses."
+        },
+        {
+            "id": 7,
+            "text": "In a statement posted to his Facebook page on Sunday, Reisner sought forgiveness for his \"poor judgement,\" explaining that he did not do his homework on Cruz's record on marriage equality before agreeing to host the event."
+        },
+        {
+            "id": 8,
+            "text": "\"I am shaken to my bones by the e-mails, texts, postings and phone calls of the past few days."
+        },
+        {
+            "id": 9,
+            "text": "I made a terrible mistake."
+        },
+        {
+            "id": 10,
+            "text": "I was ignorant, naive and much too quick in accepting a request to co-host a dinner with Cruz at my home without taking the time to completely understand all of his positions on gay rights,\" he said."
+        },
+        {
+            "id": 11,
+            "text": "\"I've spent the past 24 hours reviewing videos of Cruz' statements on gay marriage and I am shocked and angry."
+        },
+        {
+            "id": 12,
+            "text": "I sincerely apologize for hurting the gay community and so many of our friends, family, allies, customers and employees."
+        },
+        {
+            "id": 13,
+            "text": "I will try my best to make up for my poor judgement."
+        },
+        {
+            "id": 14,
+            "text": "Again, I am deeply sorry,\" he added."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "speaks",
+            "sentence_id": 1,
+            "start": 16,
+            "end": 22,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "meeting",
+            "sentence_id": 1,
+            "start": 80,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "meeting",
+            "sentence_id": 2,
+            "start": 41,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "featured",
+            "sentence_id": 2,
+            "start": 49,
+            "end": 57,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "hosted",
+            "sentence_id": 3,
+            "start": 49,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "event",
+            "sentence_id": 3,
+            "start": 59,
+            "end": 64,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "apologized",
+            "sentence_id": 4,
+            "start": 42,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "gay community",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Sen. Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "backlash",
+            "sentence_id": 4,
+            "start": 77,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "hosted",
+            "sentence_id": 5,
+            "start": 49,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "chat",
+            "sentence_id": 5,
+            "start": 68,
+            "end": 72,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "softened",
+            "sentence_id": 5,
+            "start": 122,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Sen. Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "gay community",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 11,
+            "token": "event",
+            "sentence_id": 5,
+            "start": 168,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "claiming",
+            "sentence_id": 5,
+            "start": 177,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "love",
+            "sentence_id": 5,
+            "start": 235,
+            "end": 239,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Sen. Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "gay community",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 14,
+            "token": "appearance",
+            "sentence_id": 6,
+            "start": 15,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "prompted",
+            "sentence_id": 6,
+            "start": 26,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "boycott",
+            "sentence_id": 6,
+            "start": 37,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Sen. Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "posted",
+            "sentence_id": 7,
+            "start": 15,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "sought",
+            "sentence_id": 7,
+            "start": 62,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Sen. Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "explaining",
+            "sentence_id": 7,
+            "start": 107,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "do",
+            "sentence_id": 7,
+            "start": 134,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Sen. Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "agreeing",
+            "sentence_id": 7,
+            "start": 195,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Sen. Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "host",
+            "sentence_id": 7,
+            "start": 207,
+            "end": 211,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "event",
+            "sentence_id": 7,
+            "start": 216,
+            "end": 221,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "shaken",
+            "sentence_id": 8,
+            "start": 6,
+            "end": 12,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "made",
+            "sentence_id": 9,
+            "start": 2,
+            "end": 6,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "mistake",
+            "sentence_id": 9,
+            "start": 18,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Sen. Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 27,
+            "token": "accepting",
+            "sentence_id": 10,
+            "start": 44,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Sen. Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "request",
+            "sentence_id": 10,
+            "start": 56,
+            "end": 63,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "co-host",
+            "sentence_id": 10,
+            "start": 67,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Sen. Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 30,
+            "token": "taking",
+            "sentence_id": 10,
+            "start": 113,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "understand",
+            "sentence_id": 10,
+            "start": 143,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "said",
+            "sentence_id": 10,
+            "start": 194,
+            "end": 198,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "spent",
+            "sentence_id": 11,
+            "start": 6,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "reviewing",
+            "sentence_id": 11,
+            "start": 30,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "statements",
+            "sentence_id": 11,
+            "start": 56,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "shocked",
+            "sentence_id": 11,
+            "start": 92,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Sen. Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 37,
+            "token": "angry",
+            "sentence_id": 11,
+            "start": 104,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Sen. Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 38,
+            "token": "apologize",
+            "sentence_id": 12,
+            "start": 12,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Sen. Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "hurting",
+            "sentence_id": 12,
+            "start": 26,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "gay community",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Sen. Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 40,
+            "token": "try",
+            "sentence_id": 13,
+            "start": 7,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Sen. Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 41,
+            "token": "make",
+            "sentence_id": 13,
+            "start": 22,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ian Reisner",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Sen. Ted Cruz",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "added",
+            "sentence_id": 14,
+            "start": 30,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Ian Reisner",
+            "ideology": "Neutral",
+            "id": 0,
+            "events": [
+                6,
+                16,
+                18,
+                20,
+                21,
+                26,
+                27,
+                29,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ]
+        },
+        {
+            "text": "gay community",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                6,
+                10,
+                13,
+                39
+            ]
+        },
+        {
+            "text": "Sen. Ted Cruz",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                6,
+                10,
+                13,
+                16,
+                18,
+                20,
+                21,
+                26,
+                27,
+                29,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ]
+        }
+    ]
+}

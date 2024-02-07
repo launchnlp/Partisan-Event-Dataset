@@ -1,0 +1,915 @@
+{
+    "title": "Obama to continue modified NSA meta-data gathering program",
+    "id": "STORY_15_DOCUMENT_1",
+    "old_id": "TRIPLET_170_DOCUMENT_1",
+    "split": "train",
+    "date": "2014-01-17",
+    "topic": "nsa",
+    "source": "Washington Times",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Lean Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "President Obama on Friday will announce some changes to how data gathered by the National Security Agency is stored but will allow the collection of that information to continue , according to multiple media reports ."
+        },
+        {
+            "id": 1,
+            "text": "In a widely anticipated speech to be delivered from the Justice Department , the president is expected to recommend that a third party retain the \u201c meta - data \u201d now housed by the federal government , and that the government only be allowed access to that data after a judicial finding in its favor ."
+        },
+        {
+            "id": 2,
+            "text": "The changes come after Mr. Obama \u2019s own hand - picked review panel in December delivered 46 specific recommendations on how U.S. surveillance and data - collection programs could be overhauled to increase transparency and better protect the privacy of Americans ."
+        },
+        {
+            "id": 3,
+            "text": "But privacy advocates do n\u2019t believe the changes Mr. Obama is expected to unveil on Friday will make much of a difference and cast them as cosmetic fixes primarily designed to appease critics ."
+        },
+        {
+            "id": 4,
+            "text": "Allowing third parties to store data on millions of Americans \u201c wo n\u2019t solve the problem ."
+        },
+        {
+            "id": 5,
+            "text": "It would just outsource it , \u201d said Elizabeth Goitein , co-director of the Liberty and National Security Program at the Brennan Center for Justice ."
+        },
+        {
+            "id": 6,
+            "text": "If phone companies ultimately are the ones to hold the data , that presents a whole new set of problems , Ms. Goitein said , adding it would set a \u201c dangerous precedent \u201d for the government to \u201c launder its surveillance activities through private parties ."
+        },
+        {
+            "id": 7,
+            "text": "\u201c It would turn these service providers into agents of the intelligence community , \u201d she said ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "announce",
+            "sentence_id": 0,
+            "start": 31,
+            "end": 39,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "changes",
+            "sentence_id": 0,
+            "start": 45,
+            "end": 52,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "gathered",
+            "sentence_id": 0,
+            "start": 65,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "stored",
+            "sentence_id": 0,
+            "start": 109,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "allow",
+            "sentence_id": 0,
+            "start": 125,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the privacy of Americans",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "collection",
+            "sentence_id": 0,
+            "start": 135,
+            "end": 145,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "continue",
+            "sentence_id": 0,
+            "start": 169,
+            "end": 177,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "modified NSA meta-data gathering program",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the privacy of Americans",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 7,
+            "token": "according",
+            "sentence_id": 0,
+            "start": 180,
+            "end": 189,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "speech",
+            "sentence_id": 1,
+            "start": 24,
+            "end": 30,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "delivered",
+            "sentence_id": 1,
+            "start": 37,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "expected",
+            "sentence_id": 1,
+            "start": 94,
+            "end": 102,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "recommend",
+            "sentence_id": 1,
+            "start": 106,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "retain",
+            "sentence_id": 1,
+            "start": 135,
+            "end": 141,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "housed",
+            "sentence_id": 1,
+            "start": 166,
+            "end": 172,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "allowed",
+            "sentence_id": 1,
+            "start": 233,
+            "end": 240,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "access",
+            "sentence_id": 1,
+            "start": 241,
+            "end": 247,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "finding",
+            "sentence_id": 1,
+            "start": 278,
+            "end": 285,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "changes",
+            "sentence_id": 2,
+            "start": 4,
+            "end": 11,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "come",
+            "sentence_id": 2,
+            "start": 12,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "delivered",
+            "sentence_id": 2,
+            "start": 79,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "overhauled",
+            "sentence_id": 2,
+            "start": 182,
+            "end": 192,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "modified NSA meta-data gathering program",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the privacy of Americans",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 21,
+            "token": "increase",
+            "sentence_id": 2,
+            "start": 196,
+            "end": 204,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "modified NSA meta-data gathering program",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the privacy of Americans",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 22,
+            "token": "protect",
+            "sentence_id": 2,
+            "start": 229,
+            "end": 236,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "modified NSA meta-data gathering program",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the privacy of Americans",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 23,
+            "token": "believe",
+            "sentence_id": 3,
+            "start": 29,
+            "end": 36,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "privacy advocates",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the privacy of Americans",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 24,
+            "token": "changes",
+            "sentence_id": 3,
+            "start": 41,
+            "end": 48,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "expected",
+            "sentence_id": 3,
+            "start": 62,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "unveil",
+            "sentence_id": 3,
+            "start": 74,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "make",
+            "sentence_id": 3,
+            "start": 96,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "changes to how data gathered by the National Security Agency is stored",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the privacy of Americans",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "cast",
+            "sentence_id": 3,
+            "start": 126,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "privacy advocates",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "President Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "changes to how data gathered by the National Security Agency is stored",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the privacy of Americans",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 29,
+            "token": "fixes",
+            "sentence_id": 3,
+            "start": 148,
+            "end": 153,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "designed",
+            "sentence_id": 3,
+            "start": 164,
+            "end": 172,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "changes to how data gathered by the National Security Agency is stored",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the privacy of Americans",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 31,
+            "token": "appease",
+            "sentence_id": 3,
+            "start": 176,
+            "end": 183,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "changes to how data gathered by the National Security Agency is stored",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the privacy of Americans",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 32,
+            "token": "Allowing",
+            "sentence_id": 4,
+            "start": 0,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "store",
+            "sentence_id": 4,
+            "start": 26,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "solve",
+            "sentence_id": 4,
+            "start": 71,
+            "end": 76,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "changes to how data gathered by the National Security Agency is stored",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the privacy of Americans",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "outsource",
+            "sentence_id": 5,
+            "start": 14,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "changes to how data gathered by the National Security Agency is stored",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the privacy of Americans",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 36,
+            "token": "said",
+            "sentence_id": 5,
+            "start": 31,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "hold",
+            "sentence_id": 6,
+            "start": 46,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "presents",
+            "sentence_id": 6,
+            "start": 67,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "changes to how data gathered by the National Security Agency is stored",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the privacy of Americans",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 39,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 118,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "adding",
+            "sentence_id": 6,
+            "start": 125,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "set",
+            "sentence_id": 6,
+            "start": 141,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "changes to how data gathered by the National Security Agency is stored",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the privacy of Americans",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 42,
+            "token": "launder",
+            "sentence_id": 6,
+            "start": 195,
+            "end": 202,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "the government",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "modified NSA meta-data gathering program",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the privacy of Americans",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 43,
+            "token": "turn",
+            "sentence_id": 7,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "modified NSA meta-data gathering program",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "the privacy of Americans",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 44,
+            "token": "said",
+            "sentence_id": 7,
+            "start": 90,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "President Obama",
+            "ideology": "Left",
+            "id": 0,
+            "events": [
+                4,
+                23,
+                27,
+                28
+            ]
+        },
+        {
+            "text": "modified NSA meta-data gathering program",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                6,
+                20,
+                21,
+                22,
+                42,
+                43
+            ]
+        },
+        {
+            "text": "privacy advocates",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                23,
+                28
+            ]
+        },
+        {
+            "text": "changes to how data gathered by the National Security Agency is stored",
+            "ideology": "Left",
+            "id": 3,
+            "events": [
+                30,
+                27,
+                28,
+                31,
+                34,
+                35,
+                41,
+                38
+            ]
+        },
+        {
+            "text": "the government",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                42
+            ]
+        },
+        {
+            "text": "the privacy of Americans",
+            "ideology": "Left",
+            "id": 5,
+            "events": [
+                4,
+                6,
+                20,
+                21,
+                22,
+                23,
+                27,
+                28,
+                30,
+                31,
+                34,
+                35,
+                38,
+                41,
+                42,
+                43
+            ]
+        }
+    ]
+}

@@ -1,0 +1,925 @@
+{
+    "title": "Sinema Agrees to Climate and Tax Deal, Clearing the Way for Votes",
+    "id": "STORY_120_DOCUMENT_0",
+    "old_id": "6931_1",
+    "split": "test",
+    "date": "2022-08-05",
+    "topic": "climate-change",
+    "source": "New York Times (News)",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Ms. Sinema insisted on the removal of a provision that would have limited the preferential tax treatment of income earned by some wealthy hedge fund managers and private equity executives."
+        },
+        {
+            "id": 1,
+            "text": "Democrats instead added a new 1 percent excise tax that companies would have to pay on the amount of stock that they repurchase, said one Democratic official, who disclosed details of the plan on the condition of anonymity."
+        },
+        {
+            "id": 2,
+            "text": "That provision, the official said, would ensure that the package still reduces the federal deficit by as much as $300 billion, the same amount Democrats aimed for with the original deal and a key priority for Mr. Manchin."
+        },
+        {
+            "id": 3,
+            "text": "Democrats also agreed to a request by Ms. Sinema to include billions of dollars to combat droughts, according to officials briefed on the emerging plan, something that is crucial to Arizona as it suffers from a devastating megadrought."
+        },
+        {
+            "id": 4,
+            "text": "They were expected to restructure the 15 percent minimum tax on corporations to make it less burdensome on manufacturers."
+        },
+        {
+            "id": 5,
+            "text": "Earlier this week, business leaders in Arizona appealed directly to Ms. Sinema to simplify that proposal, which was included in part because she had resisted increasing tax rates as part of the plan."
+        },
+        {
+            "id": 6,
+            "text": "\u201cManufacturers remain concerned that this bill will stifle new cures and therapies,\u201d Jay Timmons, the president and chief executive of the National Association of Manufacturers, said on Twitter, even while praising the removal of certain tax provisions."
+        },
+        {
+            "id": 7,
+            "text": "He added, \u201cWe remain skeptical and will be reviewing the revised legislation carefully.\u201d"
+        },
+        {
+            "id": 8,
+            "text": "While most Democrats had been quick to rally around the deal Mr. Manchin reached with Mr. Schumer when it was announced last week, Ms. Sinema had refused to weigh in and privately signaled that changes, particularly to the tax proposals, would be needed to win her vote."
+        },
+        {
+            "id": 9,
+            "text": "Even as she wrangled an unusually bipartisan vote margin on Thursday for a judge she supported for the U.S. Court of Appeals for the Ninth Circuit \u2014 securing the support of nearly 20 Republicans \u2014 Ms. Sinema was being lobbied by both sides of the aisle."
+        },
+        {
+            "id": 10,
+            "text": "She and Mr. Manchin huddled in the chamber at one point, speaking in hushed voices."
+        },
+        {
+            "id": 11,
+            "text": "Ms. Sinema, an enigmatic centrist, had already forced her party to abandon their plans to overhaul much of the tax code, and her characteristic silence frustrated Democrats eager to take up the bill."
+        },
+        {
+            "id": 12,
+            "text": "After hearing that she had given the bill her support, several Democratic senators and aides celebrated, confident that final passage was within reach."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "insisted",
+            "sentence_id": 0,
+            "start": 11,
+            "end": 19,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "removal",
+            "sentence_id": 0,
+            "start": 27,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "limited",
+            "sentence_id": 0,
+            "start": 66,
+            "end": 73,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "added",
+            "sentence_id": 1,
+            "start": 18,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "pay",
+            "sentence_id": 1,
+            "start": 80,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "repurchase",
+            "sentence_id": 1,
+            "start": 117,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 129,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "disclosed",
+            "sentence_id": 1,
+            "start": 163,
+            "end": 172,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 29,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "ensure",
+            "sentence_id": 2,
+            "start": 41,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "reduces",
+            "sentence_id": 2,
+            "start": 71,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "aimed",
+            "sentence_id": 2,
+            "start": 153,
+            "end": 158,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "deal",
+            "sentence_id": 2,
+            "start": 181,
+            "end": 185,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "agreed",
+            "sentence_id": 3,
+            "start": 15,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "request",
+            "sentence_id": 3,
+            "start": 27,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "include",
+            "sentence_id": 3,
+            "start": 52,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "combat",
+            "sentence_id": 3,
+            "start": 83,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Ms. Sinema",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "droughts",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 17,
+            "token": "according",
+            "sentence_id": 3,
+            "start": 100,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "briefed",
+            "sentence_id": 3,
+            "start": 123,
+            "end": 130,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "suffers",
+            "sentence_id": 3,
+            "start": 196,
+            "end": 203,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "expected",
+            "sentence_id": 4,
+            "start": 10,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "restructure",
+            "sentence_id": 4,
+            "start": 22,
+            "end": 33,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "15 percent minimum tax",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "make",
+            "sentence_id": 4,
+            "start": 80,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "appealed",
+            "sentence_id": 5,
+            "start": 47,
+            "end": 55,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "simplify",
+            "sentence_id": 5,
+            "start": 82,
+            "end": 90,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "included",
+            "sentence_id": 5,
+            "start": 116,
+            "end": 124,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "resisted",
+            "sentence_id": 5,
+            "start": 149,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 27,
+            "token": "increasing",
+            "sentence_id": 5,
+            "start": 158,
+            "end": 168,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "remain",
+            "sentence_id": 6,
+            "start": 15,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "concerned",
+            "sentence_id": 6,
+            "start": 22,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Jay Timmons, the president and chief executive of the National Association of Manufacturers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "removal of a provision",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 30,
+            "token": "stifle",
+            "sentence_id": 6,
+            "start": 52,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "said",
+            "sentence_id": 6,
+            "start": 178,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "praising",
+            "sentence_id": 6,
+            "start": 206,
+            "end": 214,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Jay Timmons, the president and chief executive of the National Association of Manufacturers",
+                    "ideology": "Neutral",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "removal of a provision",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "removal",
+            "sentence_id": 6,
+            "start": 219,
+            "end": 226,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "added",
+            "sentence_id": 7,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "remain",
+            "sentence_id": 7,
+            "start": 14,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "skeptical",
+            "sentence_id": 7,
+            "start": 21,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Jay Timmons, the president and chief executive of the National Association of Manufacturers",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "removal of a provision",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 37,
+            "token": "reviewing",
+            "sentence_id": 7,
+            "start": 43,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "rally",
+            "sentence_id": 8,
+            "start": 39,
+            "end": 44,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "deal",
+            "sentence_id": 8,
+            "start": 56,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "reached",
+            "sentence_id": 8,
+            "start": 73,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "announced",
+            "sentence_id": 8,
+            "start": 110,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "refused",
+            "sentence_id": 8,
+            "start": 146,
+            "end": 153,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "weigh",
+            "sentence_id": 8,
+            "start": 157,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "signaled",
+            "sentence_id": 8,
+            "start": 180,
+            "end": 188,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "changes",
+            "sentence_id": 8,
+            "start": 194,
+            "end": 201,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "needed",
+            "sentence_id": 8,
+            "start": 247,
+            "end": 253,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "win",
+            "sentence_id": 8,
+            "start": 257,
+            "end": 260,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "wrangled",
+            "sentence_id": 9,
+            "start": 12,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "supported",
+            "sentence_id": 9,
+            "start": 85,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "securing",
+            "sentence_id": 9,
+            "start": 149,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "lobbied",
+            "sentence_id": 9,
+            "start": 218,
+            "end": 225,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "huddled",
+            "sentence_id": 10,
+            "start": 20,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "speaking",
+            "sentence_id": 10,
+            "start": 57,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "forced",
+            "sentence_id": 11,
+            "start": 47,
+            "end": 53,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "abandon",
+            "sentence_id": 11,
+            "start": 67,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "plans",
+            "sentence_id": 11,
+            "start": 81,
+            "end": 86,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "overhaul",
+            "sentence_id": 11,
+            "start": 90,
+            "end": 98,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "frustrated",
+            "sentence_id": 11,
+            "start": 152,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "take",
+            "sentence_id": 11,
+            "start": 182,
+            "end": 186,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 60,
+            "token": "hearing",
+            "sentence_id": 12,
+            "start": 6,
+            "end": 13,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "given",
+            "sentence_id": 12,
+            "start": 27,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "celebrated",
+            "sentence_id": 12,
+            "start": 93,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 63,
+            "token": "confident",
+            "sentence_id": 12,
+            "start": 105,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "passage",
+            "sentence_id": 12,
+            "start": 126,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Ms. Sinema",
+            "ideology": "Neutral",
+            "id": 0,
+            "events": [
+                16
+            ]
+        },
+        {
+            "text": "droughts",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                16
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 2,
+            "events": [
+                21,
+                16
+            ]
+        },
+        {
+            "text": "15 percent minimum tax",
+            "ideology": "Neutral",
+            "id": 3,
+            "events": [
+                21
+            ]
+        },
+        {
+            "text": "Jay Timmons, the president and chief executive of the National Association of Manufacturers",
+            "ideology": "Neutral",
+            "id": 5,
+            "events": [
+                29,
+                32,
+                36
+            ]
+        },
+        {
+            "text": "removal of a provision",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                29,
+                32,
+                36
+            ]
+        }
+    ]
+}

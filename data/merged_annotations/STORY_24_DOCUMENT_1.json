@@ -1,0 +1,1038 @@
+{
+    "title": "Labor Department considers jobs report delay ",
+    "id": "STORY_24_DOCUMENT_1",
+    "old_id": "TRIPLET_226_DOCUMENT_1",
+    "split": "train",
+    "date": "2012-10-29",
+    "topic": "elections",
+    "source": "Politico",
+    "media_ideology": "Lean Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "Federal officials say they \u2019re preparing to release the jobs and unemployment report on schedule Friday , following up on earlier statements suggesting Hurricane Sandy may delay the closely watched report until after the election ."
+        },
+        {
+            "id": 1,
+            "text": "The department is \u201c working hard to ensure the timely release \u201d of the report , said Gary Steinberg , spokesman for the Labor Department ."
+        },
+        {
+            "id": 2,
+            "text": "\u201c It is our intention that Friday will be business as usual . \u201d"
+        },
+        {
+            "id": 3,
+            "text": "Labor officials had said earlier Monday that the department would re-assess when to release the report after Hurricane Sandy subsides , drawing renewed criticism from conservatives that the administration was manipulating the report for political purposes ."
+        },
+        {
+            "id": 4,
+            "text": "\u201c Labor Dept says may release latest Unemployment figures until after election ."
+        },
+        {
+            "id": 5,
+            "text": "Par for course ."
+        },
+        {
+            "id": 6,
+            "text": "Why release something might hurt Obama elect ? \u201d"
+        },
+        {
+            "id": 7,
+            "text": "Sen . Chuck Grassley ( R - Iowa ) tweeted ."
+        },
+        {
+            "id": 8,
+            "text": "The accusations echo a controversy from earlier this month , when a small - but - vocal group of Republicans seized on an unexpected drop in the September unemployment rate to accuse the administration of cooking the numbers to boost President Barack Obama \u2019s economic record ."
+        },
+        {
+            "id": 9,
+            "text": "The complaints were almost universally rebuked by a bipartisan swath of prominent Republicans and Democrats , but they succeeded in drawing attention away from the positive economic news ."
+        },
+        {
+            "id": 10,
+            "text": "If the final report were to be delayed past the election , it would defuse the final round of a campaign - long struggle between Obama and Mitt Romney over the monthly reports ."
+        },
+        {
+            "id": 11,
+            "text": "Republicans have hammered Obama over slow job growth and unemployment rates that continue to exceed the administration \u2019s projections while pushing its 2009 stimulus bill ."
+        },
+        {
+            "id": 12,
+            "text": "But the White House saw a ray of light last month when federal economists reported a drop in the unemployment rate from 8.1 percent in August to 7.8 percent in September ."
+        },
+        {
+            "id": 13,
+            "text": "Hurricane Sandy is costing federal economists time to compile their report , as the majority of federal workers are off Monday ."
+        },
+        {
+            "id": 14,
+            "text": "Federal offices are closed Tuesday as well , the Office of Personnel Management announced Monday afternoon ."
+        },
+        {
+            "id": 15,
+            "text": "While the storm could change the jobs report \u2019s schedule , it is unlikely to affect the number itself , as the hiring period covered by the report concluded weeks before the storm hit ."
+        },
+        {
+            "id": 16,
+            "text": "Businesses send their hiring information electronically , so U.S. Postal Service disruptions along the East Coast are unlikely to impede the department \u2019s ability to collect information ."
+        },
+        {
+            "id": 17,
+            "text": "The news that the jobs report could be delayed was first reported by The Wall Street Journal ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "say",
+            "sentence_id": 0,
+            "start": 18,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "preparing",
+            "sentence_id": 0,
+            "start": 31,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "release",
+            "sentence_id": 0,
+            "start": 44,
+            "end": 51,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "following",
+            "sentence_id": 0,
+            "start": 106,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "statements",
+            "sentence_id": 0,
+            "start": 130,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "suggesting",
+            "sentence_id": 0,
+            "start": 141,
+            "end": 151,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "delay",
+            "sentence_id": 0,
+            "start": 172,
+            "end": 177,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "election",
+            "sentence_id": 0,
+            "start": 221,
+            "end": 229,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "working",
+            "sentence_id": 1,
+            "start": 20,
+            "end": 27,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Labor Department",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "jobs and unemployment report",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 9,
+            "token": "ensure",
+            "sentence_id": 1,
+            "start": 36,
+            "end": 42,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "release",
+            "sentence_id": 1,
+            "start": 54,
+            "end": 61,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "said",
+            "sentence_id": 1,
+            "start": 80,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "said",
+            "sentence_id": 3,
+            "start": 20,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "re-assess",
+            "sentence_id": 3,
+            "start": 66,
+            "end": 75,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "release",
+            "sentence_id": 3,
+            "start": 84,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "subsides",
+            "sentence_id": 3,
+            "start": 125,
+            "end": 133,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "drawing",
+            "sentence_id": 3,
+            "start": 136,
+            "end": 143,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "conservatives",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Labor Department",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 17,
+            "token": "manipulating",
+            "sentence_id": 3,
+            "start": 209,
+            "end": 221,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Labor Department",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "jobs and unemployment report",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 18,
+            "token": "says",
+            "sentence_id": 4,
+            "start": 13,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "release",
+            "sentence_id": 4,
+            "start": 22,
+            "end": 29,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 20,
+            "token": "release",
+            "sentence_id": 6,
+            "start": 4,
+            "end": 11,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "hurt",
+            "sentence_id": 6,
+            "start": 28,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 12,
+                    "text": "jobs and unemployment report",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 22,
+            "token": "tweeted",
+            "sentence_id": 7,
+            "start": 34,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "echo",
+            "sentence_id": 8,
+            "start": 16,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "controversy",
+            "sentence_id": 8,
+            "start": 23,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "seized",
+            "sentence_id": 8,
+            "start": 109,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 26,
+            "token": "drop",
+            "sentence_id": 8,
+            "start": 133,
+            "end": 137,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "accuse",
+            "sentence_id": 8,
+            "start": 176,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Labor Department",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 28,
+            "token": "cooking",
+            "sentence_id": 8,
+            "start": 205,
+            "end": 212,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "boost",
+            "sentence_id": 8,
+            "start": 228,
+            "end": 233,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Labor Department",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 30,
+            "token": "complaints",
+            "sentence_id": 9,
+            "start": 4,
+            "end": 14,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "rebuked",
+            "sentence_id": 9,
+            "start": 39,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 32,
+            "token": "succeeded",
+            "sentence_id": 9,
+            "start": 119,
+            "end": 128,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "drawing",
+            "sentence_id": 9,
+            "start": 132,
+            "end": 139,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "delayed",
+            "sentence_id": 10,
+            "start": 31,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "election",
+            "sentence_id": 10,
+            "start": 48,
+            "end": 56,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "defuse",
+            "sentence_id": 10,
+            "start": 68,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 37,
+            "token": "struggle",
+            "sentence_id": 10,
+            "start": 112,
+            "end": 120,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "hammered",
+            "sentence_id": 11,
+            "start": 17,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "Barack Obama",
+                    "ideology": "Left",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 39,
+            "token": "growth",
+            "sentence_id": 11,
+            "start": 46,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "continue",
+            "sentence_id": 11,
+            "start": 81,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "exceed",
+            "sentence_id": 11,
+            "start": 93,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "pushing",
+            "sentence_id": 11,
+            "start": 140,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 9,
+                    "text": "2009 stimulus bill",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 43,
+            "token": "saw",
+            "sentence_id": 12,
+            "start": 20,
+            "end": 23,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "the White House",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 11,
+                    "text": "unemployment rate",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "reported",
+            "sentence_id": 12,
+            "start": 74,
+            "end": 82,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "drop",
+            "sentence_id": 12,
+            "start": 85,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "costing",
+            "sentence_id": 13,
+            "start": 19,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 47,
+            "token": "compile",
+            "sentence_id": 13,
+            "start": 54,
+            "end": 61,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "closed",
+            "sentence_id": 14,
+            "start": 20,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "announced",
+            "sentence_id": 14,
+            "start": 80,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "change",
+            "sentence_id": 15,
+            "start": 22,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 51,
+            "token": "affect",
+            "sentence_id": 15,
+            "start": 77,
+            "end": 83,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Labor Department",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "jobs and unemployment report",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 5,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 52,
+            "token": "concluded",
+            "sentence_id": 15,
+            "start": 147,
+            "end": 156,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "hit",
+            "sentence_id": 15,
+            "start": 180,
+            "end": 183,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 54,
+            "token": "send",
+            "sentence_id": 16,
+            "start": 11,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 55,
+            "token": "disruptions",
+            "sentence_id": 16,
+            "start": 81,
+            "end": 92,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "impede",
+            "sentence_id": 16,
+            "start": 130,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "collect",
+            "sentence_id": 16,
+            "start": 166,
+            "end": 173,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "delayed",
+            "sentence_id": 17,
+            "start": 39,
+            "end": 46,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 59,
+            "token": "reported",
+            "sentence_id": 17,
+            "start": 57,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Labor Department",
+            "ideology": "Left",
+            "id": 1,
+            "events": [
+                29
+            ]
+        },
+        {
+            "text": "conservatives",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                16
+            ]
+        },
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                25,
+                38,
+                31
+            ]
+        },
+        {
+            "text": "Barack Obama",
+            "ideology": "Left",
+            "id": 6,
+            "events": [
+                27,
+                21,
+                22,
+                29
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 7,
+            "events": [
+                31
+            ]
+        },
+        {
+            "text": "2009 stimulus bill",
+            "ideology": "Right",
+            "id": 9,
+            "events": [
+                42
+            ]
+        },
+        {
+            "text": "the White House",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                43
+            ]
+        },
+        {
+            "text": "unemployment rate",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                43
+            ]
+        },
+        {
+            "text": "jobs and unemployment report",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                8,
+                17
+            ]
+        },
+        {
+            "text": "Sen . Chuck Grassley",
+            "ideology": "Right",
+            "id": 13,
+            "events": [
+                22
+            ]
+        }
+    ]
+}

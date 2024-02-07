@@ -1,0 +1,1635 @@
+{
+    "title": "Judge blocks Pa.\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2s new voter ID requirement ",
+    "id": "STORY_76_DOCUMENT_1",
+    "old_id": "TRIPLET_227_DOCUMENT_0",
+    "split": "train",
+    "date": "2012-10-02",
+    "topic": "elections",
+    "source": "Washington Times",
+    "media_ideology": "Lean Right",
+    "relative_ideology": "Right",
+    "absolute_ideology": "Lean Right",
+    "news": [
+        {
+            "id": 0,
+            "text": "Dealing a blow to Republicans \u2019 hopes of carrying Pennsylvania in the presidential election , a judge Tuesday blocked the state from enforcing its GOP - backed voter identification law in November ."
+        },
+        {
+            "id": 1,
+            "text": "Commonwealth Court Judge Robert Simpson , a Republican , cited concerns over \u201c disenfranchisement , \u201d saying there was n\u2019t enough time for state officials to make sure everyone who needs a photo ID would have one by Nov. 6 ."
+        },
+        {
+            "id": 2,
+            "text": "Judge Simpson said in his ruling that poll workers could still ask voters to produce a photo ID on Nov. 6 , but they will be allowed to vote without one ."
+        },
+        {
+            "id": 3,
+            "text": "The court did not strike down the law altogether ; the judge rejected efforts by opponents of the law to stop state officials from educating voters about the photo ID requirement ."
+        },
+        {
+            "id": 4,
+            "text": "Republican Gov. Tom Corbett \u2019s administration argued in favor of the law , saying other states have enacted similar statutes that have been upheld on appeals ."
+        },
+        {
+            "id": 5,
+            "text": "The ruling could still be appealed , but the law \u2014 approved last spring \u2014 will not take effect until next year at the earliest ."
+        },
+        {
+            "id": 6,
+            "text": "The judge upheld the statute in August after hearing testimony ."
+        },
+        {
+            "id": 7,
+            "text": "But the state Supreme Court last month told Judge Simpson to reconsider and to focus on whether the state had done enough to ensure \u201c liberal access \u201d to photo ID cards ."
+        },
+        {
+            "id": 8,
+            "text": "Judge Simpson said in his opinion Tuesday , \u201c I expected more photo IDs to have been issued by this time ."
+        },
+        {
+            "id": 9,
+            "text": "For this reason , I accept petitioners \u2019 argument that in the remaining five weeks before the general election , the gap between the photo IDs issued and the estimated need will not be closed . \u201d"
+        },
+        {
+            "id": 10,
+            "text": "He added : \u201c I am not still convinced in my predictive judgment that there will be no voter disenfranchisement arising out of the Commonwealth \u2019s implementation of a voter identification requirement for purposes of the upcoming election . \u201d"
+        },
+        {
+            "id": 11,
+            "text": "The law is one of at least 11 across the country \u2014 largely backed by Republican legislators \u2014 requiring voters to show photo identification such as a driver \u2019s license or passport ."
+        },
+        {
+            "id": 12,
+            "text": "Republicans say the laws are necessary to prevent election fraud ."
+        },
+        {
+            "id": 13,
+            "text": "A recent Franklin & Marshall College poll found that nearly 3 in 5 registered Pennsylvania voters favor the photo identification requirement ."
+        },
+        {
+            "id": 14,
+            "text": "But Democrats argued it would prevent mostly poor and minority voters in the state from voting ."
+        },
+        {
+            "id": 15,
+            "text": "Democrats were joined in their challenge to the law by the AARP and National Association for the Advancement of Colored People ."
+        },
+        {
+            "id": 16,
+            "text": "Rep. Elijah E. Cummings , Maryland Democrat and ranking member of the House Committee on Oversight and Government Reform , said the Pennsylvania law should be struck down in its entirety ."
+        },
+        {
+            "id": 17,
+            "text": "\u201c I am encouraged that citizens in Pennsylvania will have the opportunity to exercise their right to vote this November without the politically motivated restrictions that Republicans tried to impose , \u201d Mr. Cummings said in a statement ."
+        },
+        {
+            "id": 18,
+            "text": "\u201c Voting is a right that should be encouraged for all eligible Americans , not a privilege reserved for a select few ."
+        },
+        {
+            "id": 19,
+            "text": "While today \u2019s ruling is a tremendous victory for the fair democratic process , I believe the law should be invalidated in its entirety , and I am hopeful that the appellate court will do so . \u201d"
+        },
+        {
+            "id": 20,
+            "text": "After Republican legislators approved the law last spring without any Democratic support , House Majority Leader Mike Turzai , Allegheny Republican , boasted the measure would enable Republican presidential nominee Mitt Romney to carry Pennsylvania ."
+        },
+        {
+            "id": 21,
+            "text": "Democratic candidates have won the state in the past five presidential elections ."
+        },
+        {
+            "id": 22,
+            "text": "At a campaign stop in Pennsylvania last week , Mr. Romney predicted he would win Pennsylvania ."
+        },
+        {
+            "id": 23,
+            "text": "Despite Mr. Romney \u2019s confidence , his campaign has n\u2019t been airing ads in the state ."
+        },
+        {
+            "id": 24,
+            "text": "In 2008 , Barack Obama won the state by 10 percentage points over Sen. John McCain , Arizona Republican ."
+        },
+        {
+            "id": 25,
+            "text": "A Quinnipiac / New York Times / CBS News poll last week showed Mr. Obama ahead there by 12 points ."
+        },
+        {
+            "id": 26,
+            "text": "A survey by The Philadelphia Inquirer earlier this year estimated that nearly 10 percent of state residents , or 1.3 million people , lacked proper photo ID ."
+        },
+        {
+            "id": 27,
+            "text": "The percentage was even higher in Philadelphia , where Democrats outnumber Republicans about 6 - to - 1 ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "Dealing",
+            "sentence_id": 0,
+            "start": 0,
+            "end": 7,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 1,
+            "token": "carrying",
+            "sentence_id": 0,
+            "start": 41,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 2,
+            "token": "blocked",
+            "sentence_id": 0,
+            "start": 110,
+            "end": 117,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "judge",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 2,
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 3,
+            "token": "enforcing",
+            "sentence_id": 0,
+            "start": 133,
+            "end": 142,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "cited",
+            "sentence_id": 1,
+            "start": 57,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 5,
+            "token": "saying",
+            "sentence_id": 1,
+            "start": 102,
+            "end": 108,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "Robert Simpson",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 6,
+            "token": "make",
+            "sentence_id": 1,
+            "start": 158,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 7,
+            "token": "have",
+            "sentence_id": 1,
+            "start": 204,
+            "end": 208,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "said",
+            "sentence_id": 2,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "ruling",
+            "sentence_id": 2,
+            "start": 26,
+            "end": 32,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "3",
+                    "text": "Robert Simpson",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 10,
+            "token": "ask",
+            "sentence_id": 2,
+            "start": 63,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "produce",
+            "sentence_id": 2,
+            "start": 77,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "allowed",
+            "sentence_id": 2,
+            "start": 125,
+            "end": 132,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "vote",
+            "sentence_id": 2,
+            "start": 136,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "strike",
+            "sentence_id": 3,
+            "start": 18,
+            "end": 24,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "court",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 15,
+            "token": "rejected",
+            "sentence_id": 3,
+            "start": 61,
+            "end": 69,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "efforts",
+            "sentence_id": 3,
+            "start": 70,
+            "end": 77,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "stop",
+            "sentence_id": 3,
+            "start": 105,
+            "end": 109,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "educating",
+            "sentence_id": 3,
+            "start": 131,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 19,
+            "token": "argued",
+            "sentence_id": 4,
+            "start": 46,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Tom Corbett",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 20,
+            "token": "saying",
+            "sentence_id": 4,
+            "start": 75,
+            "end": 81,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 21,
+            "token": "enacted",
+            "sentence_id": 4,
+            "start": 100,
+            "end": 107,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 6,
+                    "text": "other states",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 22,
+            "token": "upheld",
+            "sentence_id": 4,
+            "start": 140,
+            "end": 146,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 23,
+            "token": "appeals",
+            "sentence_id": 4,
+            "start": 150,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "ruling",
+            "sentence_id": 5,
+            "start": 4,
+            "end": 10,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "appealed",
+            "sentence_id": 5,
+            "start": 26,
+            "end": 34,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 26,
+            "token": "approved",
+            "sentence_id": 5,
+            "start": 51,
+            "end": 59,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "take",
+            "sentence_id": 5,
+            "start": 83,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "upheld",
+            "sentence_id": 6,
+            "start": 10,
+            "end": 16,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "1",
+                    "text": "judge",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 29,
+            "token": "hearing",
+            "sentence_id": 6,
+            "start": 45,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "testimony",
+            "sentence_id": 6,
+            "start": 53,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 31,
+            "token": "told",
+            "sentence_id": 7,
+            "start": 39,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "reconsider",
+            "sentence_id": 7,
+            "start": 61,
+            "end": 71,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "state Supreme Court",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 33,
+            "token": "focus",
+            "sentence_id": 7,
+            "start": 79,
+            "end": 84,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "done",
+            "sentence_id": 7,
+            "start": 110,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 35,
+            "token": "ensure",
+            "sentence_id": 7,
+            "start": 125,
+            "end": 131,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "said",
+            "sentence_id": 8,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "3",
+                    "text": "Robert Simpson",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "expected",
+            "sentence_id": 8,
+            "start": 48,
+            "end": 56,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "issued",
+            "sentence_id": 8,
+            "start": 85,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "accept",
+            "sentence_id": 9,
+            "start": 20,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "issued",
+            "sentence_id": 9,
+            "start": 143,
+            "end": 149,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "closed",
+            "sentence_id": 9,
+            "start": 185,
+            "end": 191,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "added",
+            "sentence_id": 10,
+            "start": 3,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 43,
+            "token": "convinced",
+            "sentence_id": 10,
+            "start": 28,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 44,
+            "token": "implementation",
+            "sentence_id": 10,
+            "start": 146,
+            "end": 160,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "election",
+            "sentence_id": 10,
+            "start": 228,
+            "end": 236,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 46,
+            "token": "backed",
+            "sentence_id": 11,
+            "start": 59,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 8,
+                    "text": "Republican legislators",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "requiring",
+            "sentence_id": 11,
+            "start": 94,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "show",
+            "sentence_id": 11,
+            "start": 114,
+            "end": 118,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 49,
+            "token": "say",
+            "sentence_id": 12,
+            "start": 12,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 50,
+            "token": "necessary",
+            "sentence_id": 12,
+            "start": 29,
+            "end": 38,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "0",
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 51,
+            "token": "prevent",
+            "sentence_id": 12,
+            "start": 42,
+            "end": 49,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 52,
+            "token": "found",
+            "sentence_id": 13,
+            "start": 42,
+            "end": 47,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 53,
+            "token": "favor",
+            "sentence_id": 13,
+            "start": 98,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": 9,
+                    "text": "registered Pennsylvania voters",
+                    "ideology": "Neutral",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 54,
+            "token": "argued",
+            "sentence_id": 14,
+            "start": 14,
+            "end": 20,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 10,
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 55,
+            "token": "prevent",
+            "sentence_id": 14,
+            "start": 30,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 56,
+            "token": "voting",
+            "sentence_id": 14,
+            "start": 88,
+            "end": 94,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 57,
+            "token": "joined",
+            "sentence_id": 15,
+            "start": 15,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 58,
+            "token": "challenge",
+            "sentence_id": 15,
+            "start": 31,
+            "end": 40,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 11,
+                    "text": "AARP",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 12,
+                    "text": "National Association for the Advancement of Colored People",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "10",
+                    "text": "Democrats",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 59,
+            "token": "said",
+            "sentence_id": 16,
+            "start": 123,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 13,
+                    "text": "Elijah E. Cummings",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 60,
+            "token": "struck",
+            "sentence_id": 16,
+            "start": 159,
+            "end": 165,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 61,
+            "token": "encouraged",
+            "sentence_id": 17,
+            "start": 7,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 62,
+            "token": "exercise",
+            "sentence_id": 17,
+            "start": 77,
+            "end": 85,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "13",
+                    "text": "Elijah E. Cummings",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "0",
+                    "text": "Republicans",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 63,
+            "token": "vote",
+            "sentence_id": 17,
+            "start": 101,
+            "end": 105,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 64,
+            "token": "tried",
+            "sentence_id": 17,
+            "start": 184,
+            "end": 189,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 65,
+            "token": "impose",
+            "sentence_id": 17,
+            "start": 193,
+            "end": 199,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 66,
+            "token": "said",
+            "sentence_id": 17,
+            "start": 217,
+            "end": 221,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 67,
+            "token": "encouraged",
+            "sentence_id": 18,
+            "start": 35,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 68,
+            "token": "reserved",
+            "sentence_id": 18,
+            "start": 91,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "13",
+                    "text": "Elijah E. Cummings",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 69,
+            "token": "ruling",
+            "sentence_id": 19,
+            "start": 15,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 70,
+            "token": "victory",
+            "sentence_id": 19,
+            "start": 38,
+            "end": 45,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "13",
+                    "text": "Elijah E. Cummings",
+                    "ideology": "Left",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                },
+                {
+                    "entity_id": "1",
+                    "text": "judge",
+                    "ideology": "Neutral",
+                    "sentiment": "Positive",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 71,
+            "token": "believe",
+            "sentence_id": 19,
+            "start": 82,
+            "end": 89,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 72,
+            "token": "invalidated",
+            "sentence_id": 19,
+            "start": 108,
+            "end": 119,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 73,
+            "token": "hopeful",
+            "sentence_id": 19,
+            "start": 147,
+            "end": 154,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 74,
+            "token": "do",
+            "sentence_id": 19,
+            "start": 185,
+            "end": 187,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 75,
+            "token": "approved",
+            "sentence_id": 20,
+            "start": 29,
+            "end": 37,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Right",
+            "entity": [
+                {
+                    "entity_id": "8",
+                    "text": "Republican legislators",
+                    "ideology": "Right",
+                    "sentiment": "Neutral",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Positive",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 76,
+            "token": "support",
+            "sentence_id": 20,
+            "start": 81,
+            "end": 88,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "8",
+                    "text": "Republican legislators",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 77,
+            "token": "boasted",
+            "sentence_id": 20,
+            "start": 150,
+            "end": 157,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 14,
+                    "text": "Mike Turzai",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ]
+        },
+        {
+            "e_id": 78,
+            "token": "enable",
+            "sentence_id": 20,
+            "start": 176,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 79,
+            "token": "carry",
+            "sentence_id": 20,
+            "start": 230,
+            "end": 235,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 80,
+            "token": "won",
+            "sentence_id": 21,
+            "start": 27,
+            "end": 30,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 81,
+            "token": "stop",
+            "sentence_id": 22,
+            "start": 14,
+            "end": 18,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 82,
+            "token": "predicted",
+            "sentence_id": 22,
+            "start": 58,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 83,
+            "token": "win",
+            "sentence_id": 22,
+            "start": 77,
+            "end": 80,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 84,
+            "token": "airing",
+            "sentence_id": 23,
+            "start": 61,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 85,
+            "token": "won",
+            "sentence_id": 24,
+            "start": 23,
+            "end": 26,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 86,
+            "token": "showed",
+            "sentence_id": 25,
+            "start": 56,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 87,
+            "token": "ahead",
+            "sentence_id": 25,
+            "start": 73,
+            "end": 78,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 15,
+                    "text": "Obama",
+                    "ideology": "Left",
+                    "sentiment": "Positive",
+                    "entityType": "Agent"
+                }
+            ]
+        },
+        {
+            "e_id": 88,
+            "token": "survey",
+            "sentence_id": 26,
+            "start": 2,
+            "end": 8,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 89,
+            "token": "estimated",
+            "sentence_id": 26,
+            "start": 56,
+            "end": 65,
+            "remove": false,
+            "partisanship": "Counter-Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": "2",
+                    "text": "GOP - backed voter identification law",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ]
+        },
+        {
+            "e_id": 90,
+            "token": "lacked",
+            "sentence_id": 26,
+            "start": 134,
+            "end": 140,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 91,
+            "token": "outnumber",
+            "sentence_id": 27,
+            "start": 65,
+            "end": 74,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Republicans",
+            "ideology": "Right",
+            "id": 0,
+            "events": [
+                0
+            ]
+        },
+        {
+            "text": "judge",
+            "ideology": "Neutral",
+            "id": 1,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "GOP - backed voter identification law",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                2
+            ]
+        },
+        {
+            "text": "Robert Simpson",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                5
+            ]
+        },
+        {
+            "text": "court",
+            "ideology": "Neutral",
+            "id": 4,
+            "events": [
+                14
+            ]
+        },
+        {
+            "text": "Tom Corbett",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                19
+            ]
+        },
+        {
+            "text": "other states",
+            "ideology": "Neutral",
+            "id": 6,
+            "events": [
+                21
+            ]
+        },
+        {
+            "text": "state Supreme Court",
+            "ideology": "Neutral",
+            "id": 7,
+            "events": [
+                32
+            ]
+        },
+        {
+            "text": "Republican legislators",
+            "ideology": "Right",
+            "id": 8,
+            "events": [
+                46
+            ]
+        },
+        {
+            "text": "registered Pennsylvania voters",
+            "ideology": "Neutral",
+            "id": 9,
+            "events": [
+                53
+            ]
+        },
+        {
+            "text": "Democrats",
+            "ideology": "Left",
+            "id": 10,
+            "events": [
+                54
+            ]
+        },
+        {
+            "text": "AARP",
+            "ideology": "Left",
+            "id": 11,
+            "events": [
+                58
+            ]
+        },
+        {
+            "text": "National Association for the Advancement of Colored People",
+            "ideology": "Left",
+            "id": 12,
+            "events": [
+                58
+            ]
+        },
+        {
+            "text": "Elijah E. Cummings",
+            "ideology": "Left",
+            "id": 13,
+            "events": [
+                59
+            ]
+        },
+        {
+            "text": "Mike Turzai",
+            "ideology": "Right",
+            "id": 14,
+            "events": [
+                77
+            ]
+        },
+        {
+            "text": "Obama",
+            "ideology": "Left",
+            "id": 15,
+            "events": [
+                87
+            ]
+        }
+    ]
+}

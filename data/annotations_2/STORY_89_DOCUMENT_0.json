@@ -1,0 +1,971 @@
+{
+    "title": "Michael Cohen Tape Suggests Team Trump Lied About Karen McDougal",
+    "id": "STORY_89_DOCUMENT_0",
+    "old_id": "TRIPLET_119_DOCUMENT_1",
+    "split": "train",
+    "date": "2018-07-20",
+    "topic": "politics",
+    "source": "HuffPost",
+    "media_ideology": "Left",
+    "relative_ideology": "Left",
+    "absolute_ideology": "Left",
+    "news": [
+        {
+            "id": 0,
+            "text": "A recording of then - candidate Donald Trump talking about a payment to a woman who claimed they \u2019d had an affair suggests Trump \u2019s team later lied about his knowledge of the payment ."
+        },
+        {
+            "id": 1,
+            "text": "The tape , first reported by The New York Times on Friday but not made public , reportedly features Trump speaking with his longtime attorney Michael Cohen about a payment to former Playboy model Karen McDougal two months before the 2016 presidential election ."
+        },
+        {
+            "id": 2,
+            "text": "The recording was among the documents and items the FBI seized from Cohen during a raid of his New York office earlier this year ."
+        },
+        {
+            "id": 3,
+            "text": "McDougal , who claims she began an affair with Trump in 2006 , sold her story to The National Enquirer in 2016 for $ 150,000 ."
+        },
+        {
+            "id": 4,
+            "text": "The Enquirer is owned by American Media Inc , whose CEO , David Pecker , is a friend of Trump\u2019s ."
+        },
+        {
+            "id": 5,
+            "text": "The tabloid sat on the story , preventing it from being made public in a practice known as \u201c catch and kill . \u201d"
+        },
+        {
+            "id": 6,
+            "text": "The deal effectively ensured McDougal \u2019s silence for the remainder of the presidential campaign ."
+        },
+        {
+            "id": 7,
+            "text": "Asked about the deal just days before the 2016 election , Trump campaign spokeswoman Hope Hicks told The Wall Street Journal : \u201c We have no knowledge of any of this . \u201d"
+        },
+        {
+            "id": 8,
+            "text": "Hicks also called McDougal \u2019s claim that she had an affair with Trump \u201c totally untrue . \u201d"
+        },
+        {
+            "id": 9,
+            "text": "Rudy Giuliani , another attorney for the president , confirmed the recording \u2019s existence on Friday , but dismissed its significance ."
+        },
+        {
+            "id": 10,
+            "text": "According to the Times , the Justice Department seized the documents and recordings from Cohen \u2019s office in part to investigate whether payments to women alleging affairs with the president constituted illegal campaign contributions or violations of federal campaign finance laws ."
+        },
+        {
+            "id": 11,
+            "text": "The AMI payment to McDougal could have constituted an illegal campaign contribution ."
+        },
+        {
+            "id": 12,
+            "text": "The White House did not immediately respond to HuffPost \u2019s request for comment ."
+        }
+    ],
+    "events": [
+        {
+            "e_id": 0,
+            "token": "talking",
+            "sentence_id": 0,
+            "start": 45,
+            "end": 52,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 1,
+            "token": "payment",
+            "sentence_id": 0,
+            "start": 61,
+            "end": 68,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Trump \u2019s team",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Karen McDougal",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 2,
+            "token": "claimed",
+            "sentence_id": 0,
+            "start": 84,
+            "end": 91,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 3,
+            "token": "had",
+            "sentence_id": 0,
+            "start": 100,
+            "end": 103,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 4,
+            "token": "affair",
+            "sentence_id": 0,
+            "start": 107,
+            "end": 113,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Karen McDougal",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 5,
+            "token": "suggests",
+            "sentence_id": 0,
+            "start": 114,
+            "end": 122,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 6,
+            "token": "lied",
+            "sentence_id": 0,
+            "start": 143,
+            "end": 147,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 2,
+                    "text": "Trump \u2019s team",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 7,
+            "token": "payment",
+            "sentence_id": 0,
+            "start": 175,
+            "end": 182,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 8,
+            "token": "reported",
+            "sentence_id": 1,
+            "start": 17,
+            "end": 25,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 9,
+            "token": "made",
+            "sentence_id": 1,
+            "start": 66,
+            "end": 70,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 10,
+            "token": "features",
+            "sentence_id": 1,
+            "start": 91,
+            "end": 99,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 11,
+            "token": "speaking",
+            "sentence_id": 1,
+            "start": 106,
+            "end": 114,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 12,
+            "token": "payment",
+            "sentence_id": 1,
+            "start": 164,
+            "end": 171,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 13,
+            "token": "election",
+            "sentence_id": 1,
+            "start": 251,
+            "end": 259,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 14,
+            "token": "seized",
+            "sentence_id": 2,
+            "start": 56,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 15,
+            "token": "raid",
+            "sentence_id": 2,
+            "start": 83,
+            "end": 87,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 16,
+            "token": "claims",
+            "sentence_id": 3,
+            "start": 15,
+            "end": 21,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 17,
+            "token": "began",
+            "sentence_id": 3,
+            "start": 26,
+            "end": 31,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 18,
+            "token": "affair",
+            "sentence_id": 3,
+            "start": 35,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Karen McDougal",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 19,
+            "token": "sold",
+            "sentence_id": 3,
+            "start": 63,
+            "end": 67,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 0,
+                    "text": "Karen McDougal",
+                    "ideology": "Uncertain",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "The National Enquirer",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 20,
+            "token": "sat",
+            "sentence_id": 5,
+            "start": 12,
+            "end": 15,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "The National Enquirer",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 21,
+            "token": "preventing",
+            "sentence_id": 5,
+            "start": 31,
+            "end": 41,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "The National Enquirer",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 22,
+            "token": "made",
+            "sentence_id": 5,
+            "start": 56,
+            "end": 60,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 1,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Patient"
+                },
+                {
+                    "entity_id": 3,
+                    "text": "The National Enquirer",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 23,
+            "token": "kill",
+            "sentence_id": 5,
+            "start": 103,
+            "end": 107,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 24,
+            "token": "deal",
+            "sentence_id": 6,
+            "start": 4,
+            "end": 8,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 25,
+            "token": "ensured",
+            "sentence_id": 6,
+            "start": 21,
+            "end": 28,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 3,
+                    "text": "The National Enquirer",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 0,
+                    "text": "Karen McDougal",
+                    "ideology": "Uncertain",
+                    "sentiment": "Neutral",
+                    "entityType": "Patient"
+                }
+            ],
+            "intensity": "Strong"
+        },
+        {
+            "e_id": 26,
+            "token": "Asked",
+            "sentence_id": 7,
+            "start": 0,
+            "end": 5,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 27,
+            "token": "deal",
+            "sentence_id": 7,
+            "start": 16,
+            "end": 20,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 28,
+            "token": "election",
+            "sentence_id": 7,
+            "start": 47,
+            "end": 55,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 29,
+            "token": "told",
+            "sentence_id": 7,
+            "start": 96,
+            "end": 100,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 30,
+            "token": "called",
+            "sentence_id": 8,
+            "start": 11,
+            "end": 17,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Trump campaign spokeswoman Hope Hicks",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 31,
+            "token": "claim",
+            "sentence_id": 8,
+            "start": 30,
+            "end": 35,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 32,
+            "token": "had",
+            "sentence_id": 8,
+            "start": 45,
+            "end": 48,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 33,
+            "token": "affair",
+            "sentence_id": 8,
+            "start": 52,
+            "end": 58,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 34,
+            "token": "confirmed",
+            "sentence_id": 9,
+            "start": 53,
+            "end": 62,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Rudy Giuliani , another attorney for the president",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 35,
+            "token": "existence",
+            "sentence_id": 9,
+            "start": 80,
+            "end": 89,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 36,
+            "token": "dismissed",
+            "sentence_id": 9,
+            "start": 106,
+            "end": 115,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 5,
+                    "text": "Rudy Giuliani , another attorney for the president",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 37,
+            "token": "According",
+            "sentence_id": 10,
+            "start": 0,
+            "end": 9,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 38,
+            "token": "seized",
+            "sentence_id": 10,
+            "start": 48,
+            "end": 54,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 39,
+            "token": "investigate",
+            "sentence_id": 10,
+            "start": 116,
+            "end": 127,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 40,
+            "token": "payments",
+            "sentence_id": 10,
+            "start": 136,
+            "end": 144,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 41,
+            "token": "alleging",
+            "sentence_id": 10,
+            "start": 154,
+            "end": 162,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 42,
+            "token": "constituted",
+            "sentence_id": 10,
+            "start": 190,
+            "end": 201,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "payments to women alleging affairs with the president",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 43,
+            "token": "violations",
+            "sentence_id": 10,
+            "start": 236,
+            "end": 246,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "payments to women alleging affairs with the president",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 44,
+            "token": "payment",
+            "sentence_id": 11,
+            "start": 8,
+            "end": 15,
+            "remove": true,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 45,
+            "token": "constituted",
+            "sentence_id": 11,
+            "start": 39,
+            "end": 50,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 6,
+                    "text": "payments to women alleging affairs with the president",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 46,
+            "token": "respond",
+            "sentence_id": 12,
+            "start": 36,
+            "end": 43,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 7,
+                    "text": "The White House",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                }
+            ],
+            "intensity": "Weak"
+        },
+        {
+            "e_id": 47,
+            "token": "request",
+            "sentence_id": 12,
+            "start": 59,
+            "end": 66,
+            "remove": false,
+            "partisanship": "Neutral",
+            "ideology": "Neutral",
+            "entity": []
+        },
+        {
+            "e_id": 48,
+            "token": "have",
+            "sentence_id": 7,
+            "start": 132,
+            "end": 136,
+            "remove": false,
+            "partisanship": "Partisan",
+            "ideology": "Left",
+            "entity": [
+                {
+                    "entity_id": 4,
+                    "text": "Trump campaign spokeswoman Hope Hicks",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Agent"
+                },
+                {
+                    "entity_id": 1,
+                    "text": "Donald Trump",
+                    "ideology": "Right",
+                    "sentiment": "Negative",
+                    "entityType": "Others"
+                }
+            ],
+            "intensity": "Weak"
+        }
+    ],
+    "entity_list": [
+        {
+            "text": "Karen McDougal",
+            "ideology": "Uncertain",
+            "id": 0,
+            "events": [
+                4,
+                1,
+                18,
+                19,
+                25
+            ]
+        },
+        {
+            "text": "Donald Trump",
+            "ideology": "Right",
+            "id": 1,
+            "events": [
+                4,
+                6,
+                18,
+                21,
+                20,
+                22,
+                25,
+                48,
+                30,
+                34,
+                36,
+                42,
+                43,
+                45
+            ]
+        },
+        {
+            "text": "Trump \u2019s team",
+            "ideology": "Right",
+            "id": 2,
+            "events": [
+                1,
+                6
+            ]
+        },
+        {
+            "text": "The National Enquirer",
+            "ideology": "Right",
+            "id": 3,
+            "events": [
+                19,
+                20,
+                21,
+                22,
+                25
+            ]
+        },
+        {
+            "text": "Trump campaign spokeswoman Hope Hicks",
+            "ideology": "Right",
+            "id": 4,
+            "events": [
+                48,
+                30
+            ]
+        },
+        {
+            "text": "Rudy Giuliani , another attorney for the president",
+            "ideology": "Right",
+            "id": 5,
+            "events": [
+                34,
+                36
+            ]
+        },
+        {
+            "text": "payments to women alleging affairs with the president",
+            "ideology": "Right",
+            "id": 6,
+            "events": [
+                42,
+                43,
+                45
+            ]
+        },
+        {
+            "text": "The White House",
+            "ideology": "Right",
+            "id": 7,
+            "events": [
+                46
+            ]
+        }
+    ]
+}
